@@ -1,0 +1,96 @@
+{
+    "stage_number": "P1545",
+    "date": "P585",
+    "distance": "P3157",
+    "profile": {
+        "property": "P31",
+        "Flat": "Q20646667",
+        "Hills, flat finish": "Q20646670",
+        "Hills, uphill finish": "Q20646670",
+        "Mountains, flat finish": "Q20646668",
+        "Mountains, uphill finish": "Q20646668"
+    },
+    "vert_meters": "P7297",
+    "description": "",
+    "avg_speed": "",
+    "won_how": "",
+    "key_events": "",
+    "detailed_key_events": "",
+    "number_participants": {
+        "property": "P1132",
+        "location": [{
+            "name": "num_part_start",
+            "property": "P276",
+            "id": "Q529711" 
+        },{
+            "name": "num_part_end",
+            "property": "P276",
+            "id": "Q12769393"
+        }
+    ]
+    },
+    "Winner": {
+        "property": "P1346",
+        "Team": "P54",
+        "Results": [
+        {"Rider": {
+            "property": "P2501",
+            "Position": [
+                {"First": "Q20882747"},
+                {"Second": "Q20882748"},
+                {"Third": "Q20882749"}
+            ]
+        }},
+        {"GC": {
+            "property": "P2501",
+            "Position": [{"Leader": "Q20882763"}]
+        }},
+        {"Points": {
+            "property": "P2501",
+            "Position": [{"Leader": "Q20883008"}]
+        }},
+        {"KOM": {
+            "property": "P2501",
+            "Position": [{"Leader": "Q20883213"}]
+        }},
+        {"Team": {
+            "property": "P2501",
+            "Position": [{"Leader": "Q20882922"}]
+        }}]
+    },
+    "stage_results": {
+        "Rider_PCS_ID": "P2417",
+        "Rnk": "P1352",
+        "GC": "P2321",
+        "Time_Display": "P2781",
+        "Time_Gap": "P2911",
+        "Team Wiki ID": "P54"
+    },
+    "gc_results": {
+        "Rider_PCS_ID": "P2321",
+        "Rnk": "P1352",
+        "GC": "P2321",
+        "Time_Display": "P2781",
+        "Time_Gap": "P2911",
+        "Team Wiki ID": "P54"
+    },
+    "points_results": {
+        "Rider_PCS_ID": "P3494",
+        "Rnk": "P1352",
+        "Pnt": "P1358",
+        "Team Wiki ID": "P54"
+    },
+    "kom_results": {        
+        "Rider_PCS_ID": "P4320",
+        "Rnk": "P1352",
+        "Pnt": "P1358",
+        "Team Wiki ID": "P54"
+    },
+    "teams_results": {
+        "Team Wiki ID": "P3497",
+        "Rnk": "P1352",
+        "Time_Display": "P2781",
+        "Time_Gap": "P2911"
+    },
+    "stage_pcs_id": "P2327"
+}   

@@ -1,0 +1,113 @@
+{
+    "tdf-1947": {
+        "Belgium" : {
+            "wikidata_id" : "Q121360032"
+        },
+        "Italy" : {
+            "wikidata_id" : "Q121359011"
+        },
+        "Ouest" : {
+            "wikidata_id" : "Q141105163"
+        },
+        "France" : {
+            "wikidata_id" : "Q125851291"
+        },
+        "Switzerland/Luxembourg" : {
+            "wikidata_id" : "Q121869914"
+        },
+        "Netherlands/International" : {
+            "wikidata_id" : "Q121359890"
+        },
+        "Centre/Sud-Ouest" : {
+            "wikidata_id" : "Q141105165"
+        },
+        "Sud-Est" : {
+            "wikidata_id" : "Q141105166"
+        },
+        "Île-de-France" : {
+            "wikidata_id" : "Q141105162"
+        },
+        "Nord-Est" : {
+            "wikidata_id" : "Q141105164"
+        }
+    },
+    "tdf-1948": {
+        "Belgium" : {
+            "wikidata_id" : "Q121360032"
+        },
+        "Italy" : {
+            "wikidata_id" : "Q121359011"
+        },
+        "France Ouest" : {
+            "wikidata_id" : "Q141105163"
+        },
+        "France" : {
+            "wikidata_id" : "Q125851291"
+        },
+        "Internationals" : {
+            "wikidata_id" : "Q141189521"
+        },
+        "Netherlands/Luxembourg" : {
+            "wikidata_id" : "Q121359890"
+        },
+        "Centre/Sud-Ouest" : {
+            "wikidata_id" : "Q141105165"
+        },
+        "Cadetti" : {
+            "wikidata_id" : "Q141189527"
+        },
+        "Île-de-France Nord-est" : {
+            "wikidata_id" : "Q141189525"
+        },
+        "Sud-Est" : {
+            "wikidata_id" : "Q141189528"
+        },
+        "Adelaars" : {
+            "wikidata_id" : "Q141189528"
+        },
+        "Paris" : {
+            "wikidata_id" : "Q141189527"
+        }
+    },
+    "tdf-1949": {
+        "Belgium" : {
+            "wikidata_id" : "Q121360032"
+        },
+        "Italy" : {
+            "wikidata_id" : "Q121359011"
+        },
+        "Ouest/Nord" : {
+            "wikidata_id" : "Q141189530"
+        },
+        "France" : {
+            "wikidata_id" : "Q125851291"
+        },
+        "Switzerland" : {
+            "wikidata_id" : "Q121869914"
+        },
+        "Netherlands" : {
+            "wikidata_id" : "Q121359890"
+        },
+        "Centre/Sud-Ouest" : {
+            "wikidata_id" : "Q141189531"
+        },
+        "Cadetti" : {
+            "wikidata_id" : "Q141189527"
+        },
+        "Île-de-France" : {
+            "wikidata_id" : "Q141189529"
+        },
+        "Sud-Est" : {
+            "wikidata_id" : "Q141189532"
+        },
+        "Adelaars" : {
+            "wikidata_id" : "Q141189528"
+        },
+        "Luxembourg" : {
+            "wikidata_id" : "Q126010829"
+        },
+        "Spain" : {
+            "wikidata_id" : "Q121360040"
+        }
+    }
+}
