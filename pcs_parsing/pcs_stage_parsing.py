@@ -130,128 +130,131 @@ def fetch_rider_pcs_id(rider_url):
 
     return pcs_ids[rider_url]
 
-def fetch_stage_results(html_content, tdf_year: int):
-    wanted_results = ['stage', 'gc', 'points', 'temp', 'teams']
-    results_counter = -1
+def fetch_stage_result_components(html_content, stage_number: int):
+    return ['stage'] + [res.attrs['href'].split('/')[-1].replace(f"stage-{stage_number}-", "") 
+             for res in html_content.find_all('a', class_="selectResultTab")[1:]
+             if res.attrs.get('href')]
+
+def fetch_results_table_htmls(html_content):
+    return [t.select("table.results tbody tr")
+              for t in html_content.find_all('div', class_="general")
+              if t.find('table') is not None]
+
+def fetch_stage_results(html_content, tdf_year: int, stage_number: int):
+    wanted_results = fetch_stage_result_components(html_content, stage_number)
+    tables = fetch_results_table_htmls(html_content)
     parsed_results = {}
     yellow_jersey_holder_wikidata_id = None
 
     # Target rows inside the results table
-    rows = html_content.select("table.results tbody tr")
-    for row in rows:
-        if row.find('td').get_text(strip=True) == str(1):
-            results_counter += 1
-            if results_counter >= len(wanted_results):
-                break
-            parsed_results[wanted_results[results_counter]] = []
+    for result_type, rows in zip(wanted_results, tables):
+        parsed_results[result_type] = []
+        for row in rows:
+            if "teams" in result_type:
+                # Rank & Delta
+                rnk = row.find("td", class_=None).get_text(strip=True) if row.find("td", class_=None) else None
+                delta_td = row.find("span", class_=re.compile(r"delta-")).get_text(strip=True) if row.find("span", class_=re.compile(r"delta-")) else None
 
-        if results_counter == 3:
-            continue
-        if results_counter == 4:
-            # Rank & Delta
-            rnk = row.find("td", class_=None).get_text(strip=True) if row.find("td", class_=None) else None
-            delta_td = row.find("span", class_=re.compile(r"delta-")).get_text(strip=True) if row.find("span", class_=re.compile(r"delta-")) else None
+                # Team & Class
+                team = row.find("a").get_text(strip=True) if row.find("a") else None
+                team_class = row.find_all("td", class_=None)[2].get_text(strip=True) if len(row.find_all("td", class_=None)) > 1 else None
+                team_url = row.find("a")["href"] if row.find("a") else None
+                team_wiki_id = get_team_wikidata_id(team, tdf_year)
 
-            # Team & Class
-            team = row.find("a").get_text(strip=True) if row.find("a") else None
-            team_class = row.find_all("td", class_=None)[2].get_text(strip=True) if len(row.find_all("td", class_=None)) > 1 else None
-            team_url = row.find("a")["href"] if row.find("a") else None
-            team_wiki_id = get_team_wikidata_id(team, tdf_year)
+                # Time
+                time = row.find("span", class_="hide").get_text(strip=True) if row.find("span", class_="hide") else None
 
-            # Time
-            time = row.find("span", class_="hide").get_text(strip=True) if row.find("span", class_="hide") else None
+                full_results = {
+                    "Rnk": rnk,
+                    "Delta": delta_td,
+                    "Team": team,
+                    "Class": team_class,
+                    "Time": time,
+                    "Team_URL": team_url,
+                    "Team Wiki ID": team_wiki_id,
+                }
+                            
+                parsed_results[result_type].append(full_results)
+            else:                
+                # 1. Rank & GC info
+                rnk = row.find("td", class_=None).get_text(strip=True) if row.find("td", class_=None) else None
+                gc_td = row.find("td", class_="fs11 clr666")
+                gc_rank = gc_td.get_text(strip=True) if gc_td else None
 
-            full_results = {
-                "Rnk": rnk,
-                "Delta": delta_td,
-                "Team": team,
-                "Class": team_class,
-                "Time": time,
-                "Team_URL": team_url,
-                "Team Wiki ID": team_wiki_id,
-            }
-                        
-            parsed_results[wanted_results[results_counter]].append(full_results)
-        else:                
-            # 1. Rank & GC info
-            rnk = row.find("td", class_=None).get_text(strip=True) if row.find("td", class_=None) else None
-            gc_td = row.find("td", class_="fs11 clr666")
-            gc_rank = gc_td.get_text(strip=True) if gc_td else None
+                # 2. Bib & Age
+                bib = row.find("td", class_="bibs").get_text(strip=True) if row.find("td", class_="bibs") else None
+                age = row.find("td", class_="age").get_text(strip=True) if row.find("td", class_="age") else None
 
-            # 2. Bib & Age
-            bib = row.find("td", class_="bibs").get_text(strip=True) if row.find("td", class_="bibs") else None
-            age = row.find("td", class_="age").get_text(strip=True) if row.find("td", class_="age") else None
+                # 3. Specialty
+                specialty_span = row.select_one("td.specialty span")
+                specialty = specialty_span.get_text(strip=True) if specialty_span else None
 
-            # 3. Specialty
-            specialty_span = row.select_one("td.specialty span")
-            specialty = specialty_span.get_text(strip=True) if specialty_span else None
+                # 4. Rider Name & Country
+                rider_a = row.select_one("td.ridername a")
+                last_name = rider_a.find("span", class_="uppercase").get_text(strip=True)
+                first_name = rider_a.get_text(strip=True).replace(last_name, "").strip()
+                # Reconstruct as "Firstname Lastname" with proper space
+                rider_name = f"{first_name} {last_name}"
+                rider_url = rider_a["href"] if rider_a else None
+                rider_pcs_id = fetch_rider_pcs_id(rider_url) if rider_url else None
+                rider_wikidata_id = get_rider_wikidata_id(rider_pcs_id)
+                if row.find("span", class_=['svg_shirt', 'mx4'], attrs={'data-color': 'yellow'}) is not None:
+                    yellow_jersey_holder_wikidata_id = rider_wikidata_id
 
-            # 4. Rider Name & Country
-            rider_a = row.select_one("td.ridername a")
-            last_name = rider_a.find("span", class_="uppercase").get_text(strip=True)
-            first_name = rider_a.get_text(strip=True).replace(last_name, "").strip()
-            # Reconstruct as "Firstname Lastname" with proper space
-            rider_name = f"{first_name} {last_name}"
-            rider_url = rider_a["href"] if rider_a else None
-            rider_pcs_id = fetch_rider_pcs_id(rider_url) if rider_url else None
-            rider_wikidata_id = get_rider_wikidata_id(rider_pcs_id)
-            if row.find("span", class_=['svg_shirt', 'mx4'], attrs={'data-color': 'yellow'}) is not None:
-                yellow_jersey_holder_wikidata_id = rider_wikidata_id
+                flag_span = row.select_one("td.ridername span.flag")
+                # Country code from flag class (e.g., 'flag fr' -> 'fr')
+                country = flag_span["class"][-1].upper() if flag_span and len(flag_span["class"]) > 1 else None
 
-            flag_span = row.select_one("td.ridername span.flag")
-            # Country code from flag class (e.g., 'flag fr' -> 'fr')
-            country = flag_span["class"][-1].upper() if flag_span and len(flag_span["class"]) > 1 else None
+                # 5. Team
+                team_a = row.select_one("td.cu600 a")
+                team_name = team_a.get_text(strip=True) if team_a else None
+                team_wiki_id = get_team_wikidata_id(team_name, tdf_year)
 
-            # 5. Team
-            team_a = row.select_one("td.cu600 a")
-            team_name = team_a.get_text(strip=True) if team_a else None
-            team_wiki_id = get_team_wikidata_id(team_name, tdf_year)
+                # 6. Bonus
+                bonis = row.find("td", class_="ar cu600").get_text(strip=True) if row.find("td", class_="ar cu600") else None
 
-            # 6. Bonus
-            bonis = row.find("td", class_="ar cu600").get_text(strip=True) if row.find("td", class_="ar cu600") else None
+                # 7. Time Handling
+                time_td = row.find("td", class_="time ar")
+                time_display = time_td.find("font").get_text(strip=True) if time_td and time_td.find("font") else None
 
-            # 7. Time Handling
-            time_td = row.find("td", class_="time ar")
-            time_display = time_td.find("font").get_text(strip=True) if time_td and time_td.find("font") else None
+                # Extra handling
+                pnt = row.find_all("td", attrs={"class": None})[1].get_text(strip=True) if result_type in ['points', 'kom'] else None
+                if row.find("span", class_=re.compile(r"delta-")) is not None:
+                    delta_pos = row.find("span", class_=re.compile(r"delta-")).get_text(strip=True) if result_type in ['gc', 'points', 'kom'] else None
+                else:
+                    delta_pos = "-"
 
-            # Extra handling
-            pnt = row.find_all("td", attrs={"class": None})[1].get_text(strip=True) if results_counter == 2 else None
-            if row.find("span", class_=re.compile(r"delta-")) is not None:
-                delta_pos = row.find("span", class_=re.compile(r"delta-")).get_text(strip=True) if results_counter in [1,2] else None
-            else:
-                delta_pos = "-"
+                full_results = {
+                    "Rnk": rnk,
+                    "Rnk_Delta": delta_pos,
+                    "GC": gc_rank,
+                    "BIB": bib,
+                    "Specialty": specialty,
+                    "Age": age,
+                    "Rider": rider_name,
+                    "Country": country,
+                    "Team": team_name,
+                    "Team Wiki ID": team_wiki_id,
+                    "Bonus": bonis,
+                    "Pnt": pnt,
+                    "Time_Display": time_display,
+                    "Rider_URL": rider_url,
+                    "Rider_PCS_ID": rider_pcs_id,
+                    "Rider_Wikidata_ID": rider_wikidata_id
+                }
 
-            full_results = {
-                "Rnk": rnk,
-                "Rnk_Delta": delta_pos,
-                "GC": gc_rank,
-                "BIB": bib,
-                "Specialty": specialty,
-                "Age": age,
-                "Rider": rider_name,
-                "Country": country,
-                "Team": team_name,
-                "Team Wiki ID": team_wiki_id,
-                "Bonus": bonis,
-                "Pnt": pnt,
-                "Time_Display": time_display,
-                "Rider_URL": rider_url,
-                "Rider_PCS_ID": rider_pcs_id,
-                "Rider_Wikidata_ID": rider_wikidata_id
-            }
+                if result_type == 'stage':
+                    full_results.pop("Pnt")
+                    full_results.pop("Rnk_Delta")
+                if result_type == 'gc':
+                    full_results.pop("GC")
+                    full_results.pop("Pnt")
+                if result_type in ['teams', 'kom', 'points']:
+                    full_results.pop("GC")
+                    full_results.pop("Bonus")
+                    full_results.pop("Time_Display")
 
-            if results_counter == 0:
-                full_results.pop("Pnt")
-                full_results.pop("Rnk_Delta")
-            if results_counter == 1:
-                full_results.pop("GC")
-                full_results.pop("Pnt")
-            if results_counter == 2:
-                full_results.pop("GC")
-                full_results.pop("Bonus")
-                full_results.pop("Time_Display")
-
-            parsed_results[wanted_results[results_counter]].append(full_results)
+                parsed_results[result_type].append(full_results)
 
     # Convert to DataFrame
     df_results = {}
@@ -260,20 +263,26 @@ def fetch_stage_results(html_content, tdf_year: int):
 
     return df_results, yellow_jersey_holder_wikidata_id
 
-
 def fetch_full_stage_data(stage_url, stage_number, tdf_year):
     html_content = get_bs_html(stage_url)
-    stage_leaderboards, yellow_jersey_holder_wikidata_id = fetch_stage_results(html_content, tdf_year)
+    stage_leaderboards, yellow_jersey_holder_wikidata_id = fetch_stage_results(html_content, tdf_year, stage_number)
 
     stage_metadata = fetch_stage_metadata(html_content, stage_number, tdf_year)
     stage_metadata['yellow_jersey_holder_wikidata_id'] = yellow_jersey_holder_wikidata_id
     
     stage_data = {
             'stage_general_info': stage_metadata,
-            'stage_results': stage_leaderboards['stage'],
-            'gc_results': stage_leaderboards['gc'],
-            'points_results': stage_leaderboards['points'],
-            'teams_results': stage_leaderboards['teams'],
-            }
+            'stage_results': stage_leaderboards['stage']
+    }
+
+    if 'gc' in stage_leaderboards:
+        stage_data['gc_results'] = stage_leaderboards['gc']
+    if 'points' in stage_leaderboards:
+        stage_data['points_results'] = stage_leaderboards['points']
+    if 'kom' in stage_leaderboards:
+        stage_data['kom_results'] = stage_leaderboards['kom']
+    if 'teams' in stage_leaderboards:
+        stage_data['teams_results'] = stage_leaderboards['teams']
+
 
     return stage_data

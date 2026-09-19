@@ -5,12 +5,15 @@ from datetime import datetime
 from typing import Tuple
 
 import pandas as pd
+from tqdm import tqdm
 from wikibaseintegrator import WikibaseIntegrator
 from wikibaseintegrator.datatypes import Item, Quantity, String, Time
 from wikibaseintegrator.wbi_config import config
 from wikibaseintegrator.wbi_login import Login
 from wikibaseintegrator.wbi_enums import ActionIfExists
 from wikibaseintegrator.models import Qualifiers
+
+from pcs_parsing.pcs_stage_parsing import fetch_full_stage_data, create_stage_fetch_urls
 
 QUANTITY_PROPERTIES = {'P1132', 'P1352', 'P1358', 'P2781', 'P2911', 'P3157', 'P7297'}
 DATE_PROPERTIES = {'P585'}
@@ -31,7 +34,8 @@ login_instance = Login(user=WDUSER, password=WDPASS)
 wbi = WikibaseIntegrator(login=login_instance)
 
 def time_to_seconds(time_str: str) -> int:
-    parts = list(map(int, time_str.split(':')))
+    cleaned_time = re.sub(r"[^0-9:]", "", time_str)
+    parts = list(map(int, cleaned_time.split(':')))
     if len(parts) == 3:       # HH:MM:SS
         return parts[0] * 3600 + parts[1] * 60 + parts[2]
     elif len(parts) == 2:     # MM:SS
@@ -235,13 +239,17 @@ def upload_result_table(entity,
             df_type != 'gc_results'):
             qualifier_str.append((JERSEY_IDS['Property'], JERSEY_IDS['Jerseys']['Yellow']))
 
-        entity = upload_add_property(
-            entity,
-            property_id=main_prop,
-            upload_item_property=item_property,
-            qualifier_str=qualifier_str,
-            qualifier_property=qualifier_prop
-        )
+        try:
+            entity = upload_add_property(
+                entity,
+                property_id=main_prop,
+                upload_item_property=item_property,
+                qualifier_str=qualifier_str,
+                qualifier_property=qualifier_prop
+            )
+        except ValueError as e:
+            print(f"Error uploading property {list(mapping)[0]} for item entry {row}: {e}")
+            continue
     return entity
 
 def update_stage_properties(stage_id: str, stage_results: dict):
@@ -292,7 +300,7 @@ def update_stage_properties(stage_id: str, stage_results: dict):
             }
         }
     if kom_rankings is not None:
-        winners["GC"] = {
+        winners["KOM"] = {
             "Leader": {
                 "Leader": kom_rankings.iloc[0]['Rider_Wikidata_ID'],
                 "Team": kom_rankings.iloc[0]['Team Wiki ID']
@@ -364,6 +372,25 @@ def update_stage_properties(stage_id: str, stage_results: dict):
 def upload_entity(entity, stage_id: str):
     summary = f"Updated {stage_id} claim via script"
     entity.write(login=login_instance, summary=summary, maxlag=30)
+
+def upload_stage(tdf_year: int, stage_number: int):
+    stage_links = create_stage_fetch_urls(tdf_year)
+
+    results = fetch_full_stage_data(stage_links[stage_number - 1], stage_number, tdf_year)
+    stage_wikidata_id = results['stage_general_info']['stage_wikidata_id']
+    
+    entity = update_stage_properties(stage_wikidata_id, results)
+    upload_entity(entity, stage_wikidata_id)
+
+def upload_full_tdf(tdf_year: int):
+    stage_links = create_stage_fetch_urls(tdf_year)
+
+    for index, stage_link in enumerate(tqdm(stage_links)):
+        results = fetch_full_stage_data(stage_link, index+1, tdf_year)
+        stage_wikidata_id = results['stage_general_info']['stage_wikidata_id']
+
+        entity = update_stage_properties(stage_wikidata_id, results)
+        upload_entity(entity, stage_wikidata_id)
 
 
 
