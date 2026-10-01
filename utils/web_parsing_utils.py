@@ -6,8 +6,8 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
-def get_bs_html(url):
-    response = requests.get(url, headers=HEADERS)
+def get_bs_html(url, headers=HEADERS):
+    response = requests.get(url, headers=headers)
     if response.status_code == 200:
         return BeautifulSoup(response.text, "lxml")
     else:
