@@ -1,12 +1,15 @@
 import os
+from typing import Literal
 import tqdm
 from typesafe_sdk import TypeSafeClient, Noul
 
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 OPENROUTER_BASE_URL = "https://openrouter.ai/api"
 
-article_paths = 'gallica_analysis/full_articles/{year}/'
-clean_article_paths = 'gallica_analysis/clean_articles/{year}/'
+gemini_article_paths = 'gallica_analysis/full_articles_gemini/{year}/'
+gemini_clean_article_paths = 'gallica_analysis/clean_articles_gemini/{year}/'
+cohere_article_paths = 'gallica_analysis/full_articles_cohere/{year}/'
+cohere_clean_article_paths = 'gallica_analysis/clean_articles_cohere/{year}/'
 
 def clean_article(article_text: str, year: int) -> str:
     client = TypeSafeClient(
@@ -14,7 +17,7 @@ def clean_article(article_text: str, year: int) -> str:
         base_url=OPENROUTER_BASE_URL
     )
 
-    article_splits = article_text.split("---")
+    article_splits = article_text.split("-----")
     cleaned_article = ""
 
 
@@ -27,13 +30,17 @@ def clean_article(article_text: str, year: int) -> str:
         )
 
         if response.answers['cleaned_article'].noul >= 0.5:
-            cleaned_article += split + "---"
+            cleaned_article += "Section 1 : \n\n" + split + "-----"
     
     return cleaned_article
 
-def clean_tdf_articles(year: int, overwrite: bool):
-    article_dir = article_paths.format(year=year)
-    clean_article_dir = clean_article_paths.format(year=year)
+def clean_tdf_articles(year: int, parsing_tool: Literal['Cohere', 'Gemini'], overwrite: bool, ):
+    if parsing_tool == 'Cohere':
+        article_dir = cohere_article_paths.format(year=year)
+        clean_article_dir = cohere_clean_article_paths.format(year=year)
+    else:
+        article_dir = gemini_article_paths.format(year=year)
+        clean_article_dir = gemini_clean_article_paths.format(year=year)
 
     for filename in tqdm.tqdm(os.listdir(article_dir), desc=f"Processing articles for {year}"):
         if filename.endswith(".txt"):

@@ -220,3 +220,4 @@ __marimo__/
 # Cache and extracted files
 *.json
 *.txt
+!requirements.txt
