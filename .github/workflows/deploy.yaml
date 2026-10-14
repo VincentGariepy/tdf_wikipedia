@@ -32,7 +32,6 @@ jobs:
         with:
           path: './description_website/'
 
-       Berkman-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
