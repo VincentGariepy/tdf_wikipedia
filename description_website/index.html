@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Year Dashboard</title>
+    <style>
+        body { font-family: system-ui, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 20px; }
+        
+        /* 1. Year Row Styles */
+        .year-menu { display: flex; gap: 15px; margin-bottom: 20px; background: #333; padding: 10px; border-radius: 6px; }
+        .year-button { background: none; border: none; color: #aaa; font-size: 18px; font-weight: bold; cursor: pointer; padding: 5px 15px; border-radius: 4px; }
+        .year-button:hover { color: #fff; }
+        .year-button.active { background: #007bff; color: #fff; }
+
+        /* 2. Document Tab Row Styles */
+        .tab-menu { display: flex; gap: 8px; border-bottom: 2px solid #ccc; padding-bottom: 0; overflow-x: auto; }
+        .tab-button { padding: 10px 15px; border: none; background: none; cursor: pointer; white-space: nowrap; font-weight: bold; color: #666; }
+        .tab-button:hover { background: #eee; }
+        .tab-button.active { color: #007bff; border-bottom: 3px solid #007bff; }
+        
+        /* 3. Content Area */
+        .content-panel { padding: 20px 0; line-height: 1.6; min-height: 200px; }
+    </style>
+</head>
+<body>
+
+    <h1>Descriptions détaillées du Tour de France</h1>
+
+    <!-- STEP 1: Top Menu (Years) -->
+    <div class="year-menu">
+        <button class="year-button active" onclick="switchYear(event, '1948')">1947</button>
+    </div>
+
+    <!-- STEP 2: Second Menu (File Tabs) -->
+    <div class="tab-menu">
+        <!-- Note: We just pass the exact file name here -->
+        <button class="tab-button active" onclick="switchTab(event, 'stage_1.html')">Étape 1</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_2.html')">Étape 2</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_3.html')">Étape 3</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_4.html')">Étape 4</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_5.html')">Étape 5</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_6.html')">Étape 6</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_7.html')">Étape 7</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_8.html')">Étape 8</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_9.html')">Étape 9</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_10.html')">Étape 10</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_11.html')">Étape 11</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_12.html')">Étape 12</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_13.html')">Étape 13</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_14.html')">Étape 14</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_15.html')">Étape 15</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_16.html')">Étape 16</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_17.html')">Étape 17</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_18.html')">Étape 18</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_19.html')">Étape 19</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_20.html')">Étape 20</button>
+        <button class="tab-button" onclick="switchTab(event, 'stage_21.html')">Étape 21</button>
+    </div>
+
+    <!-- STEP 3: Single Content Container -->
+    <div id="content-area" class="content-panel">Loading...</div>
+
+    <!-- STEP 4: Smart Fetch Logic -->
+    <script>
+        // Track the current user selections globally
+        let currentYear = '2026';
+        let currentFile = 'page1.html';
+
+        // Load the initial view automatically when page loads
+        window.addEventListener('DOMContentLoaded', () => {
+            fetchContent();
+        });
+
+        // Triggered when a year button is clicked
+        function switchYear(event, year) {
+            currentYear = year;
+            
+            // UI Toggle for year buttons
+            document.querySelectorAll('.year-button').forEach(btn => btn.classList.remove('active'));
+            event.currentTarget.classList.add('active');
+            
+            // Fetch updated path
+            fetchContent();
+        }
+
+        // Triggered when a file tab button is clicked
+        function switchTab(event, filename) {
+            currentFile = filename;
+            
+            // UI Toggle for file tabs
+            document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+            event.currentTarget.classList.add('active');
+            
+            // Fetch updated path
+            fetchContent();
+        }
+
+        // The core fetch machine
+        function fetchContent() {
+            const container = document.getElementById('content-area');
+            container.innerHTML = `<em>Loading ${currentYear} data...</em>`;
+            
+            // Build path seamlessly dynamically: e.g., "../2025/page2.html"
+            const finalPath = `../gallica_analysis/detailed_descriptions_gemini/${currentYear}/${currentFile}`;
+            
+            fetch(finalPath)
+                .then(response => {
+                    if (!response.ok) throw new Error("File not found structural path error");
+                    return response.text();
+                })
+                .then(htmlData => {
+                    container.innerHTML = htmlData;
+                })
+                .catch(err => {
+                    container.innerHTML = `<span style='color:red;'>⚠️ Content not found for Year ${currentYear} (${currentFile}).</span>`;
+                    console.error(err);
+                });
+        }
+    </script>
+</body>
+</html>
