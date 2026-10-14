@@ -48,14 +48,14 @@ h1 {
 /* 2. Document Tab Row Styles */
 .tab-menu { 
     display: flex; 
-    gap: 8px; 
+    gap: 5px; 
     border-bottom: 2px solid #ccc; 
     padding: 0 20px; 
     background: #ffffff;
     overflow-x: auto; 
 }
 .tab-button { 
-    padding: 14px 18px; 
+    padding: 12px 12px; 
     border: none; 
     background: none; 
     cursor: pointer; 
