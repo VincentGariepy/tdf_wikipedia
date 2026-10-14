@@ -3,25 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Multi-Year Dashboard</title>
-    <style>
-        body { font-family: system-ui, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 20px; }
-        
-        /* 1. Year Row Styles */
-        .year-menu { display: flex; gap: 15px; margin-bottom: 20px; background: #333; padding: 10px; border-radius: 6px; }
-        .year-button { background: none; border: none; color: #aaa; font-size: 18px; font-weight: bold; cursor: pointer; padding: 5px 15px; border-radius: 4px; }
-        .year-button:hover { color: #fff; }
-        .year-button.active { background: #007bff; color: #fff; }
-
-        /* 2. Document Tab Row Styles */
-        .tab-menu { display: flex; gap: 8px; border-bottom: 2px solid #ccc; padding-bottom: 0; overflow-x: auto; }
-        .tab-button { padding: 10px 15px; border: none; background: none; cursor: pointer; white-space: nowrap; font-weight: bold; color: #666; }
-        .tab-button:hover { background: #eee; }
-        .tab-button.active { color: #007bff; border-bottom: 3px solid #007bff; }
-        
-        /* 3. Content Area */
-        .content-panel { padding: 20px 0; line-height: 1.6; min-height: 200px; }
-    </style>
+    <title>Descriptions du Tour de France</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="tour-de-france-logo.png">
 </head>
 <body>
 
@@ -29,7 +13,7 @@
 
     <!-- STEP 1: Top Menu (Years) -->
     <div class="year-menu">
-        <button class="year-button active" onclick="switchYear(event, '1948')">1947</button>
+        <button class="year-button active" onclick="switchYear(event, '1947')">1947</button>
     </div>
 
     <!-- STEP 2: Second Menu (File Tabs) -->
@@ -64,7 +48,7 @@
     <!-- STEP 4: Smart Fetch Logic -->
     <script>
         // Track the current user selections globally
-        let currentYear = '2026';
+        let currentYear = '1947';
         let currentFile = 'page1.html';
 
         // Load the initial view automatically when page loads
