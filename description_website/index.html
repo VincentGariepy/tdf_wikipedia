@@ -182,7 +182,7 @@
                         Article de L'Équipe du ${formatArticleDate(articleFilename)}
                         <a class="gallica-link" id="gallica-article-link" href="#" target="_blank" rel="noopener noreferrer" hidden>Voir sur Gallica</a>
                     </h2>
-                    <pre class="column-content article-content" id="article-content"></pre>
+                    <div class="column-content article-content" id="article-content"></div>
                 </section>`;
 
             const gallicaLink = document.getElementById('gallica-article-link');
@@ -198,22 +198,131 @@
                 console.error(arkCacheResult.reason);
             }
 
+            const articleContent = document.getElementById('article-content');
+            if (articleResult.status === 'fulfilled') {
+                renderArticleSections(articleContent, articleResult.value);
+            } else {
+                articleContent.textContent = 'The cleaned Gemini article could not be loaded.';
+                articleContent.classList.add('load-error');
+                console.error(articleResult.reason);
+            }
+
             if (descriptionResult.status === 'fulfilled') {
-                document.getElementById('description-content').innerHTML = descriptionResult.value;
+                const descriptionContent = document.getElementById('description-content');
+                descriptionContent.innerHTML = descriptionResult.value;
+                linkDescriptionCitations(descriptionContent, articleContent);
             } else {
                 document.getElementById('description-content').innerHTML =
                     '<p class="load-error">The detailed description could not be loaded.</p>';
                 console.error(descriptionResult.reason);
             }
+        }
 
-            if (articleResult.status === 'fulfilled') {
-                document.getElementById('article-content').textContent = articleResult.value;
-            } else {
-                document.getElementById('article-content').textContent =
-                    'The cleaned Gemini article could not be loaded.';
-                document.getElementById('article-content').classList.add('load-error');
-                console.error(articleResult.reason);
+        function renderArticleSections(articleContent, articleText) {
+            const sectionPattern = /^[ \t\r]*Section[ \t]+(\d+)[ \t\r]*:[ \t\r]*$/gim;
+            const matches = [...articleText.matchAll(sectionPattern)];
+            const sectionsByNumber = new Map();
+
+            if (matches.length === 0) {
+                const articleTextBlock = document.createElement('pre');
+                articleTextBlock.textContent = articleText;
+                articleContent.append(articleTextBlock);
+                return sectionsByNumber;
             }
+
+            matches.forEach((match, index) => {
+                const sectionNumber = match[1];
+                const contentStart = match.index + match[0].length;
+                const contentEnd = matches[index + 1]?.index ?? articleText.length;
+                const sectionText = articleText
+                    .slice(contentStart, contentEnd)
+                    .replace(/^\r?\n/, '')
+                    .trimEnd();
+                const section = document.createElement('section');
+                const heading = document.createElement('h3');
+                const textBlock = document.createElement('pre');
+
+                section.id = `article-section-${sectionNumber}`;
+                section.className = 'article-section';
+                section.tabIndex = -1;
+                heading.textContent = `Section ${sectionNumber}`;
+                textBlock.textContent = sectionText;
+                section.append(heading, textBlock);
+                articleContent.append(section);
+
+                if (!sectionsByNumber.has(sectionNumber)) {
+                    sectionsByNumber.set(sectionNumber, section);
+                }
+            });
+
+            return sectionsByNumber;
+        }
+
+        function linkDescriptionCitations(descriptionContent, articleContent) {
+            const sectionsByNumber = new Map(
+                [...articleContent.querySelectorAll('.article-section')].map(section => [
+                    section.id.slice('article-section-'.length),
+                    section
+                ])
+            );
+            const citationPattern = /\[(\s*\d+(?:\s*,\s*\d+)*\s*)\]/g;
+            const textNodes = [];
+            const walker = document.createTreeWalker(descriptionContent, NodeFilter.SHOW_TEXT);
+
+            while (walker.nextNode()) {
+                textNodes.push(walker.currentNode);
+            }
+
+            for (const textNode of textNodes) {
+                if (!textNode.textContent) continue;
+                citationPattern.lastIndex = 0;
+                if (!citationPattern.test(textNode.textContent)) continue;
+                citationPattern.lastIndex = 0;
+
+                const fragment = document.createDocumentFragment();
+                let cursor = 0;
+                let citationMatch;
+
+                while ((citationMatch = citationPattern.exec(textNode.textContent))) {
+                    fragment.append(textNode.textContent.slice(cursor, citationMatch.index), '[');
+                    const citationParts = citationMatch[1].match(/\d+|[,\s]+/g) ?? [];
+                    for (const part of citationParts) {
+                        if (/^\d+$/.test(part) && sectionsByNumber.has(part)) {
+                            const link = document.createElement('a');
+                            link.className = 'article-citation';
+                            link.href = `#article-section-${part}`;
+                            link.textContent = part;
+                            fragment.append(link);
+                        } else {
+                            fragment.append(part);
+                        }
+                    }
+                    fragment.append(']');
+                    cursor = citationPattern.lastIndex;
+                }
+
+                fragment.append(textNode.textContent.slice(cursor));
+                textNode.replaceWith(fragment);
+            }
+
+            descriptionContent.addEventListener('click', event => {
+                const link = event.target instanceof Element
+                    ? event.target.closest('a.article-citation')
+                    : null;
+                if (!link) return;
+
+                const section = sectionsByNumber.get(link.textContent);
+                if (!section) return;
+
+                event.preventDefault();
+                articleContent.scrollTo({
+                    top: articleContent.scrollTop
+                        + section.getBoundingClientRect().top
+                        - articleContent.getBoundingClientRect().top,
+                    behavior: 'smooth'
+                });
+                section.focus({ preventScroll: true });
+            });
         }
     </script>
 </body>

@@ -116,6 +116,30 @@ h1 {
     font: inherit;
 }
 
+.article-section + .article-section {
+    margin-top: 24px;
+    padding-top: 16px;
+    border-top: 1px solid #eee;
+}
+
+.article-section h3 {
+    margin: 0 0 8px;
+    font-size: 16px;
+}
+
+.article-section pre,
+.article-content > pre {
+    margin: 0;
+    white-space: inherit;
+    font: inherit;
+}
+
+.article-citation {
+    color: #007bff;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
 .load-error {
     color: #b42318;
 }
