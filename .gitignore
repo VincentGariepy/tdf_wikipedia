@@ -221,3 +221,5 @@ __marimo__/
 *.json
 *.txt
 !requirements.txt
+!gallica_analysis/clean_articles_gemini/**/*.txt
+!gallica_analysis/cache/equipe_ark_ids.json

@@ -28,9 +28,11 @@ jobs:
 
       - name: Prepare Pages Artifact
         run: |
-          mkdir -p _site/gallica_analysis
+          mkdir -p _site/gallica_analysis/cache
           cp -R description_website/. _site/
           cp -R gallica_analysis/detailed_descriptions_gemini _site/gallica_analysis/
+          cp -R gallica_analysis/clean_articles_gemini _site/gallica_analysis/
+          cp gallica_analysis/cache/equipe_ark_ids.json _site/gallica_analysis/cache/
 
       - name: Upload Website Artifact
         uses: actions/upload-pages-artifact@v3
