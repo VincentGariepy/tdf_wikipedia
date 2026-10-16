@@ -84,14 +84,20 @@
             const container = document.getElementById('content-area');
             container.innerHTML = `<em>Loading ${currentYear} data...</em>`;
             
-            // Build path seamlessly dynamically: e.g., "../2025/page2.html"
-            const finalPath = `../gallica_analysis/detailed_descriptions_gemini/${currentYear}/${currentFile}`;
-            
-            fetch(finalPath)
-                .then(response => {
-                    if (!response.ok) throw new Error("File not found structural path error");
-                    return response.text();
-                })
+            // The first path supports the repository layout used locally; the
+            // second supports the flattened layout in the GitHub Pages artifact.
+            const paths = [
+                `../gallica_analysis/detailed_descriptions_gemini/${currentYear}/${currentFile}`,
+                `./gallica_analysis/detailed_descriptions_gemini/${currentYear}/${currentFile}`
+            ];
+
+            const loadFromPath = index => fetch(paths[index]).then(response => {
+                if (response.ok) return response.text();
+                if (index + 1 < paths.length) return loadFromPath(index + 1);
+                throw new Error(`Unable to load ${paths[index]} (HTTP ${response.status})`);
+            });
+
+            loadFromPath(0)
                 .then(htmlData => {
                     container.innerHTML = htmlData;
                 })
