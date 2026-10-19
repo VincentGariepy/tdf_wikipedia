@@ -109,7 +109,7 @@ def create_stage_summary(year: int, stage_num: int, article_text: str):
         input=[
             {"type": "text", 
                 "text": f"""The following text is multiple articles from the L'Équipe Journal, regarding the Tour de France cycling,
-                            specifically the {year} edition, stage {stage_num}. Your task as a journalist expert is to write a detailed description of the race.
+                            specifically the {year} edition, stage {stage_num}. Your task as a encyclopedic expert is to write a detailed factual description of the race.
                             
                             Here is an example of a previously written summary of stage 1 of the 1952 Tour de France, to give you an idea of the level of detail and style expected:
                             
@@ -120,7 +120,8 @@ def create_stage_summary(year: int, stage_num: int, article_text: str):
                             {article_text}
 
                             Please write the detailed description in french and make sure to use "[n]" to link to the section used to write different paragraphs or sentences of the paragraph.
-                            Make sure to follow the same writing style and as the example provided and format your text in html.
+                            Make sure to follow the same writing style and as the example provided and format your text in html. Since the goal is to write a description for an encclopedia article,
+                            you must remain very neutral and factual, not journalistic.
                             """}
         ]
     )
