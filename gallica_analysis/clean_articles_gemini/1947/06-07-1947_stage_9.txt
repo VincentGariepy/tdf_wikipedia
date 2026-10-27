@@ -2,6 +2,8 @@
 
 Section 5 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=34e Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f1}}|accès url=libre}}.</ref>
+
 34e TOUR DE FRANCE
 4.640 KM.
 25 JUIN - 20 JUILLET
@@ -12,6 +14,8 @@ UNE EPREUVE L'EQUIPE - Le Parisien libéré
 -----
 
 Section 6 : 
+
+Source : <ref name=":2">{{Article|langue=fr|titre=Une bataille magistrale - une poursuite de 130 kilomètres|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f1}}|accès url=libre}}.</ref>
 
 UNE BATAILLE MAGISTRALE - UNE POURSUITE DE 130 KILOMETRES
 
@@ -30,6 +34,8 @@ une magnifique occasion d'améliorer son classement
 -----
 
 Section 7 : 
+
+Source : <ref name=":3">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Les faits et les hommes : Vietto a su bondir... sur la double chance|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f1}}|accès url=libre}}.</ref>
 
 LES FAITS ET LES HOMMES
 
@@ -59,6 +65,8 @@ L'excellent Allos de Vietto situe parfaitement la valeur de sa performance. Tout
 
 Section 8 : 
 
+Source : <ref name=":4">{{Article|langue=fr|auteur1=Claude Tillet|titre=Vietto et Lazaridès se retrouvent providentiellement, entre Vars et Allos et gagnent à Digne|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f1}}|accès url=libre}}.</ref>
+
 VIETTO ET LAZARIDES SE RETROUVENT PROVIDENTIELLEMENT, ENTRE VARS ET ALLOS ET GAGNENT A DIGNE
 
 La boucle de Sospel verra-t-elle, aujourd'hui la première offensive contre Vietto ?
@@ -79,6 +87,8 @@ Une échappée à deux, aussi loin du but, pose presque toujours un certain nomb
 
 Section 9 : 
 
+Source : <ref name=":5">{{Article|langue=fr|titre=Ne poussez pas !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f1}}|accès url=libre}}.</ref>
+
 NE POUSSEZ PAS !
 Sportifs ! Quand vous serrez, dans les montées des cols, un routier en difficulté, NE LE POUSSEZ PAS !
 Le règlement le défend et, en lui procurant une aide passagère peu importante, vous lui valez un prix judicie considérable.
@@ -87,6 +97,8 @@ S'il persiste en non cette poussette, des amendes et des pénalisations sévère
 -----
 
 Section 10 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=Où en sont les leaders de chaque équipe ?|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f1}}|accès url=libre}}.</ref>
 
 Où en sont les leaders de chaque équipe ?
 H. m. s.
@@ -104,6 +116,8 @@ Nord-Est.. 31. Deprez ........ 2 24 23
 -----
 
 Section 11 : 
+
+Source : <ref name=":7">{{Article|langue=fr|titre=Classement de la 9e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT de la 9e étape
 Briançon - Digne (217 km.)
@@ -132,6 +146,8 @@ CE QUI LEUR RESTE A FAIRE : 12 étapes et 2.612 kilomètres
 
 Section 12 : 
 
+Source : <ref name=":8">{{Article|langue=fr|titre=Petit grimpeur, grandiose paysage|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f1}}|accès url=libre}}.</ref>
+
 PETIT GRIMPEUR, GRANDIOSE PAYSAGE
 DIGNE. - Désemparoné sur crevaison, Robic grauit seul les pentes d'Allos. Dans un décor grandiose, le petit grimpeur breton paraît bien minuscule ; mais sa volonté est énorme et il réussira quand même à vaincre la malchance persistante.
 (Bélinogramme spécial L'EQUIPE)
@@ -140,6 +156,8 @@ DIGNE. - Désemparoné sur crevaison, Robic grauit seul les pentes d'Allos. Dans
 
 Section 13 : 
 
+Source : <ref name=":9">{{Article|langue=fr|titre=Tel père... tel fils...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f1}}|accès url=libre}}.</ref>
+
 TEL PERE... TEL FILS...
 DIGNE. - Même position, même coup de pédale, mains en haut du guidon, aux cocottes de freins, Vietto (le « père »...) et Lazaridès (le « fils »...) franchissent ensemble le sommet du col d'Allos et s'apprêtent à dévaler vers Digne. Quelle différence entre les deux hommes si ce n'est qu' « Apo », en plein effort, étudie encore la position ramassée de son maître et calque son rythme sur le sien...
 - (Bélinogramme spécial L'EQUIPE) -
@@ -147,6 +165,8 @@ DIGNE. - Même position, même coup de pédale, mains en haut du guidon, aux coc
 -----
 
 Section 20 : 
+
+Source : <ref name=":10">{{Article|langue=fr|titre=Si vous avez aimé L'Atlantide et Mlle de La Ferté vous aimerez Jamrose le nouveau Pierre Benoit|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
 
 Si vous avez aimé L'ATLANTIDE et Mlle DE LA FERTE vous aimerez JAMROSE le nouveau Pierre BENOIT
 LA PLUS ETRANGE HISTOIRE D'AMOUR DANS LE CADRE VOLUPTUEUX DU PAYS DE PAUL ET VIRGINIE
@@ -169,6 +189,8 @@ dans l'Izoard, puis victime de ses pneus
 -----
 
 Section 21 : 
+
+Source : <ref name=":11">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Vietto a su bondir sur la double chance|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
 
 VIETTO A SU BONDIR
 sur la double chance
@@ -204,6 +226,8 @@ Nous nous retrouvons, ce soir, avec un classement marqué par la domination du R
 -----
 
 Section 22 : 
+
+Source : <ref name=":12">{{Article|langue=fr|auteur1=Claude Tillet|titre=Suite de l'article de Claude Tillet|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
 
 (Suite de l'article de Claude TILLET)
 
@@ -258,6 +282,8 @@ Il paraît suivre ce conseil et le voici 22e alors qu'il était 29e à Briançon
 -----
 
 Section 23 : 
+
+Source : <ref name=":13">{{Article|langue=fr|titre=Classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -329,6 +355,8 @@ A combien ils sont du leader
 
 Section 24 : 
 
+Source : <ref name=":14">{{Article|langue=fr|titre=Profits et pertes d'une étape à l'autre|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 Profits et pertes
 d'une étape à l'autre
 
@@ -352,6 +380,8 @@ THUAYRE ... 1
 
 Section 25 : 
 
+Source : <ref name=":15">{{Article|langue=fr|titre=Classement du Challenge international|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 Classement du Challenge international
 (Par addition des temps des trois premiers de chaque équipe)
 
@@ -369,6 +399,8 @@ Classement du Challenge international
 -----
 
 Section 26 : 
+
+Source : <ref name=":16">{{Article|langue=fr|titre=Accidenté dans la descente de Vars Robic ne peut rien reprendre à Vietto et Lazaridès|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
 
 ACCIDENTÉ DANS LA DESCENTE DE VARS
 ROBIC NE PEUT RIEN REPRENDRE A VIETTO ET LAZARIDÈS
@@ -514,6 +546,8 @@ De Néri ... "
 
 Section 27 : 
 
+Source : <ref name=":17">{{Article|langue=fr|titre=Classement par points|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 Classement par points
 (Coupe des Cachous GALLUS)
 
@@ -524,6 +558,8 @@ En cas de classement de plusieurs coureurs ex æquo, le nombre de points affére
 -----
 
 Section 28 : 
+
+Source : <ref name=":18">{{Article|langue=fr|titre=Ce qui leur reste à faire|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
 
 Ce qui leur reste à faire
 9 Digne-Nice ... 255
@@ -542,6 +578,8 @@ Ce qui leur reste à faire
 -----
 
 Section 29 : 
+
+Source : <ref name=":19">{{Article|langue=fr|auteur1=A. de Wetter|titre=De l'un à l'autre dans les trois cols|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
 
 DE L'UN A L'AUTRE DANS LES TROIS COLS
 
@@ -586,6 +624,8 @@ DIGNE. - Après avoir grimpé vaillamment l'Izoard et Vars, Jo Dessertine, qui n
 -----
 
 Section 30 : 
+
+Source : <ref name=":20">{{Article|langue=fr|titre=Aujourd'hui, dixième étape Digne-Nice-Sospel-Nice|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
 
 AUJOURD'HUI, DIXIEME ETAPE
 DIGNE-NICE-SOSPEL-NICE
@@ -641,6 +681,8 @@ Grasse, 2.000 francs offerts par la municipalité, dont 1.000 francs au premier 
 
 Section 31 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 Ceux qui restent qualifiés
 
 BELGES (maillot noir, ceinture rouge et jaune, bandeau blanc). - 7. Impanis, 17. Schotte, 20. Callens, 21. Mathieu, 34. Gyselinck, 42. O. Smet, 48. Breuer, 50. Oreel.
@@ -669,6 +711,8 @@ SUD-EST (maillot violet, bande vert et jaune). - 9. Lazaridès, 38. Dolts, 43. C
 
 Section 32 : 
 
+Source : <ref name=":22">{{Article|langue=fr|titre=Brambilla toujours en tête du Prix du meilleur grimpeur|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 Brambilla toujours en tête du Prix du Meilleur Grimpeur
 (Trophée de « L'Humanité »)
 
@@ -689,6 +733,8 @@ Au titre du Prix du Meilleur Grimpeur, les 5 premiers classés dans chacun d'eux
 
 Section 33 : 
 
+Source : <ref name=":23">{{Article|langue=fr|auteur1=A. de Wetter|titre=Remarques d'un Tour à l'autre|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 REMARQUES D'UN TOUR A L'AUTRE
 
 D'un de nos envoyés spéciaux A. DE WETTER
@@ -704,6 +750,8 @@ DIGNE. - Le recordman des crevaisons est, sans conteste, le jeune Belge Callens 
 
 Section 34 : 
 
+Source : <ref name=":24">{{Article|langue=fr|titre=Quel bon tour « Apo » va-t-il jouer...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 QUEL BON TOUR « APO » VA-T-IL JOUER...
 
 DIGNE. - « Apo » Lazaridès, sourire aux lèvres, entame la montée du col de l'Izoard en compagnie de Brambilla (second) et Robic (troisième). Se doutait-il qu'il allait, plus loin, rester seul en tête pour afficher un tel optimisme ?
@@ -713,6 +761,8 @@ DIGNE. - « Apo » Lazaridès, sourire aux lèvres, entame la montée du col de 
 -----
 
 Section 35 : 
+
+Source : <ref name=":25">{{Article|langue=fr|auteur1=René Moyet|titre=« Ce fut dur », disent les régionaux mais tous sont heureux d'avoir terminé|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
 
 « CE FUT DUR », DISENT LES REGIONAUX
 MAIS TOUS SONT HEUREUX D'AVOIR TERMINE
@@ -738,6 +788,8 @@ En général, tous ne pensent qu'à une chose ce soir : se reposer, dormir, dans
 
 Section 36 : 
 
+Source : <ref name=":26">{{Article|langue=fr|titre=En 15 kilomètres Brambilla a perdu 1'40" sur Vietto et Lazaridès|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 En 15 kilomètres
 Brambilla a perdu 1'40"
 sur Vietto et Lazaridès
@@ -753,6 +805,8 @@ Pour Ronconi, 8' 45".
 
 Section 37 : 
 
+Source : <ref name=":27">{{Article|langue=fr|titre=L'officiel du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 L'officiel du Tour
 
 L'avion de nos confrères Ce Soir, ayant à bord l'opérateur Raymond Méjat, a été victime d'un accident aux portes de Digne, heurtant un arbre. Heureusement, aucun des occupants n'a été blessé.
@@ -760,6 +814,8 @@ L'avion de nos confrères Ce Soir, ayant à bord l'opérateur Raymond Méjat, a 
 -----
 
 Section 39 : 
+
+Source : <ref name=":28">{{Article|langue=fr|titre=50.000 frs offerts par les Montres françaises Judex à Miss Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
 
 50.000 frs offerts par les MONTRES FRANÇAISES JUDEX à Miss Tour de France
 Elue à Paris après le Tour
@@ -771,6 +827,8 @@ CANDIDATES, INSCRIVEZ-VOUS AUX THEATRES
 
 Section 41 : 
 
+Source : <ref name=":29">{{Article|langue=fr|titre=Tour de France : en attendant les coureurs...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 TOUR DE FRANCE
 EN ATTENDANT LES COUREURS...
 Achetez 25 fr. la photo numérotée du Président René Vietto, au profit de la souscription Nationale pour le Monument à sa mémoire.
@@ -778,7 +836,20 @@ Des nombreux lots gratuits sont offerts par les grandes marques. Etape Lyon-Gren
 
 -----
 
+Section 42 : 
+
+Source : <ref name=":30">{{Article|langue=fr|titre=René Vietto champion de France-Sport est aussi celui des cales-pieds Christophe|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
+RENE VIETTO
+CHAMPION DE FRANCE-SPORT est aussi celui des Cales-Pieds CHRISTOPHE
+Courroies LAPIZE
+Pompes ZEFAL
+
+-----
+
 Section 45 : 
+
+Source : <ref name=":31">{{Article|langue=fr|titre=Les coureurs du Tour de France font grande consommation de l'embrocation R.M.C.|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
 
 LES COUREURS DU TOUR DE FRANCE
 font grande consommation de L'EMBROCATION R.M.C.
@@ -791,6 +862,8 @@ Représentant dans toute la France
 
 Section 47 : 
 
+Source : <ref name=":32">{{Article|langue=fr|titre=René Vietto est un champion de France-Sport et ses pneus sont des pneus Wolber|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 René Vietto est un champion de FRANCE-SPORT et ses pneus sont des pneus WOLBER.
 Les Alpes vaincues par les suiveurs et caravaniers avisés, qui n'ont pas manqué d'équiper leurs voitures de la fameuse batterie STARNETT.
 PUISSANCE, SOUPLESSE, SECURITE et LONGEVITE caractérisent les batteries STARNETT. Usines à COLOMBES, BRET-OIL, Issy-les-Moulineaux (Seine).
@@ -800,12 +873,16 @@ Une nouvelle performance de l'autoradio STARNETT. La voiture Hotchkiss n° 100 d
 
 Section 48 : 
 
+Source : <ref name=":33">{{Article|langue=fr|titre=Longines chronométrage officiel du Tour de France cycliste|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f2}}|accès url=libre}}.</ref>
+
 LONGINES
 Chronométrage officiel du Tour de France cycliste
 
 -----
 
 Section 57 : 
+
+Source : <ref name=":34">{{Article|langue=fr|titre=Dix hommes de taille à enlever Paris-Bellegarde|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f3}}|accès url=libre}}.</ref>
 
 Dix hommes de taille à enlever Paris-Bellegarde
 
@@ -818,6 +895,8 @@ Rens. techn. : Dép. : Café Rivière, allée de l'Orangerie, Versailles, 6 h. 4
 -----
 
 Section 81 : 
+
+Source : <ref name=":35">{{Article|langue=fr|auteur1=André Costes|titre=Si Vietto est étonnant de fraîcheur le "10" de France est réduit... à 4|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
 
 SI VIETTO EST ÉTONNANT DE FRAICHEUR
 le "10" de France est réduit... à 4
@@ -875,6 +954,8 @@ LE SIMPLEX a généreusement offert un prix aux deux premières étapes de monta
 
 Section 82 : 
 
+Source : <ref name=":36">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : Brambilla l'homme du jour de la « squadra » éprouvée|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
+
 Le point de vue italien
 BRAMBILLA L'HOMME DU JOUR
 de la « squadra » éprouvée
@@ -889,6 +970,8 @@ Nous avons perdu le maillot jaune. Mais pas encore le Tour. Peut-être que cette
 -----
 
 Section 83 : 
+
+Source : <ref name=":37">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=Le point de vue belge : à dix minutes des grands grimpeurs, Impanis fait ses classes|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
 
 Le point de vue BELGE
 A DIX MINUTES
@@ -908,6 +991,8 @@ Les deux gars qui, en dehors d'Impanis, auraient pu être les meilleurs grimpeur
 
 Section 84 : 
 
+Source : <ref name=":38">{{Article|langue=fr|auteur1=Raymond Saladin et Georges de Seversky|titre=Sous les ailes de l'Auster|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
+
 SOUS LES AILES DE L'AUSTER
 par nos envoyés spéciaux Raymond SALADIN et Georges de SEVERSKY
 
@@ -924,6 +1009,8 @@ Nous avions donc décidé pour la Côte d'Azur 45 minutes après, nous survolion
 
 Section 85 : 
 
+Source : <ref name=":39">{{Article|langue=fr|auteur1=F. A.|titre=Qui gagnera la partie ?|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
+
 Qui gagnera la partie ?
 (D'un de nos envoyés spéciaux)
 « C'est un duel entre Brambilla et Vietto, Robic et Lazaridès démarrent à tour de rôle.
@@ -937,11 +1024,15 @@ Lazaridès a fêté, mais Robic a crevé. Il faudra attendre le prochain col... 
 
 Section 86 : 
 
+Source : <ref name=":40">{{Article|langue=fr|titre=Le "Bioderme renforcé" continue à être la providence des coureurs fatigués|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
+
 Le "BIODERME RENFORCE" continue à être la Providence des coureurs fatigués. Cet extrait de germe de blé stabilisé et rendu assimilable au maximum donne à la fois la plus époque par leurs dix paires de forces et d'influx nerveux. Les coureurs du Tour de France ne s'y trompent pas. Ils savent que les flacons de « BIODERME RENFORCE » contribuent puissamment à assurer la vigueur et le moral des coureurs.
 
 -----
 
 Section 87 : 
+
+Source : <ref name=":41">{{Article|langue=fr|titre=La tenace malchance|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
 
 LA TENACE MALCHANCE
 DIGNE. — Il était dit que Robic aurait son jour noir de malchance puisqu'il creva plus souvent qu'à son tour. Arrêté, ici, au bord d'un ravin, il répare, aidé d'un sportif bénévole, indifférent au cadre qui s'offre à ses yeux en fond de tableau. (Bélinogramme spécial L'EQUIPE)
@@ -950,12 +1041,16 @@ DIGNE. — Il était dit que Robic aurait son jour noir de malchance puisqu'il c
 
 Section 88 : 
 
+Source : <ref name=":42">{{Article|langue=fr|titre=Il y a l'art et la manière Vietto|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
+
 IL Y A L'ART ET LA MANIERE VIETTO
 DIGNE. - Vietto, d'bout sur les pédales, serrant sa selle entre ses cuisses, les jambes légèrement fléchies, dévale à toute allure le col de l'Izoard. Position d'artiste en la matière, René est passé maître ès descentes. Ici, il est à peu de distance des leaders et va bientôt les rejoindre. (Bélinogramme spécial L'EQUIPE)
 
 -----
 
 Section 89 : 
+
+Source : <ref name=":43">{{Article|langue=fr|auteur1=Albert de Wetter|titre="C'est moi qui ai commandé à Lazaridès d'attendre Vietto" nous confie Pierre Gallien persuadé d'avoir respecté le règlement|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
 
 "C'est moi qui ai commandé à Lazaridès d'attendre Vietto"
 nous confie Pierre GALLIEN persuadé d'avoir respecté le règlement
@@ -974,6 +1069,8 @@ N'est-ce pas lui qui l'a formé !
 
 Section 90 : 
 
+Source : <ref name=":44">{{Article|langue=fr|titre=Il y a dix ans, Lapébie...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
+
 Il y a dix ans, Lapébie...
 En 1937, sur Digne-Briançon, Roger-Lapébie, après une course sensationnelle en fin de parcours, gagnait avec 2' 48" d'avance. Il devenait 3e au classement général derrière S. Maes (qui dépossédait Bartali) et Vietto.
 Les passages aux cols. — IZOARD : 1. Berrendero, 2. Vervaecke; VARS : 1. Vissers, 2. Meersh; ALLOS : 1. Vicini, 2. Vervaecke.
@@ -982,6 +1079,8 @@ La moyenne : 29 km. 488 (contre 29 km. 577 cette année).
 -----
 
 Section 91 : 
+
+Source : <ref name=":45">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain : le patron et l'apprenti|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
 
 LE FAIT HUMAIN
 LE PATRON ET L'APPRENTI
@@ -1005,6 +1104,8 @@ J'ai retrouvé cette même expression, cet après-midi, sur le visage de Lazarid
 
 Section 92 : 
 
+Source : <ref name=":46">{{Article|langue=fr|titre=Tour de France : ils triompheront des intempéries grâce à leur imperméable C.C.C.|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
+
 Tour de France
 Ils triompheront des intempéries grâce à leur imperméable C.C.C.
 35 à 41 B! Haussmann Paris
@@ -1013,6 +1114,8 @@ Fournisseur officiel du Tour
 -----
 
 Section 93 : 
+
+Source : <ref name=":47">{{Article|langue=fr|auteur1=Fernand Albaret|titre=Tous leurs tours dans mon sac : ici Vietto !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS TOURS DANS MON SAC
 ICI VIETTO !
@@ -1067,7 +1170,21 @@ Dans Vars, il a sorti son petit thermomètre. Un spectateur offrait un bidon. Le
 
 -----
 
+Section 94 : 
+
+Source : <ref name=":48">{{Article|langue=fr|titre="Non, une équipe ne peut pas gagner le Tour" estime M. Ambrosini commissaire italien de l'épreuve|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
+
+"NON, UNE ÉQUIPE ne peut PAS gagner le Tour"
+estime M. Ambrosini commissaire italien de l'épreuve
+
+DIGNE. — « Il devait être dit qu'il n'est pas étonné de voir le maillot jaune, sous des allures de « squadra azzura », c'est beau », dit Ambrosini, commissaire italien de l'épreuve.
+« J'ai toujours pensé qu'on ne pouvait conserver longtemps son maillot jaune, sans disputer le soir. On ne peut faire trente kilomètres comme cela. Ce Tour-ci, il faudra s'en souvenir. Celui qui est resté dans le Tour d'Italie en se disant : « Nous avons une erreur qu'il aurait été si simple pour nous tous de disputer les deux Tours avec l'équipe au complet. C'est ainsi qu'en 1938 Bartali gagnait le Tour d'Italie mais René Vietto avait abandonné au col Ronconi, concluait M. Ambrosini pour Brambilla qu'il avait soutenu par le moral que comme un entraîneur de course. Mais il ne s'agit pas de perdre un homme qui le lui a fait perdre ? »
+
+-----
+
 Section 95 : 
+
+Source : <ref name=":49">{{Article|langue=fr|titre=« Maurice Diot peut prendre le départ demain »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
 
 « Maurice DIOT peut prendre le départ demain »
 D'un de nos envoyés spéciaux
@@ -1080,6 +1197,8 @@ Il ne s'est pourtant pas entraîné et s'est senti soulagé et s'est endormi d'u
 
 Section 96 : 
 
+Source : <ref name=":50">{{Article|langue=fr|titre=« Je ne demandais qu'à recourir le Tour l'an prochain ou n'eut-il qu'un bras ! » nous dit Bobet apprenant qu'il a la clavicule brisée|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
+
 « Je ne demandais qu'à recourir le Tour l'an prochain ou n'eut-il qu'un bras ! »
 nous dit BOBET apprenant qu'il a la clavicule brisée
 
@@ -1091,6 +1210,8 @@ A ces paroles viriles, s'unissait le souvenir des courses de l'Ouest.
 -----
 
 Section 97 : 
+
+Source : <ref name=":51">{{Article|langue=fr|auteur1=A. W.|titre=Brambilla regrette 130 km. contre la montre|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=06 juillet 1947|lire en ligne={{Gallica|id=bd6t599477p/f4}}|accès url=libre}}.</ref>
 
 Brambilla regrette 130 km. contre la montre
 DIGNE. — A l'arrivée de Digne, Brambilla ne regrettait pas tant de n'avoir pu tenir Vietto, mais les 130 kilomètres de poursuite contre la montre. Que pouvais-je faire tout seul ?

@@ -1,6 +1,8 @@
 
 
 Section 6 : 
+
+Source : <ref name=":1">{{Article|langue=fr|titre=On commença par en sourire... en fin de compte on admira !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f1}}|accès url=libre}}.</ref>
 34ᵉ Tour de France
 4.640 KM.
 25 JUIN - 20 JUILLET
@@ -24,6 +26,8 @@ Derrière l'homme du jour, qui réalise une petite fortune, bataille assez molle
 -----
 
 Section 7 : 
+
+Source : <ref name=":2">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Ils n'étaient pas méchants...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f1}}|accès url=libre}}.</ref>
 LES FAITS ET LES HOMMES
 ILS N'ÉTAIENT PAS MÉCHANTS...
 De notre Directeur Jacques GODDET
@@ -43,6 +47,8 @@ L'ombre de l'étape reine du Tour de France, celle de dimanche, a flotté sur ce
 -----
 
 Section 10 : 
+
+Source : <ref name=":3">{{Article|langue=fr|titre=Bourlon le solitaire|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f1}}|accès url=libre}}.</ref>
 Bourlon le Solitaire
 Dans l'étape d'hier, Bourlon a non seulement battu le record du plus grand écart à l'arrivée, mais aussi de la plus longue échappée du Tour.
 Depuis le départ de Paris, on retiendra quatre importantes échappées solitaires, dont trois victorieuses:
@@ -53,6 +59,8 @@ CAMELLINI .. (6e -) 100 km.
 -----
 
 Section 11 : 
+
+Source : <ref name=":4">{{Article|langue=fr|auteur1=Claude Tillet|titre=Aujourd'hui, halte à Luchon avant la grande et décisive étape pyrénéenne|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f1}}|accès url=libre}}.</ref>
 Le Belge CALLENS, l'Italien COTTUR, le Luxembourgeois GOLDSCHMITT et le Breton J.-M. GOASMAT, meilleurs grimpeurs de la journée
 
 AUJOURD'HUI, HALTE A LUCHON avant la grande et décisive étape pyrénéenne
@@ -97,10 +105,14 @@ de bonifications à rafler, Robic sprinta, suivi de Brambilla. Dans la descente,
 -----
 
 Section 12 : 
+
+Source : <ref name=":5">{{Article|langue=fr|titre=Et de quatre !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f1}}|accès url=libre}}.</ref>
 ET DE QUATRE ! LUCHON. - Bourlon vient de courrir plus de 200 kilomètres en tête... et nous le voyons pétrir ici, encore hargneux, au sommet du col du Portet d'Aspet. Déjà quatre sommets de moins, et la victoire est proche... mais il reste encore 53 kilomètres à couvrir et un autre col. Le Berrichon n'est pas à cela près, puisqu'il gagnera à Luchon avec plus de 16 minutes d'avance. (Bélinogramme spécial L'ÉQUIPE)
 -----
 
 Section 13 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=Classement de la 14e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f1}}|accès url=libre}}.</ref>
 CLASSEMENT de la 14ᵉ étape
 Carcassonne-Luchon (253 KM.)
 1. Albert BOURLON, en 8 10 1
@@ -116,12 +128,16 @@ Temps avec bonific... 8 26 9
 -----
 
 Section 14 : 
+
+Source : <ref name=":7">{{Article|langue=fr|titre=Le bagarreur-né...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f1}}|accès url=libre}}.</ref>
 LE BAGARREUR-NÉ...
 LUCHON. — Le Berrichon Albert Bourlon est un bagarreur-né. Tous le savaient, tous connaissaient ce grand diable énergique, prodigue d'efforts, éternel animateur des épreuves routières. Cette fois, Bourlon a réussi un exploit solitaire sans précédent. On peut dire qu'il y a mis tout son cœur. Que l'on en juge d'après sa position ramassée, le corps tendu vers le but.
 (Bélinogramme spécial de L'ÉQUIPE)
 -----
 
 Section 20 : 
+
+Source : <ref name=":8">{{Article|langue=fr|auteur1=Claude Tillet|titre=Vietto ne fut jamais sérieusement en danger d'un ennui mécanique...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
 Garantie
 L'accroissement des demandes nous prouve que les imperméables en caoutchouc naturel, permis à VALENTIN le Roi des Caoutchoucs, de garantir à nouveau ses vêtements imperméables...
 Visitez ses magasins, vous y trouverez le plus grand choix de vêtements imperméables pour hommes, femmes et enfants.
@@ -157,6 +173,8 @@ Donc deux esquisses trois des principaux courants qui caractérisent cette secon
 -----
 
 Section 21 : 
+
+Source : <ref name=":9">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Ils n'étaient pas méchants...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
 
 ILS N'ETAIENT PAS MECHANTS...
 (Suite de l'article de Jacques GODDET)
@@ -195,6 +213,8 @@ De Brambilla et de Camellini, nous savons encore moins. Si le premier dans tous 
 
 Section 22 : 
 
+Source : <ref name=":10">{{Article|langue=fr|titre=Le trophée de « L'Humanité » récompensera le meilleur grimpeur du Tour 1947|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
+
 Le Trophée de « L'Humanité » récompensera le meilleur grimpeur du TOUR 1947
 
 Le journal L'HUMANITE a tenu à récompenser le vainqueur du MEILLEUR GRIMPEUR DU TOUR DE FRANCE en dotant le PRIX DU MEILLEUR GRIMPEUR.
@@ -222,6 +242,8 @@ Classement : 1. Lazaridès 65 pts; 2. Brambilla 62 pts; 3. Ronconi 53 pts; 4. Ca
 -----
 
 Section 24 : 
+
+Source : <ref name=":11">{{Article|langue=fr|titre=Dans le col de Port, Vietto faillit perdre son maillot jaune au profit de Camellini|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
 
 DANS LE COL DE PORT, VIETTO FAILLIT PERDRE SON MAILLOT JAUNE AU PROFIT DE CAMELLINI
 
@@ -305,6 +327,8 @@ Lazaridès etc. ... "
 
 Section 25 : 
 
+Source : <ref name=":12">{{Article|langue=fr|auteur1=A. de Wetter|titre=Bourlon a toujours tenu le peloton à distance respectable|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
+
 BOURLON A TOUJOURS TENU LE PELOTON A DISTANCE RESPECTABLE
 D'un de nos envoyés spéciaux A. De WETTER
 
@@ -328,6 +352,8 @@ Parmi les grands battus figurent Pierre Brambilla, Klabinsky, Goutal, Manchon, G
 
 Section 26 : 
 
+Source : <ref name=":13">{{Article|langue=fr|titre=Bulletin de santé d'Henri Manchon|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
+
 Bulletin de santé d'Henri Manchon
 René VIETTO. — En fin de course, l'enflure s'est un peu dissipée dans l'aine, où les ganglions étaient gonflés, et Vietto a retrouvé une sensation qui le rend confiant pour l'étape qui se prépare.
 LOUVIOT. — Souffre de la hanche gauche. Passera à la radio durant la journée de repos.
@@ -339,6 +365,8 @@ LOUVIOT. — A d'assez fortes contusions au genou droit. A été soigné dans la
 -----
 
 Section 27 : 
+
+Source : <ref name=":14">{{Article|langue=fr|auteur1=Raymond Marcillac et Raymond Saladin|titre=Sous les ailes de l'Auster|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
 
 SOUS LES AILES DE L'AUSTER
 de nos envoyés spéciaux Raymond MARCILLAC et Raymond SALADIN
@@ -354,6 +382,8 @@ Demain, nous décollerons pour Pau.
 -----
 
 Section 28 : 
+
+Source : <ref name=":15">{{Article|langue=fr|auteur1=René Moyset|titre=Derrière Bourlon, l'échappé, tous les régionaux ont tenu|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
 
 DERRIERE BOURLON, L'ECHAPPE, TOUS LES REGIONAUX ONT TENU
 D'un de nos envoyés spéciaux René MOYSET
@@ -374,6 +404,8 @@ Les automobilistes prudents qui partent le Tour ont un phare équipé en Phares 
 -----
 
 Section 29 : 
+
+Source : <ref name=":16">{{Article|langue=fr|titre=Classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GENERAL
 A combien ils sont du leader
@@ -442,6 +474,8 @@ H. m. s.
 
 Section 30 : 
 
+Source : <ref name=":17">{{Article|langue=fr|titre=Classement du challenge international|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
+
 Classement du Challenge International
 (Par addition des temps des trois premiers de chaque équipe)
 
@@ -459,6 +493,8 @@ Classement du Challenge International
 -----
 
 Section 31 : 
+
+Source : <ref name=":18">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
 
 CEUX QUI RESTENT QUALIFIES
 
@@ -500,6 +536,8 @@ EXCURSION A SUPER-BAGNERES. — La Société de Super-Bagnères met un train de 
 
 Section 32 : 
 
+Source : <ref name=":19">{{Article|langue=fr|titre=Où en sont les leaders de chaque équipe|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
+
 Où en sont les leaders de chaque équipe
 
 France ..... 1. Vietto .......... H. m. s.
@@ -516,6 +554,8 @@ Nord-Est .. 38. Deprez ......... 3 7 43
 -----
 
 Section 33 : 
+
+Source : <ref name=":20">{{Article|langue=fr|titre=Aujourd'hui repos à Luchon|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
 
 Aujourd'hui repos à Luchon
 DEMAIN, QUINZIEME ETAPE
@@ -573,6 +613,8 @@ Itinéraire d'arrivée : rue d'Etigny, avenue Gaston, avenue du 143, cours Camou
 
 Section 34 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=La grande étape pyrénéenne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f2}}|accès url=libre}}.</ref>
+
 15e ETAPE • 13 JUILLET
 LUCHON-PAU
 [Profil altimétrique avec : LUCHON (630m), COL DE PEYRESOURDE (1562m), ARREAU, COL D'ASPIN (1489m), STE MARIE DE CAMPAN, COL DU TOURMALET (2114m), BAREGES, LUZ, PIERREFITTE, ARGELES, ARRENS, COL DU SOULOR (1656m), COL D'AUBISQUE (1709m), GOURETTE, EAUX-BONNES, LARUNS, ARUDY, GAN, PAU]
@@ -583,10 +625,20 @@ Dès le départ de Luchon, c'est la montée vers le col de Peyresourde (élévat
 -----
 
 Section 36 : 
+
+Source : <ref name=":22">{{Article|langue=fr|titre=Cyclisme|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f3}}|accès url=libre}}.</ref>
 CYCLISME
 -----
 
+Section 48 : 
+
+Source : <ref name=":23">{{Article|langue=fr|titre=Le garde boue « Le paon » Lefol le plus élégant|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f3}}|accès url=libre}}.</ref>
+LE GARDE BOUE "LE PAON" LEFOL LE PLUS ELEGANT
+-----
+
 Section 78 : 
+
+Source : <ref name=":24">{{Article|langue=fr|auteur1=Albert van Laethem|titre=La confirmation de Callens impose tout de même d'attendre le verdict des grands cols pyrénéens|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 Le point de vue BELGE
 
 La confirmation de CALLENS impose tout de même d'attendre le verdict des grands cols Pyrénéens
@@ -618,6 +670,8 @@ Rappelez-vous notre déception du Geisbier, après la bonne course de l'Escadron
 -----
 
 Section 79 : 
+
+Source : <ref name=":25">{{Article|langue=fr|titre=Lévêque a bien mérité la prime du « Populaire »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 LEVEQUE a bien mérité la prime du "Populaire"
 
 D'un de nos envoyés spéciaux
@@ -636,6 +690,8 @@ Souhaitons que ce soit possible car Lévêque mérite d'être récompensé pour 
 -----
 
 Section 80 : 
+
+Source : <ref name=":26">{{Article|langue=fr|auteur1=Guido Giardini|titre=Une crevaison qui a tout changé|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 Le point de vue ITALIEN
 
 Une crevaison qui a tout changé
@@ -671,6 +727,8 @@ Malchance donc, encore une fois. Mais, les « azzuri » ne vont pas en rester ab
 -----
 
 Section 81 : 
+
+Source : <ref name=":27">{{Article|langue=fr|auteur1=Dante Gianello|titre=Volonté, force, courage...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 UN CHAMPION ÉCRIT...
 
 VOLONTÉ, FORCE, COURAGE...
@@ -727,6 +785,8 @@ Pourtant, Albert, resterez-vous sage ! Je vous le conseille, car il vous faut po
 -----
 
 Section 82 : 
+
+Source : <ref name=":28">{{Article|langue=fr|auteur1=André Costes|titre=L'homme d'une étape doit savoir choisir son étape|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 L'HOMME D'UNE ÉTAPE DOIT SAVOIR choisir son étape
 
 Ainsi fit Albert Bourlon qui avait exactement pesé ses chances. Il a donc prouvé qu'il était un homme du Tour
@@ -795,6 +855,8 @@ Malheureusement pour lui, dès lors hors d'usage, il dut attendre la camionnette
 -----
 
 Section 83 : 
+
+Source : <ref name=":29">{{Article|langue=fr|auteur1=A. de Wetter|titre=Les transalpins ont préféré garder leurs forces|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 Les Transalpins ont préféré garder leurs forces
 
 LUCHON. — Dans son Guido Giardini nous expliqu craignaient voir dérouter le tactique qu'ils s'étaient tra Callens, suivant nous, a accident de Vietto et le re Fachleitner, il n'en souffri
@@ -805,6 +867,8 @@ LUCHON. — Dans son Guido Giardini nous expliqu craignaient voir dérouter le t
 -----
 
 Section 84 : 
+
+Source : <ref name=":30">{{Article|langue=fr|titre=La journée de repos|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 A cette place si nettement justifiée que nous ne pouvons pas en douter ; le maillot restera jusqu'au bout, à moins d'accident de parcours.
 
 On s'y prépare dans toutes les têtes et la nuit passée à Luchon ne nous donne point la certitude de la décision...
@@ -823,6 +887,8 @@ Et les bouquets de diamant ne peut-être ceux de la victoire ?
 -----
 
 Section 85 : 
+
+Source : <ref name=":31">{{Article|langue=fr|titre=« Ce n'est pas aujourd'hui le moment de bouger » reconnaît Camellini|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 « CE N'EST PAS AUJOURD'HUI LE MOMENT DE BOUGER » reconnaît CAMELLINI
 
 LUCHON. — Comme nous en avions fait la remarque à Fermo Camellini, pourtant très calme sur les attaques de Vietto, Fachleitner et Ronconi : « C'est que Fachleitner se trouve avec deux leaders possibles... et puis, ce n'est pas aujourd'hui le moment de remuer le jeu... »
@@ -833,6 +899,8 @@ Et s'il vous faut maintenir le maillot jaune ?
 -----
 
 Section 86 : 
+
+Source : <ref name=":32">{{Article|langue=fr|titre=Pierre Gallien « isole » Lazaridès|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 PIERRE GALLIEN "ISOLE" LAZARIDÈS
 
 D'un de nos envoyés spéciaux
@@ -845,11 +913,15 @@ Apo fut tellement dégoûté de cette attitude de son directeur sportif, qu'il n
 -----
 
 Section 87 : 
+
+Source : <ref name=":33">{{Article|langue=fr|titre=Ce qu'il leur reste à parcourir|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 Ce qu'il leur reste à parcourir
 7 étapes et 1.538 kilomètres
 -----
 
 Section 88 : 
+
+Source : <ref name=":34">{{Article|langue=fr|auteur1=Marcel Hansenne|titre=Pas rejoint !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 PAS REJOINT !
 
 D'un de nos envoyés spéciaux Marcel HANSENNE.
@@ -938,6 +1010,8 @@ Nous sommes allés le voir un peu plus tard à l'hôtel où il est logé, au tro
 -----
 
 Section 89 : 
+
+Source : <ref name=":35">{{Article|langue=fr|titre=« En laissant Vietto seul nous avons commis une faute » reconnaît Léo Véron|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 « En laissant Vietto seul nous avons commis une faute » reconnaît Léo Véron
 
 D'un de nos envoyés spéciaux
@@ -968,6 +1042,8 @@ Sans doute, mais l'esprit de discipline des Français est tout de même à remar
 -----
 
 Section 90 : 
+
+Source : <ref name=":36">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 La radiodiffusion du « Tour »
 
 SAMEDI 12 JUILLET
@@ -990,12 +1066,16 @@ CHAINE NATIONALE : 16 h. 20, 20 h. 30.
 -----
 
 Section 91 : 
+
+Source : <ref name=":37">{{Article|langue=fr|titre=Camellini leader des... bonifications|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 Camellini leader des... bonifications
 
 Camellini 5' 43" ; Robic 4' ; Lazaridès 3' 15" ; Vietto et Brambilla 3' ; Teisseire, Fachleitner et Bourlon 1' ; Ronconi 1' 45" ; Callens et Barret 1' ; Impanis, Cogan, Rossello, Klabinsky, Diederich, Rémy et Cottur 30".
 -----
 
 Section 92 : 
+
+Source : <ref name=":38">{{Article|langue=fr|auteur1=Paul Guitard|titre=Soucoupe volante|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 LE FAIT HUMAIN
 
 SOUCOUPE VOLANTE
@@ -1022,6 +1102,8 @@ Eh ! chers supporters, voilà qui est fait.
 -----
 
 Section 93 : 
+
+Source : <ref name=":39">{{Article|langue=fr|auteur1=Albert de Wetter|titre=En pédalant seul durant 253 kilomètres|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=12 juillet 1947|lire en ligne={{Gallica|id=bd6t599483m/f4}}|accès url=libre}}.</ref>
 EN PEDALANT SEUL DURANT 253 KILOMETRES
 
 Bourlon songeait à Delille

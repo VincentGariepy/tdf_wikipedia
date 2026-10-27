@@ -2,6 +2,8 @@
 
 Section 5 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=34e Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f1}}|accès url=libre}}.</ref>
+
 34e Tour de France
 L'EVENEMENT SENSATIONNEL DU SPORT MONDIAL
 4.640 KM. - 25 JUIN - 20 JUILLET - 21 ETAPES - 4.580.000 FRANCS DE PRIX
@@ -20,6 +22,8 @@ Impanis se ressaisit sur la fin mais perd la seconde place... et de nombreuses m
 -----
 
 Section 6 : 
+
+Source : <ref name=":2">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Est-il trop grand pour eux ?|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f1}}|accès url=libre}}.</ref>
 
 LES FAITS ET LES HOMMES
 
@@ -52,6 +56,8 @@ Ronconi a donc eu raison de venir s'installer sur les chevilles de Vietto au cla
 
 Section 7 : 
 
+Source : <ref name=":3">{{Article|langue=fr|auteur1=Claude Tillet|titre=Le beau match...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f1}}|accès url=libre}}.</ref>
+
 D'un de nos envoyés spéciaux Claude TILLET.
 
 LUXEMBOURG. — Accordez tout d'abord, si vous le voulez bien, un coup d'œil au classement général :
@@ -80,6 +86,8 @@ On roulait agréablement dans la vallée de la Meuse, sous un soleil déjà brû
 
 Section 8 : 
 
+Source : <ref name=":4">{{Article|langue=fr|auteur1=None|titre=Les moyennes changent...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f1}}|accès url=libre}}.</ref>
+
 LES MOYENNES CHANGENT...
 1re étape : KUBLER ... 31 km 275
 2e étape : VIETTO ... 35 km 700
@@ -90,6 +98,8 @@ tuel : VIETTO ... 31 km 826
 -----
 
 Section 9 : 
+
+Source : <ref name=":5">{{Article|langue=fr|auteur1=None|titre=Où en sont les leaders de chaque équipe ?|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f1}}|accès url=libre}}.</ref>
 
 Où en sont les leaders de chaque équipe ?
 FRANCE : 1er Vietto.
@@ -107,12 +117,16 @@ NORD-EST : 46. Deprez, à 1 h. 8'57".
 
 Section 10 : 
 
+Source : <ref name=":6">{{Article|langue=fr|auteur1=None|titre=Toujours Vietto|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f1}}|accès url=libre}}.</ref>
+
 TOUJOURS VIETTO
 LUXEMBOURG - Décidément très en verve, Vietto est encore en tête. Mais il emmène le peloton à la poursuite de Delille et Diot, et traverse ici la pittoresque cité belge de Dinant. (Bélinogramme spécial L'EQUIPE)
 
 -----
 
 Section 11 : 
+
+Source : <ref name=":7">{{Article|langue=fr|auteur1=None|titre=Classement de la 3e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT DE LA 3e ETAPE
 BRUXELLES-LUXEMBOURG (314 km.)
@@ -145,6 +159,8 @@ Voici les écarts comparés à 8 ans d'intervalle, après 3 jours de course :
 
 Section 13 : 
 
+Source : <ref name=":8">{{Article|langue=fr|auteur1=None|titre=Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f1}}|accès url=libre}}.</ref>
+
 Tour de France
 Ils triomphent des intempéries grâce à leur imperméable
 O.K.C.
@@ -154,6 +170,8 @@ Fournisseur officiel du Tour
 -----
 
 Section 17 : 
+
+Source : <ref name=":9">{{Article|langue=fr|auteur1=None|titre=Unique en France|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
 
 UNIQUE EN FRANCE
 VISITEZ LE PALAIS DE LA T.S.F.
@@ -176,6 +194,8 @@ ET COGAN PREND LA 4e PLACE grâce aux 30" de bonification
 -----
 
 Section 18 : 
+
+Source : <ref name=":10">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Est-il trop grand pour eux ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
 
 EST-IL TROP GRAND POUR EUX ?
 (Suite de l'article de Jacques GODDET)
@@ -220,6 +240,8 @@ Nous avons d'ores et déjà l'impression qu'il sera assez difficile de battre le
 
 Section 19 : 
 
+Source : <ref name=":11">{{Article|langue=fr|auteur1=Claude Tillet|titre=La surprise transalpine|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
+
 La surprise transalpine
 
 Nous avions considéré comme éminemment dangereuse la « squadra » transalpine et nous ne nous étions pas fait faute de signaler qu'elle serait sans doute plus gênante pour Vietto que la formation belge.
@@ -233,6 +255,8 @@ C. T.
 
 Section 20 : 
 
+Source : <ref name=":12">{{Article|langue=fr|auteur1=None|titre=Le Sud-Est est mal en point|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
+
 Le Sud-Est est mal en point
 (D'un de nos envoyés spéciaux)
 LUXEMBOURG. — Le jeune Gauthier, premier de l'équipe, était affalé sur une table après son arrivée à l'hôtel. Il souffre de l'estomac.
@@ -242,6 +266,8 @@ Du travail pour le soigneur de l'équipe avant le départ pour Strasbourg !
 -----
 
 Section 21 : 
+
+Source : <ref name=":13">{{Article|langue=fr|auteur1=None|titre=Classement général après la troisième étape|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 après la troisième étape
@@ -326,6 +352,8 @@ A combien ils sont du leader
 
 Section 22 : 
 
+Source : <ref name=":14">{{Article|langue=fr|auteur1=None|titre=Classement du challenge international à l'issue de la 3e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
+
 Classement du Challenge international
 à l'issue de la 3e étape
 
@@ -344,12 +372,16 @@ Classement du Challenge international
 
 Section 23 : 
 
+Source : <ref name=":15">{{Article|langue=fr|auteur1=None|titre=Oh ! ma tête...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
+
 OH ! MA TETE... LUXEMBOURG. — ...doit soupirer Karel Steyaert, le coureur des « jours sombres », le boyau à l'épaule, souffrant et incommodé par la chaleur. L'Italien semble également songer aux espoirs envolés, et l'amertume de l'abandon est sans doute plus forte encore que le malaise physique.
 (Bélinogramme spécial L'ÉQUIPE)
 
 -----
 
 Section 24 : 
+
+Source : <ref name=":16">{{Article|langue=fr|auteur1=A. de Wetter|titre=200 kilomètres avec Delille, l'amoureux de la solitude|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
 
 200 KILOMÈTRES AVEC DELILLE
 L'AMOUREUX DE LA SOLITUDE
@@ -379,6 +411,8 @@ Classement par points
 
 Section 25 : 
 
+Source : <ref name=":17">{{Article|langue=fr|auteur1=A. de Wetter|titre=Direction... les Alpes !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
+
 DIRECTION... LES ALPES !
 (D'un de nos env. spec. A. DE WETTER)
 
@@ -395,6 +429,8 @@ Pour les Français, la situation s'est compliquée. Brambilla et Camellini ont s
 
 Section 26 : 
 
+Source : <ref name=":18">{{Article|langue=fr|auteur1=R. H.|titre=« Je suis doublement content » nous dit le Bordelais Latorre|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
+
 « JE SUIS DOUBLEMENT CONTENT »
 nous dit le Bordelais Latorre
 (D'un de nos envoyés spéciaux R. H.)
@@ -409,6 +445,8 @@ C'est tout le mal qu'on lui souhaite... Il aurait pu faire mieux encore ! Mais, 
 -----
 
 Section 27 : 
+
+Source : <ref name=":19">{{Article|langue=fr|auteur1=None|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
 
 Ceux qui restent qualifiés
 
@@ -439,6 +477,8 @@ SUD-EST : Piot, 79. Lazaridès, 80. Molinéris, 81. Dotto, 82. B. Gauthier, 83. 
 
 Section 28 : 
 
+Source : <ref name=":20">{{Article|langue=fr|auteur1=None|titre=Lorsque Vietto, en 1934, était uniquement un homme de la montagne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
+
 LORSQUE VIETTO, EN 1934, ETAIT UNIQUEMENT UN HOMME DE LA MONTAGNE
 
 Il est intéressant de noter combien Vietto, avec l'âge, s'est complété au point de vue tactique.
@@ -451,6 +491,8 @@ Cette année-là, Vietto termina à Paris avec le maillot jaune solidement arrim
 -----
 
 Section 29 : 
+
+Source : <ref name=":21">{{Article|langue=fr|auteur1=René Moyset|titre=Avec les régionaux : Delille, Diot ont souffert de la faim... et de la soif|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
 
 AVEC LES REGIONAUX
 DELILLE, DIOT ONT SOUFFERT DE LA FAIM... ET DE LA SOIF
@@ -472,6 +514,8 @@ Delille est un garçon capricieux. Il a voulu les avoir faits son petit Tour. Il
 
 Section 30 : 
 
+Source : <ref name=":22">{{Article|langue=fr|auteur1=None|titre=« Impanis est un enfant trop gâté » remarque Karel Steyaert|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
+
 « IMPANIS EST UN ENFANT TROP GATE »
 remarque Karel Steyaert
 (D'un de nos envoyés spéciaux)
@@ -483,6 +527,8 @@ LUXEMBOURG. — La défaillance d'Impanis dans la côte de Dudelange, au 210e ki
 
 Section 31 : 
 
+Source : <ref name=":23">{{Article|langue=fr|auteur1=None|titre=Delille n'était parti que pour 200 km|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
+
 Delille n'était parti que pour 200 km
 
 De son propre aveu, Delille s'échappa avant Namur pour avoir quelques primes. Ayant l'habitude de courir en Belgique, il se doutait que chaque traversée de ville ou de village lui donnerait l'occasion de ramasser quelques billets de mille francs.
@@ -491,6 +537,8 @@ De son propre aveu, Delille s'échappa avant Namur pour avoir quelques primes. A
 -----
 
 Section 32 : 
+
+Source : <ref name=":24">{{Article|langue=fr|auteur1=None|titre=« Ronconi : un homme du Tour par excellence » déclare Fazio, le « remplaçant » désœuvré|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
 
 « RONCONI : UN HOMME DU TOUR PAR EXCELLENCE »
 déclare FAZIO, le « remplaçant » désœuvré
@@ -501,6 +549,8 @@ Il y a un homme qui s'ennuie à Paris et voudrait arriver à l'arrivée : c'est 
 -----
 
 Section 33 : 
+
+Source : <ref name=":25">{{Article|langue=fr|auteur1=None|titre=L'Auster se passe de hangars|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
 
 L'Auster se passe de hangars
 Créé pendant la guerre pour l'Ecole d'observation, les millions d'exemplaires ont prouvé les qualités de cet appareil.
@@ -521,6 +571,8 @@ Les spectateurs pourront constater l'effort réalisé par les industriels ou gro
 -----
 
 Section 34 : 
+
+Source : <ref name=":26">{{Article|langue=fr|auteur1=None|titre=Ce qui leur reste à faire : 18 étapes et 3.906 kilomètres|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
 
 CE QUI LEUR RESTE A FAIRE :
 18 ETAPES ET 3.906 KILOMETRES
@@ -572,6 +624,8 @@ Diverses primes d'un montant total de 50.000 francs.
 
 Section 35 : 
 
+Source : <ref name=":27">{{Article|langue=fr|auteur1=None|titre=Demain, cinquième étape Strasbourg-Besançon|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f2}}|accès url=libre}}.</ref>
+
 DEMAIN, CINQUIEME ETAPE
 STRASBOURG-BESANÇON
 (248 kil.)
@@ -603,17 +657,9 @@ BESANÇON : km 248 - 16.57
 
 -----
 
-Section 36 : 
-
-MISS TOUR DE FRANCE « JUDEX » 1947
-50.000 Frs de prix à MISS TOUR DE FRANCE « JUDEX » 1947
-Une grande tournée pour chacune des 21 Miss « ETAPE » désignées par un jury la veille de l'étape au cours de la représentation de la revue « Autour du Tour ».
-Un voyage à Paris pour les cinq ou six candidates retenues pour la grande finale à Paris.
-Pour tous renseignements s'adresser à DECOLLOGE, 4 bis, rue de Bouloi — PARIS.
-
------
-
 Section 42 : 
+
+Source : <ref name=":28">{{Article|langue=fr|auteur1=Jacques Augendre|titre=Duel Bidart - Helary|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f3}}|accès url=libre}}.</ref>
 
 TOUR DE FRANCE
 EN ATTENDANT LES COUREURS...
@@ -644,6 +690,8 @@ Demain (2 étape) : Le Mans-Cholet (171 km.) - Dép. Café des Négociants, rue 
 
 Section 44 : 
 
+Source : <ref name=":29">{{Article|langue=fr|auteur1=None|titre=Demain dans chaque dimanche pendant le Tour de France L'Équipe paraîtra|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f3}}|accès url=libre}}.</ref>
+
 DEMAIN
 dans chaque dimanche
 pendant le Tour de France
@@ -655,6 +703,8 @@ de la région parisienne
 -----
 
 Section 68 : 
+
+Source : <ref name=":30">{{Article|langue=fr|auteur1=Claude Tillet|titre=Ronconi, rouleur, grimpeur et champion d'Italie dédaigné !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 Ronconi, rouleur, grimpeur
 et CHAMPION D'ITALIE DÉDAIGNÉ !
 
@@ -685,6 +735,8 @@ Alex Virot qui opérait pour Radio-Luxembourg n'en revenait pas ! — Cl. T.
 -----
 
 Section 69 : 
+
+Source : <ref name=":31">{{Article|langue=fr|auteur1=Dante Gianello|titre=Un champion dans la course : ah ! qu'elle était verte ma vallée !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 UN CHAMPION DANS LA COURSE
 
 Ah ! qu'elle était verte ma vallée !
@@ -715,6 +767,8 @@ Tout rentre dans un sens plus égal, la composition du peloton qui allait se for
 -----
 
 Section 70 : 
+
+Source : <ref name=":32">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : tout s'est passé selon mes calculs|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 Le point de vue ITALIEN : TOUT S'EST PASSE selon mes calculs
 
 par Guido GIARDINI.
@@ -730,6 +784,8 @@ Sont-ils les seuls favoris ? Je n'en vois pas d'autrs.
 -----
 
 Section 71 : 
+
+Source : <ref name=":33">{{Article|langue=fr|auteur1=None|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 La radiodiffusion du « Tour »
 SAMEDI 28 JUIN
 4e étape
@@ -752,6 +808,8 @@ CHAINE NATIONALE : 16 h. 20, 20 h. 50.
 -----
 
 Section 72 : 
+
+Source : <ref name=":34">{{Article|langue=fr|auteur1=None|titre=Profits et pertes d'une étape à l'autre|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 PROFITS ET PERTES D'UNE ÉTAPE A L'AUTRE
 Places
 Gagn. Perd.
@@ -768,6 +826,8 @@ Kubler ............. - 37
 -----
 
 Section 73 : 
+
+Source : <ref name=":35">{{Article|langue=fr|auteur1=André Costes|titre=Le cas le plus épineux se pose pour l'équipe de l'Ouest, qui se trouve devant le problème de sa richesse|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 Le cas le plus épineux se pose pour l'équipe de l'Ouest, qui se trouve devant le problème de sa richesse. — La Belgique apprendra à ses dépens que seul l'abandon est sans appel
 
 D'un de nos envoyés spéciaux André COSTES.
@@ -811,16 +871,22 @@ La route de Luxembourg à Strasbourg sera, pour nous, une route expérimentale. 
 -----
 
 Section 74 : 
+
+Source : <ref name=":36">{{Article|langue=fr|auteur1=None|titre=Kubler le battu magnifique|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 KUBLER LE BATTU MAGNIFIQUE
 
 LUXEMBOURG. — Impanis (en tête) mène grand train, tout au début de l'étape Lille-Bruxelles, à la poursuite de Vietto. Ce n'est qu'un commencement de lutte et pourtant Kubler, en troisième position derrière Impanis et Depredomme, souffre déjà. Il perdra son maillot jaune, certes, mais il n'aura pas succombé sans une magnifique bataille. (Photo transmise par l'avion spécial de L'EQUIPE)
 -----
 
 Section 75 : 
+
+Source : <ref name=":37">{{Article|langue=fr|auteur1=None|titre=Seul en tête à Luxembourg|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 SEUL EN TÊTE A LUXEMBOURG. — Mains en bas du cintre, le Nordiste Delille roule puissamment. Ayant tenu à fournir une belle performance dans son pays, il franchit la frontière avec 12 minutes d'avance. (Bélinogramme spécial L'EQUIPE)
 -----
 
 Section 76 : 
+
+Source : <ref name=":38">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=Le point de vue belge : le désastre des Belges|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 LE POINT de vue BELGE : LE DÉSASTRE des Belges
 
 par Albert VAN LAETHEM
@@ -833,6 +899,8 @@ C'est cela qui est grave car le jeune Impanis, s'il a flanché à un certain mom
 -----
 
 Section 77 : 
+
+Source : <ref name=":39">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Pierre Cogan est tout à la joie d'avoir réclamé une place parmi les régionaux|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 Pierre COGAN est tout à la joie d'avoir réclamé une place parmi les régionaux
 
 D'un de nos envoyés spéciaux Albert de WETTER
@@ -850,6 +918,8 @@ Comme quoi la vertu, si ce n'est pas la jeunesse, en la circonstance, est souven
 -----
 
 Section 78 : 
+
+Source : <ref name=":40">{{Article|langue=fr|auteur1=Fernand Albaret|titre=Tous leurs tours dans mon sac : les Ardennes ?|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 TOUS LEURS TOURS DANS MON SAC
 
 LES ARDENNES ?
@@ -919,6 +989,8 @@ S'il manque un entraîneur au Tour de France, je conseille fortement aux organis
 -----
 
 Section 79 : 
+
+Source : <ref name=":41">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain : la ruée du solitaire|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 LE FAIT HUMAIN
 
 LA RUÉE DU SOLITAIRE
@@ -937,6 +1009,8 @@ Nous nous écartons du sujet ? Pas du tout. Delille n'est-il point né dans un v
 -----
 
 Section 80 : 
+
+Source : <ref name=":42">{{Article|langue=fr|auteur1=None|titre=« Il ne s'est rien passé avec Vietto » assure le commissaire suisse M. Jayet|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 « Il ne s'est rien passé avec Vietto »
 assure le commissaire suisse M. Jayet
 
@@ -948,6 +1022,8 @@ M. Jayet est formel :
 -----
 
 Section 81 : 
+
+Source : <ref name=":43">{{Article|langue=fr|auteur1=None|titre=L'officiel du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=28 juin 1947|lire en ligne={{Gallica|id=bd6t5100152z/f4}}|accès url=libre}}.</ref>
 L'officiel du Tour
 
 COURRIER. — Réglez votre montre à l'étape de la façon suivante : pour le courrier officiel ou pour l'ensemble du Tour de France, y a 1'1/2 d'avance.-----

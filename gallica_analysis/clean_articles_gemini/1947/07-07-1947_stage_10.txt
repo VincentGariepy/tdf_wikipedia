@@ -2,6 +2,8 @@
 
 Section 4 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=Ambrosini, maire italien de l'épreuve|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f1}}|accès url=libre}}.</ref>
+
 34e Tour de France
 4.640 KM.
 25 JUIN - 20 JUILLET
@@ -17,6 +19,8 @@ Mais nous n'en sommes pas là. Si les Français continuent à marquer nos hommes
 -----
 
 Section 5 : 
+
+Source : <ref name=":2">{{Article|langue=fr|auteur1=Claude Tillet|titre=La bataille continue à la faveur des cols azuréens : le maillot jaune à nouveau en danger|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f1}}|accès url=libre}}.</ref>
 
 La bataille continue à la faveur des cols azuréens : le maillot jaune à nouveau en danger
 
@@ -57,6 +61,8 @@ A Briançon, nous considérions comme surprenant le regroupement qui comprenait 
 
 Section 6 : 
 
+Source : <ref name=":3">{{Article|langue=fr|auteur1=Jacques Goddet|titre=La féroce contre-attaque des Italiens|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f1}}|accès url=libre}}.</ref>
+
 LES FAITS ET LES HOMMES
 
 La féroce contre-attaque des Italiens
@@ -87,6 +93,8 @@ La seule mauvaise impression de la journée fut donc la Turbie dont la route enl
 
 Section 7 : 
 
+Source : <ref name=":4">{{Article|langue=fr|titre=La prime de Beauvallon|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f1}}|accès url=libre}}.</ref>
+
 Demain
 LA PRIME DE BEAUVALLON
 (Mémorial H. Desgrange)
@@ -103,6 +111,8 @@ L'esprit de « Père du Tour » planera sur ce sprint, si émouvant par son cara
 
 Section 8 : 
 
+Source : <ref name=":5">{{Article|langue=fr|titre=Vers la grande bleue|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f1}}|accès url=libre}}.</ref>
+
 VERS LA GRANDE BLEUE
 NICE. — Dans un décor bien provençal, le peloton des rescapés du Tour de France passe à Barrême. La Méditerranée est proche et, pour l'instant, tous songent aux souffrances qu'ils vont encore endurer avant de quitter définitivement les Alpes meurtrières.
 (Bélinogramme spécial L'EQUIPE)
@@ -110,6 +120,8 @@ NICE. — Dans un décor bien provençal, le peloton des rescapés du Tour de Fr
 -----
 
 Section 10 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=Attention ! Le départ de la 11e étape Nice - Marseille avancé d'une heure|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f1}}|accès url=libre}}.</ref>
 
 Attention !
 Le départ de la 11e étape
@@ -125,12 +137,16 @@ Départ lancé (à l'entrée de la Promenade des Anglais) à 8 h. 30.
 
 Section 11 : 
 
+Source : <ref name=":7">{{Article|langue=fr|titre=Fermo Camellini dans le col de Braus|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f1}}|accès url=libre}}.</ref>
+
 NICE. — Position ramassée, énergique, au fond arrière, le masque volcanique Fermo Camellini, en force, monte les rudes pourcentages du col de Braus.
 (Photo transmise par l'avion spécial de L'Equipe)
 
 -----
 
 Section 12 : 
+
+Source : <ref name=":8">{{Article|langue=fr|titre=Classement de la 10e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT DE LA 10e ETAPE
 Digne - Nice - Sospel - Nice (255 km.)
@@ -154,6 +170,8 @@ Abandonnés : Cerrieri, Cosson.
 
 Section 13 : 
 
+Source : <ref name=":9">{{Article|langue=fr|titre=Lazaridès leader du Prix du meilleur grimpeur (Trophée de l'Humanité)|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f1}}|accès url=libre}}.</ref>
+
 LAZARIDES leader du Prix du Meilleur Grimpeur (Trophée de l'Humanité)
 
 A l'issue de la 10e étape, Lazaridès a concédé à Brambilla la tête du Prix du Meilleur Grimpeur. Voici le classement à la sortie des Alpes :
@@ -162,6 +180,8 @@ A l'issue de la 10e étape, Lazaridès a concédé à Brambilla la tête du Prix
 -----
 
 Section 18 : 
+
+Source : <ref name=":10">{{Article|langue=fr|auteur1=Jacques Goddet|titre=La féroce contre-attaque des Italiens|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
 
 La féroce contre-attaque des Italiens
 (Suite de l'article de Jacques GODDET)
@@ -187,6 +207,8 @@ Le public doit comprendre que nous vivons un Tour de France sans précédent par
 -----
 
 Section 19 : 
+
+Source : <ref name=":11">{{Article|langue=fr|auteur1=Claude Tillet|titre=La bataille continue à la faveur des cols azuréens (suite)|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
 
 (Suite de l'article de Claude Tillet)
 
@@ -214,6 +236,8 @@ COUPE DES CACHOUX GALLUS
 -----
 
 Section 20 : 
+
+Source : <ref name=":12">{{Article|langue=fr|auteur1=Claude Tillet|titre=Chaque jour un Belge !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
 
 (Suite de Claude Tillet)
 
@@ -249,6 +273,8 @@ Nous voudrions enfin dire ici combien Emile Idée fut utile à son équipe aujou
 
 Section 21 : 
 
+Source : <ref name=":13">{{Article|langue=fr|auteur1=René Moyset|titre=Chez les régionaux : Thuayre se confirme, Bonnet se retrouve et Bourlon attaque encore !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
+
 CHEZ LES REGIONAUX
 THUAYRE SE CONFIRME, BONNET SE RETROUVE ET BOURLON ATTAQUE ENCORE !
 
@@ -271,6 +297,8 @@ REMARQUES d'ensemble : l'équipe d'Île-de-France se comporte très bien, et le 
 -----
 
 Section 22 : 
+
+Source : <ref name=":14">{{Article|langue=fr|titre=Seul contre trois, Camellini ne cessa d'augmenter son avance dans les cols|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
 
 SEUL CONTRE TROIS, CAMELLINI NE CESSA D'AUGMENTER SON AVANCE DANS LES COLS
 
@@ -379,11 +407,15 @@ Deprez 15' 5"
 
 Section 23 : 
 
+Source : <ref name=":15">{{Article|langue=fr|titre=Le « moustique » est toujours là...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
+
 LE « MOUSTIQUE » EST TOUJOURS LÀ... - NICE. - Camellini est encadré (en tête), Ronconi et Lazaridès, foncent à sa poursuite. Ils ne parviendront pas à le rejoindre malgré les multiples accélérations du « Moustique » de Lazaridès, l'œil aux aguets, la tête basse, mais toujours présent aux bagarres.
 
 -----
 
 Section 24 : 
+
+Source : <ref name=":16">{{Article|langue=fr|auteur1=A. de Wetter|titre=100 kilomètres de course sur 255|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
 
 100 KILOMETRES DE COURSE SUR 255
 D'un de nos envoyés spéciaux A. DE WETTER
@@ -411,6 +443,8 @@ Callens, le grand malchanceux de l'étape, emmène Massal, Tacca, Thuayre, Gauth
 
 Section 25 : 
 
+Source : <ref name=":17">{{Article|langue=fr|titre=Où en sont les leaders de chaque équipe|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
+
 Où en sont les leaders de chaque équipe
 France: 1. Vietto; 8. Robic
 Holl.-Etr.: 2. Camellini, à 3' 23"
@@ -425,6 +459,8 @@ Nord-Est: 29. Deprez, à 52' 22"
 -----
 
 Section 26 : 
+
+Source : <ref name=":18">{{Article|langue=fr|titre=Classement général : à combien ils sont du leader|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -476,6 +512,8 @@ Classement du Challenge international
 -----
 
 Section 27 : 
+
+Source : <ref name=":19">{{Article|langue=fr|auteur1=A. de Wetter|titre=Remarques d'un jour à l'autre|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
 
 REMARQUES D'UN JOUR A L'AUTRE
 D'un de nos envoyés spéciaux A. DE WETTER
@@ -544,12 +582,16 @@ Prime offerte par la Brasserie Florida, 10.000 francs au premier de l'équipe du
 
 Section 28 : 
 
+Source : <ref name=":20">{{Article|langue=fr|titre=Encore lui !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
+
 ENCORE LUI ! NICE. - Muscles contractés, Fermo Camellini vient, une nouvelle fois, d'échapper dans le col de Castillon et il passe ici, à toute allure, au virage qui le mène au pied de la Turbie, dernier obstacle avant la victoire.
 (Bélinogramme spécial L'Équipe)
 
 -----
 
 Section 29 : 
+
+Source : <ref name=":21">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
 
 CEUX QUI RESTENT QUALIFIÉS
 
@@ -577,6 +619,8 @@ SUD-EST (maillot violet, bande blanche) : 91. Bonnet, 92. De Gribaldy, 95. Lazar
 
 Section 30 : 
 
+Source : <ref name=":22">{{Article|langue=fr|titre=Ronconi a gagné une manche, Vietto perd une place|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
+
 Ronconi a gagné une manche, Vietto perd une place
 NICE. - Le duel Ronconi-Brambilla se poursuit, toujours sans trêve. Ronconi a gagné la seconde manche de la traversée alpine, et, dirigé contre Brambilla, lui a permis de prendre une place au classement général.
 Il pouvait, en effet, porter l'écart avec Vietto à 3' 40". A Nice, Ronconi a couru avec acharnement et sa tactique a surpris Vietto lui-même.
@@ -585,6 +629,8 @@ Il pouvait, en effet, porter l'écart avec Vietto à 3' 40". A Nice, Ronconi a c
 
 Section 31 : 
 
+Source : <ref name=":23">{{Article|langue=fr|titre=L'officiel du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
+
 L'officiel du Tour
 COURRIER. - Rédigez votre bulletin de l'étape de la façon suivante : « Vainqueur d'étape et bonifications : Teisseire et Camellini ».
 A ARLES, PONT INTERDIT. - Pour les étapes NICE-MARSEILLE et MARSEILLE-MONTPELLIER, le pont suspendu de Trinquetaille à Arles étant interdit, la dérivation suivante sera indiquée en temps utile.
@@ -592,6 +638,8 @@ A ARLES, PONT INTERDIT. - Pour les étapes NICE-MARSEILLE et MARSEILLE-MONTPELLI
 -----
 
 Section 32 : 
+
+Source : <ref name=":24">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
 
 La radiodiffusion du « Tour »
 (Radio-Luxembourg et la Radiodiffusion française)
@@ -614,25 +662,17 @@ CHAINE NATIONALE : 16 h. 30, 20 h. 30.
 
 Section 33 : 
 
+Source : <ref name=":25">{{Article|langue=fr|auteur1=Jean Heltey|titre=En « les » attendant à Nice|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f2}}|accès url=libre}}.</ref>
+
 En « les » attendant à Nice
 (De notre corresp. part. Jean HELTEY)
 NICE. - Le public de Nice et des environs s'est empressé au passage des héros du Tour de France. Sur la Promenade des Anglais et au bord de la mer, la foule acclama chaleureusement les champions.
 
 -----
 
-Section 36 : 
-
-Le Championnat de France recouru sans sélection ?
-
-NICE. — De l'avis des membres du Groupement des professionnels, l'organisation fixée à Nice, si ce Championnat de France doit être annulé et recouru, cela ne pourrait l'obliger les coureurs de Nice, non seulement il convient de préciser le sentiment général accepté par la FFC, mais encore le fait d'admettre par trop les coureurs au tour de piste d'Aubagne, blêmissent en condition supérieure.
-
-Il n'est donc pas question de le refaire disputer entre la fin de la grande boucle et les Championnats du monde, mais à moins, ce qui est improbable, que tous les professionnels désirent s'incliner sur l'ensemble de leurs résultats sur l'Aubagne, pour cette course qui s'étaient ou non d'épreuve qualificative.
-
-Ce qui paraît être la solution la plus raisonnable. — J. de WETTER.
-
------
-
 Section 56 : 
+
+Source : <ref name=":26">{{Article|langue=fr|titre=Les Alpes sont passées, pourtant Vietto...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
 
 LE JOURNAL DU TOUR
 
@@ -642,6 +682,8 @@ Camellini, Brambilla et Ronconi se tiennent en 3'25"!
 -----
 
 Section 57 : 
+
+Source : <ref name=":27">{{Article|langue=fr|auteur1=André Costes|titre=Ce 34e Tour de France ne connaît pas de trêve...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
 
 CE 34e TOUR DE FRANCE NE CONNAÎT PAS DE TRÊVE...
 D'un de nos envoyés spéciaux André COSTES.
@@ -695,6 +737,8 @@ Quant à Fachleitner nous nous réserverons de vous en parler demain. Sa régula
 
 Section 58 : 
 
+Source : <ref name=":28">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Pour prendre le maillot jaune... il faudrait trois Klabinsky à Camellini|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
+
 POUR PRENDRE le maillot jaune...
 IL FAUDRAIT
 trois Klabinsky à Camellini
@@ -745,6 +789,8 @@ Il en a pour une équipe...
 
 Section 59 : 
 
+Source : <ref name=":29">{{Article|langue=fr|auteur1=Dante Gianello|titre=Le maillot jaune porterait-il malheur ?|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
+
 UN CHAMPION ECRIT
 Le maillot jaune porterait-il malheur ?
 par Dante GIANELLO
@@ -775,6 +821,8 @@ Je pense souvent au mot d'un de mes directeurs : « Si le maillot jaune est un p
 
 Section 60 : 
 
+Source : <ref name=":30">{{Article|langue=fr|titre=« Saint Eloi » n'est pas mort...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
+
 « SAINT ELOI » N'EST PAS MORT...
 
 NICE. — Tassin, le courageux Tassin, était parti hier de Digne couvert de pansements. Tête, bras, jambe touchés dans sa chute dans l'Izoard. Eroi a souffert terriblement, mais a terminé en bon rang. Tassin n'est pas « mort », encore, et tient à l'assurer.
@@ -784,11 +832,15 @@ NICE. — Tassin, le courageux Tassin, était parti hier de Digne couvert de pan
 
 Section 61 : 
 
+Source : <ref name=":31">{{Article|langue=fr|titre=Cette quatrième place me redonne le moral|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
+
 « Cette quatrième place me redonne le moral, nous dit Cailleux. Et maintenant, je suis persuadé que j'enlèverai au moins une étape avant la fin du Tour... si je ne crève pas. »
 
 -----
 
 Section 62 : 
+
+Source : <ref name=":32">{{Article|langue=fr|titre=Un autre éclopé !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
 
 UN AUTRE ECLOPE !
 
@@ -798,6 +850,8 @@ NICE. — Diot, un autre coureur, un autre éclopé, souffre terriblement de sa 
 -----
 
 Section 63 : 
+
+Source : <ref name=":33">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=Le point de vue belge : on attendait Impanis, Callens survint|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
 
 Le point de vue BELGE
 On attendait Impanis
@@ -814,6 +868,8 @@ Je m'en voudrais de ne pas citer l'énergie déployée du Tour par nos deux Wall
 -----
 
 Section 64 : 
+
+Source : <ref name=":34">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : les possibilités italiennes intactes après la dixième étape|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
 
 Le point de vue ITALIEN
 Les possibilités italiennes intactes après la dixième étape
@@ -835,6 +891,8 @@ Hier, je me permettais de dire que l'un sera au service de l'autre quand le clas
 -----
 
 Section 65 : 
+
+Source : <ref name=":35">{{Article|langue=fr|auteur1=Fernand Albaret|titre=Au pays des belles filles|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS TOURS DANS MON SAC
 ... EN SHORT
@@ -896,11 +954,15 @@ Que Dieu ne l'entende pas !
 
 Section 66 : 
 
+Source : <ref name=":36">{{Article|langue=fr|titre=Tassin, lui, avait percuté dans un mur, la veille|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
+
 Tassin, lui, avait percuté dans un mur, la veille. Il est parti couvert de pansements. Un vrai panneau réclame pour produits pharmaceutiques...
 
 -----
 
 Section 67 : 
+
+Source : <ref name=":37">{{Article|langue=fr|auteur1=A. de Wetter|titre=Vietto blessé au pied voulait abandonner !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
 
 VIETTO blessé au pied voulait abandonner !
 
@@ -917,6 +979,8 @@ A ses efforts de la 9e étape ?
 -----
 
 Section 68 : 
+
+Source : <ref name=":38">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
 
 LE FAIT HUMAIN
 par Paul Guitard
@@ -939,6 +1003,8 @@ Combien de coursiers de France ont réussi dans la bataille, garder-la précieus
 -----
 
 Section 69 : 
+
+Source : <ref name=":39">{{Article|langue=fr|auteur1=A. de Wetter|titre=Confidences des sélectionneurs du monde|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=07 juillet 1947|lire en ligne={{Gallica|id=bd6t5994781/f4}}|accès url=libre}}.</ref>
 
 CONFIDENCES DES SELECTIONNEURS DU MONDE
 

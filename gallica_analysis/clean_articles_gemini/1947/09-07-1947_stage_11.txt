@@ -2,6 +2,8 @@
 
 Section 4 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=34e Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f1}}|accès url=libre}}.</ref>
+
 34e Tour de France
 4.640 KM. - 25 JUIN - 20 JUILLET - 21 ETAPES - 4.580.000 FR. DE PRIX
 UNE EPREUVE DE L'EQUIPE Elans et Le Parisien libéré
@@ -9,6 +11,8 @@ UNE EPREUVE DE L'EQUIPE Elans et Le Parisien libéré
 -----
 
 Section 5 : 
+
+Source : <ref name=":2">{{Article|langue=fr|titre=Nouveau coup de théâtre sur initiative française... renouvelant le « coup » de l'étape Besançon-Lyon|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f1}}|accès url=libre}}.</ref>
 
 Nouveau coup de théâtre sur initiative française... renouvelant le "coup" de l'étape Besançon-Lyon
 
@@ -26,6 +30,8 @@ INFLUENCE DE L'AMBIANCE LOCALE, LES TROIS PREMIERS DE L'ETAPE SONT TROIS PROVEN�
 -----
 
 Section 6 : 
+
+Source : <ref name=":3">{{Article|langue=fr|auteur1=Claude Tillet|titre=L'équipe de France, Vietto en tête, favorise l'entreprise|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f1}}|accès url=libre}}.</ref>
 
 L'équipe de France, Vietto en tête, favorise l'entreprise. Quelle surprise nouvelle réserve l'étape Marseille-Montpellier, patronnée par le Midi Libre ?
 
@@ -51,6 +57,8 @@ Après Beauvallon, à travers les pinèdes brûlantes et les bois de chênes-li�
 
 Section 7 : 
 
+Source : <ref name=":4">{{Article|langue=fr|titre=Giguet vainqueur du Memorial Henri Desgrange|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f1}}|accès url=libre}}.</ref>
+
 Giguet vainqueur du Memorial Henri Desgrange
 (D'un de nos envoyés spéciaux)
 
@@ -61,6 +69,8 @@ La ligne d'arrivée avait été tracée par les soins de M. Georges Seguin, le n
 -----
 
 Section 8 : 
+
+Source : <ref name=":5">{{Article|langue=fr|titre=À Fachleitner le meilleur temps à l'arrivée : 8' 50"|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f1}}|accès url=libre}}.</ref>
 
 A Fachleitner le meilleur temps à l'arrivée : 8' 50"
 
@@ -79,6 +89,8 @@ A Fachleitner le meilleur temps à l'arrivée : 8' 50"
 -----
 
 Section 9 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=Classement de la 11e étape Nice - Marseille (230 km.)|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT DE LA 11e ETAPE
 Nice - Marseille (230 km.)
@@ -100,6 +112,8 @@ Ce qui leur reste à faire
 
 Section 10 : 
 
+Source : <ref name=":7">{{Article|langue=fr|titre=30 km. 689 de moyenne à mi-course|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f1}}|accès url=libre}}.</ref>
+
 30 km. 689 de moyenne à mi-course
 (d'un de nos envoyés spéciaux)
 MARSEILLE. - Au terme d'un trajet qui va fixer le nombre des concurrents au total 4.640, se situait hier une fraction du parcours, près de Cannes, avant l'escalade du massif de l'Estérel.
@@ -117,11 +131,15 @@ Le Livre d'Or du Tour de France contient le compte rendu de tous les Tours, éta
 
 Section 11 : 
 
+Source : <ref name=":8">{{Article|langue=fr|titre=Une prime qui marquera|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f1}}|accès url=libre}}.</ref>
+
 UNE PRIME QUI MARQUERA - MARSEILLE. - Giguet avait bien dans la tête l'idée de disputer la prime du Mémorial Henri Desgrange à Beauvallon. Il a réussi. On le voit, ici, passant en plein effort, sur la ligne tracée face à la villa « Mia » où le père du Tour pensait sans cesse et préparait ses Tours de France. Une prime qui marquera. (Bélinogramme spécial L'EQUIPE)
 
 -----
 
 Section 12 : 
+
+Source : <ref name=":9">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Eh bien ! Messieurs les Italiens ?|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f1}}|accès url=libre}}.</ref>
 
 LES FAITS ET LES HOMMES
 
@@ -155,12 +173,16 @@ Nous disons hier que cette quatrième étape marseillaise allait commander les t
 
 Section 13 : 
 
+Source : <ref name=":10">{{Article|langue=fr|titre=« Fach » le maçon consolide sa place...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f1}}|accès url=libre}}.</ref>
+
 « FACH » LE MAÇON CONSOLIDE SA PLACE...
 MARSEILLE. - Fachleitner, en « danseuse », passe les dernières bosses avant de foncer vers Marseille. L'étape, cependant, a été dure. On lit sur la figure du Manosquin l'empreinte de la fatigue. Mais Fachleitner est déjà stimulé par la perspective de la victoire qui consolidera sa position au classement général. (Bélinogramme spécial L'EQUIPE)
 
 -----
 
 Section 19 : 
+
+Source : <ref name=":11">{{Article|langue=fr|titre=Belges et Italiens restent longtemps sur une incompréhensible réserve...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
 
 Tour de France
 Ils triompheront des intempéries grâce à leur imperméable
@@ -176,6 +198,8 @@ Belges et Italiens restent longtemps sur une incompréhensible réserve...
 -----
 
 Section 20 : 
+
+Source : <ref name=":12">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Eh bien ! Messieurs les Italiens ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
 
 EH BIEN !
 Messieurs les Italiens ?
@@ -213,6 +237,8 @@ Aujourd'hui, « Fach » a ramassé un bénéfice plus important encore que la mo
 
 Section 21 : 
 
+Source : <ref name=":13">{{Article|langue=fr|auteur1=Claude Tillet|titre=L'équipe des coups de Trafalgar !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
 (Suite de l'article de Claude TILLET)
 
 Mais, comme la patronne, brave femme, revenait sur le pas de la porte, une canette à la main, on le rappela. Il vira de bord et vint gentiment prendre la bouteille. Un ancien vainqueur du Tour, qui se trouvait là, n'en croyait pas ses yeux.
@@ -234,6 +260,8 @@ Mais n'est-il pas intéressant de comparer les gars de Pierre Gallien à ceux de
 
 Section 22 : 
 
+Source : <ref name=":14">{{Article|langue=fr|titre=La moyenne des étapes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
 La moyenne des étapes
 1.	Paris-Lille ... 36 km. 352
 2.	Lille-Bruxelles ... 35 km. 701
@@ -251,6 +279,8 @@ La moyenne des étapes
 
 Section 23 : 
 
+Source : <ref name=":15">{{Article|langue=fr|titre=Profits et pertes d'une étape à l'autre|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
 Profits et pertes d'une étape à l'autre
 Fachleitner (4) ... + 15' 16"
 Rémy (2) ... + 7' 14"
@@ -265,6 +295,8 @@ Si Fachleitner n'a gagné qu'une place, il s'est considérablement rapproché de
 
 Section 24 : 
 
+Source : <ref name=":16">{{Article|langue=fr|titre=Fachleitner décrochera-t-il un troisième gros lot ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
 Fachleitner décrochera-t-il un troisième gros lot ?
 
 Quant à « Fach », il est incontestable que l'homme est redoutable. Mais il ne les doit pas à la seule chance.
@@ -276,6 +308,8 @@ Demain, étape très plate et possiblement ventée, la grande déroute ne rester
 -----
 
 Section 25 : 
+
+Source : <ref name=":17">{{Article|langue=fr|titre=Où en sont les leaders de chaque équipe|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
 
 Où en sont les leaders de chaque équipe
 France. - J. Vietto ... H. m. s.
@@ -292,6 +326,8 @@ Ile-de-Fr. - 27. Barret ... 1 54 28
 -----
 
 Section 26 : 
+
+Source : <ref name=":18">{{Article|langue=fr|titre=Classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -374,12 +410,16 @@ Comme tous les sportifs, les membres de l'équipe sélectionnée de « L'Equipe 
 
 Section 27 : 
 
+Source : <ref name=":19">{{Article|langue=fr|titre=Cols bleus et maillots multicolores|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
 COLS BLEUS ET MAILLOTS MULTICOLORES - MARSEILLE. - Il ne faut pas chercher à savoir où passent, sur la photo, les coureurs du Tour emmenés par Kléber Piot. La vue des innombrables « cols bleus » qui jalonnent l'avenue de Toulon suffit à elle seule. Aspect pittoresque et traditionnel du Tour... que les coureurs multicolores égaient curieusement.
 (Bélinogramme spécial L'EQUIPE)
 
 -----
 
 Section 28 : 
+
+Source : <ref name=":20">{{Article|langue=fr|auteur1=A. de Wetter|titre=Fachleitner à la manière de...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
 
 FACHLEITNER A LA MANIERE DE...
 D'un de nos envoyés spéciaux A. DE WETTER
@@ -416,6 +456,8 @@ En extremis, dans le col, Robic, sentant le coup de Fachleitner allait lui coût
 
 Section 29 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=Remarques d'un jour à l'autre|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
 REMARQUES D'UN JOUR A L'AUTRE
 D'un de nos envoyés spéciaux
 
@@ -432,6 +474,8 @@ Un prix spécial de 100.000 francs au premier de l'équipe du Sud-Est.
 
 Section 30 : 
 
+Source : <ref name=":22">{{Article|langue=fr|auteur1=A. de W.|titre=« Je ne vise plus que les victoires d'étape » nous confie Robic déçu par la tactique des Bretons|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
 « Je ne vise plus que les victoires d'étape »
 nous confie Robic déçu par la tactique des Bretons
 D'un de nos envoyés spéciaux
@@ -445,6 +489,8 @@ MARSEILLE. - A l'arrivée à Marseille, Biquet Robic, était déçu. Le vainqueu
 -----
 
 Section 31 : 
+
+Source : <ref name=":23">{{Article|langue=fr|auteur1=René de Latour|titre=Derrière Rémy, qui ne fut vaincu que par la fringale les « régionaux », Bonnet et Gnazzo ont brillé dans leur fief|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
 
 DERRIERE REMY, QUI NE FUT VAINCU QUE PAR LA FRINGALE
 les « régionaux », Bonnet et Gnazzo ont brillé dans leur fief
@@ -472,6 +518,8 @@ Mais parlons un peu des Bretons. Dans cette liste inscrivons Tassin. Isolé de t
 
 Section 32 : 
 
+Source : <ref name=":24">{{Article|langue=fr|titre=Ce qui leur reste à faire|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
 Ce qui leur reste à faire
 12.	Nice-Marseille ... 230 km.
 13.	Montpellier-Carcassonne ... 172 km.
@@ -488,6 +536,8 @@ Ce qui leur reste à faire
 
 Section 33 : 
 
+Source : <ref name=":25">{{Article|langue=fr|auteur1=Georges de Caversky et Raymond Saladin|titre=Sous les ailes de l'Auster|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
 SOUS LES AILES DE L'AUSTER
 par nos envoyés spéciaux Georges de CAVERSKY et Raymond SALADIN
 
@@ -502,6 +552,8 @@ Puis après Toulon, Fachleitner et Rémy filaient vers Marseille, nous avons pu 
 -----
 
 Section 34 : 
+
+Source : <ref name=":26">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
 
 La radiodiffusion du « Tour »
 MERCREDI 9 JUILLET
@@ -526,6 +578,8 @@ CHAINE NATIONALE : 16 h. 20. 20 h. 50.
 -----
 
 Section 35 : 
+
+Source : <ref name=":27">{{Article|langue=fr|titre=Aujourd'hui, douzième étape Marseille - Montpellier|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
 
 AUJOURD'HUI, DOUZIEME ETAPE
 MARSEILLE - MONTPELLIER
@@ -564,6 +618,8 @@ Itinéraire d'arrivée : avenue de Nîmes, boulevard Louis-Blanc, faubourg du Co
 
 Section 36 : 
 
+Source : <ref name=":28">{{Article|langue=fr|titre=Demain, treizième étape Montpellier-Carcassonne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
 DEMAIN, TREIZIEME ETAPE
 MONTPELLIER-CARCASSONNE
 Sous le patronage du « Midi Libre »
@@ -601,6 +657,8 @@ CARCASSONNE (Vélodrome) ... 172 16.10
 
 Section 37 : 
 
+Source : <ref name=":29">{{Article|langue=fr|titre=Longines|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
 LONGINES
 sont les seuls utilisées pour le
 Chronométrage officiel
@@ -608,7 +666,20 @@ du Tour de France cycliste
 
 -----
 
+Section 38 : 
+
+Source : <ref name=":30">{{Article|langue=fr|titre=René Vietto, Ed. Fachleitner champions de France-Sport et des freins Lam|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
+
+RENE VIETTO
+ED. FACHLEITNER
+CHAMPIONS DE FRANCE-SPORT
+ET DES FREINS LAM
+
+-----
+
 Section 40 : 
+
+Source : <ref name=":31">{{Article|langue=fr|titre=En attendant les coureurs...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f2}}|accès url=libre}}.</ref>
 
 EN ATTENDANT LES COUREURS...
 MONTE CARLO. - C'est en présence du Président Roosevelt au profit de la souscription pour un Monument à sa mémoire.
@@ -620,18 +691,9 @@ Le peloton a effectué l'étape Marseille-Montpellier...
 
 -----
 
-Section 67 : 
-
-Autour du match
-
-— L'équipe de Suisse arrivera à Paris samedi matin, à 7 h. 10, gare de l'Est, et descendra à l'Hôtel Terminus-Nord.
-— Celle de Belgique sera également samedi à Paris à 11 h. 14, gare du Nord, et descendra à l'Hôtel Terminus, Saint-Lazare.
-— Pour le match, le contrôle de piste sera installé dans les wagons-lits. Prix des places : virages debout 50 fr. ; pelouse 100 fr. ; tribunes 250 et 150 ; Marathon : 120 et 80 ; pesage 50 fr.
-— Location des places, taxe de 3 francs pour P. O.
-
------
-
 Section 91 : 
+
+Source : <ref name=":32">{{Article|langue=fr|titre=Le second « coup de maître » de Fachleitner peut être le prélude à une panique|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
 
 Le second "coup de maître" de Fachleitner  
 peut être le prélude à une panique  
@@ -641,6 +703,8 @@ ventés par la tactique Léo Véron
 -----
 
 Section 92 : 
+
+Source : <ref name=":33">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=Il faut tout reprendre à zéro car la tradition est perdue !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
 
 Le point  
 de vue  
@@ -761,6 +825,8 @@ son, dans les grandes classiques.
 
 Section 93 : 
 
+Source : <ref name=":34">{{Article|langue=fr|auteur1=Guido Giardini|titre=Journée noire|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
+
 Le point  
 de vue  
 ITALIEN  
@@ -844,6 +910,8 @@ Attention, Italiens !...
 
 Section 94 : 
 
+Source : <ref name=":35">{{Article|langue=fr|auteur1=Dante Gianello|titre=« L'air du pays »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
+
 UN CHAMPION ECRIT...  
 « L'AIR DU PAYS »  
 par Dante GIANELLO  
@@ -910,6 +978,8 @@ victoire. Verrons-nous la même chose se reproduire dans ce Tour 1947 ?
 -----
 
 Section 95 : 
+
+Source : <ref name=":36">{{Article|langue=fr|auteur1=André Costes|titre=Est-ce le bilan de la première moitié du Tour ?|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
 
 D'un de nos envoyés spéciaux André COSTES.  
 
@@ -1100,6 +1170,8 @@ tention de savoir doser se-
 
 Section 96 : 
 
+Source : <ref name=":37">{{Article|langue=fr|auteur1=J. C.|titre=Comment M. Véron voit ses hommes|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
+
 Comment M. Véron  
 voit ses hommes  
 
@@ -1131,6 +1203,8 @@ gros travail. — J. C.
 
 Section 97 : 
 
+Source : <ref name=":38">{{Article|langue=fr|titre=Ceux qui se réveillent...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
+
 CEUX QUI SE RÉVEILLENT...  
 MARSEILLE. — Rémy et Fachleitner échappés :  
 cela se conçoit aisément. Neuf minutes d'avance :  
@@ -1142,6 +1216,8 @@ faussé compagnie au peloton d'endormis et foncent... hélas ! trop tard vers le
 -----
 
 Section 98 : 
+
+Source : <ref name=":39">{{Article|langue=fr|titre=Rémy a manqué d'une musette !...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
 
 RÉMY A MANQUÉ  
 D'UNE MUSETTE !...  
@@ -1191,6 +1267,8 @@ reurs. Ce n'est que justice.
 -----
 
 Section 99 : 
+
+Source : <ref name=":40">{{Article|langue=fr|auteur1=Marcel Dieudonné|titre=« Je l'ai échappé belle ! »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
 
 "Je l'ai échappé  
 belle !"  
@@ -1252,6 +1330,8 @@ Féinard, va !
 
 Section 100 : 
 
+Source : <ref name=":41">{{Article|langue=fr|auteur1=F. A.|titre=« Est-ce loin Beauvallon ? » a demandé Giguet|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
+
 « Est-ce loin Beauvallon ? »  
 a demandé GIGUET  
 D'un de nos envoyés spéciaux  
@@ -1279,6 +1359,8 @@ remercie ». — F. A.
 -----
 
 Section 101 : 
+
+Source : <ref name=":42">{{Article|langue=fr|auteur1=Fernand Albaret|titre=Il a fait un « malheur » le petit...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS TOURS DANS MON SAC  
 Il a fait un "malheur"  
@@ -1443,6 +1525,8 @@ c'était fini.
 
 Section 102 : 
 
+Source : <ref name=":43">{{Article|langue=fr|auteur1=Albert de Wetteren|titre=« Un seul leader, Vietto ! » nous dit Léo Véron|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
+
 « UN SEUL LEADER, VIETTO ! »  
 nous dit Léo VÉRON  
 qui se refuse à faire de la stratégie au tableau noir  
@@ -1552,6 +1636,8 @@ les Transalpins.
 -----
 
 Section 103 : 
+
+Source : <ref name=":44">{{Article|langue=fr|auteur1=Paul Guitard|titre=Un de Manosque...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
 
 LE FAIT HUMAIN  
 Un de Manosque...  
@@ -1689,6 +1775,8 @@ Un vrai.
 -----
 
 Section 104 : 
+
+Source : <ref name=":45">{{Article|langue=fr|auteur1=F. A.|titre=« Demain, je prouverai que je suis Français ! » nous déclare Paul Neri|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=09 juillet 1947|lire en ligne={{Gallica|id=bd6t599480k/f4}}|accès url=libre}}.</ref>
 
 « Demain, je prouverai  
 que je suis Français ! »  

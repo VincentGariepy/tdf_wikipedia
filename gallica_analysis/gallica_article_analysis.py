@@ -1,14 +1,27 @@
 import os
+import re
 from typing import Literal
 import tqdm
+import json
+import locale
 from typesafe_sdk import TypeSafeClient, Noul
 from google import genai
+from pydantic import BaseModel, Field
+from typing import Optional, List
+from datetime import datetime
+
+from gallica_analysis.gallica_article_parsing import parse_str_index_datetime
 
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 OPENROUTER_BASE_URL = "https://openrouter.ai/api"
 
+GALLICA_SOURCE_FORMAT_WITH_AUTHOR = """<ref name=":{ref_num}">{{{{Article|langue=fr|auteur1={author}|titre={title}|périodique=L'Équipe : Le stade, l'air, la route|pages={page_num}|date={str_date}|lire en ligne={{{{Gallica|id={ark_id}/f{page_num}}}}}|accès url=libre}}}}.</ref>"""
+GALLICA_SOURCE_FORMAT_WITHOUT_AUTHOR = """<ref name=":{ref_num}">{{{{Article|langue=fr|titre={title}|périodique=L'Équipe : Le stade, l'air, la route|pages={page_num}|date={str_date}|lire en ligne={{{{Gallica|id={ark_id}/f{page_num}}}}}|accès url=libre}}}}.</ref>"""
+
 API_KEY = os.getenv("GOOGLE_AI_WIKI_KEY")
 GEMINI_SUMMARY_MODEL = "gemini-3.8-flash"
+
+equipe_ark_cache = 'gallica_analysis/cache/equipe_ark_ids.json'
 
 gemini_article_paths = 'gallica_analysis/full_articles_gemini/{year}/'
 gemini_clean_article_paths = 'gallica_analysis/clean_articles_gemini/{year}/'
@@ -53,18 +66,88 @@ Le trio de tête continue d'accentuer son avance. Derrière, Vanderstockt et Wag
 
 Le sprint final disputé sur la piste du Stade vélodrome de Rennes est remporté par Van Steenbergen qui devance aisément ses compagnons d’échappée et enfile le maillot jaune[41]. Vanderstockt (qui s'est échappé du groupe Lauredi) termine à 2 min 54 s, les neuf poursuivants à 3 min 8 s, le peloton à 6 min 21 s[50]."""
 
+class ArticleMetadata(BaseModel):
+    author: Optional[str] = Field(description="Author of the article")
+    title: str = Field(description="Title of the article")
 
-def clean_article(article_text: str, year: int) -> str:
+class ArticleSources(BaseModel):
+    sources: dict[int, ArticleMetadata] = Field(description="Dict containig the section number as key and author and title as value")
+
+    def print(self):
+        for source in self.sources.keys():
+            print(f"Section : {str(source)}, Author : {self.sources[source].author}, Title : {self.sources[source].title}")
+
+def build_full_source(article_metadata: ArticleMetadata, page_num: str, ref_num: str, ark_id: str, date: str) -> str:
+    try:
+            locale.setlocale(locale.LC_TIME, "fr_FR.UTF-8")
+    except locale.Error:
+        # Fallback syntax for Windows systems
+        locale.setlocale(locale.LC_TIME, "french")
+
+    formatted_date = datetime.strftime(parse_str_index_datetime(date), '%d %B %Y')
+    
+    if article_metadata.author is not None and article_metadata.author != "":
+        return GALLICA_SOURCE_FORMAT_WITH_AUTHOR.format(
+            author=article_metadata.author,
+            title=article_metadata.title,
+            page_num=page_num,
+            ref_num=ref_num,
+            ark_id=ark_id,
+            str_date=formatted_date
+        )
+    else:
+        return GALLICA_SOURCE_FORMAT_WITHOUT_AUTHOR.format(
+            title=article_metadata.title,
+            page_num=page_num,
+            ref_num=ref_num,
+            ark_id=ark_id,
+            str_date=formatted_date
+        ) 
+
+
+def get_sources_article(article_entry_text: str, date: str) -> ArticleSources:
+    client = genai.Client(api_key=API_KEY)
+
+    interaction = client.interactions.create(
+        model=GEMINI_SUMMARY_MODEL,
+        input=[
+            {"type": "text", 
+                "text": f"""The following text is a collection of short entries from the L'Équipe journal from {date}, your task
+                            is to extract the title and author of each entry, there may not be an author so you can leave that
+                            blank but you should always find a title or give one that makes sense. You should also include the section number
+                            for each source. For the titles and authors, make sure they follow the standard french capitalization, meaning only capitalize
+                            the first letter of a sentence. Ignore the Source:, that is below the Section.
+                            
+                            Here is the entry : {article_entry_text}"""}
+        ],
+        response_format={
+            "type": "text",
+            "mime_type": "application/json",
+            "schema": ArticleSources.model_json_schema()
+        },
+    )
+
+    article_sources = ArticleSources.model_validate_json(interaction.output_text)
+
+    return article_sources
+
+def clean_article(article_text: str, year: int, date: str) -> str:
     client = TypeSafeClient(
         api_key=OPENROUTER_API_KEY,
         base_url=OPENROUTER_BASE_URL
     )
 
-    article_splits = article_text.split("-----")
+    with open(equipe_ark_cache, 'r', encoding='utf-8') as f:
+        ark_id_cache = json.load(f)
+        article_ark_id = ark_id_cache[date]
+
     cleaned_article = ""
+    page_counter = 0
+    source_counter = 0
+    for i, split in enumerate(article_text.split("-----")):
+        if "--- Page " in split:
+            page_counter += 1
 
-
-    for i, split in enumerate(article_splits):    
         response = client.system_one(
             state={'document': split},
             questions={
@@ -73,8 +156,23 @@ def clean_article(article_text: str, year: int) -> str:
         )
 
         if response.answers['cleaned_article'].noul >= 0.5:
-            cleaned_article += f"\n\nSection {i + 1} : " + split + "-----"
+            source_counter += 1
+            cleaned_article +=\
+            f"\n\nSection {i + 1} : " +\
+            f"\n\nSource : {f'wiki_source_{page_counter}_{i+1}_{source_counter}'}" +\
+            split +\
+            "-----"
     
+    sources = get_sources_article(cleaned_article, date)
+
+    regex_pattern = r"wiki_source_(\d+)_(\d+)_(\d+)"
+    str_matches = re.findall(regex_pattern, cleaned_article)
+
+    for page_num, section_num, ref_num in str_matches:
+        cleaned_article = cleaned_article.replace(
+            f"wiki_source_{page_num}_{section_num}_{ref_num}", 
+            build_full_source(sources.sources[int(section_num)], int(page_num), int(ref_num), article_ark_id, date))
+
     return cleaned_article
 
 def clean_tdf_articles(year: int, parsing_tool: Literal['Cohere', 'Gemini'], overwrite: bool):
@@ -87,6 +185,8 @@ def clean_tdf_articles(year: int, parsing_tool: Literal['Cohere', 'Gemini'], ove
 
     for filename in tqdm.tqdm(os.listdir(article_dir), desc=f"Processing articles for {year}"):
         if filename.endswith(".txt"):
+            date = filename.split('_')[0]
+
             article_path = os.path.join(article_dir, filename)
             clean_article_path = os.path.join(clean_article_dir, filename)
 
@@ -96,7 +196,7 @@ def clean_tdf_articles(year: int, parsing_tool: Literal['Cohere', 'Gemini'], ove
             with open(article_path, 'r', encoding='utf-8') as f:
                 article_text = f.read()
 
-            cleaned_text = clean_article(article_text, year)
+            cleaned_text = clean_article(article_text, year, date, )
 
             with open(clean_article_path, 'w', encoding='utf-8') as f:
                 f.write(cleaned_text)

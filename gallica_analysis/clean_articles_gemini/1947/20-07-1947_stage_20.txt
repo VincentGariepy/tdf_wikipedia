@@ -1,10 +1,14 @@
 
 
 Section 5 : 
+
+Source : <ref name=":1">{{Article|langue=fr|titre=Avant-dernière journée... Première étape sous la pluie...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f1}}|accès url=libre}}.</ref>
 AVANT-DERNIÈRE JOURNÉE... PREMIÈRE ÉTAPE SOUS LA PLUIE...
 -----
 
 Section 6 : 
+
+Source : <ref name=":2">{{Article|langue=fr|titre=34e Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f1}}|accès url=libre}}.</ref>
 34e TOUR DE FRANCE
 4.640 KM.
 25 JUIN - 20 JUILLET
@@ -16,6 +20,8 @@ Le Parisien libéré
 -----
 
 Section 7 : 
+
+Source : <ref name=":3">{{Article|langue=fr|titre=Les "Tour de France" filent sur Caen à une allure endiablée|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f1}}|accès url=libre}}.</ref>
 Les "Tour de France" filent sur Caen à une allure endiablée
 LE RAPIDE PARISIEN DIOT BAT
 huit autres fuyards au sprint
@@ -23,6 +29,8 @@ Les leaders, à plus de 15 minutes... - Raymond IMPANIS, auteur d'une très bell
 -----
 
 Section 8 : 
+
+Source : <ref name=":4">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Les faits et les hommes|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f1}}|accès url=libre}}.</ref>
 LES FAITS ET LES HOMMES
 C'est bien plus gentil comme ça...
 De notre Directeur Jacques GODET
@@ -37,6 +45,8 @@ Nous nous interrogions, ce matin encore entre camarades du Tour, sur les raisons
 -----
 
 Section 9 : 
+
+Source : <ref name=":5">{{Article|langue=fr|auteur1=Claude Tillet|titre=Brambilla a largement pris ses responsabilités de leader et l'attaque bretonne n'a pas eu lieu...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f1}}|accès url=libre}}.</ref>
 Brambilla a largement pris ses responsabilités de leader et l'attaque bretonne n'a pas eu lieu...
 LE RÉSULTAT FINAL DU "TOUR" NE SERA CONNU
 que cet après-midi au Parc des Princes
@@ -64,28 +74,9 @@ de Venox, délavée mais parfaitement praticable pour une arrivée d'hommes, ave
 (Lire la suite page 2.)
 -----
 
-Section 10 : 
-AU PARC DES PRINCES
-EN ATTENDANT LES « TOUR DE FRANCE »
-
-Les casaques tricolores de
-SENFFTLEBEN
-LAMBOLEY
-CARRARA
-ne doivent subir aucun outrage
-
-Après plaines et montagnes, fleuves et glaciers, ce sera aujourd'hui l'apothéose au Parc, sanctuaire où tout champion cycliste qui se respecte vient se faire sacrer.
-En chacun d'avoir au cœur l'angoisse curieuse de l'attente, l'impatience de libérer un enthousiasme trop longtemps contenu.
-Cette attente ne sera cependant pas stérile, car dès 13 heures, les pistards de toutes spécialités rivaliseront de brio pour créer l'ambiance.
-Trois tricolores frais émoulus, nos trois jeunes champions de France conduiront le bal en pensant que cette répétition à grand spectacle, sera l'ultime revue avant les Championnats du monde.
-
-Plattner, trouble-fête ?
-Place tout d'abord aux pistards. Ils y seront tous, les nationaux de cette ingrate spécialité mais, à part Carsy, nous ne pouvons compter encore une fois que sur Senfftleben et Gérardin pour endiguer le flot Plattner. L'Isolé Van Looveren, « Senfft >> nous doit une démonstration de grand style. Faisons-lui confiance malgré la métier de son ami « Toto » et la puissance de Plattner en qui pourtant nous voyons un trouble-fête fort possible.
-Michel THIERRY
-(Lire la suite p. 3, en rub. Cyclisme.)
------
-
 Section 11 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=Supplique au public de la région parisienne|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f1}}|accès url=libre}}.</ref>
 SUPPLIQUE AU PUBLIC DE LA REGION PARISIENNE
 LAISSEZ LE TOUR DE FRANCE être disputé jusqu'au bout!
 
@@ -100,6 +91,8 @@ MERCI !
 -----
 
 Section 12 : 
+
+Source : <ref name=":7">{{Article|langue=fr|titre=Depuis 1930, jamais un leader n'avait eu une si faible avance au matin de l'ultime étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f1}}|accès url=libre}}.</ref>
 Depuis 1930, jamais un leader n'avait eu une si faible avance au matin de l'ultime étape
 
 Voici les écarts entre le leader et le second du classement général, au départ depuis l'ultime étape, depuis la formule des équipes nationales :
@@ -117,6 +110,8 @@ Voici les écarts entre le leader et le second du classement général, au dépa
 -----
 
 Section 13 : 
+
+Source : <ref name=":8">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Italiens Brambilla a démarré pour vaincre l'ennui|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f1}}|accès url=libre}}.</ref>
 Italiens BRAMBILLA a DÉMARRÉ pour vaincre l'ennui
 D'un de nos envoyés spéciaux Albert de WETTER
 
@@ -137,16 +132,22 @@ Temps avec bonific... 6 23 7
 -----
 
 Section 14 : 
+
+Source : <ref name=":9">{{Article|langue=fr|titre=Confirmation tardive...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f1}}|accès url=libre}}.</ref>
 CONFIRMATION TARDIVE... CAEN. — Depuis le départ du Tour, on attendait que Maurice Diot déploie ses qualités de routier-sprinter des arrivées. Enfin, hier, à Caen, le sociétaire de l'équipe d'Ile-de-France a réussi à confirmer ses qualités. Il le fait, on le voit, bien nettement et règle Mollin (à droite), Muller, Impanis et les autres, perdus sous la pluie persistante.
 (Bélinogramme spécial L'EQUIPE)
 -----
 
 Section 17 : 
+
+Source : <ref name=":10">{{Article|langue=fr|titre=Un rescapé du Tour !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f1}}|accès url=libre}}.</ref>
 UN RESCAPÉ DU TOUR !
 GARNIER « Le Vin du Cheveu », qui a triomphé à la Coupe Mondiale de la Coiffure avec l'Extrait de Moelle et la Brillantine à la Moelle, triomphe maintenant des difficultés de survol du Tour en amenant son avion publicitaire jusqu'à l'arrivée.
 -----
 
 Section 19 : 
+
+Source : <ref name=":11">{{Article|langue=fr|auteur1=Jacques Goddet|titre=C'est bien plus petit comme ça...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
 Tour de France
 Ils triompheront des intempéries grâce à leur imperméable
 C.C.C.
@@ -168,6 +169,8 @@ Nous sommes ravis pour la tradition du Tour que la Belgique rentre à Paris en v
 
 Section 20 : 
 
+Source : <ref name=":12">{{Article|langue=fr|titre=Vietto en queue du peloton...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 Vietto en queue du peloton...
 
 Nous n'avions pas encore vu, depuis 19 étapes, René Vietto traînant mélancoliquement dans les queues du peloton. Le Tour ramène plus vers Paris que l'ombre de Vietto... La lourdeur de son coup de pédale et son aplomb ne cachaient-ils pas l'attitude d'un homme qui a perdu un choc nerveux dans un sens agressif ? L'homme est si étrange et son statut réactualisé est si troublé que toute violence sentimentale sera saisie par lui dans la dernière étape. Et comme il est certain que Robic tentera sa chance et se donnera à la mort, un Vietto est encore capable d'un coup d'éclat. Pour ne leurrer personne, déclarons que nous n'y croyons pas parce que Vietto a comme sentiment son impuissance et c'est là que réside le drame. Le cannois, si raisonneur qu'il soit, ne peut pas trouver d'accusations à porter contre les gens, les choses ou le sport. Sa défaite présente un aspect inéluctable. Et elle révèle ses origines d'extrême faiblesse que le pauvre René dut accomplir pour surmonter ses propres impossibilités, après une dimension qui de Challes, se développa toute la journée du mauvais Télégraphe, son pénible Izoard, son douloureux Braus, sa catastrophique Turbie, et son héroïque sauvetage à la suite de Peyresourde et d'Aspin. Il est déjà magnifique que le René Vietto de 1947, qui a perdu ses sept meilleures années, se soit chaque fois redressé et que dans son émouvant numéro de funambule il n'ait trébuché que très tard dans une expérience pour laquelle sont connus bien ses petites colères et ses emportements. Nous comprenons pourquoi sa première parole en descendant de vélo à Saint-Brieuc fut de déclarer, le regard fixe, qu'il reprenait immédiatement le train. Qu'importe, en effet, pour René Vietto une place de podium et les acclamations affectueuses, un tour d'honneur derrière un bouquet pompeux ! Lui seul sait qu'il a perdu tout... à la fin, et ses violences ne sont qu'un masque plaqué sur sa grande peine.
@@ -175,6 +178,8 @@ Nous n'avions pas encore vu, depuis 19 étapes, René Vietto traînant mélancol
 -----
 
 Section 21 : 
+
+Source : <ref name=":13">{{Article|langue=fr|titre=L'attaquant n° 1 : Brambilla !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
 
 L'attaquant N° 1 : Brambilla !
 
@@ -190,6 +195,8 @@ Non seulement, la morale sportive vu le premier du classement prendre un tel ris
 
 Section 22 : 
 
+Source : <ref name=":14">{{Article|langue=fr|titre=Les Bretons n'ont sûrement pas renoncé|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 Les Bretons n'ont sûrement pas renoncé
 
 Robic et les autres garçons de Cloarec sont demeurés sur l'expectative. Vous avez d'ailleurs remarqué que quand les coureurs de tête de l'étape ne se sont placés, ni un Tricolore, ni un Breton, mais un seul Italien, Toute la physionomie du Tour de la bataille changeait.
@@ -200,21 +207,17 @@ Mais ne concluons en conséquence que l'immobilité de Robic est annonciatrice d
 
 Section 23 : 
 
+Source : <ref name=":15">{{Article|langue=fr|titre=Vous les énumérez tous ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 Vous les énumérez tous ?
 
 Et sans vous tromper, les vainqueurs du Tour, depuis 1903 ? « Le Livre d'Or du Tour de France » vous aidera. Il donne, étape par étape, le bilan de tous les Tours. En vente à « L'Équipe » : Le grand carnet in 4° : 60 francs. Envoyez 62 francs pour le recevoir recommandé.
 
 -----
 
-Section 25 : 
-
-MAURICE DIOT
-CHAMPION
-DE METROPOLE
-
------
-
 Section 27 : 
+
+Source : <ref name=":16">{{Article|langue=fr|titre=Maurice Diot champion|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
 
 MAURICE DIOT
 champion
@@ -227,6 +230,8 @@ Pompes ZEFAL
 -----
 
 Section 28 : 
+
+Source : <ref name=":17">{{Article|langue=fr|titre=Les coureurs du Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
 
 LES COUREURS DU TOUR DE FRANCE
 sont tous équipés en chaînes et pignons
@@ -243,6 +248,8 @@ Représentants dem pr la FRANCE
 
 Section 31 : 
 
+Source : <ref name=":18">{{Article|langue=fr|titre=Tour de France en attendant les coureurs|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 TOUR DE FRANCE
 EN ATTENDANT LES COUREURS
 achetez le timbre-vignette émis
@@ -257,6 +264,8 @@ Le No attribuaire est B.12204
 -----
 
 Section 32 : 
+
+Source : <ref name=":19">{{Article|langue=fr|auteur1=Claude Tillet|titre=Sur la piste rose du Parc des Princes, Robic a perdu son maillot jaune|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
 
 SUR LA PISTE ROSE DU PARC DES PRINCES, ROBIC A PERDU SON MAILLOT JAUNE
 
@@ -273,6 +282,8 @@ Nous avons bavardé, à ce propos, avec un ancien très grand champion. Celui-ci
 
 Section 33 : 
 
+Source : <ref name=":20">{{Article|langue=fr|titre=Diot et quelques autres|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 Diot et quelques autres
 
 Revenons-en à notre vainqueur d'étape. Son sprint ne fut pas aussi aisé qu'on eût pu le croire. Miller n'est pas un rival négligeable. C'est seulement dans les derniers mètres que le poulain d'Arsène Alancourt a pu régler l'Italien, mais si l'on décrocha cette première place qu'ambitionnait depuis longtemps. En effet, et bien que Maurice n'occupe que le 49e rang au classement général, il a accompli ce que nous n'hésitons pas à qualifier de très bon Tour de France. Il fut là, pratiquement, au cœur des relais, à conserver son maillot jaune dans l'étape Briançon-Digne. Nous ne l'en croie pas, d'ailleurs, à une quelconque défaillance. Il chassa et termina par quelques réflexions sans doute, au fond de la vérité : le Tour n'en est pas encore revenu ! Ensuite, on l'a vu souvent en échappée. Puis il souffrit terriblement d'un furoncle... Il ne songea pas à abandonner. Enfin, depuis quelques étapes, on remarquait son coup de pédale élégant, sa souplesse de coureur en pleine condition. C'est peut-être un gaillard de ce genre qu'il nous faudrait, à Reims, sous le très proche Championnat du Monde.
@@ -284,6 +295,8 @@ On doit signaler ici que Teisseire qu'on croyait faibli, d'ailleurs un peu tard,
 
 Section 34 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=Bataille jusqu'au bout|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 Bataille jusqu'au bout
 
 Consultez le Livre d'Or du Tour. Vous constaterez que les dix dernières « grandes boucles » furent gagnées avec des avances oscillant entre 4' 17" et 30' 38", la moyenne ressortant à 18' environ, mais la différence entre le premier et le second, ce Tour 1947, est seulement de 28" et Ronconi, 2' 58" entre le solide Brambilla et Robic. On conçoit que, dans ces conditions, chacun s'ingénie à jouer très serré et à ne tenter le « coup dur » qu'avec le maximum de chances de réussite. Aujourd'hui, Ronconi n'attaqua pas son équipier et rival. On comprend bien qu'il ne pourrait le faire qu'à la faveur d'une défaillance de Brambilla, ce qui est peu probable. Quant aux Bretons, handicapés par l'état physique de Robic, de Cogan et l'abandon bien regrettable de leurs équipiers, après s'être portés, ils ne bougèrent pas. Et c'est Brambilla qui, par trois fois, sauta à la fenêtre à une ou deux reprises !
@@ -294,6 +307,8 @@ Une enthousiaste foule caennaise, massée de bonne heure autour de l'îlot jaune
 -----
 
 Section 35 : 
+
+Source : <ref name=":22">{{Article|langue=fr|titre=3 hommes réguliers redoutables finisseurs|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
 
 3 HOMMES REGULIERS
 REDOUTABLES FINISSEURS
@@ -325,6 +340,8 @@ St-Brieuc-Caen | 15 | 1 | 22 | 3 | 2 | 6
 
 Section 36 : 
 
+Source : <ref name=":23">{{Article|langue=fr|titre=Classement par points|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 Classement par points
 
 1. ROBIC, 223 pts ; 2. Ronconi, 233 pts ; 3. Brambilla, 234 pts ; 4. Vietto, 247 pts ; 5. Impanis, 273 pts.
@@ -332,6 +349,8 @@ Classement par points
 -----
 
 Section 37 : 
+
+Source : <ref name=":24">{{Article|langue=fr|auteur1=A. de Wetter|titre=Maurice Diot est enfin parvenu à justifier sa réputation|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
 
 MAURICE DIOT EST ENFIN PARVENU A JUSTIFIER SA REPUTATION
 D'un de nos envoyés spéciaux A. De WETTER
@@ -355,6 +374,8 @@ Ce peloton de tête gagne 4' 37" sur Teisseire, Rémy, Barret et Fachleitner. Ro
 -----
 
 Section 38 : 
+
+Source : <ref name=":25">{{Article|langue=fr|auteur1=René Moyset|titre=Grâce à Diot, l'Ile-de-France a eu sa victoire d'étape|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
 
 GRACE A DIOT, L'ILE-DE-FRANCE A EU SA VICTOIRE D'ETAPE
 D'un de nos envoyés spéciaux René MOYSET
@@ -388,6 +409,8 @@ C'est ainsi, par exemple, que Diot, au nombre de 25, demain sera la fête chez l
 
 Section 39 : 
 
+Source : <ref name=":26">{{Article|langue=fr|titre=La caravane publicitaire a renouvelé ses traditions|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 LA CARAVANE PUBLICITAIRE A RENOUVELE SES TRADITIONS
 D'un de nos envoyés spéciaux
 
@@ -418,6 +441,8 @@ De tous nous conserverons un souvenir agréable et à tous nous disons : A l'ann
 
 Section 40 : 
 
+Source : <ref name=":27">{{Article|langue=fr|titre=Les primes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 Les primes
 
 De notre correspondant caennais :
@@ -437,6 +462,8 @@ Une prime de 10.000 francs est offerte par le magazine les « Femmes Françaises
 
 Section 41 : 
 
+Source : <ref name=":28">{{Article|langue=fr|titre=Les marques de cycles ont contribué au succès du Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 Les marques de cycles ont contribué au succès du Tour de France
 
 C'est ainsi que nous citerons : Alcyon, Archambaud, A. Leducq, F. Boisis, Dilecta, Desvages, Express, Genial-Lucifer, Follis, Garin, Givaudan, F. Pélissier, Garin, Grand-Saint-Martin, Helyett, L. Le Grevès, La Perle, Mercier, Métropole, Oscar-Egg, Peugeot, Riva-Sport, Rochet, Stella, Terrot, Urago, Wonder. S'associèrent encore aux succès de nos représentants :
@@ -449,6 +476,8 @@ Les chaînes Brampton, R.M.C., P.P., Sedis.
 -----
 
 Section 43 : 
+
+Source : <ref name=":29">{{Article|langue=fr|titre=Aujourd'hui, l'ultime étape : la vingt et unième, Caen - Paris|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
 
 AUJOURD'HUI, L'ULTIME ETAPE
 LA VINGT ET UNIEME
@@ -567,6 +596,8 @@ Route de Saint-Germain (Nationale 184), boulevard Saint-Antoine, boulevard du Ro
 
 Section 44 : 
 
+Source : <ref name=":30">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 La radiodiffusion du « Tour »
 DIMANCHE 20 JUILLET
 21e étape
@@ -584,6 +615,8 @@ PARIS INTER : 13 h. 15 à 14 h. ; 17 h. (arrivée) et de 20 h. 50 à 21 h. 35 (R
 
 Section 45 : 
 
+Source : <ref name=":31">{{Article|langue=fr|titre=En marge du Tour : vaincu par son estomac !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 EN MARGE DU TOUR
 Vaincu par son estomac !
 
@@ -596,6 +629,8 @@ Les coureurs n'ont pas toujours été aussi bien nourris. Ils mangeaient de tout
 -----
 
 Section 46 : 
+
+Source : <ref name=":32">{{Article|langue=fr|titre=Classement général : à combien ils sont du leader|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GENERAL
 A combien ils sont du leader
@@ -660,6 +695,8 @@ A combien ils sont du leader
 
 Section 47 : 
 
+Source : <ref name=":33">{{Article|langue=fr|titre=Classement du championnat international|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
+
 Classement du Championnat international
 
 (Par addition des trois meilleurs temps de chaque équipe)
@@ -678,6 +715,8 @@ Classement du Championnat international
 -----
 
 Section 48 : 
+
+Source : <ref name=":34">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f2}}|accès url=libre}}.</ref>
 
 CEUX QUI RESTENT QUALIFIES
 
@@ -698,6 +737,8 @@ SUD-EST (maillot violet, bande carmin blanche, casquette carmin) : 92. Giguet, 9
 -----
 
 Section 49 : 
+
+Source : <ref name=":35">{{Article|langue=fr|titre=Note importante pour les suiveurs pour l'arrivée au Parc des Princes|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f3}}|accès url=libre}}.</ref>
 
 NOTE IMPORTANTE POUR LES SUIVEURS POUR L'ARRIVEE AU PARC DES PRINCES. — Les journalistes et suiveurs du Tour de France sont avisés que toutes les voitures officielles pénétreront par la rue du Commandant-Guilbaud. Celles des journalistes occupants qui vous équipaient de leur coureurs, et elles se rangeront suivant les indications de la police.
 Aucun véhicule, auto ou moto, ne sera autorisé à pénétrer sur la piste.
@@ -751,6 +792,8 @@ Espérons que l'arrivée du Tour de France aura lieu par n'importe quel temps, e
 
 Section 80 : 
 
+Source : <ref name=":36">{{Article|langue=fr|auteur1=André Costes|titre=Pierre Brambilla est indécrochable !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f4}}|accès url=libre}}.</ref>
+
 PETITES NOUVELLES
 — Pendant trois jours, une délégation de nageurs britanniques sera l'hôte des Dauphins du TOEC.
 — Après France-Angleterre et en application de ses précédentes décisions, le comité de sélection de la FFN a composé l'équipe de France qui rencontrera la Hollande le 31 août à Haarlem.
@@ -800,6 +843,8 @@ Il semble bien que l'on verra le Tour de France se terminer sur une défaite fra
 
 Section 81 : 
 
+Source : <ref name=":37">{{Article|langue=fr|auteur1=Albert van Laethem|titre=Les opinions de Karel Steyaert|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f4}}|accès url=libre}}.</ref>
+
 Les opinions de Karel Steyaert
 
 CAEN. — Déjà, en une précédente occasion, je vous ai livré les premières réflexions du directeur technique de l'équipe belge, Karel Steyaert, pour L'Équipe, à l'issue de la seconde étape à Lille.
@@ -825,6 +870,8 @@ Albert van LAETHEM.
 
 Section 82 : 
 
+Source : <ref name=":38">{{Article|langue=fr|titre=Est-il noir pour valable le classement général ?|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f4}}|accès url=libre}}.</ref>
+
 Est-il noir pour valable le classement général ?
 
 Nous venons de parler d'accident. En fait, la remontée d'Impanis ne saurait être envisagée autrement ce soir. S'il a paru faiblir à la fin, c'est en raison de son retard, de lui laisser l'illusion de faire une petite fugue.
@@ -845,6 +892,8 @@ Peut-être même Vietto et Fachleitner, tout à l'heure, en en réveillant, vont
 -----
 
 Section 83 : 
+
+Source : <ref name=":39">{{Article|langue=fr|auteur1=Dante Gianello|titre=Un homme écrit... Considérations|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f4}}|accès url=libre}}.</ref>
 
 UN HOMME ÉCRIT...
 
@@ -873,6 +922,8 @@ Voilà une histoire de porteur du maillot jaune. Voilà pourquoi souvent il y a 
 -----
 
 Section 84 : 
+
+Source : <ref name=":40">{{Article|langue=fr|auteur1=Pierre About|titre=Tous leurs tours dans mon sac : pour ma "bergère"...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS TOURS DANS MON SAC
 
@@ -950,6 +1001,8 @@ Soit pour 21 étapes: 1.573.000 fr.
 
 Section 85 : 
 
+Source : <ref name=":41">{{Article|langue=fr|auteur1=Albert van Laethem|titre=Le point de vue belge : Impanis, le "gosse en or" terminera-t-il le Tour dans les 5 premiers ?|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f4}}|accès url=libre}}.</ref>
+
 Le point de vue BELGE: IMPANIS, LE "GOSSE EN OR" terminera-t-il le Tour dans les 5 premiers ?
 
 par Albert van LAETHEM
@@ -971,6 +1024,8 @@ POURQUOI PAS ? SE DEMANDE IMPANIS
 
 Section 86 : 
 
+Source : <ref name=":42">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le sprint final du Tour : le point de vue italien : sérénité et confiance dans le clan italien|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f4}}|accès url=libre}}.</ref>
+
 LE SPRINT FINAL DU TOUR: Le point de vue ITALIEN: Sérénité et confiance dans le clan italien
 
 par Guido GIARDINI
@@ -988,6 +1043,8 @@ Brambilla a toutes les chances d'inscrire son nom au palmarès de la prestigieus
 -----
 
 Section 87 : 
+
+Source : <ref name=":43">{{Article|langue=fr|auteur1=Claude Tillet|titre=Un chef-d'œuvre de régularité|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f4}}|accès url=libre}}.</ref>
 
 UN CHEF-D'ŒUVRE DE RÉGULARITÉ
 
@@ -1010,6 +1067,8 @@ Il personnifie de façon plus que satisfaisante, par conséquent, l'homme des co
 
 Section 88 : 
 
+Source : <ref name=":44">{{Article|langue=fr|titre=Robic n'est pas content.|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f4}}|accès url=libre}}.</ref>
+
 Robic n'est pas content.
 
 CAEN. — Parce qu'il a été sélectionné pour les championnats du monde, Robic n'est pas content. « Ces messieurs doivent me trouver bon pour porter un maillot tricolore, dit-il, ironique. Qu'ils me laissent faire le Tour d'abord. On verra ensuite. Quel bel affront je leur réserve pour le jour J ! »
@@ -1021,6 +1080,8 @@ Ce n'est pas tout. Vietto, s'il veut encore triompher, devra attaquer lui aussi.
 -----
 
 Section 89 : 
+
+Source : <ref name=":45">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Diot donne rendez-vous au Parc des Princes à tous les sprinters du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f4}}|accès url=libre}}.</ref>
 
 DIOT DONNE RENDEZ-VOUS au Parc des Princes à tous les sprinters du Tour
 
@@ -1043,6 +1104,8 @@ Les sprinters ont enfin eu leur journée de gloire, et Diot a pris date pour le 
 -----
 
 Section 90 : 
+
+Source : <ref name=":46">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain : au revoir, la France !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=20 juillet 1947|lire en ligne={{Gallica|id=bd6t5994917/f4}}|accès url=libre}}.</ref>
 
 LE FAIT HUMAIN
 

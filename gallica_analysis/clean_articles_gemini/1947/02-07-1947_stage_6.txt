@@ -2,6 +2,8 @@
 
 Section 2 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=Teisseire et Fachleitner bondissent au classement... grâce au plan Vietto|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f1}}|accès url=libre}}.</ref>
+
 34e Tour de France
 4.640 km.
 25 JUIN - 20 JUILLET
@@ -34,6 +36,8 @@ Le Lyonnais Audier fait une excellente course et termine 5e. — Maye, victime d
 
 Section 3 : 
 
+Source : <ref name=":2">{{Article|langue=fr|titre=Avant les cols cela promet|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f1}}|accès url=libre}}.</ref>
+
 AVANT LES COLS CELA PROMET
 LYON. — Fachleitner (qui mène), passe ici à Saint-Laurent-de-Mûre à 37 kilomètres de l'arrivée, avec une allure qui laisse présager une forme excellente, si l'on en juge par la position accroupie de ses équipiers de fuite : Gauthier, derrière et Teisseire plus loin. Avant les cols « Fach » promet !
 (Bélingramme spécial L'ÉQUIPE)
@@ -41,6 +45,8 @@ LYON. — Fachleitner (qui mène), passe ici à Saint-Laurent-de-Mûre à 37 kil
 -----
 
 Section 4 : 
+
+Source : <ref name=":3">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Bien joué|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f1}}|accès url=libre}}.</ref>
 
 LES FAITS ET LES HOMMES
 BIEN JOUÉ
@@ -54,6 +60,8 @@ Vietto s'est conduit en grand capitaine et en excellent camarade. Il n'y a rien 
 
 Section 5 : 
 
+Source : <ref name=":4">{{Article|langue=fr|titre=Ne poussez pas !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f1}}|accès url=libre}}.</ref>
+
 NE POUSSEZ PAS !
 Sportifs ! Quand vous verrez, dans les montées des cols, un routier en difficulté, NE LE POUSSEZ PAS !
 Le règlement le défend et, en lui procurant une aide passagère peu importante, vous lui portez un préjudice considérable.
@@ -62,6 +70,8 @@ S'il sollicite ou non cette poussée, les pénalités et des amendes sont sévè
 -----
 
 Section 6 : 
+
+Source : <ref name=":5">{{Article|langue=fr|auteur1=Claude Tillet|titre=Curieux et attachant Tour de France que celui-ci|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f1}}|accès url=libre}}.</ref>
 
 D'un de nos envoyés spéciaux Claude TILLET.
 
@@ -75,6 +85,8 @@ Résultat : deux coureurs de l'équipe de France que l'on estimait trop attardé
 -----
 
 Section 7 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=« Fach » et Teisseire ont su partir|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f1}}|accès url=libre}}.</ref>
 
 « Fach » et Teisseire ont su partir
 
@@ -94,6 +106,8 @@ Pour le premier point, essai réussi. En lançant la bagarre le semi-régional B
 
 Section 9 : 
 
+Source : <ref name=":7">{{Article|langue=fr|titre=Classement de la 6e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f1}}|accès url=libre}}.</ref>
+
 CLASSEMENT DE LA 6e ETAPE
 Besançon-Lyon (257 km.)
 
@@ -109,12 +123,16 @@ Abandons : Paul Maye (chute) et Celliens.
 
 Section 10 : 
 
+Source : <ref name=":8">{{Article|langue=fr|titre=Ce qui leur reste à faire|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f1}}|accès url=libre}}.</ref>
+
 CE QUI LEUR RESTE A FAIRE
 15 ETAPES ET 3.188 KILOMETRES
 
 -----
 
 Section 12 : 
+
+Source : <ref name=":9">{{Article|langue=fr|titre=L'échappée victorieuse|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f1}}|accès url=libre}}.</ref>
 
 L'ECHAPPEE VICTORIEUSE
 LYON. — Roulant en éventail, les quatre fugitifs de l'étape d'hier s'abritent de leur mieux derrière l'énergique Bourlon à la position bien particulière. L'allure est vive et Bernard Gauthier (second), Teisseire (troisième) et Fachleitner, ne songent pas à s'amuser.
@@ -123,6 +141,8 @@ LYON. — Roulant en éventail, les quatre fugitifs de l'étape d'hier s'abriten
 -----
 
 Section 19 : 
+
+Source : <ref name=":10">{{Article|langue=fr|titre=Les cols de l'Épine, du Granier, du Cucheron et de Porte permettront-ils aujourd'hui aux Italiens de consolider encore leur position ou aux Français de faire jeu égal avec eux ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
 
 Tour de France
 Ils triompheront des intempéries grâce à leur imperméable
@@ -137,6 +157,8 @@ Les cols de l'Epine, du Granier, du Cucheron et de Porte permettront-ils aujourd
 -----
 
 Section 20 : 
+
+Source : <ref name=":11">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Bien joué !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
 
 BIEN JOUÉ !
 (Suite de l'article de Jacques GODDET)
@@ -157,6 +179,8 @@ Tout nous attentif présente des risques. J'ai noté tantôt que Teisseire et Fa
 
 Section 21 : 
 
+Source : <ref name=":12">{{Article|langue=fr|titre=Mais où sont les moribonds ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
+
 Mais où sont les moribonds ?
 
 Malgré qu'elle atteignit 257 kilomètres, la sixième étape de ce Tour, dénoncée par une presse experte de fort mauvais et d'« atroces tourments », entreprise inhumaine et sanguinaire, fut courue à la vitesse d'un Paris-Tours! Trop rapide pour susciter des rancœurs, elle provoqua l'insolence de se reposer, de faire dormir ont filé allègrement le train sans que l'on trouve dans aucun fossé la trace d'un martyr tombé de peine. Le plus étonnant est que, malgré la grande rapidité de l'étape, il n'y eut aucun lâché, sauf sur accident.
@@ -172,6 +196,8 @@ Nous perdons avec lui le sourire de la course et le témoin impartial du Tour de
 -----
 
 Section 22 : 
+
+Source : <ref name=":13">{{Article|langue=fr|titre=Le trophée de « L'Humanité » récompensera le meilleur grimpeur du Tour 1947|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
 
 Le Trophée de « L'Humanité » récompensera le meilleur grimpeur du Tour 1947
 
@@ -203,6 +229,8 @@ Dans la 7e étape, le premier au col de l'Epine (1.003 m.) bénéficiera donc de
 
 Section 23 : 
 
+Source : <ref name=":14">{{Article|langue=fr|titre=Une échappée qui paye !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
+
 Une échappée qui paye !
 
 Les places gagnées par les quatre échappés de cette 6e étape :
@@ -214,6 +242,8 @@ Fachleitner (de 9e - 7e -)
 -----
 
 Section 24 : 
+
+Source : <ref name=":15">{{Article|langue=fr|auteur1=Claude Tillet|titre=Mais les Bretons peuvent transformer le match en tournoi triangulaire !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
 
 Mais les Bretons peuvent transformer le match en tournoi triangulaire !
 (Suite de l'article de Claude TILLET)
@@ -276,6 +306,8 @@ etc., etc.
 
 Section 25 : 
 
+Source : <ref name=":16">{{Article|langue=fr|titre=Ce fut l'étape Robic !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
+
 L'un d'eux, Bourlon, est maintenu jusqu'au bout en compagnie des « tricolores » et cet animateur infatigable, souvent mal inspiré et toujours disposé à bagarrer, ne retrouve de ce fait à la dixième place du classement général !
 Derrière, sur la fin, le peloton fut secoué de quelques convulsions : Idée et Dessertine s'en furent. Tout en les rejoignant, Idée fut le meilleur descendeur, on en est sûr, devant l'énorme foule lyonnaise ; trois cou-
 
@@ -295,6 +327,8 @@ Nous croyons fermement que Lyon-Grenoble sera, dans une certaine mesure, l'étap
 
 Section 26 : 
 
+Source : <ref name=":17">{{Article|langue=fr|titre=Où en sont les leaders de chaque équipe|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
+
 Où en sont les leaders de chaque équipe
 H. m. s.
 FRANCE: 1. Vietto ... 0
@@ -311,6 +345,8 @@ NORD-EST: 45. Dieder ... 1 33 3
 -----
 
 Section 27 : 
+
+Source : <ref name=":18">{{Article|langue=fr|auteur1=A. de Wetter|titre=Vent en poupe !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
 
 VENT EN POUPE!
 D'un de nos envoyés spéciaux A. de WETTER
@@ -334,6 +370,8 @@ La reprise des malchanceux avec Paul Maye accidenté à Besançon. Idée, Callen
 
 Section 28 : 
 
+Source : <ref name=":19">{{Article|langue=fr|titre=À 80 à l'heure pour rejoindre le peloton !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
+
 A 80 à l'heure pour rejoindre le peloton !
 LYON. - Piquez au vif, sans doute par notre remarque signalant que les vélos des Italiens étaient plus propres que ceux des Français, les mécanos de chez Rochet ont décidé de faire un nettoyage complet de leurs machines.
 ...
@@ -346,6 +384,8 @@ Il faut rendre hommage au service de presse de la course, qui prend soin de nous
 -----
 
 Section 29 : 
+
+Source : <ref name=":20">{{Article|langue=fr|auteur1=René Moyset|titre=Gauthier et Bourlon sont heureux de leur remontée au classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
 
 GAUTHIER ET BOURLON SONT HEUREUX DE LEUR REMONTÉE AU CLASSEMENT GÉNÉRAL
 D'un de nos envoyés spéciaux René MOYSET
@@ -366,6 +406,8 @@ Le départ de Lyon est un régal pour le coureur. « Dès le départ, il faut bi
 
 Section 30 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=Les marques de cycles ont contribué au succès du Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
+
 Les marques de cycles ont contribué au succès du Tour de France
 
 Les grandes marques de cycles ont apporté une éclatante contribution au succès de l'épreuve. Automoto, Mercier, Alcyon, Métropole, Rochet, La Perle, Génial-Lucifer, Helyett, La Française, Dilecta, Terrot, Rhonson, Royal-Fabric, Stella, Peugeot, Elvish-Fontan, Colin, Stella, Rochet, Arliguie, Fonlupt, Wonder, Urago, Thomann ont équipé les 100 coureurs participants du 34e Tour de France.
@@ -375,6 +417,8 @@ Leurs efforts conjugués à ceux de leurs directeurs sportifs : MM. Le Grevès, 
 -----
 
 Section 31 : 
+
+Source : <ref name=":22">{{Article|langue=fr|titre=Aujourd'hui, septième étape : Lyon-Grenoble|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
 
 AUJOURD'HUI, SEPTIEME ETAPE
 LYON-GRENOBLE
@@ -431,6 +475,8 @@ Saint-Genix-sur-Guiers. — 3.000 francs offerts par la municipalité, dont 2.00
 
 Section 32 : 
 
+Source : <ref name=":23">{{Article|langue=fr|titre=Demain, huitième étape : Grenoble-Briançon|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
+
 DEMAIN, HUITIEME ETAPE
 GRENOBLE-BRIANÇON
 (185 km.)
@@ -468,6 +514,8 @@ Arrivée en montée comme dans tous les arrivées de Briançon, au Champ de Mars
 -----
 
 Section 33 : 
+
+Source : <ref name=":24">{{Article|langue=fr|titre=Classement général : à combien ils sont du leader|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -550,6 +598,8 @@ A combien ils sont du leader
 
 Section 34 : 
 
+Source : <ref name=":25">{{Article|langue=fr|titre=Classement du challenge international|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
+
 Classement du challenge international
 (Par addition des temps des trois premiers de chaque équipe)
 1. Italie (Ronconi, Brambilla, Volpi) ... 134 h. 34' 49"
@@ -566,6 +616,8 @@ Classement du challenge international
 -----
 
 Section 35 : 
+
+Source : <ref name=":26">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
 
 Ceux qui restent qualifiés
 
@@ -590,6 +642,8 @@ SUD-EST (maillot violet, bande tricolore blanche, casquette violette). — 91. A
 
 Section 36 : 
 
+Source : <ref name=":27">{{Article|langue=fr|titre=50.000 frs offerts par les montres françaises Judex à Miss Tour de France Judex 1947|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
+
 50.000 frs.
 offerts par les
 MONTRES FRANÇAISES
@@ -608,6 +662,8 @@ CANDIDATES, INSCRIVEZ-VOUS AUX THEATRES
 
 Section 38 : 
 
+Source : <ref name=":28">{{Article|langue=fr|titre=Tour de France : en attendant les coureurs...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
+
 TOUR DE FRANCE
 EN ATTENDANT LES COUREURS...
 Samedi 12 et 13 juillet, inauguration du Président ROUSSET au profit de la souscription nationale pour le Monument à sa mémoire
@@ -617,6 +673,8 @@ Le N° attribué est B.2370
 -----
 
 Section 39 : 
+
+Source : <ref name=":29">{{Article|langue=fr|titre=Champion des cycles Ray est aussi celui du dérailleur Huret|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
 
 CHAMPION DES CYCLES
 RAY
@@ -629,6 +687,8 @@ NANTERRE
 
 Section 43 : 
 
+Source : <ref name=":30">{{Article|langue=fr|titre=Les coureurs du Tour de France sont massés chaque jour avec l'embrocation R.M.C.|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f2}}|accès url=libre}}.</ref>
+
 Les Coureurs du TOUR DE FRANCE sont massés chaque jour avec
 L'EMBROCATION R.M.C.
 Pour toutes les Douleurs
@@ -640,10 +700,14 @@ Représentants dem. pr tte la France
 -----
 
 Section 45 : 
+
+Source : <ref name=":31">{{Article|langue=fr|titre=Cyclisme|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f3}}|accès url=libre}}.</ref>
 CYCLISME
 -----
 
 Section 69 : 
+
+Source : <ref name=":32">{{Article|langue=fr|titre=Un Américain veut courir le Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f3}}|accès url=libre}}.</ref>
 UN AMERICAIN VEUT COURIR LE TOUR
 
 La fortune est une belle chose, si nous en croyons une dépêche en provenance de notre confrère Henri Labourdette. C'est ainsi qu'un brave Américain, qui a le désir de son client, un Américain, de courir le Tour de France, a offert 10 000 dollars à la F.F.C.
@@ -652,6 +716,8 @@ Beau geste, puisque c'est du Lapize tout craché ; mais que l'Amérique nous env
 -----
 
 Section 91 : 
+
+Source : <ref name=":33">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Fachleitner commence à inquiéter les Transalpins !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
 
 « SEPTIEME AU CLASSEMENT GENERAL A VINGT MINUTES DE VIETTO »
 
@@ -685,6 +751,8 @@ Inutile d'ajouter que Véron est le premier à s'en montrer ravi.
 
 Section 92 : 
 
+Source : <ref name=":34">{{Article|langue=fr|titre=Comment ils grimpent|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
+
 COMMENT ILS GRIMPENT
 
 Vietto : assis, sans grand déhanchement.
@@ -698,6 +766,8 @@ Fachleitner : en pur escaladeur, mains accrochées aux cocottes de freins, coup 
 -----
 
 Section 93 : 
+
+Source : <ref name=":35">{{Article|langue=fr|auteur1=Albert de Wetter|titre=« L'abandon de Paul Maye est un gros handicap pour nous » constate Arsène Alancourt|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
 
 "L'abandon de PAUL MAYE
 est un gros handicap pour nous"
@@ -716,6 +786,8 @@ LYON. — Alors qu'il était le premier à trouver la cadence, que ses possibili
 
 Section 94 : 
 
+Source : <ref name=":36">{{Article|langue=fr|titre=La peine mal récompensée|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
+
 LA PEINE MAL RÉCOMPENSÉE
 
 LYON. — Georges Teisseire et Jean Fachleitner ont été les déchus de la journée d'hier. Bien partis avec Fachleitner, Teisseire et Bourlon, B. Gauthier a vu, sur accident mécanique, ses espoirs s'envoler. Une peine de plus mal récompensée.
@@ -724,6 +796,8 @@ LYON. — Georges Teisseire et Jean Fachleitner ont été les déchus de la jour
 -----
 
 Section 95 : 
+
+Source : <ref name=":37">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain : le réveil des morts|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
 
 LE FAIT HUMAIN
 
@@ -746,6 +820,8 @@ Il n'a eu qu'un mot, simple, résigné, mais douloureux :
 -----
 
 Section 96 : 
+
+Source : <ref name=":38">{{Article|langue=fr|auteur1=André Costes|titre=Les Italiens se sont laissés endormir|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
 
 Les Italiens se sont laissés endormir
 
@@ -793,6 +869,8 @@ Dans le col de « l'Epine » — qui compte pour le classement de meilleur grimp
 -----
 
 Section 97 : 
+
+Source : <ref name=":39">{{Article|langue=fr|auteur1=Fernand Albaret|titre=Tous leurs tours dans mon sac : pendant que roulait le trio des quatre...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS TOURS DANS MON SAC
 
@@ -862,6 +940,8 @@ Avant le départ, un coureur parisien interpellé un commissaire :
 
 Section 98 : 
 
+Source : <ref name=":40">{{Article|langue=fr|auteur1=Dante Gianello|titre=Un champion écrit... Les Alpes sont là !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
+
 UN CHAMPION ECRIT...
 
 LES ALPES SONT LÀ !
@@ -890,6 +970,8 @@ Et maintenant les Alpes sont là. Messieurs, étudiez vos braquets, car vous sav
 -----
 
 Section 99 : 
+
+Source : <ref name=":41">{{Article|langue=fr|auteur1=Albert van Laethem|titre=Le point de vue belge : l'Escadron noir a longé les sommets mauves|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
 
 LE POINT DE VUE BELGE
 
@@ -921,6 +1003,8 @@ Mais il ne s'agit pas uniquement de monter, il faut descendre, vite et bien, et 
 
 Section 100 : 
 
+Source : <ref name=":42">{{Article|langue=fr|titre=Braquets belges|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
+
 BRAQUETS BELGES
 
 LYON. — Il est probable que pour les étapes de cols les équipiers belges adopteront les braquets suivants : 47 dents à l'avant et 15, 16, 17 et 18 ou 19 à l'arrière.
@@ -929,6 +1013,8 @@ Ces renseignements obtenus in extremis, il est vraisemblable que, souvent, Breue
 -----
 
 Section 101 : 
+
+Source : <ref name=":43">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : nous avons sacrifié la tactique...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
 
 LE POINT DE VUE ITALIEN
 
@@ -944,6 +1030,8 @@ Pour ce qui est de Vietto, c'est un autre adversaire que nous devrons surveiller
 -----
 
 Section 102 : 
+
+Source : <ref name=":44">{{Article|langue=fr|auteur1=Raymond Saladin|titre=Sous les ailes de l'Auster|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=02 juillet 1947|lire en ligne={{Gallica|id=bd6t599472z/f4}}|accès url=libre}}.</ref>
 
 SOUS LES AILES DE L'AUSTER
 par Raymond SALADIN

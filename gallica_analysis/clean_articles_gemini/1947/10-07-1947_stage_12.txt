@@ -1,6 +1,8 @@
 
 
 Section 2 : 
+
+Source : <ref name=":1">{{Article|langue=fr|titre=Le bitterois Massal, vainqueur|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f1}}|accès url=libre}}.</ref>
 34° Tour de France
 4.640 KM.
 25 JUIN - 20 JUILLET
@@ -21,12 +23,16 @@ OU VIETTO SOUFFRAIT EN SILENCE
 -----
 
 Section 3 : 
+
+Source : <ref name=":2">{{Article|langue=fr|titre=Le « pitchou » se devait bien ça !...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f1}}|accès url=libre}}.</ref>
 LE « PITCHOU » SE DEVAIT BIEN ÇA !...
 MONTPELLIER. - A chaque « régional » son étape ? « Pourquoi pas, s'est dit Henri Massal, le « pitchou » du « dix » tricolore. » Après ses multiples corvées d'équipier modèle, il se devait de triompher à Montpellier, presque chez lui. Avouez, qu'il ne s'y est pas trop mal pris, puisqu'il triomphe devant Diederich (à droite), Muller (à gauche) et Pawlisiak (à l'extrême droite).
 (Bélinogramme spécial L'EQUIPE)
 -----
 
 Section 4 : 
+
+Source : <ref name=":3">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Les faits et les hommes : étape de transition|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f1}}|accès url=libre}}.</ref>
 LES FAITS ET LES HOMMES
 Etape de transition
 De notre Directeur Jacques GODDET
@@ -45,6 +51,8 @@ Espérons cependant que la participation de la patrouille invisible à cette éc
 -----
 
 Section 5 : 
+
+Source : <ref name=":4">{{Article|langue=fr|auteur1=Claude Tillet|titre=Pas de modification sérieuse au classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f1}}|accès url=libre}}.</ref>
 Pas de modification sérieuse au classement général
 D'un de nos envoyés spéciaux Claude TILLET
 
@@ -85,6 +93,8 @@ Nord-Est.. 23. Deprez 2 54 8
 -----
 
 Section 6 : 
+
+Source : <ref name=":5">{{Article|langue=fr|titre=Classement de la 12° étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f1}}|accès url=libre}}.</ref>
 CLASSEMENT de la 12° étape
 Marseille-Montpellier
 (165 KM.)
@@ -107,12 +117,16 @@ Ce qu'il leur reste à faire
 -----
 
 Section 7 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=Vers la victoire !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f1}}|accès url=libre}}.</ref>
 VERS LA VICTOIRE !
 MONTPELLIER. - Sur tout le parcours des Tour de France la foule a été dense. Devant les arènes de Nîmes, les quinze échappés fondent de tout leur cœur vers la Crau et la victoire...
 (Bélinogramme spécial L'EQUIPE)
 -----
 
 Section 8 : 
+
+Source : <ref name=":7">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Fachleitner peut gagner le « Tour » mais il n'ira pas à Reims !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f1}}|accès url=libre}}.</ref>
 Fachleitner peut gagner le “Tour” mais il n'ira pas à Reims !
 
 Et le Groupement des Pros désavoue la Commission nationale !
@@ -147,6 +161,8 @@ CHAINE NATIONALE : 18 h. 20, 20 h. 30.
 -----
 
 Section 13 : 
+
+Source : <ref name=":8">{{Article|langue=fr|titre=Garantie|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f2}}|accès url=libre}}.</ref>
 Garantie
 L'accroissement des ventes des imperméables et en caoutchouc naturel garantis grand choix et tous prix, nous permet de garantir à nouveau notre fabrication imperméable.
 Visitez nos magasins, vous y trouverez le plus grand choix de vêtements imperméables pour hommes, femmes et enfants.
@@ -170,6 +186,8 @@ GAGNE 9' SUR LE GROS PELOTON
 -----
 
 Section 14 : 
+
+Source : <ref name=":9">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Étape de transition|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f2}}|accès url=libre}}.</ref>
 
 Étape de transition
 (Suite de l'article de Jacques GODDET)
@@ -197,6 +215,8 @@ Le gagnant de l'étape, haut comme trois pommes, enfant du pays, s'est accommod�
 
 Section 15 : 
 
+Source : <ref name=":10">{{Article|langue=fr|auteur1=Claude Tillet|titre=Suite de l'article de Claude Tillet|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f2}}|accès url=libre}}.</ref>
+
 (Suite de l'article de Claude TILLET)
 
 Il est vrai que, d'ici là, il aura pu se soigner encore. C'est cependant inquiétant. Et ces craintes conduisent tout naturellement à songer à Fachleitner, qui, en une telle occurrence, verrait grandir sa tâche de rendre à l'équipe française le poste de leader. Songeons-nous, alors, au coup de maître de Lyon et Marseille ? Non, heureusement. En pareil cas, nous ne pouvons nous empêcher de nous remémorer l'étape Bruxelles-Luxembourg et de revoir, au pied de la côte pavée, juste à la traversée de Longwy, un « Polo » reconnaissant son erreur, casser la croûte sur l'herbe ! Pendant ce temps, Vietto perdait des minutes sur Ronconi. Et le soldat « Fach » devait lui-même terminer l'étape à... 47' de Ronconi, le vainqueur, et à 20' 8" de son chef de file. Ces chiffres ne sont-ils pas éloquents ? Seul, parmi les leaders actuels, Fachleitner a su se permettre, un jour, un tel écart. Mais nous fera-t-on la grâce de nous dire où il en serait aujourd'hui sans le petit pique-nique de Longwy ? Il n'est pas question de lui adresser des reproches, mais seulement de démontrer :
@@ -211,6 +231,8 @@ En consacrant enfin que la journée de demain ? Elle nous conduira à Carcassonn
 -----
 
 Section 16 : 
+
+Source : <ref name=":11">{{Article|langue=fr|auteur1=Albert de Wetter|titre=120 kilomètres sous le signe de la volonté|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f2}}|accès url=libre}}.</ref>
 
 120 KILOMETRES SOUS LE SIGNE DE LA VOLONTE
 D'un de nos envoyés spéciaux A. de WETTER
@@ -227,6 +249,8 @@ A l'arrivée, le gros peloton est à 9' 01" de Massal.
 
 Section 17 : 
 
+Source : <ref name=":12">{{Article|langue=fr|titre=Apo a de bons assistants|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f2}}|accès url=libre}}.</ref>
+
 APO A DE BONS ASSISTANTS
 
 MONTPELLIER. — On crut tout d'abord à de plus graves maux, quand on vit le petit Apo s'affaisser, victime, semble-t-il, d'un coup de soleil, à une soixantaine de kilomètres de l'arrivée.
@@ -235,6 +259,8 @@ Ce fut extrêmement touchant de constater avec quelle prestesse et amitié solli
 -----
 
 Section 18 : 
+
+Source : <ref name=":13">{{Article|langue=fr|titre=Aujourd'hui, treizième étape : Montpellier-Carcassonne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f2}}|accès url=libre}}.</ref>
 
 AUJOURD'HUI, TREIZIÈME ÉTAPE
 MONTPELLIER-CARCASSONNE
@@ -281,6 +307,8 @@ CARCASSONNE (Vélodrome) ... 16.24
 -----
 
 Section 19 : 
+
+Source : <ref name=":14">{{Article|langue=fr|titre=Demain, quatorzième étape : Carcassonne-Luchon|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f2}}|accès url=libre}}.</ref>
 
 DEMAIN, QUATORZIÈME ÉTAPE
 CARCASSONNE-LUCHON
@@ -354,6 +382,8 @@ LUCHON (630 m.) ... 16.36
 -----
 
 Section 20 : 
+
+Source : <ref name=":15">{{Article|langue=fr|titre=Classement général : à combien ils sont du leader|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -436,6 +466,8 @@ Classement du Challenge international
 
 Section 21 : 
 
+Source : <ref name=":16">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f2}}|accès url=libre}}.</ref>
+
 CEUX QUI RESTENT QUALIFIÉS
 
 BELGES (maillot noir, ceinture jaune et rouge, casquette noire, bande tricolore nationale). — 1. Breuer, 2. Callens, 3. Grasvlieck, 4. Engels, 5. Mathieu, 6. Mollin, 7. Oreal, 9. Schotte.
@@ -456,6 +488,8 @@ SUD-EST (maillot violet, bande verticale blanche, casquette violette, bande blan
 
 Section 22 : 
 
+Source : <ref name=":17">{{Article|langue=fr|titre=Neuf régionaux furent parmi les animateurs de cette étape|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f2}}|accès url=libre}}.</ref>
+
 NEUF RÉGIONAUX FURENT PARMI LES ANIMATEURS DE CETTE ÉTAPE
 « Mais Massal connaissait trop bien le parcours pour être battu », estiment-ils.
 
@@ -466,6 +500,8 @@ MONTPELLIER. — Ce sont les régionaux qui, aujourd'hui, déclenchèrent la bat
 
 Section 27 : 
 
+Source : <ref name=":18">{{Article|langue=fr|auteur1=J. M.|titre=La situation de Paul Néri fait tache d'huile|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f3}}|accès url=libre}}.</ref>
+
 LA SITUATION DE PAUL NERI FAIT TACHE D'HUILE
 
 L'Association des Amateurs a, elle aussi, évincé, en dernière heure, de sa sélection, pour doutes sur sa nationalité.
@@ -474,6 +510,8 @@ Ses officiels sont, d'autre part, sur le point de poser à la Fédération la qu
 -----
 
 Section 63 : 
+
+Source : <ref name=":19">{{Article|langue=fr|titre=Petites annonces|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
 
 PETITES ANNONCES
 Offres et demandes d'emploi, ventes d'automobiles et accessoires divers.
@@ -487,6 +525,8 @@ LE JOURNAL DU TOUR
 -----
 
 Section 64 : 
+
+Source : <ref name=":20">{{Article|langue=fr|auteur1=André Costes|titre=La technique de la route des jeunes du Tour est encore très rudimentaire|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
 
 ### La technique de la route des jeunes du Tour est encore très rudimentaire
 
@@ -568,6 +608,8 @@ Nous avons pu constater que, lorsqu'on leur parle maintenant de l'Aubisque, pour
 
 Section 65 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=Lazaridès, leader au pied des Pyrénées|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
+
 ### Lazaridès, leader au pied des Pyrénées
 
 1. Lazaridès, 65 pts; 2. Brambilla, 63 pts; 3. Ronconi, 59 pts; 4. Camellini, 52 pts; 5. Vietto, 29 pts; 6. Robic, 27 pts; 7. Goutal, 20 pts; 8. Fachleitner, 17 pts; 9. Cottur, 17 pts; 10. Tesseire et Idée, 17 pts.
@@ -582,6 +624,8 @@ Pour en profiter, l'étape de Carcassonne doit donc logiquement permettre aux r�
 
 Section 66 : 
 
+Source : <ref name=":22">{{Article|langue=fr|titre=L'abri est bon derrière Bourlon...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
+
 ### L'ABRI EST BON DERRIÈRE BOURLON...
 
 MONTPELLIER. — L'échappée a réussi. Mais, pour lutter contre ce terrible mistral, rien ne vaut un bon rouleur doublé d'une stature imposante. Bourlon, en tête, remplit bien cet office de derry humain, car Massal s'en réjouit, et Lucas cherche (à droite) à lui « souffler » la place. (Bélinogrammes spécial L'EQUIPE)
@@ -589,6 +633,8 @@ MONTPELLIER. — L'échappée a réussi. Mais, pour lutter contre ce terrible mi
 -----
 
 Section 67 : 
+
+Source : <ref name=":23">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Henri Massal était dopé... par l'air du « pays » !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
 
 # Henri MASSAL était dopé ...par l'air du "pays"!
 
@@ -625,6 +671,8 @@ Et il a cent fois raison.
 -----
 
 Section 68 : 
+
+Source : <ref name=":24">{{Article|langue=fr|auteur1=Albert|titre=Tous leurs tours dans mon sac|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
 
 # TOUS LEURS TOURS DANS MON SAC
 ## PAR ALBERT
@@ -664,6 +712,8 @@ Les coutumes comme la légende, en ont pris un bon coup. Massal voulait gagner.
 -----
 
 Section 69 : 
+
+Source : <ref name=":25">{{Article|langue=fr|auteur1=Fernand Albaret|titre=« J'ai retrouvé mes vignes... »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
 
 # "J'AI RETROUVÉ MES VIGNES..."
 
@@ -731,6 +781,8 @@ Ils s'éloignent : tous que c'était Pietto...
 
 Section 70 : 
 
+Source : <ref name=":26">{{Article|langue=fr|auteur1=Dante Gianello|titre=Un champion écrit... Des cadeaux !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
+
 # UN CHAMPION ÉCRIT...
 ## DES CADEAUX!
 
@@ -772,6 +824,8 @@ Espérons, en tout cas, pour le dignois que l'étape de Carcassonne ne soit pas 
 
 Section 71 : 
 
+Source : <ref name=":27">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Cette fois, les Belges ont compris|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
+
 # Cette fois, les Belges ont compris
 
 MONTPELLIER. — Mardi, à Marseille, Karel Steyaert, guère satisfait de ses Belges qui, jusqu'alors, avaient fait le « jeu » d'autres qu'eux-mêmes, et Diederich, plus qu'ils ne gagnaient pour le compte de l'équipe, leur avait réclamé un serment sur la fin du parcours.
@@ -787,6 +841,8 @@ Leur tour semble bien intenter.
 -----
 
 Section 72 : 
+
+Source : <ref name=":28">{{Article|langue=fr|auteur1=P. W.|titre=Les Hollandais ont déjà foi pour l'an prochain|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
 
 # LES HOLLANDAIS ONT DÉJÀ FOI pour l'an prochain
 
@@ -813,6 +869,8 @@ A persévérer et à ne pas tout perdre au premier accroc, à avoir une équipe 
 
 Section 73 : 
 
+Source : <ref name=":29">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=Le point de vue belge : jamais l'Escadron noir n'a gagné enfin « une »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
+
 # Le point de vue belge
 ## JAMAIS L'ESCADRON NOIR n'a gagne enfin "une"
 
@@ -826,6 +884,8 @@ Mais, pour y triompher, ainsi que je vous ai ditée, à l'instant d'amorcer le v
 -----
 
 Section 74 : 
+
+Source : <ref name=":30">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain : « Lou pitchoun »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
 
 # LE FAIT HUMAIN
 ## "LOU PITCHOUN"
@@ -841,6 +901,8 @@ A l'arrivée, tandis que Mme Massal pleurait en embrassant son mari, une douzain
 -----
 
 Section 75 : 
+
+Source : <ref name=":31">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Une cabriole de Lazaridès : plus de peur que de mal|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
 
 ### Une cabriole de LAZARIDÈS :
 #### Plus de peur que de mal
@@ -858,6 +920,8 @@ Pour sa part, le champion d'Italie, Brambilla, après s'être porté dans l'éch
 -----
 
 Section 76 : 
+
+Source : <ref name=":32">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : bulletin de santé à Montpellier : tout va mieux|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
 
 # Le point de vue italien
 ## Bulletin de santé à Montpellier
@@ -885,6 +949,8 @@ Et pour en terminer avec nos coureurs, je dirais que la course contre la montre 
 -----
 
 Section 77 : 
+
+Source : <ref name=":33">{{Article|langue=fr|auteur1=A.|titre=« Rien d'alarmant dans l'état de Vietto » nous dit Henri Manchon|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=10 juillet 1947|lire en ligne={{Gallica|id=bd6t599481x/f4}}|accès url=libre}}.</ref>
 
 ### "Rien d'alarmant dans l'état de Vietto"
 #### nous dit Henri MANCHON

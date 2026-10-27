@@ -1,16 +1,8 @@
 
 
-Section 2 : 
-Seul, parmi les Bretons, Jean-Marie Goasmat sut partir à temps...
-... mais il n'est pas un sprinter !
-
-TARCHINI le Lapébie suisse, vainqueur à Vannes
-ET, CETTE FOIS, "A LA REGULIERE"
-
-Une échappée à 13 hommes, déclenchée à la sortie de Redon (à 69 km. de l'arrivée), provoque une fin de course extraordinairement rapide. — Trois Belges dans l'affaire, mais aussi cinq Suisses et Luxembourgeois !
------
-
 Section 3 : 
+
+Source : <ref name=":1">{{Article|langue=fr|titre=34e tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f1}}|accès url=libre}}.</ref>
 34e Tour de France
 4.640 KM.
 25 JUIN - 20 JUILLET
@@ -22,6 +14,8 @@ Le Parisien libéré
 -----
 
 Section 4 : 
+
+Source : <ref name=":2">{{Article|langue=fr|auteur1=Claude Tillet|titre=Giguet s'améliore chaque jour|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f1}}|accès url=libre}}.</ref>
 GIGUET S'AMÉLIORE CHAQUE JOUR
 
 Repos à Vannes aujourd'hui... mais, comme à la veille d'une grande étape de montagne, tous les esprits sont tendus vers la prochaine bataille, en l'occurrence la course contre la montre sur Vannes-St-Brieuc
@@ -35,12 +29,16 @@ Et c'est à la sortie de Redon, à 69 km. de Vannes, que se déclencha enfin l'�
 -----
 
 Section 5 : 
+
+Source : <ref name=":3">{{Article|langue=fr|titre=Bourlon dans les « nations »|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f1}}|accès url=libre}}.</ref>
 BOURLON DANS LES « NATIONS »
 
 Au cours de son échappée victorieuse dans l'étape Carcassonne-Luchon, le Berrichon Bourlon a confirmé ses indéniables qualités de routier, ce qui lui vaut d'être sélectionné, dès à présent, pour le Grand Prix des Nations qui se disputera en septembre.
 -----
 
 Section 6 : 
+
+Source : <ref name=":4">{{Article|langue=fr|titre=Classement de la 18e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f1}}|accès url=libre}}.</ref>
 CLASSEMENT de la 18e étape
 Les Sables - Nantes (236 Km.)
 
@@ -62,6 +60,8 @@ Ce qu'il leur reste à faire
 -----
 
 Section 7 : 
+
+Source : <ref name=":5">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Tarchini préférerait être pendu que de cesser de rire|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f1}}|accès url=libre}}.</ref>
 TARCHINI PRÉFÉRERAIT être pendu que de cesser de rire
 La victoire de la « lanterne rouge » n'est pas une surprise
 
@@ -83,10 +83,14 @@ Celles de Tarchini sont d'un routier sprinter qui, chez lui, est comparé à Guy
 -----
 
 Section 8 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=Ordre des départs de l'étape Vannes - Saint-Brieuc contre la montre|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f1}}|accès url=libre}}.</ref>
 Ordre des départs de l'étape Vannes - Saint-Brieuc contre la montre
 -----
 
 Section 9 : 
+
+Source : <ref name=":7">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Les faits et les hommes : les « cinq » à pied d'œuvre|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f1}}|accès url=libre}}.</ref>
 LES FAITS ET LES HOMMES
 LES " CINQ " A PIED D'ŒUVRE
 De notre Directeur Jacques GODDET
@@ -105,18 +109,24 @@ Maye et Caput nous ayant prématurément quittés et les petits paquets qui se d
 -----
 
 Section 10 : 
+
+Source : <ref name=":8">{{Article|langue=fr|titre=Les Belges bien mal récompensés|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f1}}|accès url=libre}}.</ref>
 LES BELGES BIEN MAL RECOMPENSES
 VANNES. — Une fois de plus, les routiers de l'Escadron Noir ont payé de leur personne dans l'échappée décisive, une fois de plus, ils se sont fait battre à l'arrivée. Et pourtant, on ne peut accuser Impanis (en tête) et Schotte (dans sa roue) de ne pas foncer de tout leur cœur, obligeant Weilenmann à tirer sur le guidon. Leur jour viendra-t-il avant Paris ?
 (Bélinogramme spécial L'EQUIPE)
 -----
 
 Section 14 : 
+
+Source : <ref name=":9">{{Article|langue=fr|titre=« Brik » Schotte en action|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f1}}|accès url=libre}}.</ref>
 «BRIK» SCHOTTE EN ACTION
 VANNES. — Le vainqueur de Paris-Tours 1947, « Brik » Schotte, contrairement à ce que beaucoup pensaient, a, pour son premier Tour de France, effectué une excellente performance. Bagarreur, on le voit, ici, fonçant avec son allure si particulière, et emmenant dans sa roue Impanis et Weilenmann vers Vannes, où une fois de plus, il se fera battre au sprint.
 (Bélinogramme spécial L'EQUIPE)
 -----
 
 Section 16 : 
+
+Source : <ref name=":10">{{Article|langue=fr|titre=Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f1}}|accès url=libre}}.</ref>
 Tour de France
 Ils triompheront des intempéries grâce à leur imperméable
 C.C.C.
@@ -125,6 +135,8 @@ Fournisseur Officiel du Tour
 -----
 
 Section 18 : 
+
+Source : <ref name=":11">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Les cinq à pied d'œuvre|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
 
 Les Cinq à pied d'œuvre
 (Suite de l'article de Jacques GODDET)
@@ -135,6 +147,8 @@ On nous avait présenté le coureur helvète Tarchini, le garçon le plus souria
 
 Section 19 : 
 
+Source : <ref name=":12">{{Article|langue=fr|titre=Les Belges ont essayé|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
+
 Les Belges ont essayé
 
 L'offensive lancée par Jean-Marie Goasmat et maladroitement interprétée par ses compatriotes « ne devint pas seulement une vague rouge. L'escadron noir s'y était introduit avec ses deux têtes, Impanis et Schotte, plus Mollin. Les huit minutes arrachées le furent en très grande part grâce aux trois poulains de Karel Steyaert qui s'y collèrent de tout leur cœur.
@@ -144,6 +158,8 @@ Je pense que Schotte eut grand tort d'attaquer au drapeau rouge des 1.000 mètre
 -----
 
 Section 20 : 
+
+Source : <ref name=":13">{{Article|langue=fr|titre=Vietto le « liner »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
 
 Vietto le « liner »
 
@@ -159,6 +175,8 @@ Si Ronconi s'est enrichi du Tour, ce n'est pas seulement parce que celui-ci est 
 
 Section 21 : 
 
+Source : <ref name=":14">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Suite de l'histoire de Jacques Goddet|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
+
 (Suite de l'histoire de Jacques GODDET)
 
 La suite de l'histoire consista en une folle chevauchée vers Vannes, à travers les landes et les petits bois tout au long desquels étaient massés des milliers et des milliers de sportives et sportifs bretons. Pas de tire-au-flanc ! Pas de récriminations ! Chacun menait son sanglier à se réserver. L'avance croissait sans cesse et, à aucun moment, on n'entrepart une quelconque possibilité de retour des lâchés, malgré la chasse entreprise par un petit peloton.
@@ -170,6 +188,8 @@ A Pont-Château, deux champions, Robic et Fachleitner, et vers l'est, Cogan, Cot
 -----
 
 Section 22 : 
+
+Source : <ref name=":15">{{Article|langue=fr|titre=Le coup manqué|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
 
 Le coup manqué
 
@@ -186,6 +206,8 @@ Mais comment les Bretons passeront-ils le restant de cette étape-ci, laise ? L'
 
 Section 23 : 
 
+Source : <ref name=":16">{{Article|langue=fr|titre=Où en sont les leaders de chaque équipe|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
+
 Où en sont les leaders de chaque équipe
 France ... 1. Vietto ... H. m. s.
 Italie ... 2. Brambilla, à 1 34
@@ -201,6 +223,8 @@ Nord-Est 22. Deprez ... 3 25 28
 -----
 
 Section 24 : 
+
+Source : <ref name=":17">{{Article|langue=fr|auteur1=René Moyset|titre=Les Bretons ont animé l'étape mais... cinq régionaux « mitigés » dans les dix premiers|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
 
 Les Bretons ont animé l'étape mais...
 ...CINQ REGIONAUX « MITIGES » DANS LES DIX PREMIERS
@@ -235,6 +259,8 @@ Demain, pour la 19e étape Vannes-St-Brieuc, Vietto, Robic, Teisseire, Camellini
 
 Section 25 : 
 
+Source : <ref name=":18">{{Article|langue=fr|auteur1=Claude Tillet|titre=Suite de l'article de Claude Tillet|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
+
 (Suite de l'article de Claude TILLET)
 
 choses. Cloarec n'est pas absolument tranquille à ce propos. Il a même, paraît-il, que ses meilleurs rouleurs consentent à ne pas faire de visites familiales aux environs. Seul, Jean-Marie Goasmat, qui est presque un voisin, ira chez lui.
@@ -253,6 +279,8 @@ Chaque jour, il est là, pédalant avec aisance et tirant le parti le meilleur d
 -----
 
 Section 26 : 
+
+Source : <ref name=":19">{{Article|langue=fr|auteur1=A. de Wetter|titre=Les premiers ont compris les derniers|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
 
 LES PREMIERS ONT COMPRIS LES DERNIERS
 D'un de nos envoyés spéciaux A. DE WETTER
@@ -294,6 +322,8 @@ Il n'y a pas d'autres attardés.
 
 Section 27 : 
 
+Source : <ref name=":20">{{Article|langue=fr|auteur1=A. de Wetter|titre=Tarchini, piètre grimpeur, sera à son aise dans Paris-Roubaix et Paris-Tours|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
+
 TARCHINI, PIETRE GRIMPEUR, SERA A SON AISE DANS PARIS-ROUBAIX ET PARIS-TOURS
 (Suite de la première page)
 
@@ -312,6 +342,8 @@ Rien que cela l'amuse et il lui faut presque faire un effort sur lui-même pour 
 
 Section 28 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=Les montagnes russes bretonnes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
+
 [Carte du parcours]
 19e ÉTAPE 18 JUILLET
 CHATELAUDREN - VANNES - ST-BRIEUC 139K.
@@ -325,6 +357,8 @@ L'étape contre la montre Vannes-Saint-Brieuc n'est pas précisément une étape
 
 Section 29 : 
 
+Source : <ref name=":22">{{Article|langue=fr|titre=Et les « cinq grands » ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
+
 Les Belges, qui étaient trois parmi les treize, ont encore échoué. Ce manque d'aptitude à profiter d'une bonne occasion, à exploiter une supériorité numérique relative, est tout simplement désolant.
 
 Et les « cinq grands » ?
@@ -337,6 +371,8 @@ Pour ce soir, faisons comme les champions : partons du principe que chacun parti
 
 Section 30 : 
 
+Source : <ref name=":23">{{Article|langue=fr|titre=Classement par points|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
+
 Classement par points
 (Après la 18e étape)
 1. ROBIC, 201 points; 2. Vietto, 212 pts; 3. Ronconi, 216 pts; 4. Brambilla, 219 pts; 5. Camellini, 249 pts.
@@ -344,6 +380,8 @@ Classement par points
 -----
 
 Section 32 : 
+
+Source : <ref name=":24">{{Article|langue=fr|auteur1=A. de Wetter|titre=Giguet, le Savoyard indécis, rêve de monter d'autres cols...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
 
 GIGUET, LE SAVOYARD INDECIS, REVE DE MONTER D'AUTRES COLS...
 D'un de nos envoyés spéciaux
@@ -364,11 +402,15 @@ A. de W.
 
 Section 33 : 
 
+Source : <ref name=":25">{{Article|langue=fr|titre=Aujourd'hui repos à Vannes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
+
 Aujourd'hui repos à Vannes
 
 -----
 
 Section 34 : 
+
+Source : <ref name=":26">{{Article|langue=fr|auteur1=A. de Wetter|titre=Florent Mathieu a bravé la Faculté|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
 
 Florent Mathieu a bravé la Faculté
 VANNES. - Victime de chutes assez sérieuses dans les cols pyrénéens, le Belge Florent Mathieu pâlit sous le coup d'une fêlure de l'omoplate. Le médecin, consulté, lui recommanda de ne pas prendre le départ et de se reposer. Mais Mathieu passe outre. Tous au long du Tour, il lutte, sans défaillir, sous la douleur, se classant même dans le peloton, après tout ce que dès l'allure devenait plus rapide...
@@ -379,6 +421,8 @@ Mathieu mérite bien sa récompense, comme sa prime quotidienne de 5.000 francs 
 -----
 
 Section 35 : 
+
+Source : <ref name=":27">{{Article|langue=fr|titre=Demain dix-neuvième étape Vannes-Saint-Brieuc|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
 
 DEMAIN DIX-NEUVIEME ETAPE
 VANNES-SAINT-BRIEUC
@@ -417,6 +461,8 @@ Les coureurs entreront sur la piste en vélodrome de Brézillet par la ligne dro
 
 Section 36 : 
 
+Source : <ref name=":28">{{Article|langue=fr|titre=L'officiel du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
+
 L'Officiel du Tour
 Le Comité du Tour a réglé l'étape de la façon suivante :
 1. TARCHINI (Suisse), les 139 km. en 3 h. 44' 28" (moyenne 37 km. 150) ; 2. Giguet, même temps ; 3. Rémy, à 1" ; 4. Schotte, m. t.
@@ -426,12 +472,16 @@ PRIME DE LA 18e ÉTAPE. - Au passage à Redon, où l'organisation n'avait pas pr
 
 Section 37 : 
 
+Source : <ref name=":29">{{Article|langue=fr|titre=Les arrivées|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
+
 Les arrivées
 Savez-vous que la plus faible ne dépasse pas le cap de 3 minutes ? Le Tour d'Italie était la course la plus disputée, donne le détail de tous les Tours, étape par étape, du Tour : « L'Équipe » et dimanche 20 juillet le n° 60. Envoi franco contre 10 francs.
 
 -----
 
 Section 38 : 
+
+Source : <ref name=":30">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
 
 La radiodiffusion du « Tour »
 JEUDI 17 JUILLET
@@ -452,6 +502,8 @@ CHAINE NATIONALE : 18 h. 30, 20 h. 50.
 -----
 
 Section 39 : 
+
+Source : <ref name=":31">{{Article|langue=fr|titre=Classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -515,6 +567,8 @@ A combien ils sont du leader
 
 Section 40 : 
 
+Source : <ref name=":32">{{Article|langue=fr|titre=Classement du challenge international|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f3}}|accès url=libre}}.</ref>
+
 Classement du Challenge international
 (Par addition des temps des trois premiers de chaque équipe)
 1. Italie (Brambilla, Ronconi, Cottur) ... 392 h. 29' 40"
@@ -533,6 +587,8 @@ Classement du Challenge international
 -----
 
 Section 79 : 
+
+Source : <ref name=":33">{{Article|langue=fr|auteur1=Charles Joly|titre=Du tour du faubourg Montmartre... au tour « sur le vif »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f4}}|accès url=libre}}.</ref>
 
 PETITES ANNONCES
 
@@ -694,6 +750,8 @@ Et, personnellement, j'aurai vécu, cette année, le plus beau mois de juillet d
 
 Section 80 : 
 
+Source : <ref name=":34">{{Article|langue=fr|auteur1=André Costes|titre=Le journal du Tour : il n'y avait pas de Gabriel des Vannes|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f4}}|accès url=libre}}.</ref>
+
 LE JOURNAL DU TOUR
 IL N'Y AVAIT PAS DE GABRIEL DES VANNES
 
@@ -772,6 +830,8 @@ Mais nous allons vers le jour du repos pour en parler. Attendons donc que les pl
 
 Section 81 : 
 
+Source : <ref name=":35">{{Article|langue=fr|auteur1=Dante Gianello|titre=Un champion écrit : sans biniou|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f4}}|accès url=libre}}.</ref>
+
 UN CHAMPION ÉCRIT
 SANS BINIOU
 
@@ -795,6 +855,8 @@ Dans cette petite histoire, c'est toute la Bretagne qui passe.
 -----
 
 Section 82 : 
+
+Source : <ref name=":36">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=Le point de vue belge : les hésitations d'Impanis ou le nouveau ratage|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f4}}|accès url=libre}}.</ref>
 
 Le point de vue BELGE
 Les hésitations d'IMPANIS
@@ -833,6 +895,8 @@ Léon Sonnet, ami intime de Mathieu, et Jean Vandenboel, les deux soigneurs de l
 
 Section 83 : 
 
+Source : <ref name=":37">{{Article|langue=fr|titre=Styles différents|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f4}}|accès url=libre}}.</ref>
+
 [Légende photo]
 STYLES DIFFÉRENTS
 L'échappée décisive est lancée et, dans un raidillon montent vers Vannes, G. Weilenmann, en force, debout sur les pédales, grimpe sèchement. Quel contraste avec l'allure plus aisée du jeune champion belge Raymond Impanis, tout en souplesse, bien assis sur sa selle. Deux hommes, deux styles différents.
@@ -841,6 +905,8 @@ L'échappée décisive est lancée et, dans un raidillon montent vers Vannes, G.
 -----
 
 Section 84 : 
+
+Source : <ref name=":38">{{Article|langue=fr|auteur1=Pierre About|titre=Tous leurs tours dans mon sac : Tarchinade bretonne...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS TOURS DANS MON SAC
 Tarchinade bretonne...
@@ -893,6 +959,8 @@ Communiqué à Jacques Goddet à toutes fins utiles.
 
 Section 85 : 
 
+Source : <ref name=":39">{{Article|langue=fr|titre=Aux victoires d'étapes l'Ouest se rapproche|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f4}}|accès url=libre}}.</ref>
+
 Aux victoires d'étapes l'Ouest se rapproche
 1. FRANCE .................... 5
 Vietto 2, Teisseire 2, Fachleitner 1, Massal 1.
@@ -910,6 +978,8 @@ Bourlon 1.
 -----
 
 Section 86 : 
+
+Source : <ref name=":40">{{Article|langue=fr|auteur1=Claude Teysseyre|titre=Les masseurs du Tour ne sont pas des masseurs ordinaires|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f4}}|accès url=libre}}.</ref>
 
 LES MASSEURS DU TOUR
 ne sont pas
@@ -950,6 +1020,8 @@ Les masseurs du Tour savent tout cela, ils connaissent le rythme cardiaque de so
 
 Section 87 : 
 
+Source : <ref name=":41">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain : le supplice de Tantale|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f4}}|accès url=libre}}.</ref>
+
 LE FAIT HUMAIN
 LE SUPPLICE DE TANTALE
 
@@ -974,6 +1046,8 @@ En d'autres temps barbares, on appelait cela le supplice de Tantale.
 -----
 
 Section 88 : 
+
+Source : <ref name=":42">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : rien de nouveau chez les « Azzuri »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=17 juillet 1947|lire en ligne={{Gallica|id=bd6t599488b/f4}}|accès url=libre}}.</ref>
 
 Le point de vue ITALIEN
 Rien de nouveau chez les "Azzuri"

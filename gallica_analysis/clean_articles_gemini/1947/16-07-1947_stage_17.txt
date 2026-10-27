@@ -2,6 +2,8 @@
 
 Section 1 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=34e Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f1}}|accès url=libre}}.</ref>
+
 --- Page 1 ---
 
 34e Tour de France
@@ -31,10 +33,14 @@ PARIS
 -----
 
 Section 2 : 
+
+Source : <ref name=":2">{{Article|langue=fr|titre=Commencée sous l'orage, l'étape Bordeaux - Les Sables - d'Olonne finit en éclair !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f1}}|accès url=libre}}.</ref>
 Commencée sous l'orage, l'étape Bordeaux - Les Sables - d'Olonne finit en éclair !
 -----
 
 Section 3 : 
+
+Source : <ref name=":3">{{Article|langue=fr|titre=L'air de l'océan incite un Breton à ouvrir le feu : Eloi Tassin vainc enfin ses malheurs...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f1}}|accès url=libre}}.</ref>
 L'AIR DE L'OCEAN INCITE UN BRETON A OUVRIR LE FEU :
 ELOI TASSIN VAINC ENFIN SES MALHEURS...
 ET HUIT HOMMES SE RELAYANT DANS LE VENT
@@ -42,6 +48,8 @@ ET HUIT HOMMES SE RELAYANT DANS LE VENT
 -----
 
 Section 4 : 
+
+Source : <ref name=":4">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Les faits et les hommes : l'ère des Bretons|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f1}}|accès url=libre}}.</ref>
 LES FAITS ET LES HOMMES
 L'ERE DES BRETONS
 De notre Directeur Jacques GODDET
@@ -146,6 +154,8 @@ bravoure, autant de raisons de désespérer.
 -----
 
 Section 5 : 
+
+Source : <ref name=":5">{{Article|langue=fr|auteur1=Claude Tillet|titre=Une fois de plus, les Belges manquent le coche : Schotte, second !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f1}}|accès url=libre}}.</ref>
 Une fois de plus, les Belges manquent le coche :
 SCHOTTE, SECOND !
 
@@ -173,6 +183,8 @@ C'est un beau succès et c'est aussi une indication. Il est maintenant certain q
 -----
 
 Section 6 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=Classement de la 17e étape Bordeaux-Les Sables-d'Olonne|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f1}}|accès url=libre}}.</ref>
 CLASSEMENT de la 17e étape
 Bordeaux-Les Sables-d'Olonne
 (272 km.)
@@ -196,18 +208,24 @@ Ce qu'il leur reste à faire
 -----
 
 Section 7 : 
+
+Source : <ref name=":7">{{Article|langue=fr|titre=En plein marais|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f1}}|accès url=libre}}.</ref>
 EN PLEIN MARAIS
 LES SABLES. — Le peloton traverse le « Marais » entre Rochefort et Marans, et l'eau, dans laquelle se reflète les coureurs, vient baigner le bord de la route. On reconnaît, en tête, Piot, Rémy et Teisseire.
 (Bélinogramme spécial L'EQUIPE)
 -----
 
 Section 9 : 
+
+Source : <ref name=":8">{{Article|langue=fr|titre=L'effort décisif|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f1}}|accès url=libre}}.</ref>
 L'EFFORT DECISIF
 LES SABLES. — Eloi Tassin, sentant l'air du pays, a démarré. En danseuse, muscles tendus, on le voit ici produire l'effort décisif qui lui vaudra d'arrivée détaché dans le vélodrome.
 (Bélinogramme spécial L'EQUIPE)
 -----
 
 Section 10 : 
+
+Source : <ref name=":9">{{Article|langue=fr|auteur1=A. D. W.|titre=Contre la montre : les cinq leaders seront constamment renseignés sur leurs positions|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f1}}|accès url=libre}}.</ref>
 Contre la montre
 LES CINQ LEADERS SERONT CONSTAMMENT RENSEIGNES SUR LEURS POSITIONS
 
@@ -218,6 +236,8 @@ Enfin, un service d'estafettes motocyclistes renseigneront les cinq leaders du c
 -----
 
 Section 15 : 
+
+Source : <ref name=":10">{{Article|langue=fr|auteur1=Jacques Goddet|titre=L'ère des Bretons (suite)|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f2}}|accès url=libre}}.</ref>
 GRAND PRIX D'ALBI
 1er TALBOT (L. Rosier)
 (MOYENNE : 142 KM. 535)
@@ -245,6 +265,8 @@ Le plus méritant au cours de l'échauffourée fut certainement Brambilla qui ne
 -----
 
 Section 16 : 
+
+Source : <ref name=":11">{{Article|langue=fr|auteur1=Claude Tillet|titre=Les Italiens n'ont rien tenté hier|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f2}}|accès url=libre}}.</ref>
 
 LES ITALIENS N'ONT RIEN TENTE HIER
 (Suite de l'article de Claude Tillet)
@@ -282,6 +304,8 @@ Nous ne ferons aucune difficulté pour tirer une autre conclusion. Que sonnet es
 
 Section 17 : 
 
+Source : <ref name=":12">{{Article|langue=fr|titre=Aux victoires d'étapes la France mène|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f2}}|accès url=libre}}.</ref>
+
 Aux victoires d'étapes la France mène
 1. FRANCE : 6 (Caput 2, Teisseire 1, Fachleitner 1, Massal 1)
 2. OUEST : 3 (Robic, 3)
@@ -296,6 +320,8 @@ Gino Sciardis (Nord-Est), porteur depuis la 9e étape du brassard créé par la 
 -----
 
 Section 18 : 
+
+Source : <ref name=":13">{{Article|langue=fr|titre=Rendez-vous : dix-huitième étape Les Sables-Vannes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f2}}|accès url=libre}}.</ref>
 
 Rendez-vous
 DIX-HUITIEME ETAPE
@@ -345,6 +371,8 @@ Demain, repos à Vannes
 -----
 
 Section 19 : 
+
+Source : <ref name=":14">{{Article|langue=fr|titre=Classement général : à combien ils sont du leader|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -423,6 +451,8 @@ Classement du Challenge international
 
 Section 20 : 
 
+Source : <ref name=":15">{{Article|langue=fr|auteur1=A. de Wetter|titre=Bordeaux - Les Sables ?... ...une course de primes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f2}}|accès url=libre}}.</ref>
+
 BORDEAUX - LES SABLES ?... ...UNE COURSE DE PRIMES
 D'un de nos envoyés spéciaux A. DE WETTER
 
@@ -462,6 +492,8 @@ On note le beau retour de Pawliszak, qui termine treizième, non sans mérite.
 
 Section 21 : 
 
+Source : <ref name=":16">{{Article|langue=fr|auteur1=René Moyset|titre=Le régional Latorre échoua à Bordeaux : Eloi Tassin, plus heureux, a réussi aux Sables-d'Olonne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f2}}|accès url=libre}}.</ref>
+
 Le régional Latorre échoua à Bordeaux
 ELOI TASSIN, PLUS HEUREUX, A REUSSI AUX SABLES-D'OLONNE
 D'un de nos envoyés spéciaux René MOYSET
@@ -487,6 +519,8 @@ Restent les équipiers de Lazaridès. Gino Sciardis, qui, après avoir perdu sa 
 
 Section 22 : 
 
+Source : <ref name=":17">{{Article|langue=fr|titre=L'Officiel du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f2}}|accès url=libre}}.</ref>
+
 L'Officiel du Tour
 
 PENALITES 17e ETAPE. — CAMELINI (6), réclamation contre Schotte (7) pour changement de ligne à 20 mètres de la ligne, Schotte n'ayant pas commis de faute au préjudice dudit Camellini, réclamation rejetée.
@@ -501,6 +535,8 @@ PENALITES DE LA 16e ETAPE. — Gauthier (44), 100 fr. d'amende et un point de p�
 
 Section 23 : 
 
+Source : <ref name=":18">{{Article|langue=fr|auteur1=Sarrazin|titre=Enthousiasme aux Sables pour le Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f3}}|accès url=libre}}.</ref>
+
 Enthousiasme aux Sables pour le Tour
 (De notre corresp. partic. SARRAZIN)
 LES SABLES. — Décrire l'immense succès populaire qui couronna la venue, hier, de la 17e étape du Tour est impossible.
@@ -511,64 +547,9 @@ Dès les premières heures de l'après-midi, une foule énorme se rendait en eff
 CYCLISME
 -----
 
-Section 24 : 
-Senséver et Faye
-(Suite de la première page)
-tête mise au point faite, il n'est pas erré de prévoir que nos deux hommes les plus rapides dans la catégorie A dangeront pour les meilleurs Championnats du monde.
-Peugeot », épreuve de révélation
-constatation agréable, nous l'avons déjà faite, c'est le grand nombre de concurrents des deux catégories, garçons de 16 à 22 ans.
-Sur le vainqueur Bidart, de l'Aéronautique l'Algérois Kéballi, fantais Hilary, le Diripois Vollet, ix éléments du peloton de tête des finants, nous avaient déjà con- leur bon boutoir. Mais une fois fcore des jeunes où ils se révé-
-nent...
-
-VÉLO-RUMEURS
-Voici les sélections du samedi pour la demi-finale du monde : Schandorff, sen; Senfftleben, Regn. Harris (Cham- amateurs); Kebaïli, Jean Petersen (vt. te); Fayes, A. Audureau, E. Gossin amateurs amateurs); Senfftleben, Chombart, erte); Kebaïli, H. Falk-Hansen, Arne sen; Schandorff, Ch. Prévost; G. dureau, Emling, Rasmusen ?, W.-. rsen, Gossin;
-Dans le Hollande - Belgique d'A- m: 1. Van Vliet bat Derksen; 2. msen bat Schooten; 3. Van Vliet Schooten [vitesse pro]; Bijster. Diau- r, Van Vliet (57 pts) bat Derksen, Van ens, Schooten [45 pts] [omnium n]; 4. Peters bat Schulte, Middel- mp, Janson, Lakeman.
-
-Van Tighem s'adjuge
-l'Omnium des Demi-fond
-VALENCIENNES. — Les deux grands ix de demi-fond de l'hippodrome de nchin ont eu ces créations : il s'agissait 'affronter au cours de la soirée les x meilleurs, battant quatre hommes au al.
-1. Van Tighem, 100 kil. en 1 h. 34 . 1/5; 2. Siart Nord, pn. Wolber; 3. Mar- n; 4. Lamon; 5. Petit; 6. Tranckant.
-
-Nos visiteurs...
-Dans le hall de « L'Equipe »... Appari- on de coureurs, cela se comprend.
-L'Olympique de Paris est venu réclamer titre de champion de France des socié- 6 : c'est un conflit ouvert entre les jeunes les vieux.
-Robert Dorgebray est venu avec ses deux sards : Mouret et Mouchotte, du même ub. Dorgebray a le sourire : le « Tour » marche.
-Brouetti et Leullier (Font. Sportif), vra- emment vainqueurs à Rosny devant aris.
-Guerin et ses poulains du club des arisiens n'avaient pas que des pré- tions.
-L'Espagnol se nomme Alvarez Ma- o; l'A.S. Coiffure et Paul Vallet le conçoivent. Alvarez a 1'Aéro-Club ans le sang.
-L'équipe Charentonnaise était repré- entée par MM. Robert Sené, F. Le Guen. Villes de Charenton et Lannon du Prix e la Municipalité de Rosny, et un autre ouple, Roger et Jeanette Muller, l'un l'autre à l'Aéro-Club.
-Brouetti et Leullier (Font. Sportif), les vainqueurs du « Premier Pas Dunlop »...
-Pour les Américains :
-Walthour et Mathis (JPE), les heureux vainqueurs de l'américaine de la Croix de Berny...
-
-VOOREN CHAMPION DE HOLLANDE
-AMSTERDAM. — Vooren a remporté le championnat de Hollande sur route des professionnels, les 50 km. en 1 h. 7' 35", devançant Middelkamp, Schulte, Peters...
-Vitesse pro : 1/2 fin : 1. Van Vliet b. Derksen; 2. Schooten b. Middelkamp. Fin. pour les l' et 2 pl. : Van Vliet b. Schooten; pour la 3º pl. : Derksen b. Middelkamp.
-
-CHERENS, RIOLAND-CARRARA, MASSON, etc... EN ATTENDANT LE « TOUR »
-Un programme alléchant sera servi dimanche, l'arrivée du Tour, au Parc des Princes.
-GRAND PRIX DE VITESSE : Cherens, Senfftleben, Rioland, Carrara, Masson, Gérardin, Du- mont, Iacoponelli, Idoux, Gossin, Denis, Claessens...
-OMNIUM PAR EQUIPES : Rioland-Carrara, Masson-Faye, Gérardin-Senfftleben.
-DEMI-FOND : Besson, Michaux, Deceuninck, Chaillot, Lemoine; De- laire, etc.
-COUPE DE FRANCE SUR PISTE: A.C.B.B., CSA Garches, Charenton, Fontenay...
-Les acrobates motocyclistes Vial et Bouiard.
-
-A LUCIEN LAUK LE TOUR DU CALVADOS
-LISIEUX. — Tour du Calvados. Re- vanche en forme de Lucien Lauk qui bat ses rivaux grâce à ses qualités de sprinter. — 1. Lucien Lauk, sur bic. Me- rano-Dunlop, 140 km. en 4 h. 10' 20"; 2. Bidauld; 3. Engel; 4. Névrant; 4 ex æquo : Chapatte, etc...
-
-LOCATION EST OUVERTE POUR LES CHAMPIONNATS DU MONDE
-Les Championnats du monde se dispu- teront au Parc des Princes du 26 juillet au 3 août.
-Rappelons donc que la location est ou- verte au Parc des Princes, tribune d'hon- neur et 1/2 fond, au Parc des Princes, de 9 h. à 18 h.; chez M. Paul Fabre, 12, rue Bergère (3e août), chez Diche- lin, 4, faubourg St-Denis; M. Marcel Fabre, 56, rue Saint-Denis; à l'Auto-Moto, 25, bd des Italiens.
-
-CHAMPIONNAT DE PISTE
-A BORDEAUX. — Championnat de Guyenne de vitesse : 1. Barrière; 2. Fa- varel, 200 m. en 14" 4/5. Amat. : 1. Delbos; 2. Frayret, 13" 2/5.
-
-PRIX DES FRERES FORLINI (US Me- troff) : 1. Vallet (US Franco-Belge) 200 m. en 13" 2/5; 2. Cerveau (CSM); 3. P. Vallet (US Metroff). Vainqueur du tour de piste sur bic. Eriams, pn. Wolber : P. Vallet, 19" 3/5.
-PRIX DES COMMERCANTS DE RO- SNY : 1. S. Prieur (CSM) 200 m. en 13" 2/5; 2. Le Gall (Fontenay); 3. Cerveau, pn. Hutchinson; 4. Breton; 5. Dechaumes. Vainqueur du tour de piste sur bic. Borde.
-
------
-
 Section 55 : 
+
+Source : <ref name=":19">{{Article|langue=fr|auteur1=André Costes|titre=La Bretagne en liesse : Jean-Marie Cloarec et Cogan arrivent chez eux !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f4}}|accès url=libre}}.</ref>
 [PUBLICITÉS DIVERSES / ANNONCES LÉGALES ET CLASSÉES]
 
 --- Page 4 ---
@@ -643,6 +624,8 @@ Certaines réserves s'imposent cependant. Nous ne mettons pas en doute la sincé
 
 Section 56 : 
 
+Source : <ref name=":20">{{Article|langue=fr|auteur1=Dante Gianello|titre=Un champion écrit... N'oublions pas les autres|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f4}}|accès url=libre}}.</ref>
+
 UN CHAMPION ECRIT...
 N'OUBLIONS PAS LES AUTRES
 par Dante GIANELLO
@@ -682,6 +665,8 @@ Et bien entendu, pour qui subit les grands revers, son mérite est de tenter de 
 
 Section 57 : 
 
+Source : <ref name=":21">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=Le point de vue belge : l'abonnement des cavaliers|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f4}}|accès url=libre}}.</ref>
+
 Le point de vue belge
 L'ABONNEMENT DES CAVALIERS
 par Albert VAN LAETHEM, rédacteur en chef de « Sports », de Bruxelles
@@ -710,6 +695,8 @@ De Raymond Impanis, rien de belge, je vous dirai qu'il a été longtemps le comp
 
 Section 58 : 
 
+Source : <ref name=":22">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : pauvre Rossello il nous laissa au moment du sprint final|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f4}}|accès url=libre}}.</ref>
+
 Le point de vue italien
 PAUVRE ROSSELLO il nous laissa au moment du sprint final
 par Guido GIARDINI chef de la rubrique cycliste de la GAZZETTA DELLO SPORT
@@ -736,6 +723,8 @@ Nous allons maintenant voir l'étape de la grande foule qui attend sur pour accu
 
 Section 59 : 
 
+Source : <ref name=":23">{{Article|langue=fr|titre=A Teisseire la meilleure moyenne|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f4}}|accès url=libre}}.</ref>
+
 A Teisseire la meilleure moyenne
 1re étape : Kubler ... 38k. 370
 2e : Vietto ... 37 997
@@ -758,6 +747,8 @@ A Teisseire la meilleure moyenne
 -----
 
 Section 60 : 
+
+Source : <ref name=":24">{{Article|langue=fr|auteur1=Pierre About|titre=Tours dans mon sac : baptême à l'aube...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f4}}|accès url=libre}}.</ref>
 
 TOURS DANS MON SAC
 BAPTEME A L'AUBE...
@@ -807,6 +798,8 @@ La course a commencé à 60 km. environ du terme par la fugue de Tassin de l'éq
 
 Section 61 : 
 
+Source : <ref name=":25">{{Article|langue=fr|auteur1=Claude Tillet|titre=Mécanos du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f4}}|accès url=libre}}.</ref>
+
 MÉCANOS DU TOUR
 D'un de nos envoyés spéciaux Claude TILLET.
 
@@ -839,6 +832,8 @@ Car ce sont, avant tout, des passionnés du vélo.
 
 Section 62 : 
 
+Source : <ref name=":26">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Tassin avait peur de se faire tuer... dans la traversée de Nantes|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f4}}|accès url=libre}}.</ref>
+
 TASSIN AVAIT PEUR
 de se faire tuer...
 dans la traversée de Nantes
@@ -867,6 +862,8 @@ Voilà un langage qui plaira aux supporters d'Eloi Tassin. Ce coureur au grand c
 -----
 
 Section 64 : 
+
+Source : <ref name=":27">{{Article|langue=fr|auteur1=Caza|titre=La case à Caza : ils ont dansé au bal du 14 juillet|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=16 juillet 1947|lire en ligne={{Gallica|id=bd6t5994870/f4}}|accès url=libre}}.</ref>
 
 LA CASE A CAZA.
 ILS ONT DANSE AU BAL DU 14 JUILLET

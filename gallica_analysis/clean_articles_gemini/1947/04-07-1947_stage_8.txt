@@ -2,6 +2,8 @@
 
 Section 3 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=La bataille dans la Croix de Fer et le Galibier regroupe quatre leaders en 3' 10"|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f1}}|accès url=libre}}.</ref>
+
 La bataille dans la Croix de Fer et le Galibier regroupe quatre leaders en 3' 10"
 
 MAGNIFIQUE COUPÉ DE FERMO CAMELLINI
@@ -16,6 +18,8 @@ L'Italien de France, en conflit aigu avec Ronconi, son chef de file, n'est plus 
 -----
 
 Section 4 : 
+
+Source : <ref name=":2">{{Article|langue=fr|titre=Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f1}}|accès url=libre}}.</ref>
 
 Tour de France
 4.640 KM.
@@ -37,6 +41,8 @@ ALENTIGNEY
 -----
 
 Section 5 : 
+
+Source : <ref name=":3">{{Article|langue=fr|auteur1=Claude Tillet|titre=Au pied de la trinité Isoard-Vars-Allos, l'intérêt du tour rebondit... et l'issue reste imprévisible !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f1}}|accès url=libre}}.</ref>
 
 ic perd pied et de 4', à 7' 14", passe à 5', à 13' 5"
 Fachleitner reste toute la journée avec Vietto
@@ -100,6 +106,8 @@ va être content.
 
 Section 6 : 
 
+Source : <ref name=":4">{{Article|langue=fr|titre=Leducq, Speicher et la presse belge ont fleuri le futur monument Henri Desgrange|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f1}}|accès url=libre}}.</ref>
+
 Leducq, Speicher
 et la presse belge
 ont fleuri
@@ -116,6 +124,8 @@ Les travaux de mise en place du monument vont commencer incessamment. Les pierre
 -----
 
 Section 7 : 
+
+Source : <ref name=":5">{{Article|langue=fr|titre=Classement de la 8e étape Grenoble - Briançon|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT
 de la 8e étape
@@ -152,6 +162,8 @@ Ce qui leur reste à faire
 
 Section 8 : 
 
+Source : <ref name=":6">{{Article|langue=fr|auteur1=Jacques Goddet|titre=La montagne qui regroupe|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f1}}|accès url=libre}}.</ref>
+
 LES FAITS ET LES HOMMES
 
 LA MONTAGNE QUI REGROUPE
@@ -180,6 +192,8 @@ Je pense, au surplus, que la tactique d'équipe ne s'opposait pas tantôt au dé
 -----
 
 Section 9 : 
+
+Source : <ref name=":7">{{Article|langue=fr|auteur1=Albert de Wetter|titre=« Si Brambilla est le plus fort qu'il joue sa chance » a déclaré Ronconi à son directeur technique|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f1}}|accès url=libre}}.</ref>
 
 « SI BRAMBILLA EST LE PLUS FORT
 qu'il joue sa chance »
@@ -212,11 +226,15 @@ Pour notre compte et comme beaucoup, nous en doutons.
 
 Section 10 : 
 
+Source : <ref name=":8">{{Article|langue=fr|titre=Première escarmouche|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f1}}|accès url=libre}}.</ref>
+
 PREMIERE ESCARMOUCHE BRIANÇON. — Klabinsky attaque en tête le col du Glandon. Il tire fort sur le guidon et appuie sur les pédales énergiquement. Si bien que, derrière lui, ses compagnons de fuite montrent d'accrus dépens d'un majestueux paysage. C'est la première sérieuse escarmouche. (Bélingramme spécial L'EQUIPE)
 
 -----
 
 Section 12 : 
+
+Source : <ref name=":9">{{Article|langue=fr|titre=Les inséparables du Glandon|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f1}}|accès url=libre}}.</ref>
 
 LES INSEPARABLES DU GLANDON
 BRIANÇON. — Brambilla et Ronconi arrivent au sommet du col du Glandon. Décidément, Brambilla n'a pas fait de « fleur » à son équipier et, cette fois, il le devance au sprint.
@@ -225,6 +243,8 @@ BRIANÇON. — Brambilla et Ronconi arrivent au sommet du col du Glandon. Décid
 -----
 
 Section 18 : 
+
+Source : <ref name=":10">{{Article|langue=fr|titre=Lazaridès, qui fait une excellente ascension du Galibier, perd une seconde place certaine sur crevaison|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
 
 Tour de France
 Ils triompheront des intempéries grâce à leur imperméable
@@ -241,6 +261,8 @@ Un très bon début de course de Klabinsky, malchanceux par la suite
 -----
 
 Section 19 : 
+
+Source : <ref name=":11">{{Article|langue=fr|auteur1=Jacques Goddet|titre=La montagne qui regroupe|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
 
 La montagne qui regroupe
 (Suite de l'article de Jacques GODDET)
@@ -285,6 +307,8 @@ Savez-vous pourquoi Klabinsky, poids lourd, mit dans sa gorge petite tous les gr
 
 Section 20 : 
 
+Source : <ref name=":12">{{Article|langue=fr|auteur1=Claude Tillet|titre=Histoire de fous !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
+
 (Suite de l'article de Claude TILLET)
 
 — Mais non ! Camellini appartient à l'équipe des Etrangers de France !
@@ -323,6 +347,8 @@ Ont le mot d'adieu après les vedettes du jour : les Italiens Cottur, Tacca, Ros
 
 Section 21 : 
 
+Source : <ref name=":13">{{Article|langue=fr|titre=Les bonifications en haut des cols|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
+
 LES BONIFICATIONS EN HAUT DES COLS
 
 COLS DE 1re CATEGORIE : (Galibier, Croix de Fer, Télégraphe, Allos, Tourmalet, Aubisque, etc.) : 3' au premier, 2' au second, 1' au troisième.
@@ -342,6 +368,8 @@ A la sortie de Saint-Jean-de-Maurienne...
 
 Section 22 : 
 
+Source : <ref name=":14">{{Article|langue=fr|titre=Classement par points|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
+
 CLASSEMENT PAR POINTS
 (Coupe des Cachous Gallus)
 
@@ -350,6 +378,8 @@ CLASSEMENT PAR POINTS
 -----
 
 Section 23 : 
+
+Source : <ref name=":15">{{Article|langue=fr|titre=Avant Plan Lachat|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
 
 Avant Plan Lachat, il n'a perdu qu'une minute 38" sur Ronconi et Brambilla. Avant le sommet du Galibier, il est à 2' 10" de Ronconi. Vous savez qu'il rejoindra son rival avant Briançon. Il s'est battu une fois de plus, comporta en très grand seigneur, mais nous doutons, si son peu opposer aux attaques qu'une défense intelligente et que son physique on est fatalement inquiet pour la suite de l'épreuve...
 
@@ -360,6 +390,8 @@ Et Robic ? Il commence à gravir la Croix de Fer avec l'embonpoint que l'Epine, 
 -----
 
 Section 24 : 
+
+Source : <ref name=":16">{{Article|langue=fr|titre=Profits et pertes d'une étape à l'autre|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
 
 Profits et pertes d'une étape à l'autre
 
@@ -384,6 +416,8 @@ Goasmat : — / 1
 
 Section 25 : 
 
+Source : <ref name=":17">{{Article|langue=fr|titre=Où en sont les leaders de chaque équipe ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
+
 Où en sont les leaders de chaque équipe ?
 
 1. Italie ...... Ronconi : 59 h. 25 m. 44 s.
@@ -400,6 +434,8 @@ Où en sont les leaders de chaque équipe ?
 -----
 
 Section 26 : 
+
+Source : <ref name=":18">{{Article|langue=fr|auteur1=René Moyset|titre=Il y eut du malchanceux dans les cols mais tous les régionaux terminèrent|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
 
 IL Y EUT DU MALCHANCEUX DANS LES COLS MAIS TOUS LES REGIONAUX TERMINERENT
 (D'un de nos envoyés spéciaux René MOYSET)
@@ -446,6 +482,8 @@ Un grand, qui, ce soir, ne proteste pas, c'est Tasdin, lequel nous dit :
 
 Section 27 : 
 
+Source : <ref name=":19">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Derrière eux dans les trois cols|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
+
 DERRIERE EUX DANS LES TROIS COLS
 D'un de nos envoyés spéciaux A. WETTER
 
@@ -472,6 +510,8 @@ Les accidents furent assez nombreux. Parmi les crevaisons, citons : Strat, Bobet
 -----
 
 Section 28 : 
+
+Source : <ref name=":20">{{Article|langue=fr|auteur1=Claude Tillet|titre=Le Tour façonnera une nouvelle génération de routiers français|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
 
 Le Tour façonnera une nouvelle génération de routiers français
 
@@ -501,6 +541,8 @@ Le Tour doit façonner une nouvelle génération de champions français. Il rend
 
 Section 29 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=Autour de la lutte pour le maillot jaune|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
+
 AUTOUR DE LA LUTTE POUR LE MAILLOT JAUNE
 (D'un de nos envoyés spéciaux)
 
@@ -526,6 +568,8 @@ BRIANÇON. — Ronconi, Vietto et Amberg ont enfin pointé leur course. Mais pou
 
 Section 30 : 
 
+Source : <ref name=":22">{{Article|langue=fr|titre=Le prix du meilleur grimpeur|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
+
 Le Prix du Meilleur Grimpeur
 (Trophée de « L'Humanité ») doté de 200.000 francs
 
@@ -536,6 +580,8 @@ A l'issue des 7e et 8e étapes le classement s'établit ainsi :
 -----
 
 Section 31 : 
+
+Source : <ref name=":23">{{Article|langue=fr|titre=Aujourd'hui repos à Briançon, demain, neuvième étape Briançon - Digne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
 
 Aujourd'hui repos à Briançon
 DEMAIN, NEUVIEME ETAPE
@@ -582,6 +628,8 @@ Arrivée sur le boulevard Gassendi, au coin d'une ligne droite de 250 mètres.
 
 Section 32 : 
 
+Source : <ref name=":24">{{Article|langue=fr|titre=9me étape - 5 juillet 1947 : Briançon - Digne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
+
 9ME ETAPE - 5 JUILLET 1947
 BRIANÇON - DIGNE
 [Profil altimétrique :]
@@ -597,6 +645,8 @@ L'ETAPE DES TROIS COLS. — Dès le départ de Briançon c'est l'ascension du co
 -----
 
 Section 33 : 
+
+Source : <ref name=":25">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
 
 Ceux qui restent qualifiés
 
@@ -625,6 +675,8 @@ SUD-EST (maillot violet, bande vert-tilleul, casquette violette, bande vert-till
 -----
 
 Section 34 : 
+
+Source : <ref name=":26">{{Article|langue=fr|titre=Classement général : à combien ils sont du leader|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -702,6 +754,8 @@ H. m. s.
 
 Section 35 : 
 
+Source : <ref name=":27">{{Article|langue=fr|titre=Classement du challenge national|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
+
 Classement du Challenge National
 (Par addition des temps des trois premiers de chaque équipe)
 
@@ -720,6 +774,8 @@ Classement du Challenge National
 
 Section 36 : 
 
+Source : <ref name=":28">{{Article|langue=fr|titre=Le Galibier en chiffres|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
+
 LE GALIBIER EN CHIFFRES
 LAZARIDÈS A MONTE PENDANT 34 K. A LA MOYENNE DE 18 KM.
 Le jeune Italien Rossello grimpa le mieux après lui
@@ -737,6 +793,8 @@ La vitesse ascensionnelle de Lazaridès s'est élevée à 978 mètres à l'heure
 -----
 
 Section 38 : 
+
+Source : <ref name=":29">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
 
 La radiodiffusion du « Tour »
 VENDREDI 4 JUILLET
@@ -775,6 +833,8 @@ Une nouvelle performance de l'inusable FOURGON 2 C.V. CITROEN : Deux 20 CV de no
 
 Section 39 : 
 
+Source : <ref name=":30">{{Article|langue=fr|titre=Ahmed Chibane le cœur gros repart pour l'Algérie|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f2}}|accès url=libre}}.</ref>
+
 AHMED CHIBANE le cœur gros repart pour l'Algérie
 où il va préparer le Tour AS en roulant sur les rares pavés africains
 
@@ -791,6 +851,8 @@ Ainsi se confirme le diagnostic du docteur, spécialiste à Chibane de repartir 
 -----
 
 Section 40 : 
+
+Source : <ref name=":31">{{Article|langue=fr|titre=Bientôt, sélection officielle des Français en vue des championnats du monde|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f3}}|accès url=libre}}.</ref>
 
 [Légende sous la photo du bas :]
 Le premier désir du vainqueur, quel qu'il soit : boire ! La première fête de Camellini à l'arrivée à Briançon : l'eau Perrier.
@@ -809,6 +871,8 @@ Si nos informations sont exactes, s'il n'est pas exclu que certains individualis
 -----
 
 Section 65 : 
+
+Source : <ref name=":32">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : un grand Camellini, un grand Brambilla et un extraordinaire Rossello|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f4}}|accès url=libre}}.</ref>
 
 Le point de vue italien
 Un grand Camellini, un grand Brambilla
@@ -844,6 +908,8 @@ Rossello est sûrement un grand champion pour la saison à venir.
 -----
 
 Section 66 : 
+
+Source : <ref name=":33">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=La défaite belge est consommée : le point de vue belge et Impanis ne continuera que s'il le désire|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f4}}|accès url=libre}}.</ref>
 
 La défaite belge est consommée
 Le point de vue belge
@@ -898,6 +964,8 @@ Puisse-t-il être bon prophète.
 
 Section 67 : 
 
+Source : <ref name=":34">{{Article|langue=fr|titre=« Apo » la souffrance...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f4}}|accès url=libre}}.</ref>
+
 « APO » LA SOUFFRANCE...
 
 BRIANÇON. — Lazaridès, souffrant toujours de son pied, s'apprête à attaquer le mais sa physionomie indique à quel point il eut besoin de tout son courage pour lutter dans les grands cols et manquer de peu une belle victoire. (Photo transmise par l'avion spécial de L'Equipe)
@@ -905,6 +973,8 @@ BRIANÇON. — Lazaridès, souffrant toujours de son pied, s'apprête à attaque
 -----
 
 Section 68 : 
+
+Source : <ref name=":35">{{Article|langue=fr|auteur1=André Costes|titre=Les juges de partiment des verdicts inexorables... dont frémissaient les leaders du classement général !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f4}}|accès url=libre}}.</ref>
 
 LES JUGES DE PARTIMENT DES VERDICTS inexorables...
 ...DONT FREMISSIENT LES LEADERS DU CLASSEMENT GENERAL !
@@ -980,6 +1050,8 @@ Et Martano s'arrêta pour « les Pyrénées, en France. Sur la route du Tour, pr
 
 Section 69 : 
 
+Source : <ref name=":36">{{Article|langue=fr|titre=Les bonifications de l'étape|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f4}}|accès url=libre}}.</ref>
+
 Les bonifications de l'étape
 A LA CROIX DE FER : Camellini 1'; Klabinsky 30". — AU TELEGRAPHE : Camellini 1'; Lazaridès 30". — AU GALIBIER : Camellini 1'; Lazaridès 30". — A L'ARRIVEE : Camellini 1' ; Brambilla 30".
 AU TOTAL : Camellini 4'; Lazaridès 1' ; Klabinsky 30" ; Brambilla 30".
@@ -987,6 +1059,8 @@ AU TOTAL : Camellini 4'; Lazaridès 1' ; Klabinsky 30" ; Brambilla 30".
 -----
 
 Section 70 : 
+
+Source : <ref name=":37">{{Article|langue=fr|auteur1=Dante Gianello|titre=Un champion écrit... La montagne a sélectionné...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f4}}|accès url=libre}}.</ref>
 
 UN CHAMPION ÉCRIT...
 LA MONTAGNE a sélectionné...
@@ -1007,6 +1081,8 @@ Les Italiens, eux, ont compris, ou plutôt c'est leur directeur sportif Giardini
 
 Section 71 : 
 
+Source : <ref name=":38">{{Article|langue=fr|titre=Le « blondin » Ronconi|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f4}}|accès url=libre}}.</ref>
+
 LE « BLONDIN » RONCONI
 
 BRIANÇON. — Le plus sérieux adversaire de Vietto, Ronconi, que l'on voit ici, un bidon à la main, est un rude pédaleur, doublé d'un excellent grimpeur. Bien groupé sur sa machine, pédalant rond, d'une façon très efficace, casquette dans sa position favoriée, de côté, le « blondin » transalpin fait parler de lui. (Photo transmise par l'avion spécial de L'EQUIPE)
@@ -1014,6 +1090,8 @@ BRIANÇON. — Le plus sérieux adversaire de Vietto, Ronconi, que l'on voit ici
 -----
 
 Section 72 : 
+
+Source : <ref name=":39">{{Article|langue=fr|auteur1=Fernand Albaret|titre=Tous leurs tours dans mon sac : c'était un porte-bonheur...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS TOURS DANS MON SAC
 C'ÉTAIT UN PORTE-BONHEUR...
@@ -1084,12 +1162,16 @@ Le R F M réclamait la présence d'une très affectée. Donne au moins la preuve
 
 Section 73 : 
 
+Source : <ref name=":40">{{Article|langue=fr|titre=Lacune|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f4}}|accès url=libre}}.</ref>
+
 LACUNE
 — On ne devrait jamais laisser d'anciens sculpteurs prendre le départ de la course !
 
 -----
 
 Section 74 : 
+
+Source : <ref name=":41">{{Article|langue=fr|titre=Les écarts aux points stricts de pointeuse à l'Hurtière|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f4}}|accès url=libre}}.</ref>
 
 LES ECARTS AUX POINTS STRICTS DE POINTEUSE A L'HURTIERE
 
@@ -1209,6 +1291,8 @@ Schotte ... "
 -----
 
 Section 75 : 
+
+Source : <ref name=":42">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain : un petit drame de rien du tout...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=04 juillet 1947|lire en ligne={{Gallica|id=bd6t5994750/f4}}|accès url=libre}}.</ref>
 
 LE FAIT HUMAIN
 UN PETIT DRAME DE RIEN DU TOUT...

@@ -2,6 +2,8 @@
 
 Section 2 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=Un coureur de la jeune génération fait enfin du bon travail !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f1}}|accès url=libre}}.</ref>
+
 UN COUREUR DE LA JEUNE GENERATION FAIT ENFIN DU BON TRAVAIL!
 
 34e TOUR DE FRANCE
@@ -27,6 +29,8 @@ Contrôle: de 7 h. 30 à 8 h. 15; appel: 8 h. 20; départ: 8 h. 30 devant Maison
 -----
 
 Section 3 : 
+
+Source : <ref name=":2">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Du tour classique et voilà Robic...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f1}}|accès url=libre}}.</ref>
 
 LES FAITS ET LES HOMMES
 
@@ -54,6 +58,8 @@ Une courte échappée d'une telle nature est absolument sans histoire. Elle vaut
 
 Section 4 : 
 
+Source : <ref name=":3">{{Article|langue=fr|auteur1=Claude Tillet|titre=50 kilomètres de course|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f1}}|accès url=libre}}.</ref>
+
 D'un de nos envoyés spéciaux Claude TILLET.
 
 STRASBOURG. — Un garçon de la jeune génération a enfin montré, aujourd'hui, qu'il existe tout de même quelques hommes au moral bien trempé parmi les nouveaux. Il était temps. Mais, comme par hasard, il s'agit de l'un de ceux sur lesquels nous croyions déjà pouvoir compter ; de telle sorte que nous avons eu, avec Jean Robic, une confirmation plus qu'une véritable surprise. Cela fait tout de même plaisir !
@@ -75,6 +81,8 @@ Ce fut Massal qui s'arrêta pour boire: c'était bien le moment. Ce fut Corrieri
 
 Section 5 : 
 
+Source : <ref name=":4">{{Article|langue=fr|auteur1=Caza|titre=Où en sont les leaders de chaque équipe ?|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f1}}|accès url=libre}}.</ref>
+
 JEAN ROBIC
 Vu par CAZA.
 
@@ -92,6 +100,8 @@ NORD-EST : 48. Deprez, à 1 h. 18' 22".
 -----
 
 Section 6 : 
+
+Source : <ref name=":5">{{Article|langue=fr|titre=Classement de la 4e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT DE LA 4e ETAPE
 Luxembourg-Strasbourg (223 km.)
@@ -114,6 +124,8 @@ CE QUI LEUR RESTE A FAIRE :
 
 Section 7 : 
 
+Source : <ref name=":6">{{Article|langue=fr|titre=Lutte ardente... contre le soleil|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f1}}|accès url=libre}}.</ref>
+
 LUTTE ARDENTE... CONTRE LE SOLEIL. — STRASBOURG. — La chaleur fut toujours aussi vive sur la route de Luxembourg à Strasbourg et, comme le train était lent, on luttait de toutes ses forces, de toute son imagination contre la chaleur. Et Kübler (quatrième) est pourvu d'une manière originale.
 (Bélinogramme spécial L'EQUIPE)
 
@@ -123,6 +135,8 @@ TOUJOURS A L'ENERGIE... — STRASBOURG. — Robic, sur la fin de l'étape d'hier
 -----
 
 Section 11 : 
+
+Source : <ref name=":7">{{Article|langue=fr|auteur1=Pierre Bourrillon|titre=Cet après-midi, à Vincennes, première journée des grands prix de Paris cyclistes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
 
 CET APRES-MIDI, A VINCENNES, PREMIERE JOURNEE DES GRANDS PRIX DE PARIS CYCLISTES
 
@@ -144,6 +158,8 @@ et l'équipe de l'Ouest prend place parmi les grandes vedettes du Tour
 -----
 
 Section 12 : 
+
+Source : <ref name=":8">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Du tour classique et voilà Robic...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
 
 DU TOUR CLASSIQUE ET VOILA ROBIC...
 (Suite de l'article de Jacques GODDET)
@@ -171,6 +187,8 @@ La suite dira peut-être que 255 secondes cela compte dans une course où l'on c
 
 Section 13 : 
 
+Source : <ref name=":9">{{Article|langue=fr|auteur1=Henri Boudard, Jayet, Ambrosetti|titre=Décision des commissaires : Sylvère Maes : 100 francs d'amende !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 DÉCISION DES COMMISSAIRES :
 Sylvère Maes : 100 francs d'amende !
 PÉNALITÉS DE LA PREMIÈRE ÉTAPE
@@ -188,6 +206,8 @@ Signé : Henri Boudard, Jayet, Ambrosetti.
 -----
 
 Section 14 : 
+
+Source : <ref name=":10">{{Article|langue=fr|auteur1=Claude Tillet|titre=Suite de la première page|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
 
 (Suite de la première page)
 
@@ -229,6 +249,8 @@ Vous savez enfin que Rémy fut aujourd'hui le leader du Sud-Est mais nous tenons
 
 Section 15 : 
 
+Source : <ref name=":11">{{Article|langue=fr|titre=Période d'attente et d'étude ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 Période d'attente et d'étude ?
 
 Pour la première fois, aujourd'hui, depuis le départ, le Maillot Jaune n'a pas été menacé de changer de propriétaire. Après cinq étapes de bataille ardente nous avons connu la première journée de calme relatif. Les ambitions sont-elles provisoirement satisfaites par la rudesse de la tâche déjà accomplie ? C'est possible. Mais aussitôt celle, demain, de Strasbourg à Besançon par la crête des Vosges prendra un autre relief. Le parcours de 248 kilomètres est relativement facile : les accidents de terrain n'auront aucun rôle déterminant à jouer chez l'affaire ; on ne bagarrera donc que et l'on en a la preuve, avec deux contre part, nous croyons à une étape calme de la première de ce genre, doit également être de cet avis, puisque la fête d'Obernai s'achève d'une heure le départ de Strasbourg sera pris de derrière un calme qui, à l'arrivée sur la piste bimsontine n'ait pas lieu trop tard.
@@ -236,6 +258,8 @@ Pour la première fois, aujourd'hui, depuis le départ, le Maillot Jaune n'a pas
 -----
 
 Section 16 : 
+
+Source : <ref name=":12">{{Article|langue=fr|auteur1=René Moyset|titre=« J'ai voulu montrer qu'on pouvait être jeune marié... et bien courir » nous dit Robic|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
 
 « J'AI VOULU MONTRER QU'ON POUVAIT ÊTRE JEUNE MARIE... ET BIEN COURIR »
 nous dit ROBIC
@@ -264,6 +288,8 @@ Diot nous dit :
 
 Section 17 : 
 
+Source : <ref name=":13">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 Ceux qui restent qualifiés
 
 BELGES (maillot noir, ceinture jaune et rouge, casquette noire, bande tricolore nationale). — 1. Breuer, 2. Callens, 3. Hendrickx, 4. Impanis, 5. Mathieu, 6. Mollin, 7. Orell, 8. Sciotte, 10. Sterckx.
@@ -283,6 +309,8 @@ SUD-EST (maillot violet, bande verticale blanche, casquette violette, bande blan
 
 Section 18 : 
 
+Source : <ref name=":14">{{Article|langue=fr|auteur1=Claude Tillet|titre=Le matériel tient le coup... mais pitié pour les pauvres vélos !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 LE MATÉRIEL TIENT LE COUP...
 MAIS PITIE POUR LES PAUVRES VELOS !
 (D'un de nos envoyés spéciaux Claude TILLET)
@@ -299,6 +327,8 @@ Le Tour de France est fait de mille détails de ce genre.
 
 Section 19 : 
 
+Source : <ref name=":15">{{Article|langue=fr|auteur1=A. de Wetter|titre=Kübler n'a pas tout perdu|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 KÜBLER n'a pas tout perdu
 (D'un de nos envoyés spéciaux A. DE WETTER)
 
@@ -308,6 +338,8 @@ Kübler se consolera avec cette pensée qui était sa deuxième crevaison de la 
 -----
 
 Section 20 : 
+
+Source : <ref name=":16">{{Article|langue=fr|titre=L'officiel du tour : aujourd'hui cinquième étape Strasbourg-Besançon|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
 
 L'Officiel du Tour
 COURRIER. — Rédigez votre enveloppe de façon suivante : M. X..., suiveur, coureur ou journaliste au 34e Tour de France, à Y (ville d'étape).
@@ -389,6 +421,8 @@ Liaisons régulières
 
 Section 21 : 
 
+Source : <ref name=":17">{{Article|langue=fr|titre=Le sport sur l'antenne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 LE SPORT SUR L'ANTENNE
 DIMANCHE
 ÉCOUTEZ OU IREZ-VOUS ?
@@ -408,6 +442,8 @@ A TRAVERS LES SPORTS
 -----
 
 Section 22 : 
+
+Source : <ref name=":18">{{Article|langue=fr|titre=Classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -503,6 +539,8 @@ Classement du challenge international
 
 Section 23 : 
 
+Source : <ref name=":19">{{Article|langue=fr|titre=L'officiel du tour : avis|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 L'Officiel du Tour
 AVIS
 La direction de la course rappelle aux voitures de la Caravane publicitaire et aux voitures de presse qu'il est formellement interdit de jeter des tracts et des prospectus dès que les coureurs sont partis de la course. Ceci est une loi gouvernementale absolument stricte.
@@ -512,6 +550,8 @@ Nous prions donc tous ceux qui partent au Tour de bien vouloir observer très st
 -----
 
 Section 24 : 
+
+Source : <ref name=":20">{{Article|langue=fr|auteur1=A. de Wetter|titre=Strasbourg : 40 km., la course commence|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
 
 STRASBOURG : 40 KM., LA COURSE COMMENCE
 D'un de nos envoyés spéciaux A. DE WETTER
@@ -540,6 +580,8 @@ L'affaire du jour, c'est l'Alsacien pourtant sur la piste à 51" du Breton : cou
 
 Section 25 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=Raccourcis|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 RACCOURCIS
 (D'un de nos envoyés spéciaux)
 
@@ -552,6 +594,8 @@ Ces motards ont d'ailleurs eu la bonne précaution de faire balayer à nouveau �
 -----
 
 Section 26 : 
+
+Source : <ref name=":22">{{Article|langue=fr|auteur1=A. de Wetter|titre=Réflexions à 27 de moyenne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
 
 RÉFLEXIONS A 27 DE MOYENNE
 D'un de nos envoyés spéciaux A. DE WETTER
@@ -578,6 +622,8 @@ Chez les Belges, l'équipier le plus complet paraît être Hendrickx, qui, avec 
 
 Section 27 : 
 
+Source : <ref name=":23">{{Article|langue=fr|auteur1=René Moyset|titre=Il fait plus chaud que dans Bordeaux-Paris ! dit Brambilla|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 Il fait plus chaud que dans Bordeaux-Paris !
 dit BRAMBILLA
 (D'un de nos envoyés spéciaux)
@@ -590,6 +636,8 @@ STRASBOURG. — Après Sarrebourg, Brambilla nous confia dans la descente :
 
 Section 28 : 
 
+Source : <ref name=":24">{{Article|langue=fr|auteur1=René Moyset|titre=Le régional de Gribaldy à l'honneur pour arriver à Besançon|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 Le régional de Gribaldy à l'honneur pour arriver à Besançon
 (D'un de nos envoyés spéciaux)
 
@@ -600,6 +648,8 @@ STRASBOURG. — C'est aujourd'hui Strasbourg-Besançon, un régional attend ce p
 
 Section 29 : 
 
+Source : <ref name=":25">{{Article|langue=fr|titre=Sang bouillant mais tête froide|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 Sang bouillant mais tête froide
 
 Avant le départ de Metz, Vietto, pour éviter « les vieilles jambes » et la chaleur de la station debout, préfère s'asseoir et dissimuler. Boutade ? Peut-être.
@@ -609,6 +659,8 @@ Grand bavardeur avec l'auditoire qu'il ne semble, car il révèle la maturité e
 -----
 
 Section 30 : 
+
+Source : <ref name=":26">{{Article|langue=fr|titre=Public ne t'attendris pas trop vite ! La camionnette-balai ne doit pas favoriser les abandons|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
 
 PUBLIC NE T'ATTENDRIS PAS TROP VITE !
 LA CAMIONNETTE-BALAI NE DOIT PAS FAVORISER LES ABANDONS
@@ -622,6 +674,8 @@ Public, ne t'attendris pas trop vite !
 
 Section 31 : 
 
+Source : <ref name=":27">{{Article|langue=fr|titre=Classement par points|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 Classement par points
 (Coupe des Cachous Gallus)
 
@@ -630,6 +684,8 @@ Classement par points
 -----
 
 Section 33 : 
+
+Source : <ref name=":28">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
 
 La radiodiffusion du « Tour »
 DIMANCHE 29 JUIN
@@ -652,6 +708,8 @@ Chaîne Nationale ... 20 h. 50
 
 Section 34 : 
 
+Source : <ref name=":29">{{Article|langue=fr|titre=Tour de France : en attendant les coureurs...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 TOUR DE FRANCE
 EN ATTENDANT LES COUREURS...
 Achetez 20 fr. la photo numérotée
@@ -666,6 +724,8 @@ Le N° adjudicataire est : C. 03851
 
 Section 35 : 
 
+Source : <ref name=":30">{{Article|langue=fr|titre=Miss Tour de France « Judex » 1947|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 MISS TOUR DE FRANCE « JUDEX » 1947
 20.000 fr. de prix à MISS TOUR DE FRANCE « JUDEX » 1947
 Une montre JUDEX pour chaque Miss d'étape « JUDEX ». Élection par un jury la veille de l'étape au cours de la représentation de la revue « Autour du Tour ».
@@ -677,6 +737,8 @@ Candidates, inscrivez-vous à l'Écho de Grenoble (étape Lyon-Grenoble) et au C
 
 Section 38 : 
 
+Source : <ref name=":31">{{Article|langue=fr|titre=Jean Robic est un champion de Génial-Lucifer et des freins Lam|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 JEAN ROBIC
 EST UN CHAMPION DE
 GÉNIAL-LUCIFER
@@ -687,6 +749,8 @@ LAM
 
 Section 39 : 
 
+Source : <ref name=":32">{{Article|langue=fr|titre=Sportifs ! Les chronomètres-chronographes Longines sont encore choisis pour le chronométrage officiel du Tour de France cycliste|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
 Sportifs ! les chronomètres-chronographes
 LONGINES
 sont encore choisis pour le Chronométrage officiel du Tour de France cycliste
@@ -694,6 +758,8 @@ sont encore choisis pour le Chronométrage officiel du Tour de France cycliste
 -----
 
 Section 40 : 
+
+Source : <ref name=":33">{{Article|langue=fr|titre=René Vietto champion de France-Sport, Jean Robic champion de Génial-Lucifer sur des tubes français Durifort|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
 
 RENÉ VIETTO
 CHAMPION DE FRANCE-SPORT
@@ -707,7 +773,22 @@ UNIEUX (Loire)
 
 -----
 
+Section 41 : 
+
+Source : <ref name=":34">{{Article|langue=fr|titre=Champion de Génial-Lucifer sont aussi ceux du dérailleur Simplex|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f2}}|accès url=libre}}.</ref>
+
+CHAMPION DE GÉNIAL-LUCIFER
+sont aussi ceux du DÉRAILLEUR
+SIMPLEX
+La plus forte production mondiale
+LE SIMPLEX
+DIJON L. JUY PARIS
+
+-----
+
 Section 51 : 
+
+Source : <ref name=":35">{{Article|langue=fr|auteur1=Jacques Augendre|titre=Dans Paris-Cholet la première manche revient aux régionaux et Boistard gagne...|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f3}}|accès url=libre}}.</ref>
 Dans Paris-Cholet la première manche revient aux régionaux et Boistard gagne...
 (De notre env. sp. Jacques AUGENDRE)
 
@@ -721,6 +802,8 @@ Aujourd'hui, deuxième étape, Le Mans-Cholet (175 km.).
 -----
 
 Section 81 : 
+
+Source : <ref name=":36">{{Article|langue=fr|auteur1=André Costes|titre=Pierre Cogan et Jean Robic vont-ils régler un conflit de suzeraineté ?... Sans tenir compte du "camouflage" italien ?|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f4}}|accès url=libre}}.</ref>
 
 PIERRE COGAN ET JEAN ROBIC VONT-ILS REGLER
 un conflit de suzeraineté?...
@@ -764,6 +847,8 @@ Si le calme italien est peut-être ce qui nous donne le plus à réfléchir, il 
 
 Section 82 : 
 
+Source : <ref name=":37">{{Article|langue=fr|titre=Un beau geste|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f4}}|accès url=libre}}.</ref>
+
 UN BEAU GESTE
 STRASBOURG. — René Vietto, leader au classement général, leader de l'équipe de France du Tour, dépose, au monument aux morts de Luxembourg une gerbe de fleurs. Un geste qui fut très apprécié par nos amis Luxembourgeois.
 (Bélinogramme spécial L'EQUIPE)
@@ -771,6 +856,8 @@ STRASBOURG. — René Vietto, leader au classement général, leader de l'équip
 -----
 
 Section 83 : 
+
+Source : <ref name=":38">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : enfin le Tour devient normal|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f4}}|accès url=libre}}.</ref>
 
 Le point de vue ITALIEN
 ENFIN LE TOUR devient normal
@@ -789,6 +876,8 @@ DE CLASSE INTERNATIONALE
 
 Section 84 : 
 
+Source : <ref name=":39">{{Article|langue=fr|auteur1=Dante Gianello|titre=L'opinion d'un champion : fainéants ? Non : imprudents !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f4}}|accès url=libre}}.</ref>
+
 L'OPINION D'UN CHAMPION
 Fainéants ? Non : Imprudents!
 par Dante GIANELLO
@@ -804,6 +893,8 @@ Alors, spectateurs, ne soyez pas trop sévères pour ces coureurs qui souffrent 
 -----
 
 Section 85 : 
+
+Source : <ref name=":40">{{Article|langue=fr|auteur1=Albert van Laethem|titre=« Le point de vue belge » : « Il est impensable qu'un enfant qui a mis la peste dans mon équipe » s'exclame Karel Steyaert|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f4}}|accès url=libre}}.</ref>
 
 «Le point de vue belge»
 "IL EST IMPENSABLE QU'UN ENFANT qui a mis la peste dans mon équipe"
@@ -833,6 +924,8 @@ J'ai posé à ce sujet la question de confiance à Karel :
 
 Section 86 : 
 
+Source : <ref name=":41">{{Article|langue=fr|titre=Karel Steyaert a passé un savon à Impanis|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f4}}|accès url=libre}}.</ref>
+
 KAREL STEYAERT A PASSE UN SAVON A IMPANIS
 (D'un de nos envoyés spéciaux)
 
@@ -844,6 +937,8 @@ Le jeune coureur a baissé la tête sous l'orage. Il a promis de se montrer plus
 -----
 
 Section 87 : 
+
+Source : <ref name=":42">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Robic ne veut jamais rien faire comme les autres : c'est pourquoi il s'est marié juste avant le départ du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f4}}|accès url=libre}}.</ref>
 
 ROBIC NE VEUT JAMAIS RIEN FAIRE
 comme les autres
@@ -862,6 +957,8 @@ Robic est un personnage hors du commun, un coureur comme on en voit peu. Son fra
 -----
 
 Section 88 : 
+
+Source : <ref name=":43">{{Article|langue=fr|auteur1=Fernand Albaret|titre=Tous leurs « tours » dans mon sac : avez-vous vu le passager clandestin ?|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS «TOURS» DANS MON SAC
 AVEZ-VOUS VU
@@ -903,6 +1000,8 @@ Tout ça pour dire que l'étape fut dure, et actuellement journalistes, à la pe
 
 Section 89 : 
 
+Source : <ref name=":44">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain : le chemin des écoliers|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f4}}|accès url=libre}}.</ref>
+
 LE FAIT HUMAIN
 LE CHEMIN DES ECOLIERS
 par Paul GUITARD
@@ -922,6 +1021,8 @@ Sur le chemin des écoliers, le Tour de France apporte le rêve et l'aventure. P
 -----
 
 Section 90 : 
+
+Source : <ref name=":45">{{Article|langue=fr|titre=La première et définitive échappée|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=29 juin 1947|lire en ligne={{Gallica|id=bd6t5100153b/f4}}|accès url=libre}}.</ref>
 
 LA PREMIERE ET DEFINITIVE ECHAPPEE
 STRASBOURG. — La tentative de Rémy ayant avorté, Robic, Kubler, Diot et Pawlisziak restent seuls en une ultime échappée. Peu à peu, sur crevaisons, resteront seuls le Suisse et le Breton, qui l'emporte, ici, à grande allure.

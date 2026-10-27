@@ -1,10 +1,14 @@
 
 
 Section 5 : 
+
+Source : <ref name=":1">{{Article|langue=fr|titre=Le Tour le plus étonnant s'acheva en un admirable coup de théâtre|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f1}}|accès url=libre}}.</ref>
 LE TOUR LE PLUS ÉTONNANT S'ACHEVA EN UN ADMIRABLE COUP DE THÉÂTRE
 -----
 
 Section 6 : 
+
+Source : <ref name=":2">{{Article|langue=fr|titre=34e Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f1}}|accès url=libre}}.</ref>
 4e TOUR DE FRANCE
 4.640 KM.
 5 JUIN - 20 JUILLET
@@ -17,6 +21,8 @@ libéré
 -----
 
 Section 7 : 
+
+Source : <ref name=":3">{{Article|langue=fr|titre=En 30 km., Jean Robic, étincelant arracha le maillot à Brambilla qui s'écroula|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f1}}|accès url=libre}}.</ref>
 En 30 km., JEAN ROBIC, étincelant
 arracha le maillot à BRAMBILLA
 qui s'écroula
@@ -29,6 +35,8 @@ roues de ses équipiers
 -----
 
 Section 8 : 
+
+Source : <ref name=":4">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Les faits et les hommes : bataille royale...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f1}}|accès url=libre}}.</ref>
 LES FAITS ET LES HOMMES
 BATAILLE ROYALE...
 De notre Directeur JACQUES GODDET
@@ -95,6 +103,8 @@ surtout Tacco à pouvoir entreprendre un travail aussi lourd.
 -----
 
 Section 9 : 
+
+Source : <ref name=":5">{{Article|langue=fr|auteur1=Claude Tillet|titre=Au classement général Fachleitner termine deuxième|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f1}}|accès url=libre}}.</ref>
 Au classement général
 FACHLEITNER TERMINE DEUXIÈME
 prouvant qu'il pouvait gagner
@@ -167,6 +177,8 @@ but.
 -----
 
 Section 10 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=Classement de la 21e étape Caen - Paris|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f1}}|accès url=libre}}.</ref>
 CLASSEMENT
 de la 21' étape
 Caen - Paris
@@ -210,6 +222,8 @@ Weltinmann, 52. G. Wallenmann,
 -----
 
 Section 11 : 
+
+Source : <ref name=":7">{{Article|langue=fr|titre=Le maillot jaune remis à Robic par le président du Conseil de la République|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f1}}|accès url=libre}}.</ref>
 LE MAILLOT JAUNE
 REMIS A ROBIC
 PAR LE PRESIDENT
@@ -232,6 +246,8 @@ charge du « Parisien Libéré » et de
 -----
 
 Section 12 : 
+
+Source : <ref name=":8">{{Article|langue=fr|titre=Classement général du 34e Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f1}}|accès url=libre}}.</ref>
 CLASSEMENT GÉNÉRAL
 du 34° Tour de France
 A combien ils sont du leader
@@ -311,6 +327,8 @@ CLASSEMENT DU CHALLENGE INTERNATIONAL
 -----
 
 Section 13 : 
+
+Source : <ref name=":9">{{Article|langue=fr|titre=L'Équipe publiera à partir de mercredi sa « petite victoire à laquelle je croyais ! »|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f1}}|accès url=libre}}.</ref>
 L'EQUIPE publiera
 à partir de mercredi
 sa «petite victoire à laquelle je croyais!»
@@ -319,6 +337,8 @@ de JEAN ROBIC
 -----
 
 Section 14 : 
+
+Source : <ref name=":10">{{Article|langue=fr|titre=L'ultime réaction de Brambilla|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f1}}|accès url=libre}}.</ref>
 L'ULTIME
 REACTION
 DE BRAMBILLA
@@ -341,6 +361,8 @@ victime de la défaillance.
 -----
 
 Section 17 : 
+
+Source : <ref name=":11">{{Article|langue=fr|titre=L'ultime compte rendu d'un Tour de France exceptionnel est tiré à 685.830 exemplaires|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f1}}|accès url=libre}}.</ref>
 L'ultime compte rendu
 d'un Tour de France
 exceptionnel est tiré à
@@ -353,6 +375,8 @@ sportif du monde
 -----
 
 Section 20 : 
+
+Source : <ref name=":12">{{Article|langue=fr|titre=En voyage, portez un "Valentin"|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 EN VOYAGE, PORTEZ UN "VALENTIN"
 VÊTEMENTS IMPERMÉABLES
 Valentin
@@ -377,6 +401,8 @@ BATAILLE ROYALE
 
 Section 21 : 
 
+Source : <ref name=":13">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Suite de l'article de Jacques Goddet|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 (Suite de l'article de Jacques GODDET)
 
 Ronconi, il faut le dire, se montra équipier parfait, manifestant à l'égard de Brambilla, bien qu'il ne fût précédé par lui que de 53 secondes, la plus efficace sollicitude. Tactiquement, selon les lignes droites du Vexin, pourfendant l'espace comme au temps de ses courses d'amateur. Et c'est Brambilla qui renonça ! Dix fois Tocco, assurant des relais magnifiques, décolla le malheureux. Mennecez dans la roue. Celui-ci devait rechercher, morose, une retraite dans le fond du peloton. Ronconi l'appelait en tête à l'aide de grands gestes... Brambilla le fureur, Brambilla le taureau, Brambilla l'inépuisable combattant, le pauvre gars, au moment d'entrer dans la légende, craquait brutalement et définitivement. Et devant une telle catastrophe ce corps qui avait tant donné depuis 4.600 kilomètres, n'obéissait plus à la volonté de fer qui l'avait jusque-là maîtrisé ! << la Brambille », cet être fruste et brutal, a été cruellement puni d'avoir voulu violenter la victoire. Mais sa défaite, que dans sa simplicité honnête il ne cherche nullement à excuser, contient du sublime : c'est lui qui, pour une large part, a fait le plus grand et le meilleur des Tours de France. C'est parce qu'il a subi car la doute jusqu'à la dernière gomfée de ses boyaux, c'est parce que sa soif de pédaler a dû laisser partir devant lui un autre vainqueur. Disons merci à Brambilla.
@@ -384,6 +410,8 @@ Ronconi, il faut le dire, se montra équipier parfait, manifestant à l'égard d
 -----
 
 Section 22 : 
+
+Source : <ref name=":14">{{Article|langue=fr|auteur1=Jacques Goddet|titre=L'illusion Vietto a perdu Fachleitner|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 L'illusion Vietto a perdu Fachleitner
 
@@ -400,6 +428,8 @@ Je déclare que je ne crois pas au succès de ce plan théorique, tant la valeur
 
 Section 23 : 
 
+Source : <ref name=":15">{{Article|langue=fr|auteur1=Jacques Goddet|titre=La renaissance triomphale du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 Le renaissance triomphale du Tour
 
 Jadis les critiques du Tour rédigeaient tranquillement leur article, le dernier jour, durant la longue cérémonie du défilé triomphal, dans leur voiture, voire la veille. Les appréciations ne pouvaient varier de sens depuis Pau ou Evian.
@@ -412,11 +442,15 @@ Les mots, là non plus, n'ont pas de signification devant l'accueil fait au Tour
 
 Section 24 : 
 
+Source : <ref name=":16">{{Article|langue=fr|titre=Un équipier national et un équipier breton conjuguaient leurs efforts|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 Un équipier national et un équipier breton conjuguaient leurs efforts sur une immense ligne droite, magnifiquement dégagée. Le Breton s'attaquait à la première place du classement général, l'équipier à la seconde. Il n'allait d'ailleurs pas ex-
 
 -----
 
 Section 25 : 
+
+Source : <ref name=":17">{{Article|langue=fr|titre=On n'a jamais vu dans un Tour de France pareille finale|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 On n'a jamais vu dans un Tour de France pareille finale. Mais — et « sanatte » ! Pourtant, Brambilla dut s'y résoudre par deux fois dans la dernière étape. Deux efforts inutiles qu'auraient pu lui éviter ses conseillers.
 
@@ -424,11 +458,15 @@ On n'a jamais vu dans un Tour de France pareille finale. Mais — et « sanatte 
 
 Section 26 : 
 
+Source : <ref name=":18">{{Article|langue=fr|titre=À la conquête du maillot jaune|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 clu que ce dernier puisse, sur la fin, ravir à celui de droite le laurier suprême à la conquête du maillot jaune.
 
 -----
 
 Section 27 : 
+
+Source : <ref name=":19">{{Article|langue=fr|titre=Impanis, neutre ! ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 Impanis, neutre ! ?
 
@@ -438,6 +476,8 @@ Devant eux, cependant, « Fach » et Robic tournaient copieusement, un aide en P
 -----
 
 Section 28 : 
+
+Source : <ref name=":20">{{Article|langue=fr|titre=Sylvère Maes, toujours détenteur de la meilleure moyenne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 Sylvère Maes, toujours détenteur de la meilleure moyenne
 
@@ -452,12 +492,16 @@ En partant de la moyenne du Tour apparait toujours à Sylvère Maes avec 31 km. 
 
 Section 29 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=La poursuite s'organise|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 litige » depuis de nombreux kilomètres entre les sept fugitifs et le gros de la meute. L'écart grandissait insensiblement : 57", puis 1' 45" à Pontoise-l'Aumône, vingt-cinq kilomètres après le démarrage initial. La partie semblait pourtant jouable. Le peloton avait fini par revenir sur Ronconi, Brambilla et Camellini et les Italiens organisaient tant bien que mal la chasse, Tocco, Teisseire, Guglio et Cottur venant à la rescousse. C'est alors que sur un déboire par Peruglio, eut la malchance de « percer », défaillirent à leur tour pour les poursuivants mais le match n'était pas perdu.
 C'est dans le même temps que se produisit, du côté des attaquants,
 
 -----
 
 Section 30 : 
+
+Source : <ref name=":22">{{Article|langue=fr|titre=Robic innove|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 Robic innove
 
@@ -467,11 +511,15 @@ C'est la première fois dans l'histoire du Tour de France qu'un coureur d'une é
 
 Section 31 : 
 
+Source : <ref name=":23">{{Article|langue=fr|titre=Le fait qui allait faire pencher la balance en faveur du tandem franco-armoricain|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 le fait qui allait faire pencher la balance en faveur du tandem franco-armoricain : Teisseire, qui appartenait à l'avant-garde (on a tout à dire dont ne nous avons encore parlé qu'incidemment. Teisseire, équipier de Fachleitner, avisé de ce qui se passait, prenait l'initiative d'attendre son camarade et, rejoint par lui, coopérait puissamment à la réussite de l'entreprise.
 
 -----
 
 Section 32 : 
+
+Source : <ref name=":24">{{Article|langue=fr|titre=Les « cinq grands »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 Les << cinq grands >>
 
@@ -485,6 +533,8 @@ Les << cinq grands >>
 
 Section 33 : 
 
+Source : <ref name=":25">{{Article|langue=fr|auteur1=Claude Tillet|titre=Suite de l'article de Claude Tillet|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 (Suite de l'article de Claude TILLET)
 
 Dès lors, l'échec de Brambilla et Ronconi ne faisait plus de doute. L'écart passait à 4' 20", puis à 4' 50", pour s'effondrer mais alors que royait, avant Magny-en-Vexin, Brambilla descendre de machine et s'arrêter à une fontaine. C'était bien fini. Brambilla avait levé le pied, muum, il avait reçu toute l'aide possible, Cottur étant revenu, mais le trio adverse roulait plus vite, poussé par le vent de la victoire ! Et les non-Italiens du groupe de chasse s'insurgeaient en faveur de « l'As de l'Ouest » s'appliquant en outre à « casser » le train...
@@ -492,6 +542,8 @@ Dès lors, l'échec de Brambilla et Ronconi ne faisait plus de doute. L'écart p
 -----
 
 Section 34 : 
+
+Source : <ref name=":26">{{Article|langue=fr|titre=Robic ou « Fach » ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 Robic ou « Fach » ?
 
@@ -504,6 +556,8 @@ A la sortie de Port-Marly, Teisseire fit un écart brusque, avant de disparaîtr
 
 Section 35 : 
 
+Source : <ref name=":27">{{Article|langue=fr|titre=34e Tour : 16e victoire française|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 34e Tour : 16e victoire française
 
 Depuis la création du Tour, la France remporte 16 victoires contre 10 à la Belgique et 3 à l'Italie et au Luxembourg.
@@ -512,11 +566,15 @@ Depuis la création du Tour, la France remporte 16 victoires contre 10 à la Bel
 
 Section 36 : 
 
+Source : <ref name=":28">{{Article|langue=fr|titre=L'assaut débuta sur le plateau de Louveciennes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 leitner demeuré seul avec Robic ? Il n'y eut, en tout cas, aucune tentative d'lâchage de la part du Provençal, et l'assaut débuta sur le plateau de Louveciennes. On ne pouvait plus imaginer désormais de nouvelle modification du classement général. Ce fut en vain, ou presque, au Parc. Jean Robic gagnait in extremis, pour un exploit de tout premier plan, dans des conditions exceptionnelles le 34e Tour de France que l'on avait pu croire perdu pour lui malgré ses performances d'Alsace, des Alpes et des Pyrénées. Il venait, aussi, d'écrire à coups de pédales rageurs, une page inoubliable de l'historique de l'épreuve.
 
 -----
 
 Section 37 : 
+
+Source : <ref name=":29">{{Article|langue=fr|titre=Les Belges finissent bien !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 Les Belges finissent bien !
 
@@ -526,11 +584,15 @@ Schotte, il en fut pour l'étape, et cette « échappée des sept » qui joua in
 
 Section 38 : 
 
+Source : <ref name=":30">{{Article|langue=fr|titre=L'amertume de Brambilla|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 le fait est tout de même à souligner, n'est pas sans associer à l'amertume de Brambilla, vaincu à 100 km. de Paris, quand il se rendit compte que son cher maillot-jaune, n'allait pas jusqu'au terme de l'étape, alpino laissa rouler sur ses joues quelques-unes de ses larmes. Ce dont nous firent comprendre la peine profonde qu'il ressentit.
 
 -----
 
 Section 39 : 
+
+Source : <ref name=":31">{{Article|langue=fr|titre=La présence de Teisseire auprès de Fachleitner et Robic|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 dans l'affaire, comme l'on a vu, que l'on dut la présence de Teisseire auprès de Fachleitner et Robic au moment opportun.
 A la sortie de Port-Marly, à 188 km. du but, fuite de Bernard Gauthier, reste Schotte, Robic, Fachleitner, Diederich et Muller. Gauthier revient par un effort personnel à 45 s. l'heure. Et, à un coup sec, se hisse sur l'échappée, ralentissement aucun, on franchira avec un accord de l'Ile-de-France, après avoir perdu Teisseire, vous ne croiriez pas ! Muller s'en alla, posé « le premier, et il terminera
@@ -539,11 +601,15 @@ A la sortie de Port-Marly, à 188 km. du but, fuite de Bernard Gauthier, reste S
 
 Section 40 : 
 
+Source : <ref name=":32">{{Article|langue=fr|titre=Schotte premier au Parc des Princes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 avec le trio « Fach »-Teisseire-Robic. Diederich, Ovel, Kretchen succombèrent à leur tour. Schotte mena pour finir, lui aussi, par être usé par la cadence impitoyable de « Fach »-Schotte, lequel terminera le premier au Parc des Princes, sept minutes et demie avant le nouveau « maillot jaune » : dix-neuf minutes avant Diot, vainqueur au sprint d'un petit groupe échappé du gros peloton en fin de course, plus de vingt minutes enfin sur l'infortuné Brambilla.
 
 -----
 
 Section 41 : 
+
+Source : <ref name=":33">{{Article|langue=fr|titre=Bilan d'étapes : 12 victoires françaises|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 Bilan d'étapes : 12 victoires françaises
 
@@ -560,11 +626,15 @@ Hol.-Etr. de France : 2 (Camellini).
 
 Section 42 : 
 
+Source : <ref name=":34">{{Article|langue=fr|titre=Le redressement de l'équipe de France|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 son escorte désabusée. Ainsi, l'équipe de France a réussi le redressement de Tour de France qu'elle avait commencé dans les Pyrénées, après des débuts décevantes, et Schotte montrait à tous que, s'il n'avait pas un grand Tour, il n'est pas non plus un inconnu d'un « Paris-Tours » d'un succès terminal, annonciateur de victoires à venir.
 
 -----
 
 Section 43 : 
+
+Source : <ref name=":35">{{Article|langue=fr|titre=Hâtives conclusions|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 Hâtives conclusions
 
@@ -573,6 +643,8 @@ On connut des « Tours » dont l'issue ne s'éclaircit qu'au soir, mais naisiste
 -----
 
 Section 44 : 
+
+Source : <ref name=":36">{{Article|langue=fr|auteur1=Albert de Wetter|titre=« Je me retrouve un peu tard » avoue Schotte|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 « JE ME RETROUVE UN PEU TARD » avoue SCHOTTE
 
@@ -588,6 +660,8 @@ Puis le vainqueur de Paris-Tours nous demandait :
 
 Section 45 : 
 
+Source : <ref name=":37">{{Article|langue=fr|titre=Robic a gagné le Tour sur trois démarrages|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 Robic a gagné le Tour sur trois démarrages
 
 - Depuis un moment, Robic montrait de signes d'agacement.
@@ -602,6 +676,8 @@ Robic a gagné le Tour sur trois démarrages
 
 Section 46 : 
 
+Source : <ref name=":38">{{Article|langue=fr|auteur1=Pierre About|titre=Figures du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 FIGURES DU TOUR
 
 Que de figures attachantes dans ce Tour ! Dans l'ambiance des départs, cours d'eau rapides où se succèdent d'un à d'autres, trop souvent anonymes.
@@ -611,6 +687,8 @@ Connaissez-vous Lucien Girexki? Un anonyme, lui aussi, commis d'atelier de méca
 -----
 
 Section 47 : 
+
+Source : <ref name=":39">{{Article|langue=fr|titre=La moyenne générale du premier et du dernier|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 La moyenne générale du 1er et du dernier
 
@@ -626,6 +704,8 @@ Nous voulons dire aussi combien il faut admirer les grands vaincus de cette bata
 
 Section 48 : 
 
+Source : <ref name=":40">{{Article|langue=fr|titre=Robic également vainqueur du classement par points|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 Robic également vainqueur du classement par points
 
 Coupe des Cachous Gallus
@@ -638,6 +718,8 @@ Le Tour est rendu. Ces hommes ont édifié, d'étape en étape, un Tour de Franc
 
 Section 49 : 
 
+Source : <ref name=":41">{{Article|langue=fr|titre=La belle tenue de Bernard Gauthier|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 La belle tenue de Bernard Gauthier
 (D'un de nos envoyés spéciaux sur le Tour)
 
@@ -649,6 +731,8 @@ A peine rentré, l'extraordinaire Gauthier prit sa part d'échappée, tira avec 
 
 Section 50 : 
 
+Source : <ref name=":42">{{Article|langue=fr|titre=Les maillots jaunes perdus « in extremis »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
+
 Les maillots jaunes perdus « in extremis »
 
 Le maillot jaune changeant d'épaules dans la dernière étape, comme cela s'est produit hier, c'est un événement rare qui ne s'est guère produit qu'en :
@@ -658,6 +742,8 @@ Le maillot jaune changeant d'épaules dans la dernière étape, comme cela s'est
 -----
 
 Section 51 : 
+
+Source : <ref name=":43">{{Article|langue=fr|titre=La réception au « Parisien Libéré »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 La réception au « Parisien Libéré »
 
@@ -670,6 +756,8 @@ M. Jacques Goddet prit ensuite la parole pour célébrer la « renaissance du To
 -----
 
 Section 53 : 
+
+Source : <ref name=":44">{{Article|langue=fr|titre=Les grands faits du Tour (résumé des étapes)|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 LES GRANDS FAITS DU TOUR
 (Résumé des étapes)
@@ -692,6 +780,8 @@ LES GRANDS FAITS DU TOUR
 -----
 
 Section 54 : 
+
+Source : <ref name=":45">{{Article|langue=fr|auteur1=Albert de Wetter|titre=À 100 kilomètres de Paris, Robic prenait le maillot jaune...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f2}}|accès url=libre}}.</ref>
 
 A 100 KILOMETRES DE PARIS, ROBIC PRENAIT LE MAILLOT JAUNE...
 D'un de nos envoyés spéciaux A. DE WETTER
@@ -725,6 +815,8 @@ C'est fini ! Le Tour 1947 est gagné par Robic !
 
 Section 55 : 
 
+Source : <ref name=":46">{{Article|langue=fr|auteur1=Raymond Saladin et Robert Grobier|titre=L'Auster de L'Équipe a survolé le Parc des Princes|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f3}}|accès url=libre}}.</ref>
+
 L'AUSTER DE L'EQUIPE A SURVOLE LE PARC DES PRINCES
 Par Raymond SALADIN et Robert GROBIER
 
@@ -744,6 +836,8 @@ A Clamart, les façades des maisons étaient pavoisées, les rues enguirlandées
 -----
 
 Section 82 : 
+
+Source : <ref name=":47">{{Article|langue=fr|auteur1=André Costes|titre=Le Tour 47, œuvre de paix nous promet de grands vainqueurs|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
 HIPPISME
 HIER, A SAINT-CLOUD
 
@@ -810,6 +904,8 @@ Et que c'est la formule dont me saurions trouver plus franche conclusion.
 
 Section 83 : 
 
+Source : <ref name=":48">{{Article|langue=fr|titre=Une minute d'émotion|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
+
 Une minute d'émotion
 Ayant pris virtuellement le maillot jaune à 100 km. de Paris, Robic faillit tout le perdre dans la grimpée de Port-Marly.
 Il s'en fallut de peu pour, qu'en effet, Teisseire ayant touché sa roue arrière ne l'entraîne dans sa chute.
@@ -820,6 +916,8 @@ Mais il avait connu une minute d'intense émotion !
 
 Section 84 : 
 
+Source : <ref name=":49">{{Article|langue=fr|titre=Le masque d'un vainqueur|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
+
 LE MASQUE D'UN VAINQUEUR
 Les efforts du Tour de France ont marqué Jean Robic et cet instantané, pris au moment où le petit Breton venait de revêtir le maillot jaune symbolique, laisse refléter la volonté indomptable, la faim retenue, mais la fatigue infinie d'une terrible chasse dans la dernière étape.
 (Photo L'EQUIPE)
@@ -827,6 +925,8 @@ Les efforts du Tour de France ont marqué Jean Robic et cet instantané, pris au
 -----
 
 Section 85 : 
+
+Source : <ref name=":50">{{Article|langue=fr|auteur1=Pierre About|titre=Tous leurs tours dans mon sac : on a tout vu sur Robic !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS TOURS DANS MON SAC
 ON A TOUT VU SUR ROBIC !
@@ -850,6 +950,8 @@ L'isodur déplumé, le Galibier géant l'interminable Tourmalet, juges de paix d
 -----
 
 Section 86 : 
+
+Source : <ref name=":51">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : la défaite imprévue... mais fatale|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
 
 LE POINT DE VUE ITALIEN
 LA DÉFAITE IMPRÉVUE... mais fatale
@@ -879,6 +981,8 @@ Les Français se sont montrés sportifs sur toute la ligne, et je rentre en Ital
 
 Section 87 : 
 
+Source : <ref name=":52">{{Article|langue=fr|auteur1=Albert de Wetter|titre=« Fach » est déçu et content à la fois|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
+
 « FACH » est déçu et content à la fois
 D'un de nos envoyés spéciaux
 
@@ -893,6 +997,8 @@ A. de W.
 -----
 
 Section 88 : 
+
+Source : <ref name=":53">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain : un est bon bec que de Paris|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
 
 LE FAIT HUMAIN
 Un est bon bec que de Paris
@@ -911,6 +1017,8 @@ Peut-être, ces lignes ont-elles un caractère un peu décousu. Je n'ai voulu di
 -----
 
 Section 89 : 
+
+Source : <ref name=":54">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Dès aujourd'hui Robic commence une vie de nomade|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
 
 Dès aujourd'hui ROBIC COMMENCE UNE VIE DE NOMADE
 D'un de nos envoyés spéciaux Albert de WETTER.
@@ -943,6 +1051,8 @@ Il le fit plutôt qu'il ne l'avait prévu, car c'est dans la côte de Piery-sur-
 
 Section 90 : 
 
+Source : <ref name=":55">{{Article|langue=fr|titre=Hommage au public de la région parisienne|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
+
 Hommage au public de la région parisienne
 Comme nous le prévoyions, le Tour de France s'est achevé dans un immense enthousiasme populaire. Nous avons eu la joie et la fierté de constater que le public du Parc des Princes, malgré la pluie et l'attente, a fêté dignement et avec courtoisie les vainqueurs.
 Ce fut un admirable exemple de tenue et de compréhension sportive. Sur la route toujours parfaitement dégagée, les spectateurs ont fait une escorte d'honneur. Alors, on Robic au Parc, et bien sûr l'année prochaine...
@@ -951,6 +1061,8 @@ Le Tour dit sa gratitude au merveilleux public de la région parisienne.
 -----
 
 Section 91 : 
+
+Source : <ref name=":56">{{Article|langue=fr|auteur1=Dante Gianello|titre=Un champion écrit... chacun à son tour|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
 
 UN CHAMPION ÉCRIT...
 Chacun à son tour
@@ -980,6 +1092,8 @@ Chacun a sa chance. Mais le résultat est là qui indique le nombre exact d'épr
 
 Section 92 : 
 
+Source : <ref name=":57">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=Le point de vue belge : l'adieu de Schotte au Tour et les promesses belges|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
+
 Le point de vue belge
 L'ADIEU DE SCHOTTE AU TOUR et les promesses belges
 par Albert VAN LAETHEM
@@ -1003,6 +1117,8 @@ Derrière Raymond Impanis, désormais grandissime du cyclisme belge, disposera d
 
 Section 94 : 
 
+Source : <ref name=":58">{{Article|langue=fr|titre=Robic a pourtant le cran !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
+
 ROBIC à pourtant le cran !
 « J'avoue que la tentation était lancée sur la montée de Bonsecours, mais plier, c'eût été... formidable, et durant quelques kilomètres, j'ai souffert pour dix !
 « Il n'y avait pas à hésiter. C'était la plus belle affaire de ma vie et je la présentais à moi... »
@@ -1019,6 +1135,8 @@ Qu'il enlèverait le Tour de France !
 
 Section 95 : 
 
+Source : <ref name=":59">{{Article|langue=fr|titre=« J'ai encore 100.000 fr. pour enlever le Tour » estime Brambilla|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
+
 « J'ai encore 100.000 fr. pour enlever LE TOUR »
 ESTIME BRAMBILLA
 Dans toutes les paroisses sportives, c'est le grand deuil. Après avoir rêvé, Brambilla, ulcéré d'avoir perdu ses 100.000 francs... et la fausse compassion.
@@ -1030,3 +1148,11 @@ Brambilla, pour sa part, aurait voulu dire, mais depuis deux jours sa machoire �
 « Dans ces conditions, Fachleitner n'est pas un échec mortifiant pour Brambilla a cent fois mérité... »
 
 -----
+
+Section 96 : 
+
+Source : <ref name=":60">{{Article|langue=fr|titre=Léo Véron le plus éprouvé des Français|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=21 juillet 1947|lire en ligne={{Gallica|id=bd6t599492k/f4}}|accès url=libre}}.</ref>
+
+Léo Véron le plus éprouvé des Français
+De l'équipe de France, c'est Léo Véron qui de loin semblait le plus éprouvé. Le directeur technique des Français a, en effet, perdu la tête depuis le départ.
+Fatigué, angine en sont les causes.-----

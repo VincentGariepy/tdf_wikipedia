@@ -2,6 +2,8 @@
 
 Section 5 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=34e Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
+
 34e Tour de France
 UNE EPREUVE
 L'EQUIPE LE PARISIEN libéré
@@ -21,6 +23,8 @@ Dans les cinq équipes, les points faibles apparaissent : Depredomme, Lazaridès
 
 Section 6 : 
 
+Source : <ref name=":2">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Un avant-propos qui situe les personnages|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
+
 LES FAITS ET LES HOMMES
 
 UN AVANT-PROPOS
@@ -39,6 +43,8 @@ Je salue ce malheureux Thiétard, seule victime de l'étape. Je le salue avec é
 
 Section 7 : 
 
+Source : <ref name=":3">{{Article|langue=fr|auteur1=Claude Tillet|titre=Curieuse première étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
+
 D'un de nos envoyés spéciaux Claude TILLET.
 
 LILLE. — Curieuse première étape. Du bon et du mauvais, des déceptions et d'agréables surprises. Sur tout cela un soleil impitoyable qui accentuait les défaillances et dissolvait les énergies.
@@ -52,6 +58,8 @@ D'un seul coup, le groupe était orienté vers la non-agression et l'on se prena
 -----
 
 Section 8 : 
+
+Source : <ref name=":4">{{Article|langue=fr|titre=Les moyennes comparées de la première étape Paris-Lille|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
 
 LES MOYENNES COMPAREES DE LA PREMIERE ETAPE
 PARIS-LILLE
@@ -67,6 +75,8 @@ EN 1938 ET 1939, LE TOUR PARTAIT VERS L'OUEST.
 -----
 
 Section 9 : 
+
+Source : <ref name=":5">{{Article|langue=fr|auteur1=Marcel Hansenne|titre=La capitale en fête pour le grand départ|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
 
 LA CAPITALE EN FETE POUR LE GRAND DEPART
 
@@ -90,6 +100,8 @@ L'instant du départ se fait proche. Les équipes, bras et blanc, n'attendant pl
 
 Section 10 : 
 
+Source : <ref name=":6">{{Article|langue=fr|titre=Pendant le Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
+
 Pendant le Tour
 L'EQUIPE
 paraît tous les jours même le dimanche
@@ -98,6 +110,8 @@ Notre tirage étant limité, retenez « L'EQUIPE-ELANS » chez votre marchand de
 -----
 
 Section 11 : 
+
+Source : <ref name=":7">{{Article|langue=fr|titre=Classement général par points|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
 
 Classement général par points
 (Coupe des Cachous Gélas)
@@ -114,6 +128,8 @@ CE QUI LEUR RESTE A FAIRE
 
 Section 12 : 
 
+Source : <ref name=":8">{{Article|langue=fr|auteur1=A. de Wetter|titre=Lazaridès se fait opérer à Lille|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
+
 LAZARIDES se fait opérer à Lille
 (D'un de nos env. sp. A. de WETTER)
 
@@ -129,6 +145,8 @@ En tous les cas, il n'a pas fini d'entendre fulminer René Vietto qui, depuis tr
 -----
 
 Section 13 : 
+
+Source : <ref name=":9">{{Article|langue=fr|titre=L'Équipe suit le Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
 
 L'EQUIPE
 LE QUOTIDIEN - L'ELAN DU SPORT
@@ -156,6 +174,8 @@ A grande Equipe, grands moyens
 -----
 
 Section 14 : 
+
+Source : <ref name=":10">{{Article|langue=fr|titre=Classement de la 1re étape Paris-Lille|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT DE LA 1re ETAPE
 PARIS-LILLE (256 km.)
@@ -197,6 +217,8 @@ H. M. S.
 
 Section 15 : 
 
+Source : <ref name=":11">{{Article|langue=fr|titre=La locomotive Bizzi en action|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
+
 LA LOCOMOTIVE BIZZI EN ACTION
 Bizzi (qui mène) fonce à toute allure pour combler l'écart entre deux pelotons. Accroupi sur sa machine, il n'offre que très peu d'abri à Bobet qui grimace, dans sa roue.
 (Photo transmise par l'avion spécial de L'EQUIPE).
@@ -205,6 +227,8 @@ Bizzi (qui mène) fonce à toute allure pour combler l'écart entre deux peloton
 
 Section 16 : 
 
+Source : <ref name=":12">{{Article|langue=fr|titre=La bonne échappée...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f1}}|accès url=libre}}.</ref>
+
 LA BONNE ECHAPPEE...
 LILLE. — Un cadre rarement vu : une échappée sur les pavés du Nord avec un soleil implacable. Kübler, narquois selon son habitude, mène devant Mahé qui ne se décide pas à mener à Carvin.
 (Photo transmise par l'avion spécial de L'EQUIPE)
@@ -212,6 +236,8 @@ LILLE. — Un cadre rarement vu : une échappée sur les pavés du Nord avec un 
 -----
 
 Section 20 : 
+
+Source : <ref name=":13">{{Article|langue=fr|titre=Heureux dans l'épreuve individuelle mais défaillant dans le Tour par équipes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f2}}|accès url=libre}}.</ref>
 
 Tour de France
 Ils triompheront des intempéries grâce à leur imperméable C.C.C.
@@ -228,6 +254,8 @@ Schotte et Impanis, d'ores et déjà leaders incontestés d'une formation belge 
 -----
 
 Section 21 : 
+
+Source : <ref name=":14">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Un avant-propos qui situe les personnages (suite)|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f2}}|accès url=libre}}.</ref>
 
 UN AVANT-PROPOS
 QUI SITUE LES PERSONNAGES
@@ -284,6 +312,8 @@ Ainsi le Tour pourra-t-il se montrer digne de l'émouvante affec-tion que lui t�
 -----
 
 Section 22 : 
+
+Source : <ref name=":15">{{Article|langue=fr|titre=Curieuse première étape (suite)|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f2}}|accès url=libre}}.</ref>
 
 (Suite de la première page)
 C'est à Doullens, l'épouvantail de Paris-Roubaix, que les "patafeurs" allaient reprendre sous l'impulsion de Marie, Vietto, Schotte, Lucas et consorts dont le classement devait être plus que satisfaisant. Le peloton joua de l'accordéon. Sur le plateau, cette fameuse plaine au vent si redoutée chez chacun se livrèrent un match poursuite ardent. Mahé, Kubler, Idée, Vietto, Schotte, Fachleitner, Bini, Brambilla, Bobet, Danguillaume... figuraient alternativement au premier corrier; Piot, Caput, Pernac, Thiétard faisaient partie du second.
@@ -364,6 +394,8 @@ Tout devait concourir, pour demain, une violente offensive belge. Mais sauront-i
 
 Section 23 : 
 
+Source : <ref name=":16">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Une étape signée Mahé-Kübler|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f2}}|accès url=libre}}.</ref>
+
 UNE ETAPE SIGNEE MAHE-KUBLER
 (D'un de nos envoyés spéciaux Albert de WETTER)
 
@@ -439,6 +471,8 @@ MIDI (maillot violet, bande vert pâle, manchettes violettes) : Tassin, Forlini,
 
 Section 24 : 
 
+Source : <ref name=":17">{{Article|langue=fr|titre=Leurs malheurs|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f2}}|accès url=libre}}.</ref>
+
 LEURS MALHEURS
 
 Crevaisons : Danguillaume, Lang, Schellingelborh, Fautrier, Ganozo, Berrini, Teisseire, Fachleitner, Callens, Kubler, Chocque, Danguillaume, Vietto, Rossello.
@@ -448,6 +482,8 @@ Chutes : Thiétard, Cosson, Lang, Gallinei.
 -----
 
 Section 25 : 
+
+Source : <ref name=":18">{{Article|langue=fr|titre=Classements|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENTS
 
@@ -480,6 +516,8 @@ Le « Chalet », 15.000 francs offerts par les Débats de Genève, se répartiss
 -----
 
 Section 26 : 
+
+Source : <ref name=":19">{{Article|langue=fr|titre=Aujourd'hui deuxième étape Lille-Bruxelles|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f2}}|accès url=libre}}.</ref>
 
 AUJOURD'HUI DEUXIEME ETAPE
 LILLE-BRUXELLES
@@ -549,6 +587,8 @@ Contrôles volants : Somain, Douai, Denain, Quiévrain, Valenciennes, Mons, Hal.
 
 Section 27 : 
 
+Source : <ref name=":20">{{Article|langue=fr|titre=Demain, troisième étape Bruxelles-Luxembourg|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f2}}|accès url=libre}}.</ref>
+
 DEMAIN, TROISIEME ETAPE
 BRUXELLES-LUXEMBOURG
 (314 kil.)
@@ -617,6 +657,8 @@ Les coureurs déboulent dans la ligne opposée sur la piste et un tour complet �
 
 Section 28 : 
 
+Source : <ref name=":21">{{Article|langue=fr|auteur1=Paul Guitard|titre=J'avais vu avant un fantôme familier...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f2}}|accès url=libre}}.</ref>
+
 J'avais vu avant un fantôme familier...
 (D'un de nos envoyés spéciaux Paul GUITARD)
 
@@ -640,6 +682,8 @@ Quant à l'organisation, qu'on appréhendait — on ne lance pas impunément des
 
 Section 30 : 
 
+Source : <ref name=":22">{{Article|langue=fr|titre=En « les » attendant les coureurs... au Bois de la Cambre|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f2}}|accès url=libre}}.</ref>
+
 En « les » attendant
 les coureurs...
 au Bois de la Cambre
@@ -652,6 +696,8 @@ Le départ aura lieu à 14 h. 40, avenue du Pesage, devant le chalet du Bois de 
 
 Section 31 : 
 
+Source : <ref name=":23">{{Article|langue=fr|titre=L'écurie Buffard-Hotchkiss dans le Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f2}}|accès url=libre}}.</ref>
+
 L'écurie Buffard-Hotchkiss
 dans le Tour
 
@@ -662,14 +708,9 @@ A Hotchkiss, à M. Buffard, toute notre gratitude.
 
 -----
 
-Section 34 : 
-
-WOLBER
-Le 29 Juin à Bordeaux se disputera le PRIX WOLBER
-
------
-
 Section 76 : 
+
+Source : <ref name=":24">{{Article|langue=fr|auteur1=André Costes|titre=Après leur échec d'hier, les Belges vont-ils attaquer dans Lille-Bruxelles ?|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
 
 PETITES ANNONCES
 les ordres reçus avant 18 heures paraissent le lendemain
@@ -729,6 +770,8 @@ César Marcelak parlait un langage semblable à celui que l'on entendit entre Li
 
 Section 77 : 
 
+Source : <ref name=":25">{{Article|langue=fr|titre=Vainqueur mais soucieux...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
+
 ### VAINQUEUR MAIS SOUCIEUX...
 LILLE. — Ferdinand Kübler (à droite) assis sur le lit d'un de ses camarades réfléchit, bien soucieux, à sa nouvelle situation de leader. Il n'aura pas pris longtemps son maillot à croix blanche et cela ne semble pas lui sourire.
 (Bélinogramme spécial L'EQUIPE)
@@ -736,6 +779,8 @@ LILLE. — Ferdinand Kübler (à droite) assis sur le lit d'un de ses camarades 
 -----
 
 Section 78 : 
+
+Source : <ref name=":26">{{Article|langue=fr|auteur1=Dante Gianello|titre=En rodage...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
 
 ### UN CHAMPION DANS LA COURSE
 ## EN RODAGE...
@@ -772,6 +817,8 @@ Quant aux régionaux, qu'on croyait battus d'avance, ils ont été la surprise d
 -----
 
 Section 79 : 
+
+Source : <ref name=":27">{{Article|langue=fr|auteur1=René Moyset|titre=Les régionaux sont satisfaits et les Bretons particulièrement ravis|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
 
 ### Les régionaux sont satisfaits ET LES BRETONS particulièrement ravis
 
@@ -819,6 +866,8 @@ Et les autres ? Avec cette attitude, pourrait-il combler ses désirs ?
 
 Section 80 : 
 
+Source : <ref name=":28">{{Article|langue=fr|titre=L'Officiel du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
+
 ### L'Officiel du Tour
 
 * L'attention a spécialement été attirée sur la vitesse des voitures officielles et de presse.
@@ -831,6 +880,8 @@ Section 80 :
 
 Section 81 : 
 
+Source : <ref name=":29">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
+
 ### la radiodiffusion du « Tour »
 
 RADIO-LUXEMBOURG. — Radio-Luxembourg assure le reportage du « Tour » sur l'antenne de Radio-Luxembourg. Les auditeurs peuvent l'entendre chaque jour, de la façon suivante :
@@ -842,6 +893,8 @@ Reportages de G. Briquet et J. Quittard.
 -----
 
 Section 82 : 
+
+Source : <ref name=":30">{{Article|langue=fr|auteur1=Fernand Albaret|titre=Tous leurs tours dans mon sac|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
 
 ## TOUS LEURS TOURS DANS MON SAC
 
@@ -930,6 +983,8 @@ Mais oui.
 
 Section 83 : 
 
+Source : <ref name=":31">{{Article|langue=fr|auteur1=Albert de Wetter|titre=« Je n'ai qu'à m'en prendre à moi... » reconnaît Thiétard|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
+
 # « Je n'ai qu'à m'en prendre à moi... »
 ### reconnaît THIÉTARD
 
@@ -943,6 +998,8 @@ A. de W.
 -----
 
 Section 84 : 
+
+Source : <ref name=":32">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Kübler ne sait pas ce qu'est une minute de repos|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
 
 # KUBLER NE SAIT PAS CE QU'EST une minute de repos
 
@@ -975,6 +1032,8 @@ Son rêve ? Enlever le Championnat du monde et, avec le maillot arc-en-ciel, dis
 
 Section 85 : 
 
+Source : <ref name=":33">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=Le point de vue belge : battus, oui, mais... par la malchance !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
+
 # Le point de vue BELGE
 ## BATTUS, OUI, MAIS... par la malchance !
 #### par Albert Van LAETHEM.
@@ -997,6 +1056,8 @@ Espérons qu'à Bruxelles les résultats nous soient plus favorables ou que si n
 -----
 
 Section 86 : 
+
+Source : <ref name=":34">{{Article|langue=fr|auteur1=Guido Giardini|titre=« Je suis content malgré tout »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
 
 # « Je suis content malgré tout »
 #### par Guido GIARDINI.
@@ -1022,6 +1083,8 @@ Pour ma part, je ferai une autre constatation. C'est l'amitié de la camaraderie
 
 Section 87 : 
 
+Source : <ref name=":35">{{Article|langue=fr|titre=Éloges pour Vietto|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
+
 ### ÉLOGES pour Vietto
 LILLE. — René Vietto a fort bien entamé le Tour. Voici d'ailleurs trois opinions qui situent sa course de la journée :
 « Ce que j'ai bien cherché aujourd'hui, c'est Vietto, nous confia Pierre Brambilla. Je ne l'avais pas vu depuis trois ans. Il est en pleine nue, il va nous donner chaud. »
@@ -1031,6 +1094,8 @@ René Vietto a eu un bon jour !
 -----
 
 Section 88 : 
+
+Source : <ref name=":36">{{Article|langue=fr|titre=Des officiels jugent : MM. Pierre Bloch et Kaouza : « Étonnant ! »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
 
 ### DES OFFICIELS JUGENT:
 ## MM. Pierre Bloch et Kaouza: "Etonnant!"
@@ -1047,6 +1112,8 @@ Notre pays peut être fier d'une telle entreprise ! »
 
 Section 89 : 
 
+Source : <ref name=":37">{{Article|langue=fr|auteur1=Georges Swersky et Raymond Saladin|titre=Quand le Tour défile sous nos ailes|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
+
 # QUAND LE TOUR défile sous nos ailes
 #### par Georges SWERSKY et Raymond SALADIN.
 
@@ -1057,6 +1124,8 @@ Pour l'instant, revenus par la route, nous attendrons de vérifier ces quelques 
 -----
 
 Section 90 : 
+
+Source : <ref name=":38">{{Article|langue=fr|auteur1=M. B.|titre=Le grandiose salut de Paris (suite)|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
 
 ## LE GRANDIOSE SALUT DE PARIS
 *(Suite de la première page)*
@@ -1075,6 +1144,8 @@ En route, Messieurs... — **M. B.**
 -----
 
 Section 91 : 
+
+Source : <ref name=":39">{{Article|langue=fr|titre=Trois gestes avant la frontière|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=26 juin 1947|lire en ligne={{Gallica|id=bd6t51001506/f4}}|accès url=libre}}.</ref>
 
 ### Trois gestes avant la frontière
 

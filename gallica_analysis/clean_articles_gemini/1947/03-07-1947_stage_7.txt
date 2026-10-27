@@ -2,6 +2,8 @@
 
 Section 3 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=Le Galibier|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f1}}|accès url=libre}}.</ref>
+
 ...LIER
 ...eur
 
@@ -79,17 +81,65 @@ Viotto
 -----
 
 Section 5 : 
+
+Source : <ref name=":2">{{Article|langue=fr|titre=Cale-pieds Christophe|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f2}}|accès url=libre}}.</ref>
 CALE-PIEDS
 CHRISTOPHE
 CELUI DES AS
 -----
 
 Section 8 : 
+
+Source : <ref name=":3">{{Article|langue=fr|titre=La selle « idéale »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f2}}|accès url=libre}}.</ref>
 LA SELLE
 "IDÉALE"
 -----
 
+Section 11 : 
+
+Source : <ref name=":4">{{Article|langue=fr|titre=Les engagés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f2}}|accès url=libre}}.</ref>
+ALSACE
+
+1. BEHA Francois (Mulhouse)
+2. BECK Frédéric (Strasbourg)
+3. SCHWARTZ (Strasbourg)
+
+AUVERGNE
+
+4. SOUILLAT René (Montluçon)
+5. THERON Oscar (Clermont Ferrand)
+
+BRETAGNE
+
+6. HUGUES Louis (Loudéac)
+
+CHAMPAGNE
+
+7. FAMELART Georges (Reims)
+8. MAGE (Folembray)
+9. MONIOT Gaston (Troyes)
+10. NONIN Daniel (Troyes)
+
+DAUPHINE-SAVOIE
+
+11. CAPUOZZO Vincent (Grenoble)
+12. DI GIROLAMO D. (Grenoble)
+
+FRANCHE-COMTE
+
+13. BULLE (Besançon)
+14. MARCHAND (Besançon)
+15. OSTERTAG René (Besançon)
+
+GUYENNE
+
+16. BIDART Jean (Arcachon)
+17. DELAS Raymond (La Teste)
+-----
+
 Section 12 : 
+
+Source : <ref name=":5">{{Article|langue=fr|titre=Les engagés (suite)|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f2}}|accès url=libre}}.</ref>
 18.
 19. llier)
 20. Metz)
@@ -109,6 +159,8 @@ Section 12 :
 -----
 
 Section 13 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=Trophées Peugeot|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f2}}|accès url=libre}}.</ref>
 TROPHEES PEUGEOT
 
 PRIX D'ETAPES
@@ -160,6 +212,8 @@ ET 60.000 FRANCS POUR LE CLASSEMENT GENERAL
 -----
 
 Section 14 : 
+
+Source : <ref name=":7">{{Article|langue=fr|titre=Le palmarès|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f2}}|accès url=libre}}.</ref>
 LE PALMARES
 1941 : 1. Alvarez, 2. Rousset, 3. Talle.
 1942 : 1. Castelin, 2. Alvarez, 3. Goussot.
@@ -170,6 +224,8 @@ LE PALMARES
 -----
 
 Section 16 : 
+
+Source : <ref name=":8">{{Article|langue=fr|titre=Les engagés (suite)|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f3}}|accès url=libre}}.</ref>
 
 34. GIACOMELLI (Orléans)
 
@@ -212,6 +268,8 @@ PROVENCE
 
 Section 18 : 
 
+Source : <ref name=":9">{{Article|langue=fr|titre=Vous lirez dans L'Équipe|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f3}}|accès url=libre}}.</ref>
+
 VOUS LIREZ
 dans
 L'EQUIPE
@@ -226,6 +284,8 @@ JEAN MAZIER
 -----
 
 Section 26 : 
+
+Source : <ref name=":10">{{Article|langue=fr|titre=Première étape|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f4}}|accès url=libre}}.</ref>
 
 SAMEDI 24 MAI
 
@@ -275,6 +335,8 @@ Arrivée à Troyes : faubourg de Croncelles
 -----
 
 Section 27 : 
+
+Source : <ref name=":11">{{Article|langue=fr|titre=Deuxième étape|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f4}}|accès url=libre}}.</ref>
 
 25 MAI 1947
 
@@ -331,6 +393,8 @@ L'ARRIVEE A EPINAL. — Itinéraire : quai de Séville, quai de Juillet, quai Ju
 -----
 
 Section 28 : 
+
+Source : <ref name=":12">{{Article|langue=fr|titre=Troisième étape|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f4}}|accès url=libre}}.</ref>
 
 26 MAI 1947
 
@@ -390,6 +454,8 @@ Arrivée à Valentigney au vélodrome distance plus un tour.
 
 Section 29 : 
 
+Source : <ref name=":13">{{Article|langue=fr|titre=Les officiels|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f4}}|accès url=libre}}.</ref>
+
 LES OFFICIELS
 
 Directeur de la course : Claude TILL
@@ -400,6 +466,8 @@ Chronométreur : M. OUZELET.
 -----
 
 Section 30 : 
+
+Source : <ref name=":14">{{Article|langue=fr|titre=Les primes d'Épinal à Valentigney|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=03 juillet 1947|lire en ligne={{Gallica|id=bd6t599474n/f4}}|accès url=libre}}.</ref>
 
 LES PRIMES
 d'Epinal à Valentigney

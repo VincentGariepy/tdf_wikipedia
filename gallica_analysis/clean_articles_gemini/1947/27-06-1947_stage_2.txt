@@ -2,6 +2,8 @@
 
 Section 5 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=Contre toute attente, victoire française à Bruxelles, mais deux Belges à 1' 41"|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f1}}|accès url=libre}}.</ref>
+
 Contre toute attente, victoire française à Bruxelles, mais deux Belges à 1' 41"
 
 34e TOUR DE FRANCE
@@ -21,6 +23,8 @@ Près de 130 km. en solitaire... dans l'étape Lille-Bruxelles, patronnée par L
 -----
 
 Section 6 : 
+
+Source : <ref name=":2">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Un maillot jaune trop chèrement payé|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f1}}|accès url=libre}}.</ref>
 
 LES FAITS ET LES HOMMES
 UN MAILLOT JAUNE
@@ -57,6 +61,8 @@ Une bataille qui tourna sur la fin de parcours — à l'endroit où l'on apercev
 -----
 
 Section 7 : 
+
+Source : <ref name=":3">{{Article|langue=fr|auteur1=Claude Tillet|titre=Impanis, l'homme de Karel Steyaert, désormais leader belge, 2e au classement général à 3' 28" de Vietto, fait, avec Depredomme, une fin de course remarquable|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f1}}|accès url=libre}}.</ref>
 
 Impans, l'homme de Karel Steyaert, désormais leader belge,
 2e au classement général à 3' 28" de Vietto, fait,
@@ -98,6 +104,8 @@ Que faisait-on au commandement ? Kubler tirait avec Vietto et l'avance croissait
 
 Section 8 : 
 
+Source : <ref name=":4">{{Article|langue=fr|titre=La prime de Beauvallon (Mémorial H. Desgrange)|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f1}}|accès url=libre}}.</ref>
+
 LA PRIME DE BEAUVALLON
 (Mémorial H. Desgrange)
 Rappelons qu'un groupe d'anciens amis d'Henry Desgrange a eu la pieuse idée d'honorer la mémoire du « Père du Tour », en faisant disputer une prime importante juste devant la villa dans laquelle Henry Desgrange venait chaque année s'isoler pour construire le règlement qui serait en vigueur l'année suivante.
@@ -107,6 +115,8 @@ Ce sera là un des sprints les plus chauds du Tour, car l'œil « Père du Tour 
 -----
 
 Section 9 : 
+
+Source : <ref name=":5">{{Article|langue=fr|titre=Profits et pertes d'une étape à l'autre|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f1}}|accès url=libre}}.</ref>
 
 PROFITS ET PERTES D'UNE ÉTAPE A L'AUTRE
 Places gagn. perd.
@@ -121,6 +131,8 @@ KUBLER (S.) ........... 0 8
 
 Section 10 : 
 
+Source : <ref name=":6">{{Article|langue=fr|titre=Les poursuivants battus chez eux...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f1}}|accès url=libre}}.</ref>
+
 LES POURSUIVANTS BATTUS CHEZ EUX...
 BRUXELLES. — Malgré tous leurs efforts, les deux rescapés de l'échappée initiale, Depredomme (qui mène) et Impanis n'ont pu vaincre René Vietto dans sa folle échappée. Battus chez eux, ces deux Belges s'avouent déjà, Impanis surtout, comme des routiers types Tour de France par excellence.
 (Bélinogramme spécial L'EQUIPE)
@@ -128,6 +140,8 @@ BRUXELLES. — Malgré tous leurs efforts, les deux rescapés de l'échappée in
 -----
 
 Section 11 : 
+
+Source : <ref name=":7">{{Article|langue=fr|titre=Au tableau d'honneur de la journée|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f1}}|accès url=libre}}.</ref>
 
 Au tableau d'honneur de la journée
 Vietto, qui gagne une étape en Belgique et arrache le « Maillot Jaune », les enlevant de maître...
@@ -139,6 +153,8 @@ L'équipe belge qui prend la tête du classement international.
 -----
 
 Section 12 : 
+
+Source : <ref name=":8">{{Article|langue=fr|titre=Classement de la 2e étape Lille-Bruxelles (182 km.)|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT DE LA 2e ETAPE
 LILLE-BRUXELLES (182 km.)
@@ -175,12 +191,16 @@ CE QUI LEUR RESTE A FAIRE
 
 Section 13 : 
 
+Source : <ref name=":9">{{Article|langue=fr|titre=Le but est proche|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f1}}|accès url=libre}}.</ref>
+
 LE BUT EST PROCHE
 BRUXELLES. — Vietto, sous le soleil écrasant, roule tête baissée, étouffé par la chaleur, sur les routes belges. Le but est proche et le Cannois ne sera pas rejoint, à la stupéfaction du public d'outre-Quiévrain qui l'acclame frénétiquement. (Bélinogramme spécial L'EQUIPE)
 
 -----
 
 Section 18 : 
+
+Source : <ref name=":10">{{Article|langue=fr|auteur1=Claude Tillet|titre=Vietto avait quitté Paris avec la volonté de s'imposer|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
 
 Garantie
 L'accroissement des importations en coton brut d'Amérique permet au fameux VALENTIN, le Roi des Caoutchoucs, de garantir à nouveau ses vêtements imperméables.
@@ -239,6 +259,8 @@ Impanis n'a pas voulu ou pu bataillé de destruction ? Après deux étapes sous 
 
 Section 19 : 
 
+Source : <ref name=":11">{{Article|langue=fr|titre=Où en sont-ils ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
+
 Où en sont-ils ?
 
 BELGES :
@@ -275,6 +297,8 @@ ZONE-EST :
 -----
 
 Section 20 : 
+
+Source : <ref name=":12">{{Article|langue=fr|titre=Classement général après la deuxième étape|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 après la deuxième étape
@@ -377,6 +401,8 @@ A combien ils sont du leader
 
 Section 21 : 
 
+Source : <ref name=":13">{{Article|langue=fr|titre=Classement du challenge international après la deuxième étape|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
+
 Classement du Challenge international
 après la deuxième étape
 
@@ -393,6 +419,8 @@ après la deuxième étape
 -----
 
 Section 22 : 
+
+Source : <ref name=":14">{{Article|langue=fr|auteur1=Georges de Seversky et Raymond Saladin|titre=Sous les ailes de l'Auster|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
 
 Sous les ailes de l'Auster
 De nos envoyés spéciaux :
@@ -414,6 +442,8 @@ Demain, troisième étape, Vietto partira-t-il sur son « Auster » ?
 -----
 
 Section 23 : 
+
+Source : <ref name=":15">{{Article|langue=fr|auteur1=René Moyset|titre=Les pavés du Nord furent mortels pour beaucoup de régionaux|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
 
 LES PAVÉS DU NORD FURENT MORTELS POUR BEAUCOUP DE RÉGIONAUX
 
@@ -445,6 +475,8 @@ Quant à Paul Maye, il nous confiait simplement : « Ca va, on a bien le temps d
 
 Section 24 : 
 
+Source : <ref name=":16">{{Article|langue=fr|titre=Six hommes éliminés par le temps|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
+
 Six hommes éliminés par le temps
 
 90 arrivants. 79 dans les temps.
@@ -455,19 +487,9 @@ Dorgebray, 1 h. 43' 27" ; De Santi, 1 h. 07' 39" ; Chibane, 1 h. 07' 31" ; Lang,
 
 -----
 
-Section 25 : 
-
-MISS TOUR DE FRANCE « JUDEX » 1947
-
-50.000 fr. de dot à Miss TOUR DE FRANCE « JUDEX » 1947.
-Une montre JUDEX pour chacune des 21 Miss « TOUR » élues et par un jury la veille de l'étape au cours de la représentation de la troupe « JUDEX DU TOUR ».
-Un voyage à Paris pour les cinq finalistes d'étape choisies pour la grande finale à Paris.
-Pour la présélection de JUDEX pour cette sélection patronnée par le « POPULAIRE » et « L'EQUIPE » avec le concours de « Radio 47 » et « Cinévue » :
-Candidatez, inscrivez-vous au Théâtre National de Besançon (étape LUXEMBOURG - BESANÇON) dès aujourd'hui, vendredi 27 et samedi 28 juin (entrée pour les représentations le lundi 28 et au Théâtre de Ville-d'Avray (étape Besançon-Lyon).
-
------
-
 Section 26 : 
+
+Source : <ref name=":17">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Dépredomme nous fait songer à Somers|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
 
 DÉPREDOMME NOUS FAIT SONGER A SOMERS
 
@@ -503,6 +525,8 @@ Au stade du Heysel, René Vietto triomphe et signe une éclatante victoire.
 
 Section 27 : 
 
+Source : <ref name=":18">{{Article|langue=fr|titre=« Impanis est un garçon raisonnable. — Il n'aime pas l'eau froide » a remarqué M. Smulders|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
+
 « Impanis est un garçon raisonnable. — Il n'aime pas l'eau froide »
 a remarqué M. Smulders
 
@@ -512,6 +536,8 @@ BRUXELLES. — M. Smulders, soigneur de l'équipe de Belgique, a suivi l'étape 
 -----
 
 Section 28 : 
+
+Source : <ref name=":19">{{Article|langue=fr|titre=« Je l'avais dit que René marcherait » triomphe Lazaridès qui redoute de devoir abandonner|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
 
 « Je l'avais dit que René marcherait »
 triomphe Lazaridès qui redoute de devoir abandonner
@@ -526,6 +552,8 @@ Quand il sut que c'était René Vietto, avec une confortable avance, qui imposai
 
 Section 29 : 
 
+Source : <ref name=":20">{{Article|langue=fr|titre=Avec 45° à l'ombre...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
+
 AVEC 45° A L'OMBRE...
 
 (D'un de nos envoyés spéciaux)
@@ -538,12 +566,16 @@ Vietto fut le dernier homme de tête à être réhydraté. Les bidons ont manqu�
 
 Section 31 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=Longines, chronométreur officiel du Tour de France cycliste|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
+
 LONGINES
 Chronométreur officiel du Tour de France cycliste
 
 -----
 
 Section 32 : 
+
+Source : <ref name=":22">{{Article|langue=fr|titre=Des hors-d'œuvre au plat de résistance !|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
 
 Des hors-d'œuvre au plat de résistance !
 
@@ -610,6 +642,8 @@ Luxembourg (Vélodrome) ..... 14.12
 
 Section 33 : 
 
+Source : <ref name=":23">{{Article|langue=fr|titre=Demain, quatrième étape Luxembourg-Strasbourg (223 kil.)|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
+
 DEMAIN, QUATRIÈME ÉTAPE
 LUXEMBOURG-STRASBOURG (223 kil.)
 
@@ -643,6 +677,8 @@ Strasbourg (Stade de la Meinau) ..... 14.50
 
 Section 34 : 
 
+Source : <ref name=":24">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Un maillot jaune trop chèrement payé|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f2}}|accès url=libre}}.</ref>
+
 UN MAILLOT JAUNE TROP CHÈREMENT PAYÉ
 (Suite de l'article de Jacques GODDET)
 
@@ -668,6 +704,8 @@ Et nous avons pu mesurer combien nos amis d'outre-Quiévrain sont profondément 
 -----
 
 Section 62 : 
+
+Source : <ref name=":25">{{Article|langue=fr|auteur1=Dante Gianello|titre=Un champion dans la course : vous y croyez, maintenant ?|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f4}}|accès url=libre}}.</ref>
 
 UN CHAMPION DANS LA COURSE
 
@@ -699,6 +737,8 @@ Pourtant, je suis certain que Vietto défendra son maillot jaune vigoureusement.
 -----
 
 Section 63 : 
+
+Source : <ref name=":26">{{Article|langue=fr|auteur1=André Costes|titre=Les Belges préparent Impanis à être l'homme de Grenoble|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f4}}|accès url=libre}}.</ref>
 
 Le ciel sera-t-il plus clément aujourd'hui pour l'étape Bruxelles-Luxembourg patronnée par LE SOIR DE BRUXELLES
 
@@ -740,15 +780,9 @@ Ce caractère même donne la preuve que l'étape a pu être l'un des secteurs-cl
 
 -----
 
-Section 64 : 
-
-Classement par points
-(Coupe des Cachous GALLUS)
-1. MAHR, 10 pts; 2. Vietto et Ranconi, 12 pts; 4. Brambilla, 17 pts; 5. Vaelen, 18 pts.
-
------
-
 Section 65 : 
+
+Source : <ref name=":27">{{Article|langue=fr|titre=« Courage, René ! »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f4}}|accès url=libre}}.</ref>
 
 « COURAGE, RENÉ ! »
 
@@ -758,6 +792,8 @@ BRUXELLES. — Léo Veron, dans sa voiture, s'est approché de Vietto, qui roule
 -----
 
 Section 66 : 
+
+Source : <ref name=":28">{{Article|langue=fr|auteur1=Albert van Laethem|titre=Le point de vue Karel Steyaert plus joyeux à Bruxelles qu'à Lille|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f4}}|accès url=libre}}.</ref>
 
 Le point de vue KAREL STEYAERT plus joyeux à Bruxelles qu'à Lille
 
@@ -781,6 +817,8 @@ Karel Steyaert me disait sous après l'arrivée :
 
 Section 67 : 
 
+Source : <ref name=":29">{{Article|langue=fr|auteur1=Fernand Albaret|titre=Van Kempen pavoise !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f4}}|accès url=libre}}.</ref>
+
 Van Kempen pavoise !
 
 BRUXELLES. — Au premier étage de l'hôtel de Piet Van Kempen, boulevard Botanique, flotte un original drapeau : c'est le maillot de René Vietto, l'homme qui a étonné des milliers de Belges de la frontière jusqu'à Bruxelles.
@@ -789,6 +827,8 @@ Au moment où le jersey sécha, devant la foule admirative, Vietto et ses coéqu
 -----
 
 Section 68 : 
+
+Source : <ref name=":30">{{Article|langue=fr|auteur1=Guido Giardini|titre=De mieux en mieux !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f4}}|accès url=libre}}.</ref>
 
 DE MIEUX EN MIEUX !
 
@@ -823,6 +863,8 @@ Dans l'équipe de France, deux mecs ont eu particulièrement : Huguet et Teissei
 -----
 
 Section 69 : 
+
+Source : <ref name=":31">{{Article|langue=fr|titre=« 10' de retard à Bruxelles tout va bien » nous déclare Guido Giardini|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f4}}|accès url=libre}}.</ref>
 
 “10' DE RETARD A BRUXELLES TOUT VA BIEN”
 
@@ -861,6 +903,8 @@ TOUS LES JOURS même le dimanche
 
 Section 70 : 
 
+Source : <ref name=":32">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f4}}|accès url=libre}}.</ref>
+
 La radiodiffusion du « Tour »
 
 VENDREDI 27 JUIN
@@ -896,6 +940,8 @@ COURRIER. — Rédigez votre courrier de la façon suivante : Monsieur X..., off
 
 Section 71 : 
 
+Source : <ref name=":33">{{Article|langue=fr|auteur1=Albert de Wetter|titre=« Avec René Vietto nous sommes de revue » remarque, en souriant, Impanis|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f4}}|accès url=libre}}.</ref>
+
 “Avec René Vietto nous sommes de revue”
 
 remarque, en souriant, IMPANIS
@@ -929,6 +975,8 @@ A. de W.
 
 Section 72 : 
 
+Source : <ref name=":34">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain : la rage au ventre contre le diable au corps|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f4}}|accès url=libre}}.</ref>
+
 LE FAIT HUMAIN
 
 LA RAGE AU VENTRE contre le diable au corps
@@ -955,6 +1003,8 @@ Pour toute réponse, Léo Véron l'embrassa.
 -----
 
 Section 73 : 
+
+Source : <ref name=":35">{{Article|langue=fr|auteur1=Fernand Albaret|titre=C'est toujours la France|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=27 juin 1947|lire en ligne={{Gallica|id=bd6t5100151k/f4}}|accès url=libre}}.</ref>
 
 tous leurtours dans mon sac
 

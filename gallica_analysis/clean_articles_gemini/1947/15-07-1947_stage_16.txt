@@ -2,6 +2,8 @@
 
 Section 4 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=Journée de répit après la bataille pyrénéenne|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f1}}|accès url=libre}}.</ref>
+
 JOURNÉE DE RÉPIT APRÈS LA BATAILLE PYRÉNÉENNE
 Les attaques ne commencent qu'à 47 kilomètres de l'arrivée
 
@@ -12,6 +14,8 @@ LE SUISSE TARCHINI PASSE LA LIGNE LE PREMIER mais est déclassé au profit de Ta
 -----
 
 Section 5 : 
+
+Source : <ref name=":2">{{Article|langue=fr|titre=34e Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f1}}|accès url=libre}}.</ref>
 
 34e Tour de France
 4.640 KM.
@@ -24,6 +28,8 @@ Le Parisien
 -----
 
 Section 6 : 
+
+Source : <ref name=":3">{{Article|langue=fr|titre=De Callens... en Belgique aujourd'hui...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f1}}|accès url=libre}}.</ref>
 
 de Callens... en Belgique aujourd'hui...
 [Colonne incomplète coupée sur la marge gauche]
@@ -67,6 +73,8 @@ de Bordeaux.
 
 Section 7 : 
 
+Source : <ref name=":4">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Neutralisation traditionnelle|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f1}}|accès url=libre}}.</ref>
+
 LES FAITS ET LES HOMMES
 
 NEUTRALISATION TRADITIONNELLE
@@ -93,6 +101,8 @@ Il nous a semblé que, malgré son manque d'intérêt direct, cette étape à la
 
 Section 8 : 
 
+Source : <ref name=":5">{{Article|langue=fr|auteur1=Michel Thierry|titre=« Ma saison 1948 sera orientée vers le Tour de France » nous dit Bartali|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f1}}|accès url=libre}}.</ref>
+
 « Ma saison 1948 sera orientée vers le Tour de France »
 nous dit BARTALI
 
@@ -108,11 +118,15 @@ Michel THIERRY.
 
 Section 9 : 
 
+Source : <ref name=":6">{{Article|langue=fr|titre=Le malchanceux Mathieu|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f1}}|accès url=libre}}.</ref>
+
 LE MALCHANCEUX MATHIEU. - BORDEAUX. - Florent Mathieu aura connu, dans ce Tour de France, une noire malchance. Tombant dans Luchon-Pau, il tomba encore à l'arrivée de Bordeaux. On le voit, ici, vélo endommagé, parcourir à pied les derniers mètres afin de se faire classer. (Bélinogramme spécial L'EQUIPE).
 
 -----
 
 Section 10 : 
+
+Source : <ref name=":7">{{Article|langue=fr|auteur1=Claude Tillet|titre=Non-agression chez les leaders du classement général qui se contentent de finir dans le gros du peloton, Latorre, homme du Sud-Ouest, est dans le lot des vainqueurs, mais ne peut arracher la victoire|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f1}}|accès url=libre}}.</ref>
 
 Non-agression chez les leaders du classement général qui se contentent de finir dans le gros du peloton, Latorre, homme du Sud-Ouest, est dans le lot des vainqueurs, mais ne peut arracher la victoire
 
@@ -134,6 +148,8 @@ Dans la côte par laquelle on sort de Langon, on vit donc Pawisiak s'en aller, s
 
 Section 11 : 
 
+Source : <ref name=":8">{{Article|langue=fr|titre=Venu à Bordeaux dans une voiture de la Croix-Rouge Callens retourne en Belgique|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f1}}|accès url=libre}}.</ref>
+
 Venu à Bordeaux dans une voiture de la Croix-Rouge Callens retourne en Belgique
 
 D'un de nos envoyés spéciaux
@@ -147,11 +163,15 @@ Nos meilleurs souhaits l'accompagnent et combien de nos regrets...
 
 Section 14 : 
 
+Source : <ref name=":9">{{Article|langue=fr|titre=Le sprint des « mains crochues »|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f1}}|accès url=libre}}.</ref>
+
 LE SPRINT DES « MAINS CROCHUES » — BORDEAUX. - Voici le sprint final (à l'extérieur) triomphe devant Tacca, Mollin et Pawisiak. Mais, des poussettes, rétripoussettes et tirages de maillots se sont produits et Tarchini, expert en la matière, sera déclassé au profit de Tacca (Bélinogramme spécial L'EQUIPE).
 
 -----
 
 Section 15 : 
+
+Source : <ref name=":10">{{Article|langue=fr|titre=Classement de la 16e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT de la 16e étape
 
@@ -176,6 +196,8 @@ Ce qu'il leur reste à faire
 
 Section 21 : 
 
+Source : <ref name=":11">{{Article|langue=fr|titre=La bagarre reprendra-t-elle aujourd'hui sur Bordeaux - Les Sables...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 Tour de France
 Ils triompheront des intempéries grâce à leur Imperméable
 C.C.C.
@@ -190,6 +212,8 @@ l'une des plus longues étapes du Tour 1947 ?
 -----
 
 Section 22 : 
+
+Source : <ref name=":12">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Neutralisation traditionnelle|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
 
 Neutralisation traditionnelle
 (Suite de l'article de Jacques GODDET)
@@ -218,6 +242,8 @@ Tantôt, Ronconi suivait la route, recueilli, et sa méditation sans tristesse �
 -----
 
 Section 23 : 
+
+Source : <ref name=":13">{{Article|langue=fr|auteur1=Claude Tillet|titre=Suite de l'article de Claude Tillet|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
 
 (Suite de l'article de Claude TILLET)
 
@@ -257,6 +283,8 @@ Nous n'en au point devait être faite ici, puisque les cimes alpestres et pyrén
 
 Section 24 : 
 
+Source : <ref name=":14">{{Article|langue=fr|titre=Où en sont les leaders de chaque équipe|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 Où en sont les leaders
 de chaque équipe
 
@@ -277,6 +305,8 @@ Aussitôt, Tacca protestait, demandait aux commissaires de lui donner la premiè
 
 Section 25 : 
 
+Source : <ref name=":15">{{Article|langue=fr|titre=Classement par points|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 Classement par points
 (Coupe des Cachous Gallus)
 
@@ -285,6 +315,8 @@ Classement par points
 -----
 
 Section 26 : 
+
+Source : <ref name=":16">{{Article|langue=fr|auteur1=A. de Wetter|titre=Dans le plus pur style Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
 
 DANS LE PLUS PUR STYLE TOUR DE FRANCE
 D'un de nos envoyés spéciaux A. de WETTER
@@ -311,6 +343,8 @@ Quant à Bourlon, il arrive avec 20 minutes de retard, pour l'étape, mais pas a
 
 Section 27 : 
 
+Source : <ref name=":17">{{Article|langue=fr|titre=A Teisseire la meilleure moyenne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 A Teisseire la meilleure moyenne
 
 1re étape : Kübler, 21 km, 375
@@ -334,6 +368,8 @@ A Teisseire la meilleure moyenne
 
 Section 28 : 
 
+Source : <ref name=":18">{{Article|langue=fr|titre=Le pourcentage des abandons à la fin de la 16e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 Le pourcentage des abandons à la fin de la 16e étape
 
 1937 (Pau) : 44 s/ 0/0
@@ -345,6 +381,8 @@ Le pourcentage des abandons à la fin de la 16e étape
 
 Section 29 : 
 
+Source : <ref name=":19">{{Article|langue=fr|titre=Hommage à Teisseire|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 Hommage à Teisseire
 
 BORDEAUX. - Vietto déclarait, à qui voulait l'entendre, son admiration pour Teisseire. « Je tiens à saluer la performance de Teisseire dans l'étape des quatre cols.
@@ -353,6 +391,8 @@ L'athlétique Lucien fut, en effet, remarquable. Son dévouement pour le leader 
 -----
 
 Section 30 : 
+
+Source : <ref name=":20">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
 
 Ceux qui restent qualifiés
 
@@ -416,6 +456,8 @@ Les noms rayés sont ceux des coureurs ayant abandonné et les chiffres noirs ce
 -----
 
 Section 31 : 
+
+Source : <ref name=":21">{{Article|langue=fr|titre=Classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -482,6 +524,8 @@ A combien ils sont du leader
 
 Section 32 : 
 
+Source : <ref name=":22">{{Article|langue=fr|titre=Classement du Challenge international|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 Classement du Challenge international
 (Par addition des temps des trois premiers de chaque équipe)
 
@@ -499,6 +543,8 @@ Classement du Challenge international
 -----
 
 Section 33 : 
+
+Source : <ref name=":23">{{Article|langue=fr|auteur1=René Moyset|titre=Heureux d'avoir franchi les derniers cols les régionaux songent à rééditer l'exploit solitaire de Bourlon|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
 
 HEUREUX D'AVOIR FRANCHI LES DERNIERS COLS
 LES RÉGIONAUX SONGENT A REÉDITER
@@ -534,6 +580,8 @@ La chose faite et ce soir, à Bordeaux, les rescapés régionaux (ils sont 18, G
 
 Section 34 : 
 
+Source : <ref name=":24">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 La radiodiffusion du « Tour »
 
 MARDI 15 JUILLET
@@ -562,6 +610,8 @@ CHAINE NATIONALE : 16 h. 20, 20 h. 50.
 
 Section 35 : 
 
+Source : <ref name=":25">{{Article|langue=fr|titre=Aujourd'hui un départ original ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 Aujourd'hui un départ original ?
 EN CAR... PUIS EN BAC, AVANT DE MONTER A VÉLO POUR 272 KM.
 
@@ -580,6 +630,8 @@ COURRIER. - Rédigez votre enveloppe de la façon suivante : M. X..., coureur, o
 -----
 
 Section 36 : 
+
+Source : <ref name=":26">{{Article|langue=fr|titre=Aujourd'hui dix-septième étape Bordeaux - Les Sables-d'Olonne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
 
 AUJOURD'HUI
 DIX-SEPTIEME ÉTAPE
@@ -680,6 +732,8 @@ A l'arrivée : 10.000 francs au vainqueur de l'étape; 5.000 au second; 3.000 au
 
 Section 37 : 
 
+Source : <ref name=":27">{{Article|langue=fr|titre=Demain dix-huitième étape Les Sables-Vannes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 DEMAIN DIX-HUITIEME ETAPE
 LES SABLES-VANNES
 (236 km.)
@@ -727,6 +781,8 @@ VANNES .................................. 236 16.22
 
 Section 38 : 
 
+Source : <ref name=":28">{{Article|langue=fr|titre=Tacca vient de terminer la 16e étape en triomphant au vélodrome de Bordeaux|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 [Encarts publicitaires et photographies :]
 
 Photo :
@@ -735,6 +791,8 @@ Tacca vient de terminer la 16e étape en triomphant au vélodrome de Bordeaux. M
 -----
 
 Section 39 : 
+
+Source : <ref name=":29">{{Article|langue=fr|titre=50.000 frs offerts par les montres françaises Judex à Miss Tour de France Judex 1947|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
 
 50.000 frs
 offerts par les
@@ -763,6 +821,8 @@ En vente partout
 
 Section 40 : 
 
+Source : <ref name=":30">{{Article|langue=fr|titre=René Vietto est un champion de France-Sport|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 RENE VIETTO
 est un champion de
 FRANCE-SPORT
@@ -787,7 +847,33 @@ suivent le Tour ont des freins
 
 -----
 
+Section 41 : 
+
+Source : <ref name=":31">{{Article|langue=fr|titre=Guiseppe Tacca champion de Mercier|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
+GUISEPPE TACCA
+champion de
+MERCIER
+est aussi celui de
+Cale-Pieds CHRISTOPHE
+Courroies LAPIZE
+Pompes ZEFAL
+
+Les voitures de l'EQUIPE sont
+sonorisées par MORIN-COLOMBE
+Haut-parleur BIREFLEX
+Pour les sports : BIREFLEX
+Pour les kermesses : BIREFLEX
+Pour la mairie : BIREFLEX
+Partout un seul haut-parleur
+BIREFLEX, production
+HARMONIG RADIO MONTAUBAN
+
+-----
+
 Section 43 : 
+
+Source : <ref name=":32">{{Article|langue=fr|titre=Guiseppe Tacca est un champion de Mercier et des freins Lam|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
 
 GUISEPPE TACCA
 EST UN CHAMPION DE
@@ -798,6 +884,8 @@ LAM
 -----
 
 Section 47 : 
+
+Source : <ref name=":33">{{Article|langue=fr|titre=René Vietto|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
 
 RENE VIETTO
 Sportifs ! les chronomètres-chronographes
@@ -864,12 +952,16 @@ INCHEVILLE (Seine-Infér.)
 
 Section 48 : 
 
+Source : <ref name=":34">{{Article|langue=fr|titre=Wolber boyaux course et route|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f2}}|accès url=libre}}.</ref>
+
 WOLBER
 BOYAUX COURSE ET ROUTE
 
 -----
 
 Section 49 : 
+
+Source : <ref name=":35">{{Article|langue=fr|titre=Dissoplast la plus collante des dissolutions|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f3}}|accès url=libre}}.</ref>
 
 Dissoplast
 DISSOPLAST
@@ -894,6 +986,8 @@ STARNETT.
 -----
 
 Section 80 : 
+
+Source : <ref name=":36">{{Article|langue=fr|auteur1=André Costes|titre=Les sprinters à l'ordre du jour|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
 
 PETITES ANNONCES
 AUTOMOBILES 100 F.
@@ -949,6 +1043,8 @@ Les Bretons auront, en tout cas, un mot à dire et Robic, même si les autres é
 
 Section 81 : 
 
+Source : <ref name=":37">{{Article|langue=fr|auteur1=Albert van Laethem|titre=La charge de l'Escadron Noir décimé|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
+
 La charge de l'Escadron Noir décimé
 Le point de vue belge : Florent Mathieu le mort sprintant
 par Albert van LAETHEM rédacteur en chef de « SPORTS », de Bruxelles
@@ -966,11 +1062,15 @@ Schotte est un « taiseux », un de ces paysans des Flandres qui réfléchissent
 
 Section 82 : 
 
+Source : <ref name=":38">{{Article|langue=fr|titre=L'air du pays|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
+
 L'AIR DU PAYS - BORDEAUX. - Lorsque les régionaux se dirigent vers la ville où ils fixent leurs premières armes, ils se déchaînent et le Bordelais Latorre, que l'on voit, ici, dans une de ses multiples tentatives de fuite, n'a pas voulu rompre avec la tradition. Hélas ! pour lui, il ne put imiter Massal qui s'octroya à Montpellier tout près de chez lui, la douzième étape, mais il réussit tout de même à arriver dans les premiers à Bordeaux. C'est déjà un résultat ! Et ce soir, sur les bords de la Garonne, on illuminera. (Bélinogramme spécial L'EQUIPE)
 
 -----
 
 Section 83 : 
+
+Source : <ref name=":39">{{Article|langue=fr|auteur1=A. de Wetter|titre=A faute légère, peine légère|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
 
 A faute légère, peine légère
 
@@ -981,6 +1081,8 @@ Et c'est ainsi que justice devait être bien légère. - A. de W.
 -----
 
 Section 84 : 
+
+Source : <ref name=":40">{{Article|langue=fr|auteur1=Marcel Hansenne|titre=Tous leurs tours dans mon sac sans pitié pour l'Évangile !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS TOURS DANS MON SAC
 SANS PITIE POUR L'EVANGILE !
@@ -1034,6 +1136,8 @@ La foule bordelaise, impatiente, a commis le crime de lèse-Vietto... Celui-ci s
 
 Section 85 : 
 
+Source : <ref name=":41">{{Article|langue=fr|auteur1=M. de Wetter|titre=Goldschmitt regrette qu'il n'y ait plus d'étapes de cols !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
+
 GOLDSCHMITT regrette qu'il n'y ait plus d'étapes de cols !
 D'un de nos envoyés spéciaux
 
@@ -1053,6 +1157,8 @@ Nous l'admettrons volontiers. — M. de W.
 
 Section 86 : 
 
+Source : <ref name=":42">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : signalement : Tacca était à l'heure|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
+
 LE POINT de vue ITALIEN : Signalement : Tacca était à l'heure
 par Guido GIARDINI chef de la rubrique Cyclisme de la GAZZETTA DELLO SPORT
 
@@ -1071,6 +1177,8 @@ J'ajouterai un remerciement à tous les amis de « L'ÉQUIPE », ainsi qu'aux jo
 -----
 
 Section 87 : 
+
+Source : <ref name=":43">{{Article|langue=fr|auteur1=Albert de Wetter|titre=« Que Vietto gagne le Tour et mon bonheur sera complet » nous dit Fachleitner|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
 
 "QUE VIETTO GAGNE LE TOUR et mon bonheur sera complet"
 nous dit FACHLEITNER
@@ -1103,6 +1211,8 @@ Routier dans l'âme, Fachleitner veut le rester. Et il a raison. De l'avis unani
 
 Section 88 : 
 
+Source : <ref name=":44">{{Article|langue=fr|auteur1=A. de Wetter|titre=Léo Véron a payé d'exemple|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
+
 LEO VERON A PAYE D'EXEMPLE
 (D'un de nos envoyés spéciaux)
 
@@ -1115,6 +1225,8 @@ Se soignant énergiquement, Véron espère bien enrayer son début d'angine avan
 -----
 
 Section 89 : 
+
+Source : <ref name=":45">{{Article|langue=fr|titre=« Je n'ai pas pu faire autrement » déplore Mollin|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
 
 LE DE FAIT :
 "JE N'AI PAS PU FAIRE AUTREMENT" déplore MOLLIN
@@ -1134,6 +1246,8 @@ Cette année, la dernière place au classement général de cette 15e étape est
 
 Section 90 : 
 
+Source : <ref name=":46">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le maillot jaune = la lanterne rouge|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
+
 LE MAILLOT JAUNE = LA LANTERNE ROUGE
 par Paul GUITARD
 
@@ -1152,6 +1266,8 @@ Maintenant, me direz-vous, « il y a l'accident imprévisible ». Et puis, il y 
 -----
 
 Section 91 : 
+
+Source : <ref name=":47">{{Article|langue=fr|auteur1=Dante Gian...|titre=Un regard en arrière|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=15 juillet 1947|lire en ligne={{Gallica|id=bd6t599486n/f4}}|accès url=libre}}.</ref>
 
 UN REGARD EN ARRIERE
 par Dante GIAN...

@@ -2,6 +2,8 @@
 
 Section 4 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=Les géants pyrénéens ont fait une seule victime parmi les "cinq grands" : Fermo Camellini mais c'est l'étape Vannes-Saint-Brieuc, contre la montre, qui, décidément, désignera le grand vainqueur !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f1}}|accès url=libre}}.</ref>
+
 4e Tour de France
 4.640 KM.
 5 JUIN - 20 JUILLET
@@ -30,12 +32,16 @@ Ronconi perd 30" sur Vietto, qui gagne le sprint pour la deuxième place. — Fa
 
 Section 5 : 
 
+Source : <ref name=":2">{{Article|langue=fr|titre=Au sommet du géant pyrénéen|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f1}}|accès url=libre}}.</ref>
+
 AU SOMMET DU GEANT PYRENEEN — PAU. — La foule qui se presse au sommet du Tourmalet est dense pour accueillir le petit grimpeur breton, qui marque ainsi une nouvelle victoire à son actif. Beau grimpeur, foule des grands jours, en haut du géant pyrénéen.
 (Bélinogramme spécial L'EQUIPE)
 
 -----
 
 Section 6 : 
+
+Source : <ref name=":3">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Curieuse étape de synthèse|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f1}}|accès url=libre}}.</ref>
 
 LES FAITS ET LES HOMMES
 
@@ -61,6 +67,8 @@ Le grandissime mérite de Vietto a trouvé une précieuse alliée dans la longue
 
 Section 7 : 
 
+Source : <ref name=":4">{{Article|langue=fr|auteur1=Claude Tillet|titre=Essayons d'abord de classer nos impressions|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f1}}|accès url=libre}}.</ref>
+
 D'un de nos envoyés spéciaux Claude TILLET
 
 PAU. — Essayons d'abord de classer nos impressions et de dégager les enseignements de cette curieuse journée.
@@ -73,12 +81,16 @@ Les « orthodoxes » et les « mécréants » dont nous parlions, hier, ont fait
 
 Section 8 : 
 
+Source : <ref name=":5">{{Article|langue=fr|titre=Ce qu'il leur reste à faire|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f1}}|accès url=libre}}.</ref>
+
 Ce qu'il leur reste à faire
 6 étapes et 1.344 kilomètres
 
 -----
 
 Section 9 : 
+
+Source : <ref name=":6">{{Article|langue=fr|titre=Classement de la 15e étape Luchon-Pau|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT
 de la 15e étape
@@ -107,6 +119,8 @@ Abandons: Callens, Idée.
 
 Section 10 : 
 
+Source : <ref name=":7">{{Article|langue=fr|titre=Deux adversaires se retrouvent|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f1}}|accès url=libre}}.</ref>
+
 DEUX ADVERSAIRES SE RETROUVENT
 PAU. — Après avoir longtemps couru aux côtés de Vietto, Fachleitner s'est envolé mais il a été stoppé par un accident mécanique. Qu'importe, reprenant de plus belle il réussit à rejoindre Brambilla (ici en tête) au bas du Tourmalet, dans un style magnifique et défi, se dresse sur les pédales pour assurer le contact.
 (Bélinogramme spécial L'EQUIPE)
@@ -114,6 +128,8 @@ PAU. — Après avoir longtemps couru aux côtés de Vietto, Fachleitner s'est e
 -----
 
 Section 17 : 
+
+Source : <ref name=":8">{{Article|langue=fr|titre=L'Italien Brambilla, sacré roi de la montagne pour 1947|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
 
 EN VOYAGE PORTEZ UN "VALENTIN"
 VÊTEMENTS IMPERMÉABLES
@@ -134,6 +150,8 @@ Et maintenant, place aux étapes de plat!
 -----
 
 Section 18 : 
+
+Source : <ref name=":9">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Curieuse étape de synthèse|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
 
 CURIEUSE ÉTAPE DE SYNTHÈSE
 (Suite de l'article de Jacques GODDET)
@@ -174,6 +192,8 @@ Il est probable que le ciel a décidé que ce Tour n'était pas le sien. Sorti e
 
 Section 19 : 
 
+Source : <ref name=":10">{{Article|langue=fr|titre=Quand Robic joue les grands|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
+
 Quand Robic joue les grands
 
 J'ai cru, à Grenoble, que Robic gagnerait le Tour. Je crois, ce soir, qu'il le gagnera. Ce coureur n'avait pas d'équipe : sa fougueuse personnalité l'a affranchi de toutes comparaisons et de toutes critiques tactiques. Il était ce que nous souhaitions, le Tournoi d'abord, un homme libre. Il ne faiblit jamais, terminant en trombe, puisqu'il reprit plus de 2 minutes de retard au Tourmalet, à l'entrée de la vallée, des réputations étonnamment rassemblées pour la finale et s'accordant intelligemment pour ne pas laisser trop de champ à un gaillard qui, après tout, pouvait devenir vraiment gênant au classement général.
@@ -186,6 +206,8 @@ La lutte exceptionnelle entre les « cinq grands » préparera au point qu'il fa
 
 Section 20 : 
 
+Source : <ref name=":11">{{Article|langue=fr|auteur1=Claude Tillet|titre=Suite de l'article de Claude Tillet|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
+
 (Suite de l'article de Claude TILLET)
 
 3 Le Breton Robic est un grand coureur. Il l'avait déjà prouvé à Briançon et à Monaco; il en est à sa deuxième étape après en avoir disputé trois en galbe, s'il a remporté, sur le fil, l'étape de Luchon. Aujourd'hui, il a réussi un travail exceptionnel. Il a gravi Peyresourde à une demi-minute du premier, s'est retrouvé à une trentaine de secondes au Tourmalet et a passé premier à l'Aubisque et au Soulor. Il enlève une victoire éclatante, avec trois - en galbe - victoires d'étapes. S'il n'avait pas perdu quarante-trois secondes, après être passé premier au sommet de chaque col, et en reprenant, bonifications comprises, environ quatorze minutes, ce soir, ce qui l'amène à la cinquième place du classement général, à huit minutes huit secondes seulement de Brambilla, alors que, nous l'avions indiqué, il y avait une partie d'amateurs à parier qu'il ne finirait jamais l'étape ! Les gens d'un « cinq grands », il a gagné cette partie !
@@ -195,6 +217,8 @@ Section 20 :
 -----
 
 Section 21 : 
+
+Source : <ref name=":12">{{Article|langue=fr|titre=Robic bat le record de l'étape Luchon-Pau|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
 
 Robic bat le record de l'étape Luchon-Pau
 
@@ -209,6 +233,8 @@ Peyresourde il passait troisième à Aspin, réapparaissait à la quatrième pla
 
 Section 22 : 
 
+Source : <ref name=":13">{{Article|langue=fr|titre=L'extraordinaire René|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
+
 L'extraordinaire René
 
 « C'est pour moi aujourd'hui », nous répondait sourdement Robic alors qu'il attaquait l'Aubisque en solitaire. Oui, c'était bien le jour de René, mais il le doit tout entier à son extraordinaire ténacité, sans laquelle il n'eût jamais trouvé dans l'impitoyable toboggan pyrénéen les ressources pour franchir en force les cols l'un après l'autre. La première contre-attaque de Vietto, partie au sommet d'Aspin, semblait devoir être fatale pour Robic, puis le Tourmalet semblait devoir lui être défavorable, mais il se cramponnait au groupe des favoris. Cette persévérance devait être récompensée à l'Aubisque et au Soulor : franchissant les pourcentages les plus rudes sans fléchir, il s'envolait vers Pau. René avait bien joué, il avait battu le record de l'étape et remporté sa troisième victoire d'étape dans ce Tour.
@@ -216,6 +242,8 @@ L'extraordinaire René
 -----
 
 Section 23 : 
+
+Source : <ref name=":14">{{Article|langue=fr|titre=Le cas Fachleitner|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
 
 Le cas Fachleitner
 
@@ -225,6 +253,8 @@ Le public remportait aujourd'hui par le Cannois un vif succès et s'étonnait qu
 
 Section 24 : 
 
+Source : <ref name=":15">{{Article|langue=fr|titre=Un homme et deux équipes|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
+
 Un homme et deux équipes
 
 Deux équipes sont sorties singulièrement diminuées de cette journée : les Italiens, qui ont perdu Ronconi, et les Français, qui ont vu Fachleitner sacrifier ses chances pour sauver Vietto. Brambilla est désormais le patron de la course, mais l'équipe de France a prouvé qu'elle avait deux hommes de valeur capables de renverser la situation dans les étapes de plat qui s'annoncent.
@@ -232,6 +262,8 @@ Deux équipes sont sorties singulièrement diminuées de cette journée : les It
 -----
 
 Section 25 : 
+
+Source : <ref name=":16">{{Article|langue=fr|titre=Combien reviendront-ils ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
 
 Combien reviendront-ils?
 
@@ -241,6 +273,8 @@ Et savez-vous combien ils sont revenus, ce soir, de cette rude étape de 195 kil
 
 Section 27 : 
 
+Source : <ref name=":17">{{Article|langue=fr|titre=Vietto n'est pas surpris|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
+
 VIETTO N'EST PAS SURPRIS
 
 PAU. — René Vietto était assis sur sa couchette après l'étape : « Je ne suis pas surpris du résultat, dit-il. Brambilla marchait très fort et j'ai fait ce que j'ai pu. La course n'est pas finie et les étapes de plat vont commencer. J'attends mon heure. »
@@ -249,6 +283,8 @@ PAU. — René Vietto était assis sur sa couchette après l'étape : « Je ne s
 
 Section 28 : 
 
+Source : <ref name=":18">{{Article|langue=fr|titre=« Je ne croyais pas partir comme cela »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
+
 « Je ne croyais pas partir comme cela »
 
 PAU. — « Je ne pensais pas faire une échappée pareille, déclarait Robic à l'arrivée. Quand j'ai vu que personne ne réagissait à l'Aubisque, j'ai continué sur ma lancée. Les jambes tournaient bien, la chance était avec moi et voilà ! »
@@ -256,6 +292,8 @@ PAU. — « Je ne pensais pas faire une échappée pareille, déclarait Robic à
 -----
 
 Section 30 : 
+
+Source : <ref name=":19">{{Article|langue=fr|auteur1=A. de Wetter|titre=Robic a tenu sa promesse|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
 
 ROBIC A TENU SA PROMESSE
 D'un de nos envoyés spéciaux A. de WETTER
@@ -270,6 +308,8 @@ Au Tourmalet, les écarts se creusent. Robic et Brambilla accentuent leur avance
 -----
 
 Section 31 : 
+
+Source : <ref name=":20">{{Article|langue=fr|titre=Parti à fond dès Peyresourde, Robic n'a cessé d'augmenter son avance|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
 
 PARTI A FOND DES PEYRESOURDE, ROBIC N'A CESSE D'AUGMENTER SON AVANCE
 
@@ -344,6 +384,8 @@ PAU (210 m.) (195 km.)
 
 Section 32 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
+
 Ceux qui restent qualifiés
 
 BELGES
@@ -403,6 +445,8 @@ CENTRE-SUD-OUEST
 -----
 
 Section 33 : 
+
+Source : <ref name=":22">{{Article|langue=fr|titre=Classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -464,6 +508,8 @@ L'Italien Brambilla remporte le Premier Prix du Meilleur Grimpeur
 
 Section 34 : 
 
+Source : <ref name=":23">{{Article|langue=fr|titre=Aujourd'hui, seizième étape Pau-Bordeaux|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
+
 AUJOURD'HUI, SEIZIEME ÉTAPE
 PAU-BORDEAUX
 (195 km.)
@@ -495,6 +541,8 @@ BORDEAUX (Vélodrome) 16 h. 30
 
 Section 35 : 
 
+Source : <ref name=":24">{{Article|langue=fr|titre=Demain, dix-septième étape Bordeaux-Les Sables-d'Olonne|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f2}}|accès url=libre}}.</ref>
+
 DEMAIN, DIX-SEPTIEME ÉTAPE
 BORDEAUX-LES SABLES-D'OLONNE
 (272 km.)
@@ -524,6 +572,8 @@ LES SABLES-D'OLONNE 18 h. 10
 -----
 
 Section 59 : 
+
+Source : <ref name=":25">{{Article|langue=fr|auteur1=André Costes|titre=Le verdict des Pyrénées n'est pas sans appel|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
 
 AVIRON
 LA BASSE-SEINE
@@ -581,6 +631,8 @@ Faut-il dire que le plus grand enthousiasme régnait à l'hôtel de l'équipe de
 
 Section 60 : 
 
+Source : <ref name=":26">{{Article|langue=fr|titre=Robic leader des vainqueurs d'étapes|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
+
 Robic leader des vainqueurs d'étapes
 
 ROBIC :
@@ -618,6 +670,8 @@ Et le vainqueur d'étape, « maître chez lui », qui réussit si bien à Saint-
 
 Section 61 : 
 
+Source : <ref name=":27">{{Article|langue=fr|auteur1=Dante Gianello|titre=Le coup est joué !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
+
 UN CHAMPION ECRIT...
 
 "Le coup est joué!"
@@ -641,6 +695,8 @@ Et, tout en restant grand dans toutes ses manières, il est encore plus grand da
 
 Section 62 : 
 
+Source : <ref name=":28">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=Le point de vue de Belge|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
+
 LE POINT DE VUE DE BELGE
 
 Le poing serré, la course aux dents... DE BLEGE ET L'ESCADRON NOIR
@@ -663,6 +719,8 @@ Florent Mathieu, la malchance et l'accabla toute la journée, est désespéré.
 
 Section 63 : 
 
+Source : <ref name=":29">{{Article|langue=fr|titre=L'état de Callens n'inspire aucune inquiétude|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
+
 L'état de Callens n'inspire aucune inquiétude
 
 Il rentrera en Belgique aujourd'hui
@@ -680,6 +738,8 @@ Goldschmit, qui a participé au Tour de France cycliste 1947, a comparé les Alp
 
 Section 64 : 
 
+Source : <ref name=":30">{{Article|langue=fr|titre=L'ambition de Ronconi : terminer dans les trois premiers !|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
+
 L'ambition de Ronconi: terminer dans les trois premiers!
 
 PAU. — « Partis dans la dernière étape pyrénéenne, Ronconi, dont les dons de grimpeur sont supérieurs à ses qualités de rouleur, se doute bien qu'il aura difficile à pouvoir lui reprendre le maillot jaune.
@@ -691,6 +751,8 @@ Il a également démenti les déclarations pour le Tour 1948 ne l'intéressait p
 -----
 
 Section 65 : 
+
+Source : <ref name=":31">{{Article|langue=fr|auteur1=Guido Giardini|titre=Confirmation : le Tour sera gagné à Saint-Brieuc|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
 
 LE POINT DE VUE ITALIEN
 
@@ -712,6 +774,8 @@ Je serais injuste si je terminais mes impressions par deux mots pour Robic, le v
 -----
 
 Section 66 : 
+
+Source : <ref name=":32">{{Article|langue=fr|auteur1=Marcel Hansenne|titre=Tous jours Tours dans mon sac|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
 
 TOUS JOURS TOURS DANS MON SAC
 
@@ -779,6 +843,8 @@ Ce Robic, il fallait tout de même qu'il fût sûr de lui...
 
 Section 67 : 
 
+Source : <ref name=":33">{{Article|langue=fr|titre=Remarques d'un jour à l'autre|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
+
 REMARQUES D'UN JOUR A L'AUTRE
 D'un de nos envoyés spéciaux
 
@@ -805,6 +871,8 @@ Pour tout dire, je suis fort aise d'être un coureur à pied.
 
 Section 68 : 
 
+Source : <ref name=":34">{{Article|langue=fr|titre=Les « pays » sont venus applaudir Robic au sommet de l'Aubisque|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
+
 Les « pays » sont venus applaudir Robic au sommet de l'Aubisque
 
 PAU. — Fidèles à leur promesse, comme chaque jour, les Bretons, venus dans leur pittoresque costume régional, ont fait escorte hier au sommet de l'Aubisque.
@@ -815,6 +883,8 @@ Et leur fierté est grande d'avoir vu leur champion glorifier leur devise par un
 
 Section 69 : 
 
+Source : <ref name=":35">{{Article|langue=fr|auteur1=A. de Wetter|titre=Fachleitner a mérité la prime du plus malchanceux|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
+
 FACHLEITNER A MERITE LA PRIME DU PLUS MALCHANCEUX
 
 PAU. — Si le jeune Belge Callens a été la victime de la journée, on ne peut en dire autant de Fachleitner. En effet, qu'à défaut du maillot jaune, il méritait la prime de la malchance. Il faut en convenir, sans l'avoir privé d'une place de premier choix, il a bien été le plus malchanceux au sommet de l'Aubisque. Il devait passer devant à Pau sans une seconde crevaison.
@@ -824,6 +894,8 @@ Il est donc normal que ce soit lui qui reçoive la prime spéciale de 5.000 fran
 -----
 
 Section 70 : 
+
+Source : <ref name=":36">{{Article|langue=fr|titre=Profits et pertes d'une étape à l'autre|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
 
 Profits et pertes d'une étape à l'autre
 
@@ -840,6 +912,8 @@ Gegan : Places gagn. : - / perd. : 1
 -----
 
 Section 71 : 
+
+Source : <ref name=":37">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Sans sa crevaison de Briançon-Digne Robic devrait avoir le maillot jaune|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
 
 "SANS SA CREVAISON DE BRIANÇON-DIGNE Robic devrait avoir le maillot jaune"
 
@@ -876,6 +950,8 @@ Comment ne pas croire, après cette question qui, après sa troisième victoire 
 
 Section 72 : 
 
+Source : <ref name=":38">{{Article|langue=fr|auteur1=Géo Lefèvre|titre=1903-1947 "Ma santé sera d'un grand secours"|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
+
 1903-1947 "Ma santé sera d'un grand secours"
 
 (D'un de nos envoyés spéciaux Géo LEFEVRE)
@@ -897,6 +973,8 @@ Aujourd'hui, c'est la splendeur des grands cols, le public enthousiaste massé a
 -----
 
 Section 73 : 
+
+Source : <ref name=":39">{{Article|langue=fr|auteur1=Paul Guitard|titre=L'oiseau blessé|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=14 juillet 1947|lire en ligne={{Gallica|id=bd6t5994859/f4}}|accès url=libre}}.</ref>
 
 LE FAIT HUMAIN
 

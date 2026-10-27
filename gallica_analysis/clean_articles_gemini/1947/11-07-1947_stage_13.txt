@@ -2,6 +2,8 @@
 
 Section 3 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=34e Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f1}}|accès url=libre}}.</ref>
+
 34e Tour de France
 4.640 KM.
 25 JUIN - 20 JUILLET
@@ -14,6 +16,8 @@ L'EQUIPE - Le Parisien libéré
 -----
 
 Section 4 : 
+
+Source : <ref name=":2">{{Article|langue=fr|titre=Lucien Teisseire, formidable de puissance et de maîtrise bat Callens, Impanis et Schotte|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f1}}|accès url=libre}}.</ref>
 
 Trois Belges et un Français, vainqueurs du vent et de la distance, disputent le sprint :
 
@@ -28,6 +32,8 @@ Vietto, en difficulté dans le col d'Alaric, revint très bien
 -----
 
 Section 5 : 
+
+Source : <ref name=":3">{{Article|langue=fr|titre=Classement de la 13e étape Montpellier-Carcassonne|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT
 de la 13e étape
@@ -59,6 +65,8 @@ Ce qu'il leur reste à faire
 
 Section 6 : 
 
+Source : <ref name=":4">{{Article|langue=fr|auteur1=Claude Tillet|titre=Aujourd'hui, dans Carcassonne-Luchon, premier contact avec les Pyrénées et escalade des cols de Port et de Portet d'Aspet !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f1}}|accès url=libre}}.</ref>
+
 Aujourd'hui, dans Carcassonne-Luchon, premier contact avec les Pyrénées et escalade des cols de Port et de Portet d'Aspet !
 
 D'un de nos envoyés spéciaux Claude TILLET.
@@ -71,6 +79,8 @@ CARCASSONNE. — Il est visible à l'œil nu que Karel Steyaert veut à tout pri
 
 Section 7 : 
 
+Source : <ref name=":5">{{Article|langue=fr|titre=Ne poussez pas !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f1}}|accès url=libre}}.</ref>
+
 NE POUSSEZ PAS !
 Sportifs ! Quand vous verrez, dans les grands cols, un coureur en difficulté, NE LE POUSSEZ PAS !
 Le règlement le défend et, en lui procurant une aide passagère non importante, vous lui portez un préjudice considérable.
@@ -80,6 +90,8 @@ Qu'il sollicite ou non cette poussette, des amendes et des pénalisations sévè
 
 Section 8 : 
 
+Source : <ref name=":6">{{Article|langue=fr|titre=Du beau Teisseire...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f1}}|accès url=libre}}.</ref>
+
 Du beau Teisseire...
 CARCASSONNE. — Teisseire et Schotte se sont enfuis peu avant le « col » d'Alaric. Lucien, en tête, mène les mains en haut du guidon, donnant une belle impression de puissance. Il passera au sommet précédant le Belge d'une longueur. Vaincre au sprint à Carcassonne, après une telle partie de manivelles, est bien digne d'un « grand » Teisseire.
 (Bélinogramme spécial L'EQUIPE)
@@ -88,6 +100,8 @@ CARCASSONNE. — Teisseire et Schotte se sont enfuis peu avant le « col » d'Al
 
 Section 9 : 
 
+Source : <ref name=":7">{{Article|langue=fr|titre=A l'« Internation » remontée belge et française|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f1}}|accès url=libre}}.</ref>
+
 A l' « Internation » remontée belge et française
 La première place de Teisseire vaut à la France de n'être plus qu'à 15' 42" de l'Italie.
 Les Belges, eux, ont gagné 37'52" sur l'équipe de l'Ouest, qui les précède encore de 1 h. 22' 59".
@@ -95,6 +109,8 @@ Les Belges, eux, ont gagné 37'52" sur l'équipe de l'Ouest, qui les précède e
 -----
 
 Section 10 : 
+
+Source : <ref name=":8">{{Article|langue=fr|auteur1=Jacques Goddet|titre=L'Alaric, thermomètre des Pyrénées|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f1}}|accès url=libre}}.</ref>
 
 LES FAITS ET LES HOMMES
 
@@ -120,6 +136,8 @@ Ce sont les Belges qui ont dessiné l'étape, qui lui ont donné sa forme et sa 
 
 Section 11 : 
 
+Source : <ref name=":9">{{Article|langue=fr|titre=En pleine action...|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f1}}|accès url=libre}}.</ref>
+
 EN PLEINE ACTION... CARCASSONNE. — La plus sérieuse difficulté du parcours de l'étape Montpellier-Carcassonne, le col d'Alaric a provoqué une décision sérieuse. Teisseire le sait et il emmène à fond les rescapés de l'échappée, Schotte (dans sa roue) et Callens vers l'arrivée, ne se doutant pas encore que le petit Impanis réussira à recoller au « train » lancé à toutes pédales.
 (Bélinogramme spécial L'EQUIPE)
 
@@ -127,12 +145,16 @@ EN PLEINE ACTION... CARCASSONNE. — La plus sérieuse difficulté du parcours d
 
 Section 12 : 
 
+Source : <ref name=":10">{{Article|langue=fr|titre=Il était temps !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f1}}|accès url=libre}}.</ref>
+
 IL ÉTAIT TEMPS ! CARCASSONNE. — On ne peut pas dire que Teisseire ait enlevé cette étape avec aisance. Callens (à droite) a failli, de peu, lui « souffler » la victoire et notre champion dut se dresser sur les pédales pour arracher la décision ; cependant qu'Impanis (à l'extrême gauche) et Schotte, à ses côtés, semblent se désintéresser de cette sérieuse explication.
 (Bélinogramme spécial L'EQUIPE)
 
 -----
 
 Section 18 : 
+
+Source : <ref name=":11">{{Article|langue=fr|titre=Grâce à Teisseire, sixième victoire des tricolores de Léo Véron|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 Tour de France
 Ils triompheront des intempéries grâce à leur imperméable
@@ -151,6 +173,8 @@ L'Alaric, thermomètre des Pyrénées - Encore une belle course de Massal - Laza
 
 Section 19 : 
 
+Source : <ref name=":12">{{Article|langue=fr|auteur1=Jacques Goddet|titre=L'Alaric, thermomètre des Pyrénées|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 L'Alaric, thermomètre des Pyrénées
 (Suite de l'article de Jacques GODDET)
 
@@ -163,6 +187,8 @@ Naturellement que le succès de la course servis Teisseire qui n'eut pas à mene
 -----
 
 Section 20 : 
+
+Source : <ref name=":13">{{Article|langue=fr|titre=Vietto au pied de son calvaire|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 Vietto au pied de son calvaire
 
@@ -182,6 +208,8 @@ Ne dramatisons pas, car cette remontée que Vietto ne parvint pas à rétablir e
 
 Section 21 : 
 
+Source : <ref name=":14">{{Article|langue=fr|titre=« Fach » en pleine forme aura-t-il sa liberté ?|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 « Fach » en pleine forme aura-t-il sa liberté ?
 
 Le cas Vietto se complique plutôt de la tactique à choisir en fonction du brillant état dans lequel se trouve le second Français. Car Fachleitner, le repartie, prendra maintenant une forme affûtée par le kilométrage. Est-ce sa rentrée en scène ? Mais on le sent, tout d'un coup, ce garçon un peu pusillanime bardé d'une volonté de fer. Tantôt, sur l'Alaric, il se contenta de neutraliser Brambilla, mais comme celui-ci s'était mis en taureau et que, voyant jaune, il fonçait imprudemment, nous pouvons vous assurer que la belle tranquillité avec laquelle Fachleitner opérait pour le suivre, absorbant tous les chocs, était encore plus appréciable que la virulence de l'attaque. Un peu plus tôt, traversant Béziers, il se retrouva sur le macadam à côté de son vélo brisé. Reparti sur une machine de secours d'une taille incompatible avec celle de Vietto, il négligea l'idée d'aide que Véron avait judicieusement fait attendre et celle de Tassin et Le Strat qui l'accompagnaient.
@@ -195,6 +223,8 @@ La bataille va s'engager inévitablement et de telle sorte que Fachleitner sera 
 -----
 
 Section 22 : 
+
+Source : <ref name=":15">{{Article|langue=fr|titre=Au passage du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 Au passage du Tour
 
@@ -218,6 +248,8 @@ O.C.D. ROUGE FRANÇAISE.
 
 Section 23 : 
 
+Source : <ref name=":16">{{Article|langue=fr|titre=L'officiel du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 L'officiel du Tour
 
 COURRIER. — Distribution de l'enveloppe de la façon suivante: M. X..., Poste Restante à Luchon (mettre le jour de l'étape et le numéro de l'étape).
@@ -233,6 +265,8 @@ Signé, les commissaires: Bodart, Jayet, Ambroisat.
 -----
 
 Section 24 : 
+
+Source : <ref name=":17">{{Article|langue=fr|auteur1=Claude Tillet|titre=Encore une belle course de Massal - Lazaridès, blessé, très attardé|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 Encore une belle course de Massal - Lazaridès, blessé, très attardé
 (Suite de l'article de Claude TILLET)
@@ -294,6 +328,8 @@ Mais abandonnons les vainqueurs, si brillants soient leurs faits d'arme qui term
 
 Section 25 : 
 
+Source : <ref name=":18">{{Article|langue=fr|titre=Attention ! aujourd'hui départ de Carcassonne à 7 heures|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 Attention ! aujourd'hui départ de Carcassonne à 7 heures
 
 Le départ de la 14e étape: Carcassonne-Luchon aura lieu en définitive à 7 heures.
@@ -318,6 +354,8 @@ Le col des Ares, aux abords de la sortie, n'est pas un juge de paix redoutable. 
 
 Section 26 : 
 
+Source : <ref name=":19">{{Article|langue=fr|titre=Il y a quarante ans...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 Il y a quarante ans...
 
 Le Tour 1907 comptait 112 engagés... 35 coureurs seulement réussirent à l'arrivée... Vous trouverez ci-après et la place de classement de ces 35. Le Tour, c'est le LIVRE D'OR DU TOUR DE FRANCE, 275 p. format 18x23, soit 60 fr., à « L'Equipe », Envoi franco contre timbres.
@@ -325,6 +363,8 @@ Le Tour 1907 comptait 112 engagés... 35 coureurs seulement réussirent à l'arr
 -----
 
 Section 27 : 
+
+Source : <ref name=":20">{{Article|langue=fr|auteur1=A. de Wetter|titre=Teisseire comme Fachleitner pour la seconde fois|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 TEISSEIRE COMME FACHLEITNER POUR LA SECONDE FOIS
 D'un de nos envoyés spéciaux A. de WETTER
@@ -369,6 +409,8 @@ Tarchini et Latorre arrivent ensuite, suivis de Lucas qui s'est détaché in ext
 
 Section 28 : 
 
+Source : <ref name=":21">{{Article|langue=fr|titre=Les passages en haut de l'Alaric|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 Les passages en haut de l'Alaric
 
 1. Teisseire .......... 1 long.
@@ -385,6 +427,8 @@ Les passages en haut de l'Alaric
 -----
 
 Section 29 : 
+
+Source : <ref name=":22">{{Article|langue=fr|titre=Raccourcis remarques d'un jour à l'autre|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 RACCOURCIS REMARQUES D'UN JOUR A L'AUTRE
 
@@ -411,6 +455,8 @@ Autre coureur à citer au même titre que Tarchini: le courageux Audier.
 -----
 
 Section 30 : 
+
+Source : <ref name=":23">{{Article|langue=fr|titre=Aujourd'hui Carcassonne - Luchon|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 AUJOURD'HUI
 CARCASSONNE - LUCHON
@@ -447,6 +493,8 @@ Demain, repos à Luchon
 -----
 
 Section 31 : 
+
+Source : <ref name=":24">{{Article|langue=fr|titre=Classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
@@ -533,6 +581,8 @@ A combien ils sont du leader
 
 Section 32 : 
 
+Source : <ref name=":25">{{Article|langue=fr|titre=Classement du Challenge international|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 Classement du Challenge international
 (Par addition des temps des trois premiers de chaque équipe)
 
@@ -550,6 +600,8 @@ Classement du Challenge international
 -----
 
 Section 33 : 
+
+Source : <ref name=":26">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 CEUX QUI RESTENT QUALIFIÉS
 
@@ -577,6 +629,8 @@ SUD-EST (maillot vert, bande tricolore blanche, casquette violette, étiquette b
 
 Section 34 : 
 
+Source : <ref name=":27">{{Article|langue=fr|titre=L'équipe de France a gagné 6 étapes sur 13|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 L'équipe de France a gagné 6 étapes sur 13
 
 Depuis le début du Tour et en comptant la victoire d'hier remportée par Teisseire :
@@ -591,6 +645,8 @@ Il est à noter que jusqu'à ce jour, les Etrangers de France se sont adjugé 4 
 
 Section 35 : 
 
+Source : <ref name=":28">{{Article|langue=fr|titre=Les administrateurs du « Parisien libéré » et du « Midi libre » sur le Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 Les administrateurs du « Parisien Libéré » et du « Midi Libre » sur le Tour
 
 CARCASSONNE. — M. Claude Bellanger, directeur du « Parisien Libéré », s'est joint hier à la caravane du Tour. M. Claude Bellanger, qu'accompagnait M. Christian Chambure, administrateur du « Parisien Libéré », avait tenu à suivre la course afin de juger sur place de l'organisation générale de la gigantesque épreuve et de se rendre compte des possibilités que pouvait présenter l'itinéraire de notre grand Tour.
@@ -603,6 +659,8 @@ Une énorme limpide, qui permet aux organisateurs de régler la circulation, a �
 
 Section 36 : 
 
+Source : <ref name=":29">{{Article|langue=fr|titre=Classement par points|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 Classement par points
 (Coupe des Cachous Gallus)
 
@@ -612,6 +670,8 @@ Classement par points
 
 Section 37 : 
 
+Source : <ref name=":30">{{Article|langue=fr|titre=Le ravitaillement des Bretons|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 LE RAVITAILLEMENT DES BRETONS
 Pierre Cloarec (au centre), directeur sportif de l'équipe d'Ouest, vient chercher le ravitaillement de ses hommes et reçoit le pain... et les cachous Gallus, des mains de Louis Aimai, l'ancien champion de poursuite.
 (Transmis par Belinogramme)
@@ -619,6 +679,8 @@ Pierre Cloarec (au centre), directeur sportif de l'équipe d'Ouest, vient cherch
 -----
 
 Section 38 : 
+
+Source : <ref name=":31">{{Article|langue=fr|auteur1=René Moyset|titre=Les trois « L » : Lucas, Lévêque et Latorre se sont distingués dans la 13e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 LES TROIS « L » : LUCAS, LEVEQUE ET LATORRE SE SONT DISTINGUES DANS LA 13e ETAPE
 De notre envoyé spécial René MOYSET
@@ -647,6 +709,8 @@ Parmi tous les sportifs, les membres de l'équipe publicitaire de « L'Equipe »
 
 Section 39 : 
 
+Source : <ref name=":32">{{Article|langue=fr|titre=Fautrier n'a pas dit le secret|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 FAUTRIER N'A PAS DIT LE SECRET
 
 Le Marseillais Fautrier a déclaré forfait, ce matin, au départ de la 13e étape. « C'est dommage, nous a-t-il dit, mais ma jambe ne répond plus, la souffrance m'empêche de continuer et les ennuis mécaniques s'accumulent tellement que je préfère m'en aller plutôt que de faire souffrir mes camarades. »
@@ -662,6 +726,8 @@ Rien ne va pour les Bretons. Cogan a fait une nouvelle chute hier, heurté par u
 
 Section 40 : 
 
+Source : <ref name=":33">{{Article|langue=fr|titre=« Dans quelques minutes un peloton... »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 « Dans quelques minutes un peloton... »
 (D'un de nos envoyés spéciaux)
 
@@ -674,6 +740,8 @@ Ainsi, grâce à Kléber-Colombes, le public est prévenu des péripéties de la
 -----
 
 Section 41 : 
+
+Source : <ref name=":34">{{Article|langue=fr|titre=Le trophée de « L'Humanité » récompensera le meilleur grimpeur du Tour 1947|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 Le Trophée de « L'Humanité » récompensera le meilleur grimpeur du Tour 1947
 
@@ -696,6 +764,8 @@ Au classement général, après le passage sur les seize cols, une prime de 125.
 
 Section 42 : 
 
+Source : <ref name=":35">{{Article|langue=fr|titre=Les bonifications|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 LES BONIFICATIONS
 
 En haut des cols
@@ -710,7 +780,24 @@ Lazaridès, leader au pied des Pyrénées
 
 -----
 
+Section 44 : 
+
+Source : <ref name=":36">{{Article|langue=fr|titre=René Vietto utilise les boyaux France-Sport|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
+RENE VIETTO
+utilise les boyaux
+FRANCE-SPORT
+EST AUSSI CELUI
+DES TUBES FRANÇAIS
+DUR-FORT
+Ateliers de la Rive
+UNIEUX (Loire)
+
+-----
+
 Section 46 : 
+
+Source : <ref name=":37">{{Article|langue=fr|titre=Sportifs ! les chronomètres-chronographes Longines|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 Sportifs ! les chronomètres-chronographes
 LONGINES
@@ -721,6 +808,8 @@ du Tour de France cycliste
 -----
 
 Section 49 : 
+
+Source : <ref name=":38">{{Article|langue=fr|titre=Pendant le Tour l'avion de Décollage|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 PENDANT LE TOUR L'AVION DE
 DECOLLAGE
@@ -737,6 +826,8 @@ LUCHON (aérod. Tarbes-Ossun-Lourdes)
 -----
 
 Section 52 : 
+
+Source : <ref name=":39">{{Article|langue=fr|titre=50.000 frs offerts par les montres françaises Judex|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
 
 50.000 frs
 offerts par les
@@ -760,6 +851,8 @@ JUDEX 1947
 
 Section 54 : 
 
+Source : <ref name=":40">{{Article|langue=fr|titre=René Vietto le champion des champions qui ne s'arrête jamais de fumer...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f2}}|accès url=libre}}.</ref>
+
 RENE VIETTO
 Le champion des champions
 qui ne s'arrête jamais
@@ -771,6 +864,8 @@ S.E.I.T.A.
 -----
 
 Section 56 : 
+
+Source : <ref name=":41">{{Article|langue=fr|titre=Vélo-rumeurs|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f3}}|accès url=libre}}.</ref>
 
 Bonne Nuit!...
 forme parfaite...
@@ -798,6 +893,8 @@ POURSUITE : Godwin, Marriner.
 -----
 
 Section 104 : 
+
+Source : <ref name=":42">{{Article|langue=fr|auteur1=André Costes|titre=René Vietto sacrifierait son maillot jaune pour assurer la victoire française ?|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
 
 RENE VIETTO sacrifierait son maillot jaune pour assurer la victoire française ?
 
@@ -831,6 +928,8 @@ Tout cela est verdict définitif et sans doute décisif ne doive être connu que
 
 Section 105 : 
 
+Source : <ref name=":43">{{Article|langue=fr|auteur1=Dante Gianello|titre=Course sans histoire ?...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
+
 UN CHAMPION ECRIT...
 COURSE SANS HISTOIRE ?...
 par Dante GIANELLO
@@ -859,6 +958,8 @@ N'oubliez pas que Teisseire est un grand costaud. Il le prouve à chacun de ses 
 
 Section 106 : 
 
+Source : <ref name=":44">{{Article|langue=fr|titre=Les Belges vont continuer à attaquer sans relâche|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
+
 LES BELGES VONT CONTINUER à attaquer sans relâche
 ...mais Callens et Impanis ne seront « lâchés » que dans le Portet d'Aspet
 
@@ -876,6 +977,8 @@ C'est un beau rêve auquel la journée de demain apportera sans doute un dément
 
 Section 107 : 
 
+Source : <ref name=":45">{{Article|langue=fr|auteur1=Albert de Wetter|titre=« C'est leur amitié réciproque qui peut séparer Vietto et Fachleitner » pense Léo Véron|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
+
 « C'est leur amitié réciproque qui peut séparer VIETTO et FACHLEITNER »
 pense Léo VERON
 D'un de nos envoyés spéciaux Albert de WETTER.
@@ -890,6 +993,8 @@ Mais alors que le peloton apparaissait, Teisseire, en compagnie de trois Belges,
 -----
 
 Section 108 : 
+
+Source : <ref name=":46">{{Article|langue=fr|auteur1=Paul Guitard|titre=Monsieur Impanis|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
 
 LE FAIT HUMAIN
 MONSIEUR IMPANIS
@@ -907,6 +1012,8 @@ Demain, on vous verra chevalier.
 -----
 
 Section 109 : 
+
+Source : <ref name=":47">{{Article|langue=fr|auteur1=Fernand Albaret|titre=Le coup du réveille-matin|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS DONS MON SAC
 Le coup du réveille-matin
@@ -954,6 +1061,8 @@ A toi, Hannent. Et bonne chance !
 
 Section 110 : 
 
+Source : <ref name=":48">{{Article|langue=fr|titre=L'envoyée spéciale de deux magazines américains sur le Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
+
 L'envoyée spéciale de deux magazines américains sur le TOUR
 L'EQUIPE publiera ses impressions
 
@@ -966,6 +1075,8 @@ Nous sommes heureux d'annoncer à nos lecteurs que l'Equipe publiera les impress
 
 Section 111 : 
 
+Source : <ref name=":49">{{Article|langue=fr|auteur1=A. de Wetter|titre=« Il m'a manqué un vrai col » se plaint Robic|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
+
 « IL M'A MANQUE UN VRAI COL » se plaint ROBIC
 
 CARCASSONNE. — Si Pierre Clovier, directeur de course de l'Equipe, refuse de se grouper pour mener la course comme un chef, Jean Robic ne semble pas de meilleure humeur. Pourtant, l'attitude passive du peloton l'a un petit coup requinqué :
@@ -975,6 +1086,8 @@ On le voit, c'est lui qui a le moins manqué de confiance en ses moyens. — A. 
 -----
 
 Section 112 : 
+
+Source : <ref name=":50">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien est aux Pyrénées|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
 
 LE POINT DE VUE ITALIEN est aux Pyrénées
 par Guido GIARDINI chef de la rubrique cycliste de la GAZZETTA DELLO SPORT
@@ -999,6 +1112,8 @@ Mots violents qui, espérons-le, resteront sans suite. Ce sera un coup... porte 
 -----
 
 Section 113 : 
+
+Source : <ref name=":51">{{Article|langue=fr|auteur1=Albert van Laethem|titre=L'Escadron noir salue en Teisseire le champion qui transforma en défaite une victoire dont on ne voulait plus douter|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
 
 Le point de vue BELGE
 L'ESCADRON NOIR SALUE EN TEISSEIRE le champion qui transforma en défaite une victoire dont on ne voulait plus douter
@@ -1028,6 +1143,8 @@ Cette victoire de Teisseire est une leçon pour nos hommes. Elle leur montre que
 
 Section 114 : 
 
+Source : <ref name=":52">{{Article|langue=fr|titre=La moyenne des étapes|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
+
 La moyenne des étapes
 1re étape — Keteleer ... 35 km. 675
 2e — Vietto ... 35 km. 701
@@ -1047,6 +1164,8 @@ La moyenne des étapes
 
 Section 115 : 
 
+Source : <ref name=":53">{{Article|langue=fr|auteur1=Georges de Seversky et Raymond Saladin|titre=Sous les ailes de l'Auster|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
+
 SOUS LES AILES DE L'AUSTER
 par nos envoyés spéciaux Georges de SEVERSKY et Raymond SALADIN
 
@@ -1059,6 +1178,8 @@ Demain, nous nous envolons vers les Pyrénées. Quand nous serons franchies, ce 
 -----
 
 Section 116 : 
+
+Source : <ref name=":54">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
 
 La radiodiffusion du « Tour »
 VENDREDI 11 JUILLET
@@ -1083,6 +1204,8 @@ CHAINE NATIONALE : 20 h. 30.
 -----
 
 Section 117 : 
+
+Source : <ref name=":55">{{Article|langue=fr|titre=Bulletin de santé|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=11 juillet 1947|lire en ligne={{Gallica|id=bd6t5994828/f4}}|accès url=libre}}.</ref>
 
 Bulletin de santé
 

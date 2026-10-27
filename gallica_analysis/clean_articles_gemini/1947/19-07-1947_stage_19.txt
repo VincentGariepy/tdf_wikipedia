@@ -2,6 +2,8 @@
 
 Section 2 : 
 
+Source : <ref name=":1">{{Article|langue=fr|titre=René Vietto « craque » contre la montre, en Bretagne|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f1}}|accès url=libre}}.</ref>
+
 34e Tour de France
 4.640 KM.
 JUIN - 20 JUILLET
@@ -30,6 +32,8 @@ Enfin la victoire belge ! Le jeune et admirable Impanis triomphe à Saint-Brieuc
 
 Section 3 : 
 
+Source : <ref name=":2">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Les faits et les hommes : les valeurs à nu|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f1}}|accès url=libre}}.</ref>
+
 LES FAITS ET LES HOMMES
 LES VALEURS A NU
 De notre Directeur Jacques GODDET
@@ -46,6 +50,8 @@ Pensait-il déjà, Vietto, à la rigueur de la sentence matinale quand il choisi
 -----
 
 Section 4 : 
+
+Source : <ref name=":3">{{Article|langue=fr|titre=Où en sont les leaders de chaque équipe|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f1}}|accès url=libre}}.</ref>
 
 Où en sont les leaders de chaque équipe
 H. m. s.
@@ -64,6 +70,8 @@ Nord-Est ... 35. Deprez ...... 3 58 36
 
 Section 5 : 
 
+Source : <ref name=":4">{{Article|langue=fr|auteur1=Claude Tillet|titre=...Et le Tour n'est pas fini !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f1}}|accès url=libre}}.</ref>
+
 ...ET LE TOUR N'EST PAS FINI !
 
 SAINT-BRIEUC. — Ironie des faits ! Au pied des Pyrénées nous doutions de Vietto, et Vietto défendit magnifiquement son maillot jaune. A Vannes, nous avions repris confiance en lui, et à Saint-Brieuc le voici nettement battu...
@@ -74,6 +82,8 @@ La victoire a définitivement échappé, aujourd'hui, à l'équipe de France. Su
 -----
 
 Section 6 : 
+
+Source : <ref name=":5">{{Article|langue=fr|titre=Classement de la 19e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f1}}|accès url=libre}}.</ref>
 
 CLASSEMENT de la 19e étape
 Vannes - Saint-Brieuc
@@ -145,12 +155,16 @@ Par décision des commissaires, aucun coureur n'est éliminé.
 
 Section 7 : 
 
+Source : <ref name=":6">{{Article|langue=fr|titre=Peu d'accidents dans cette étape contre la montre|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f1}}|accès url=libre}}.</ref>
+
 Peu d'accidents dans cette étape contre la montre
 SAINT - BRIEUC. — Les plus éprouvés furent l'Italien Cottur, qui dut changer de roue, de même que Le Strat. Deux crevaisons seulement : Gysselinck et Oresi.
 
 -----
 
 Section 8 : 
+
+Source : <ref name=":7">{{Article|langue=fr|titre=Enfin, une belle !|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f1}}|accès url=libre}}.</ref>
 
 ENFIN, UNE BELLE !
 SAINT-BRIEUC. — Les Belges peuvent pavoiser enfin. Impanis, merveilleux d'aisance, étalant toute sa classe de jeune champion et futur grand Tour de France a triomphé contre la montre avec une régularité étonnante. Les rares fois où, comme ici, dans le Mur-de-Bretagne, il se mit en danseuse, ce fut pour maintenir un train d'enfer. Première et unique victoire belge, mais quelle victoire !
@@ -160,6 +174,8 @@ SAINT-BRIEUC. — Les Belges peuvent pavoiser enfin. Impanis, merveilleux d'aisa
 
 Section 9 : 
 
+Source : <ref name=":8">{{Article|langue=fr|titre=Robic tient ses promesses|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f1}}|accès url=libre}}.</ref>
+
 ROBIC TIENT SES PROMESSES
 SAINT-BRIEUC. — Le petit Breton Robic avait promis à sa jeune épouse qu'il ferait, sur Vannes-Saint-Brieuc, une belle performance. Routier complet, très frais à l'arrivée, Robic a tenu sa promesse et, sur les routes de son pays, sa cadence s'est avérée très efficace. Les rares fois où, comme ci-dessus, il se mit en danseuse, ce fut pour arracher les derniers mètres d'une côte qui, à ses yeux, ne représentait qu'un léger obstacle à côté des grands cols.
 (Bélinogramme spécial L'EQUIPE)
@@ -168,6 +184,8 @@ SAINT-BRIEUC. — Le petit Breton Robic avait promis à sa jeune épouse qu'il f
 
 Section 10 : 
 
+Source : <ref name=":9">{{Article|langue=fr|titre=Brambilla à l'énergie|périodique=L'Équipe : Le stade, l'air, la route|pages=1|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f1}}|accès url=libre}}.</ref>
+
 BRAMBILLA A L'ENERGIE
 SAINT-BRIEUC. — L'Italo - Savoyard Brambilla a réussi là où beaucoup pensaient qu'il échouerait. Le voici, virant à toute allure, le masque tourmenté, l'énergie se lisant sur sa figure de lutteur. Prodigue d'efforts, récupérant vite, Brambilla revêt le maillot jaune et espère bien le conserver jusqu'à Paris... Ce sera dur, en deux jours, de le décramponner.
 (Bélinogramme spécial L'EQUIPE)
@@ -175,6 +193,8 @@ SAINT-BRIEUC. — L'Italo - Savoyard Brambilla a réussi là où beaucoup pensai
 -----
 
 Section 17 : 
+
+Source : <ref name=":10">{{Article|langue=fr|auteur1=Jacques Goddet|titre=Les valeurs nues|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
 
 LES VALEURS NUES
 (Suite de l'article de Jacques GODDET)
@@ -214,6 +234,8 @@ Comme, vous ne l'avez pas encore oublié, Impanis, pénétrant dans le monde inc
 -----
 
 Section 18 : 
+
+Source : <ref name=":11">{{Article|langue=fr|auteur1=Claude Tillet|titre=...Robic et Vietto ont encore leur mot à dire|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
 
 ...Robic et Vietto ont encore leur mot à dire
 (Suite de l'article de Claude TILLET)
@@ -278,11 +300,15 @@ de formidables leçons à tous les jeu-nes du Tour. Il occupe maintenant une pla
 
 Section 19 : 
 
+Source : <ref name=":12">{{Article|langue=fr|titre=Réception des organisateurs du Tour de France|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
+
 Les organisateurs du Tour de France, LE PARISIEN LIBERE et L'EQUIPE, convient coureurs, officiels, journalistes et suiveurs au Tour de France à une réception qui sera donnée, le 21 juillet, à 18 h. 30, dimanche soir, après l'ar-rivée, dans les salons du PARISIEN LIBERE, 124, rue Réaumur.
 
 -----
 
 Section 20 : 
+
+Source : <ref name=":13">{{Article|langue=fr|titre=Ceux qui restent qualifiés|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
 
 Ceux qui restent qualifiés
 
@@ -385,6 +411,8 @@ Les noms rayés sont ceux des coureurs ayant abandonné et les chiffres noirs ce
 
 Section 21 : 
 
+Source : <ref name=":14">{{Article|langue=fr|titre=Classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
+
 CLASSEMENT GÉNÉRAL
 A combien ils sont du leader
 
@@ -464,6 +492,8 @@ Classement du Challenge international
 
 Section 22 : 
 
+Source : <ref name=":15">{{Article|langue=fr|titre=L'officiel du Tour|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
+
 L'OFFICIEL DU TOUR
 
 NOTE IMPORTANTE POUR LES ENTRAINEURS SUR LE PARC DES PRINCES. — Les Journalistes et suiveurs du Tour de France sont avisés que toutes les voitures officiel-les arriveront par la rue du Comman-dant-Guilbaud, devront déposer leurs occupants à l'entrée du quartier des coureurs, et être garées suivant les indications de la police.
@@ -482,6 +512,8 @@ LES PENALITES DE LA 19e ETAPE. — Cogan (62), amende: 500 fr. (Art. 7, par. 1, 
 -----
 
 Section 23 : 
+
+Source : <ref name=":16">{{Article|langue=fr|titre=Au mur de Bretagne, Vietto avait déjà perdu son maillot jaune|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
 
 AU MUR DE BRETAGNE, VIETTO AVAIT DÉJÀ PERDU SON MAILLOT JAUNE
 
@@ -596,6 +628,8 @@ N. B. — Les noms des cinq premiers du classement général actuel sont indiqu�
 
 Section 24 : 
 
+Source : <ref name=":17">{{Article|langue=fr|auteur1=René Moyset|titre=Malgré leurs efforts, les régionaux n'ont pu modifier le classement général|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
+
 MALGRÉ LEURS EFFORTS, LES RÉGIONAUX N'ONT PU MODIFIER LE LE CLASSEMENT GÉNÉRAL
 D'un de nos envoyés spéciaux René MOYSET
 
@@ -616,15 +650,9 @@ Par équipes, d'Alancourt, Muller ont fait bonne contenance, mais Dujardin, cett
 
 -----
 
-Section 25 : 
-
-Classement par points
-(Coupe des Cachous Gallai)
-1. Robic, 290 pts; 2. Ronconi, 219 pts; 3. Brambilla, 221 pts; 4. Vietto, 227 pts; 5. Camellini, 235 points.
-
------
-
 Section 26 : 
+
+Source : <ref name=":18">{{Article|langue=fr|auteur1=René Moyset|titre=On attendait beaucoup des Bretons, notamment de Tassin|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
 
 On attendait beaucoup des Bretons, notamment de Tassin.
 « J'ai roulé sans pousser, nous dit le champion. Je fais la course en tête sans grand espoir de briller, car je vais attaquer et j'espère bien monter sur la tribune dimanche à Paris. »
@@ -638,12 +666,16 @@ Dans l'ensemble, tous les régionaux sont fiers d'avoir terminé sans trop de ma
 
 Section 27 : 
 
+Source : <ref name=":19">{{Article|langue=fr|titre=À Brambilla le brassard « Ambiance »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
+
 A Brambilla le brassard « Ambiance »
 A l'issue de la 19e étape, l'Italien Brambilla ravit à René Vietto (le brassard « Ambiance » en faveur du leader au classement général. Il a été remis au cours d'une réception au Café de la Renaissance.
 
 -----
 
 Section 28 : 
+
+Source : <ref name=":20">{{Article|langue=fr|titre=Aujourd'hui, vingtième étape : Saint-Brieuc - Caen|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
 
 AUJOURD'HUI, VINGTIÈME ÉTAPE
 SAINT-BRIEUC - CAEN
@@ -752,6 +784,8 @@ CAEN-VELODROME. — 2.000 francs offerts par le V.C. de Caen au vainqueur de l'�
 -----
 
 Section 29 : 
+
+Source : <ref name=":21">{{Article|langue=fr|titre=Demain, vingt et unième étape : Caen - Paris|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
 
 DEMAIN
 VINGT ET UNIÈME ÉTAPE
@@ -929,6 +963,8 @@ Route de Saint-Germain (Nationale 184), boulevard Saint-Antoine, boulevard du Ro
 
 Section 30 : 
 
+Source : <ref name=":22">{{Article|langue=fr|titre=La radiodiffusion du « Tour »|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
+
 La radiodiffusion du « Tour »
 
 SAMEDI 19 JUILLET
@@ -958,6 +994,8 @@ CHAINE NATIONALE : 16 h. 20, 20 h. 50.
 
 Section 31 : 
 
+Source : <ref name=":23">{{Article|langue=fr|titre=Pour assurer la régularité de la course jusqu'au bout|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
+
 Pour assurer la régularité de la course jusqu'au bout
 VANNES. — En outre, pour les premières places du classement général, la lutte restant très serrée, la fin de l'épreuve risque d'être palpitante. Aussi, pour les derniers kilomètres du Tour, les organisateurs ont pris des dispositions afin d'éviter tout incident. Des détachements de police destinés à assurer la régularité de la course opèrent.
 C'est ainsi que, pour la dernière étape, outre la police de Caen et de Paris et la gendarmerie des trois départements de Seine-et-Oise, Seine-et-Marne et Seine, un important service a été mis sur pied. Des renforts de police de Paris et de Seine-et-Oise seront en place dès 14 heures. Des barrages de police sont prévus et les accès au Parc des Princes seront sévèrement gardés.
@@ -967,6 +1005,8 @@ La bataille pour le Tour 47 doit être une bataille loyale jusqu'au bout.
 
 Section 32 : 
 
+Source : <ref name=":24">{{Article|langue=fr|titre=Le tabac est en vente libre...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
+
 LE TABAC EST EN VENTE LIBRE...
 Tous les fumeurs sont satisfaits, mais les porteurs du « Tour de France » le sont bien davantage, car ils ont vu réapparaître les petites boîtes CHALURET qui sont distribuées tout au long du Tour, avec un numéro de « L'EQUIPE ».
 Bien que sous le nom de CHALURET, Le Ruban peau Guidon CHALMEN, Le Dérailleur 93, peuvent être mises en vente en quantité suffisamment importante pour donner satisfaction à tous ceux qui leur ont fait confiance depuis de longues années, en un mot à tous les connaisseurs.
@@ -974,6 +1014,8 @@ Bien que sous le nom de CHALURET, Le Ruban peau Guidon CHALMEN, Le Dérailleur 9
 -----
 
 Section 33 : 
+
+Source : <ref name=":25">{{Article|langue=fr|titre=Ce qu'il leur reste à faire|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
 
 Ce qu'il leur reste à faire
 Juillet
@@ -984,7 +1026,25 @@ Juillet
 
 -----
 
+Section 35 : 
+
+Source : <ref name=":26">{{Article|langue=fr|titre=R. Impanis est un champion d'Alcyon|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
+
+R. IMPANIS
+EST UN CHAMPION D'
+Alcyon
+AGENCES :
+81, avenue de la Grande-Armée
+PARIS (16e)
+91, avenue de la République
+LYON (2e)
+AGENTS PARTOUT
+
+-----
+
 Section 40 : 
+
+Source : <ref name=":27">{{Article|langue=fr|titre=R. Impanis champion d'Alcyon|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
 
 R. IMPANIS
 champion d'ALCYON
@@ -997,6 +1057,8 @@ Pompes ZÉFAL
 
 Section 42 : 
 
+Source : <ref name=":28">{{Article|langue=fr|titre=R. Impanis est un champion d'Alcyon et des freins M|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
+
 R. IMPANIS
 EST UN CHAMPION D'
 ALCYON
@@ -1006,6 +1068,8 @@ Freins M
 -----
 
 Section 44 : 
+
+Source : <ref name=":29">{{Article|langue=fr|titre=Tour de France : en attendant les coureurs...|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
 
 TOUR DE FRANCE
 EN ATTENDANT LES COUREURS...
@@ -1019,6 +1083,8 @@ Le No Attributaire est
 
 Section 45 : 
 
+Source : <ref name=":30">{{Article|langue=fr|titre=Sportifs ! Les chronomètres-chronographes Longines|périodique=L'Équipe : Le stade, l'air, la route|pages=2|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f2}}|accès url=libre}}.</ref>
+
 Sportifs ! les Chronomètres-chronographes
 LONGINES
 sont les seuls utilisés pour le
@@ -1029,6 +1095,8 @@ du Tour de France cycliste
 
 Section 53 : 
 
+Source : <ref name=":31">{{Article|langue=fr|titre=À rayons rompus|périodique=L'Équipe : Le stade, l'air, la route|pages=3|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f3}}|accès url=libre}}.</ref>
+
 A RAYONS ROMPUS
 
 Jean Leduc est arrivé de Suisse en auto dans l'étape Vannes-Saint-Brieuc, et a suivi la caravane jusqu'à la fin de l'étape.
@@ -1037,63 +1105,9 @@ Jean Leduc est arrivé de Suisse en auto dans l'étape Vannes-Saint-Brieuc, et a
 
 -----
 
-Section 90 : 
-
-PETITES ANNONCES
-
-ANN. RÉSV. DIV. 125 f.
-VENTE - ACHAT
-RÉPARATIONS
-BUGATTI
-Spécialiste depuis 25 ans
-HERMANNS-TAVERNE GRE. 05-32
-5, rue de Tourtille, Paris (20e).
-VENTE, ACHAT, ECH. STAND
-HOTCHKISS 680 cabriolet 1938
-MATFORD cabriolet 1938
-CITROEN 11 cabriolet 1937
-et autres voitures de sport.
-33, r. Rennequin-17e WAG.11-20
-
-AUTOMOBILES - 200 f.
-B CV FIAT 38, tr. b. ét., 135.000.
-MATIS 10 CV cond. int. 4 vit., cond. int., état nf. 130.000.
-HOTCHKISS, parfait état, 13 CV, 130.000.
-B-14 G 4 places, 4 portes, parfait état, 6 pneus, bon état.
-Cond. intér. 8 CV FIAT, comp. CARROSS. 52, av. Def. 28-11.
-64, rue d'Alleray - VAU 09-06
-Très belle MORGAN 2 pl., tr. b. ét.
-PS, Louvence, 22, fg St-Denis.
-
-7 CV Amilcar, cte, pns nfs, 34.
-V. 11B 38, tr. b. ét., cde, pns.
-M. 11B 39, cde, mot. et pns nfs.
-Camte 8 CV Citroën 1934.
-12, rue de Patay (13e)
-11 bl. 39, cde, 165.000.
-CITROEN 11 familiale, 7 pl., 37, tr. b. ét., cde, 140.000.
-ALBUZON, 10, rue de Lorraine, Levallois. PER. 71-55.
-11 B 37, mot. neuf, pns nfs, tr. b. ét., 130.000.
-Très bon état - GARAGE
-15 CV Citroën 38, cond. int., tr. b. ét., cde. 150.000.
-202 cabriolet 39, cde, 85.000.
-Vente état nf, 6 cyl. MERCEDES 230-6 places, 4 portes, type LD-4 - 1 moto-pompe mot. neuf, pns nfs. GARAGE DUBOUT, N.-D.-de-Gravenchon (Seine-Inférieure).
-D.V. 390 cabr. décap. 5 CV, SIMCA 8, 4 vit.
-Vente 402 D 38-40.
-Vente 302, 1938, tr. b. ét.
-Vente 202 cabriolet 1939.
-
---- Page 4 ---
-
-LE QUOTIDIEN
-Élans
-DU SPORT
-
-AU JOUR LE JOUR DU "TOUR"
-
------
-
 Section 91 : 
+
+Source : <ref name=":32">{{Article|langue=fr|auteur1=André Costes|titre=L'équipe de France comme de l'équipe de l'Est attendent de violentes réactions|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
 
 L'équipe de France comme de l'équipe de l'Est
 ATTENDENT DE VIOLENTES RÉACTIONS
@@ -1142,6 +1156,8 @@ C'est donc la bataille sans merci et il la provoquera le cas échéant. Il a d'a
 
 Section 92 : 
 
+Source : <ref name=":33">{{Article|langue=fr|auteur1=Dante Gianello|titre=Le champion écrit... Les jeux ne sont pas faits|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
+
 LE CHAMPION ECRIT...
 
 LES JEUX ne sont pas faits
@@ -1172,6 +1188,8 @@ Pour moi, avant de partir pour une nuit d'étape où mes yeux seront bien, car v
 
 Section 93 : 
 
+Source : <ref name=":34">{{Article|langue=fr|auteur1=Albert Van Laethem|titre=Le point de vue belge : Raymond Impanis, une splendide victoire et cette journée fut grande pour le cyclisme belge|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
+
 Le point de vue BELGE
 RAYMOND IMPANIS, une splendide victoire et cette journée fut grande pour le cyclisme belge
 
@@ -1194,6 +1212,8 @@ Qu'ils en soient remerciés en notre nom à tous et au nom du grand athlète wal
 
 Section 94 : 
 
+Source : <ref name=":35">{{Article|langue=fr|titre=Battu, René Vietto avait pourtant mis tous les atouts dans son jeu|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
+
 BATTU, RENE VIETTO AVAIT POURTANT MIS TOUS LES ATOUTS DANS SON JEU
 
 SAINT-BRIEUC. — Il se présente en effet au départ après avoir effectué les 140 kilomètres de l'étape contre la montre muni d'un splendide maillot de soie pour offrir moins de résistance au vent.
@@ -1201,6 +1221,8 @@ SAINT-BRIEUC. — Il se présente en effet au départ après avoir effectué les
 -----
 
 Section 95 : 
+
+Source : <ref name=":36">{{Article|langue=fr|auteur1=Albert de Wetter|titre=Hier soir, Vietto voulait abandonner...|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
 
 HIER SOIR, VIETTO voulait abandonner...
 
@@ -1223,6 +1245,8 @@ Il ne reste donc plus à souhaiter que la nuit lui porte conseil. — A. de W.
 
 Section 96 : 
 
+Source : <ref name=":37">{{Article|langue=fr|auteur1=Guido Giardini|titre=Le point de vue italien : le parcours de Vannes-St-Brieuc était indiqué pour les Italiens|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
+
 Le point de vue ITALIEN
 LE PARCOURS de Vannes-St-Brieuc était indiqué pour les Italiens
 
@@ -1244,6 +1268,8 @@ Ce soir, mon équipe a une responsabilité immense. Le Tour n'est pas fini et le
 -----
 
 Section 97 : 
+
+Source : <ref name=":38">{{Article|langue=fr|auteur1=Pierre About|titre=Tous leurs tours dans mon sac : une... foule sur un « mur »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
 
 TOUS LEURS TOURS DANS MON SAC
 Une... foule sur un "mur"
@@ -1304,6 +1330,8 @@ Le maillot jaune en panne ! Stupéfaction et tristesse sur les visages bretons, 
 
 Section 98 : 
 
+Source : <ref name=":39">{{Article|langue=fr|auteur1=Paul Guitard|titre=Le fait humain : le supplice des aiguilles|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
+
 LE FAIT HUMAIN
 Le supplice des aiguilles
 
@@ -1324,6 +1352,8 @@ Le bel athlète est vaincu.
 -----
 
 Section 99 : 
+
+Source : <ref name=":40">{{Article|langue=fr|auteur1=Albert de Wetter|titre=« Il n'y a qu'au Parc des Princes que je respirerai tranquillement » nous confie Brambilla|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
 
 "IL N'Y A QU'AU PARC DES PRINCES que je respirerai tranquillement"
 nous confie BRAMBILLA
@@ -1351,6 +1381,8 @@ Ronconi se trouve second derrière lui, à cinquante-trois secondes. Lui facilit
 
 Section 100 : 
 
+Source : <ref name=":41">{{Article|langue=fr|titre=Robic va déclarer la guerre aux Italiens|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
+
 ROBIC va déclarer la guerre aux Italiens
 
 D'un de nos envoyés spéciaux
@@ -1373,6 +1405,8 @@ Car ses projets d'attaque, Robic veut les réserver à l'équipe italienne. « I
 
 Section 101 : 
 
+Source : <ref name=":42">{{Article|langue=fr|titre=Fachleitner le plus rapide dans le « mur »|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
+
 FACHLEITNER LE PLUS RAPIDE DANS LE « MUR »
 
 SAINT-BRIEUC. — Sur le mur de premier, du classement général, Fachleitner fut le plus rapide à escalader le mur de Bretagne. Il le monta en 1' 15" contre 1' 20" à Schotte, 1' 22" à Brambilla, 1' 25" à Ronconi et 1' 27" à Vietto.
@@ -1382,6 +1416,8 @@ Du moins tel est l'avis de Paul Véron.
 -----
 
 Section 102 : 
+
+Source : <ref name=":43">{{Article|langue=fr|titre=Classement de la 20e étape|périodique=L'Équipe : Le stade, l'air, la route|pages=4|date=19 juillet 1947|lire en ligne={{Gallica|id=bd6t599490w/f4}}|accès url=libre}}.</ref>
 
 CLASSEMENT DE LA 20e ETAPE
 
