@@ -220,7 +220,7 @@ def create_stage_summary(year: int, stage_num: int, article_text: str):
         model=GEMINI_SUMMARY_MODEL,
         input=[{
                 "type": "text",
-                "text": f"""The following text contains multiple articles from the L'Équipe newspaper regarding the Tour de France (edition {year}, stage {stage_num}). Your task as a Wikipedia/encyclopedic editor is to write a detailed, strictly neutral, and factual narrative account of the race stage.
+                "text": f"""The following text contains multiple articles from the L'Équipe newspaper regarding the Tour de France (edition {year}, stage {stage_num}). Your task as a Wikipedia/encyclopedic editor is to write a detailed, strictly neutral, and factual narrative account of the race stage in html format.
 
                 Here is an example of a previously written summary of stage 1 of the 1952 Tour de France for structural guidance:
 
@@ -250,7 +250,7 @@ def create_stage_summary(year: int, stage_num: int, article_text: str):
                 5. **Adverb Restraint**:
                 - Minimize subjective adverbs (e.g., "vivement", "progressivement", "définitivement"). Only include them if strictly necessary and supported directly by the source material.
 
-                Please write the detailed summary in French following these strict neutral encyclopedic constraints.
+                Please write the detailed summary in French following these strict neutral encyclopedic constraints and make sure to format it for html.
                 """,
             }
         ]
