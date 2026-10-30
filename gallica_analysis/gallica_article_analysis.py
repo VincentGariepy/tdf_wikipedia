@@ -9,6 +9,7 @@ from google import genai
 from pydantic import BaseModel, Field
 from typing import Optional, List
 from datetime import datetime
+from functools import partial
 
 from gallica_analysis.gallica_article_parsing import parse_str_index_datetime
 
@@ -26,9 +27,11 @@ equipe_ark_cache = 'gallica_analysis/cache/equipe_ark_ids.json'
 gemini_article_paths = 'gallica_analysis/full_articles_gemini/{year}/'
 gemini_clean_article_paths = 'gallica_analysis/clean_articles_gemini/{year}/'
 gemini_detailed_description_paths = 'gallica_analysis/detailed_descriptions_gemini/{year}/'
+gemini_detailed_sourced_description_paths = 'gallica_analysis/sourced_descriptions_gemini/{year}/'
 cohere_article_paths = 'gallica_analysis/full_articles_cohere/{year}/'
 cohere_clean_article_paths = 'gallica_analysis/clean_articles_cohere/{year}/'
 cohere_detailed_description_paths = 'gallica_analysis/detailed_descriptions_cohere/{year}/'
+cohere_detailed_sourced_description_paths = 'gallica_analysis/sourced_descriptions_cohere/{year}/'
 
 description_example = """
 ## Résumé de l'étape
@@ -186,9 +189,10 @@ def clean_tdf_articles(year: int, parsing_tool: Literal['Cohere', 'Gemini'], ove
     for filename in tqdm.tqdm(os.listdir(article_dir), desc=f"Processing articles for {year}"):
         if filename.endswith(".txt"):
             date = filename.split('_')[0]
+            stage_num = filename.split('_')[-1].split('.')[0]
 
             article_path = os.path.join(article_dir, filename)
-            clean_article_path = os.path.join(clean_article_dir, filename)
+            clean_article_path = os.path.join(clean_article_dir, f"stage_{stage_num}.txt")
 
             if not overwrite and os.path.exists(clean_article_path):
                 continue
@@ -203,26 +207,52 @@ def clean_tdf_articles(year: int, parsing_tool: Literal['Cohere', 'Gemini'], ove
 
 def create_stage_summary(year: int, stage_num: int, article_text: str):
     client = genai.Client(api_key=API_KEY)
+    
+    available_sections = sorted(
+        {int(section) for section in re.findall(r"(?m)^Section\s+(\d+)\s*:", article_text)}
+    )
+    available_sections_text = ", ".join(map(str, available_sections))
+
+
+    cleaned_article_text = re.sub(r"^Source\s*:.*(?:\r?\n)?", "", article_text, flags=re.MULTILINE)
 
     interaction = client.interactions.create(
         model=GEMINI_SUMMARY_MODEL,
-        input=[
-            {"type": "text", 
-                "text": f"""The following text is multiple articles from the L'Équipe Journal, regarding the Tour de France cycling,
-                            specifically the {year} edition, stage {stage_num}. Your task as a encyclopedic expert is to write a detailed factual description of the race.
-                            
-                            Here is an example of a previously written summary of stage 1 of the 1952 Tour de France, to give you an idea of the level of detail and style expected:
-                            
-                            {description_example}
+        input=[{
+                "type": "text",
+                "text": f"""The following text contains multiple articles from the L'Équipe newspaper regarding the Tour de France (edition {year}, stage {stage_num}). Your task as a Wikipedia/encyclopedic editor is to write a detailed, strictly neutral, and factual narrative account of the race stage.
 
-                            Here are the articles for the {year} edition, stage {stage_num} : 
+                Here is an example of a previously written summary of stage 1 of the 1952 Tour de France for structural guidance:
 
-                            {article_text}
+                {description_example}
 
-                            Please write the detailed description in french and make sure to use "[n]" to link to the section used to write different paragraphs or sentences of the paragraph.
-                            Make sure to follow the same writing style and as the example provided and format your text in html. Since the goal is to write a description for an encclopedia article,
-                            you must remain very neutral and factual, not journalistic.
-                            """}
+                Here are the source articles for the {year} edition, stage {stage_num}:
+
+                Make sure to only cite from available sections.
+                Here are the available section numbers for citations: {available_sections_text}
+
+                {cleaned_article_text}
+
+                ---
+                ### WRITING INSTRUCTIONS & STYLISTIC GUIDELINES
+
+                1. **Format**: Output valid HTML. Use "[n]" footnotes to cite specific source sections corresponding to the statements or paragraphs. Only cite section numbers from the available section numbers listed above; never infer or invent a section number.
+                2. **Tone**: Strictly encyclopedic, neutral, and sober (Wikipedia style). Avoid journalistic sensationalism, sports metaphors, or literary prose.
+                3. **Prohibited Vocabulary & Idioms**:
+                - DO NOT use journalistic idioms (e.g., replace "reprend ses droits" with "reprend après X années d'interruption").
+                - DO NOT use metaphorical or dramatic sports jargon (e.g., avoid "hostilités", "bataille", "attaque tranchante", "lourd revers", "le peloton explode"). Instead, use sober terms: "la course s'accélère", "le peloton se disloque", "une attaque", etc.
+                - DO NOT use figurative terms like "tandem" for two riders unless referring to an actual tandem bicycle. Use "le duo" or "les deux coureurs".
+                - Avoid redundant embellishments or pleonasms (e.g., use "sous un soleil chaud" or state the temperature instead of "sous un soleil accablant").
+                4. **Avoid Evaluative & Subjective Language**:
+                - Replace subjective adjectives or dramatic framing with plain factual data (e.g., instead of "retard rédhibitoire" or "lourd revers", state the exact time lost: "concède plus de dix minutes").
+                - Replace vague descriptions like "longue phase de temporisation" with simple terms like "allure modérée".
+                - Do NOT extrapolate physical or emotional states (e.g., "deux coureurs exténués") unless directly and explicitly cited in the sources.
+                5. **Adverb Restraint**:
+                - Minimize subjective adverbs (e.g., "vivement", "progressivement", "définitivement"). Only include them if strictly necessary and supported directly by the source material.
+
+                Please write the detailed summary in French following these strict neutral encyclopedic constraints.
+                """,
+            }
         ]
     )
     return interaction.output_text
@@ -252,3 +282,69 @@ def create_stage_summaries_for_year(year: int, parsing_tool: Literal['Cohere', '
 
             with open(detailed_description_path, 'w', encoding='utf-8') as f:
                 f.write(detailed_description)
+
+def build_source_dictionnary(article_text: str) -> dict[str, str]:
+    pattern = r"Section\s+(\d+)[\s\S]*?(<ref[^>]*>[\s\S]*?</ref>)"
+
+    return {
+        match.group(1).strip(): match.group(2).strip()
+        for match in re.finditer(pattern, article_text)
+    }
+
+def reformat_sources(article_sources: dict[str, str], already_source: dict[str, str], match):
+    raw_numbers = match.group(1)
+    sections = [n.strip() for n in raw_numbers.split(",")]
+
+    formatted_sources = []
+    for section in sections:
+        if section in already_source:
+            formatted_sources.append(already_source[section])
+            continue
+
+        full_source = article_sources[section]
+        formatted_sources.append(full_source)
+        already_source[section] = full_source.split('{')[0]
+
+    return ", ".join(formatted_sources)
+
+def source_description(description: str, article_sources: dict[str, str]) -> str:
+    already_source = {}
+
+    pattern = r" \[(\d+(?:\s*,\s*\d+)*)\]"
+    
+    callback = partial(reformat_sources, article_sources, already_source)
+    return re.sub(pattern, callback, description)
+
+def add_sources_description(year: int, parsing_tool: Literal['Cohere', 'Gemini'], overwrite: bool):
+    if parsing_tool == 'Cohere':
+        article_dir = cohere_clean_article_paths.format(year=year)
+        description_dir = cohere_detailed_description_paths.format(year=year)
+        sourced_description_dir = cohere_detailed_sourced_description_paths.format(year=year)
+    else:
+        article_dir = gemini_clean_article_paths.format(year=year)
+        description_dir = gemini_detailed_description_paths.format(year=year)
+        sourced_description_dir = gemini_detailed_sourced_description_paths.format(year=year)
+
+    for filename in tqdm.tqdm(os.listdir(description_dir), desc=f"Creating stage summaries for {year}"):
+        if filename.endswith(".html"):
+            stage_num = int(filename.split("_")[-1].split(".")[0])
+            description_path = os.path.join(description_dir, filename)
+            article_path = os.path.join(article_dir, filename.replace('.html', '.txt'))
+
+            sourced_description_path = os.path.join(sourced_description_dir, f"stage_{stage_num}.html")
+
+            if not overwrite and os.path.exists(sourced_description_path):
+                continue
+
+            with open(article_path, 'r', encoding='utf-8') as f:
+                article_text = f.read()
+
+            source_dic = build_source_dictionnary(article_text)
+
+            with open(description_path, 'r', encoding='utf-8') as f:
+                description_text = f.read()
+
+            sourced_description = source_description(description_text, source_dic)
+
+            with open(sourced_description_path, 'w', encoding='utf-8') as f:
+                f.write(sourced_description)
