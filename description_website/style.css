@@ -161,6 +161,10 @@ h1 {
     font: inherit;
 }
 
+.raw-description-content {
+    white-space: pre-wrap;
+}
+
 .article-section + .article-section {
     margin-top: 24px;
     padding-top: 16px;

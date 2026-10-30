@@ -205,7 +205,7 @@
                         </div>
                     </div>
                     <div class="column-content" id="detailed-description-content"></div>
-                    <div class="column-content" id="sourced-description-content" hidden></div>
+                    <div class="column-content raw-description-content" id="sourced-description-content" hidden></div>
                 </section>
                 <section class="content-column">
                     <h2>
@@ -249,7 +249,7 @@
             }
 
             if (sourcedDescriptionResult.status === 'fulfilled') {
-                document.getElementById('sourced-description-content').innerHTML = sourcedDescriptionResult.value;
+                document.getElementById('sourced-description-content').textContent = sourcedDescriptionResult.value;
             } else {
                 document.getElementById('sourced-description-content').innerHTML =
                     '<p class="load-error">La description sourcée n’est pas disponible pour cette étape.</p>';

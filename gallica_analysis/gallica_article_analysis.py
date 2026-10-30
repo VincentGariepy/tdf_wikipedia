@@ -284,10 +284,10 @@ def create_stage_summaries_for_year(year: int, parsing_tool: Literal['Cohere', '
                 f.write(detailed_description)
 
 def build_source_dictionnary(article_text: str) -> dict[str, str]:
-    pattern = r"Section\s+(\d+)[\s\S]*?(<ref[^>]*>[\s\S]*?</ref>)"
+    pattern = r"Section\s+(\d+)[\s\S]*?(<ref[^>]*>([\s\S]*?)</ref>)"
 
     return {
-        match.group(1).strip(): match.group(2).strip()
+        match.group(1).strip(): match.group(2)
         for match in re.finditer(pattern, article_text)
     }
 
