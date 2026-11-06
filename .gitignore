@@ -223,3 +223,11 @@ __marimo__/
 !requirements.txt
 !gallica_analysis/clean_articles_gemini/**/*.txt
 !gallica_analysis/cache/equipe_ark_ids.json
+
+# Sensitive configs
+secrets.yaml
+*.env
+.env*
+
+# Checkpoints
+.ipynb_checkpoints/
