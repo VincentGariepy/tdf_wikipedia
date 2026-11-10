@@ -56,6 +56,10 @@
     box-sizing: border-box;
 }
 
+[hidden] {
+    display: none !important;
+}
+
 html, body {
     margin: 0;
     padding: 0;
@@ -127,33 +131,6 @@ body {
     font-weight: 500;
 }
 
-.header-badges {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-}
-
-.badge {
-    display: inline-flex;
-    align-items: center;
-    padding: 4px 10px;
-    border-radius: var(--radius-full);
-    font-size: 0.75rem;
-    font-weight: 700;
-    letter-spacing: 0.02em;
-}
-
-.badge-accent {
-    background: var(--color-primary-light);
-    color: var(--color-primary-text);
-    border: 1px solid #fde047;
-}
-
-.badge-neutral {
-    background: var(--color-border-subtle);
-    color: var(--color-text-secondary);
-    border: 1px solid var(--color-border);
-}
 
 /* ==========================================================================
    Year Bar (Step 1)
@@ -568,6 +545,10 @@ body {
     height: 100%;
     min-height: 0;
     padding: 0;
+}
+
+.raw-description-wrapper[hidden] {
+    display: none !important;
 }
 
 .raw-description-toolbar {

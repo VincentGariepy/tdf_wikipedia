@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Descriptions du Tour de France 1947</title>
+    <title>Descriptions du Tour de France</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/png" href="tour-de-france-logo.png">
 </head>
@@ -13,13 +13,9 @@
         <div class="header-brand">
             <img src="tour-de-france-logo.png" alt="Logo Tour de France" class="brand-logo" width="44" height="44">
             <div class="brand-info">
-                <h1 class="brand-title">Tour de France <span>1947</span></h1>
-                <p class="brand-subtitle">Descriptions détaillées & archives de L'Équipe</p>
+                <h1 class="brand-title">Descriptions détaillées du Tour de France</h1>
+                <p class="brand-subtitle">Archives de L'Équipe</p>
             </div>
-        </div>
-        <div class="header-badges">
-            <span class="badge badge-accent">34<sup>e</sup> édition</span>
-            <span class="badge badge-neutral">21 étapes</span>
         </div>
     </header>
 
@@ -132,13 +128,16 @@
             }
 
             const detailedContent = document.getElementById('detailed-description-content');
-            if (detailedContent) detailedContent.hidden = !isDetailed;
+            if (detailedContent) {
+                detailedContent.hidden = !isDetailed;
+                detailedContent.style.display = isDetailed ? '' : 'none';
+            }
 
             const sourcedContent = document.getElementById('sourced-description-content');
-            if (sourcedContent) sourcedContent.hidden = isDetailed;
-
-            const copyHeaderBtn = document.getElementById('copy-sourced-button');
-            if (copyHeaderBtn) copyHeaderBtn.hidden = isDetailed;
+            if (sourcedContent) {
+                sourcedContent.hidden = isDetailed;
+                sourcedContent.style.display = isDetailed ? 'none' : 'flex';
+            }
 
             document.querySelectorAll('.description-toggle-button').forEach(button => {
                 const isActive = button.dataset.descriptionType === type;
@@ -195,17 +194,16 @@
         }
 
         function setCopyButtonFeedback(active) {
-            const copyButtons = document.querySelectorAll('.copy-button');
-            copyButtons.forEach(btn => {
-                const label = btn.querySelector('.copy-label');
-                if (active) {
-                    btn.classList.add('copied');
-                    if (label) label.textContent = 'Copié !';
-                } else {
-                    btn.classList.remove('copied');
-                    if (label) label.textContent = 'Copier';
-                }
-            });
+            const copyBtn = document.getElementById('copy-sourced-button');
+            if (!copyBtn) return;
+            const label = copyBtn.querySelector('.copy-label');
+            if (active) {
+                copyBtn.classList.add('copied');
+                if (label) label.textContent = 'Copié !';
+            } else {
+                copyBtn.classList.remove('copied');
+                if (label) label.textContent = 'Copier';
+            }
 
             if (active) {
                 setTimeout(() => {
@@ -341,16 +339,6 @@
                             <span id="description-heading">Description détaillée</span>
                         </h2>
                         <div class="header-actions">
-                            <button type="button" class="action-button copy-button" id="copy-sourced-button" onclick="copySourcedDescription()" hidden title="Copier la description sourcée">
-                                <svg class="copy-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                    <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
-                                    <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
-                                </svg>
-                                <svg class="check-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-                                    <polyline points="20 6 9 17 4 12"></polyline>
-                                </svg>
-                                <span class="copy-label">Copier</span>
-                            </button>
                             <div class="description-toggle" role="group" aria-label="Type de description">
                                 <button type="button" class="description-toggle-button active"
                                     data-description-type="detailed" aria-pressed="true"
@@ -364,13 +352,13 @@
                         </div>
                     </div>
                     <div class="column-content" id="detailed-description-content"></div>
-                    <div class="raw-description-wrapper" id="sourced-description-content" hidden>
+                    <div class="raw-description-wrapper" id="sourced-description-content" hidden style="display: none;">
                         <div class="raw-description-toolbar">
                             <div class="raw-meta-group">
                                 <span class="raw-pill">MediaWiki / Ref</span>
                                 <span id="sourced-stats" class="raw-stats"></span>
                             </div>
-                            <button type="button" class="action-button copy-button" id="copy-sourced-inner-button" onclick="copySourcedDescription()" title="Copier la description sourcée">
+                            <button type="button" class="action-button copy-button" id="copy-sourced-button" onclick="copySourcedDescription()" title="Copier la description sourcée">
                                 <svg class="copy-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
                                     <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
@@ -457,12 +445,14 @@
                     statsEl.textContent = `${lines} lignes • ${currentSourcedRawText.length.toLocaleString('fr-FR')} caractères`;
                 }
 
-                document.querySelectorAll('.copy-button').forEach(btn => btn.disabled = false);
+                const copyBtn = document.getElementById('copy-sourced-button');
+                if (copyBtn) copyBtn.disabled = false;
             } else {
                 currentSourcedRawText = '';
                 document.getElementById('sourced-description-content').innerHTML =
                     '<div class="load-error-box" style="margin: 16px;"><p>La description sourcée n’est pas disponible pour cette étape.</p></div>';
-                document.querySelectorAll('.copy-button').forEach(btn => btn.disabled = true);
+                const copyBtn = document.getElementById('copy-sourced-button');
+                if (copyBtn) copyBtn.disabled = true;
                 console.error(sourcedDescriptionResult.reason);
             }
         }
