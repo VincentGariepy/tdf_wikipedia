@@ -15,7 +15,8 @@ PROFILES = {
     "icon profile p5 mg_rp4": "Mountains, uphill finish",
 }
 
-pcs_id_cache = "pcs_parsing/pcs_id_rider_cache.json"
+pcs_id_cache = "pcs_parsing/cache/pcs_id_rider_cache.json"
+rider_team_cache = "pcs_parsing/cache/rider_team_cache.json"
 
 def fetch_stage_links(year):
     url = f"{BASE_PCS_URL}race/tour-de-france/{year}/route/stages"
@@ -130,6 +131,18 @@ def fetch_rider_pcs_id(rider_url):
 
     return pcs_ids[rider_url]
 
+def cache_rider_team(rider_url, team):
+    with open(rider_team_cache, 'r', encoding='utf-8') as f:
+        rider_teams = json.load(f)
+
+    if rider_url in rider_teams:
+        return
+
+    rider_teams[rider_url] = team
+
+    with open(rider_team_cache, 'w', encoding='utf-8'):
+        json.dump(rider_teams, f, index=2)
+
 def fetch_stage_result_components(html_content, stage_number: int):
     return ['stage'] + [res.attrs['href'].split('/')[-1].replace(f"stage-{stage_number}-", "") 
              for res in html_content.find_all('a', class_="selectResultTab")[1:]
@@ -209,6 +222,7 @@ def fetch_stage_results(html_content, tdf_year: int, stage_number: int):
                 team_a = row.select_one("td.cu600 a")
                 team_name = team_a.get_text(strip=True) if team_a else None
                 team_wiki_id = get_team_wikidata_id(team_name, tdf_year)
+                cache_rider_team(rider_url, team_name)
 
                 # 6. Bonus
                 bonis = row.find("td", class_="ar cu600").get_text(strip=True) if row.find("td", class_="ar cu600") else None
@@ -265,6 +279,7 @@ def fetch_stage_results(html_content, tdf_year: int, stage_number: int):
 
 def fetch_full_stage_data(stage_url, stage_number, tdf_year):
     html_content = get_bs_html(stage_url)
+    print(html_content)
     stage_leaderboards, yellow_jersey_holder_wikidata_id = fetch_stage_results(html_content, tdf_year, stage_number)
 
     stage_metadata = fetch_stage_metadata(html_content, stage_number, tdf_year)

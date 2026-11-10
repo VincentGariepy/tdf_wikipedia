@@ -303,9 +303,10 @@ def reformat_sources(article_sources: dict[str, str], already_source: dict[str, 
 
         full_source = article_sources[section]
         formatted_sources.append(full_source)
-        already_source[section] = full_source.split('{')[0]
+        # convert <ref name=":1"> to <ref name=":1" />
+        already_source[section] = full_source.split('{')[0][:-2] + " />"
 
-    return ", ".join(formatted_sources)
+    return "{{,}} ".join(formatted_sources)
 
 def source_description(description: str, article_sources: dict[str, str]) -> str:
     already_source = {}

@@ -1,55 +1,79 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Descriptions du Tour de France</title>
+    <title>Descriptions du Tour de France 1947</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/png" href="tour-de-france-logo.png">
 </head>
 <body>
-    <h1>Descriptions détaillées du Tour de France</h1>
+    <!-- Top Header & Branding -->
+    <header class="app-header">
+        <div class="header-brand">
+            <img src="tour-de-france-logo.png" alt="Logo Tour de France" class="brand-logo" width="44" height="44">
+            <div class="brand-info">
+                <h1 class="brand-title">Tour de France <span>1947</span></h1>
+                <p class="brand-subtitle">Descriptions détaillées & archives de L'Équipe</p>
+            </div>
+        </div>
+        <div class="header-badges">
+            <span class="badge badge-accent">34<sup>e</sup> édition</span>
+            <span class="badge badge-neutral">21 étapes</span>
+        </div>
+    </header>
 
-    <!-- STEP 1: Top Menu (Years) -->
-    <div class="year-menu">
-        <button class="year-button active" onclick="switchYear(event, '1947')">1947</button>
-    </div>
+    <!-- STEP 1: Year Menu -->
+    <nav class="year-menu" aria-label="Sélection de l'année">
+        <span class="menu-label">Année</span>
+        <div class="year-buttons">
+            <button type="button" class="year-button active" onclick="switchYear(event, '1947')">1947</button>
+        </div>
+    </nav>
 
-    <!-- STEP 2: Second Menu (File Tabs) -->
-    <div class="tab-menu">
-        <!-- Note: We just pass the exact file name here -->
-        <button class="tab-button active" onclick="switchTab(event, 'stage_1.html')">Étape 1</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_2.html')">Étape 2</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_3.html')">Étape 3</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_4.html')">Étape 4</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_5.html')">Étape 5</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_6.html')">Étape 6</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_7.html')">Étape 7</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_8.html')">Étape 8</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_9.html')">Étape 9</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_10.html')">Étape 10</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_11.html')">Étape 11</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_12.html')">Étape 12</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_13.html')">Étape 13</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_14.html')">Étape 14</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_15.html')">Étape 15</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_16.html')">Étape 16</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_17.html')">Étape 17</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_18.html')">Étape 18</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_19.html')">Étape 19</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_20.html')">Étape 20</button>
-        <button class="tab-button" onclick="switchTab(event, 'stage_21.html')">Étape 21</button>
+    <!-- STEP 2: Stage Tabs -->
+    <div class="tab-menu-wrapper">
+        <nav class="tab-menu" id="stage-tabs" aria-label="Sélection de l'étape">
+            <button type="button" class="tab-button active" onclick="switchTab(event, 'stage_1.html')">Étape 1</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_2.html')">Étape 2</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_3.html')">Étape 3</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_4.html')">Étape 4</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_5.html')">Étape 5</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_6.html')">Étape 6</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_7.html')">Étape 7</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_8.html')">Étape 8</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_9.html')">Étape 9</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_10.html')">Étape 10</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_11.html')">Étape 11</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_12.html')">Étape 12</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_13.html')">Étape 13</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_14.html')">Étape 14</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_15.html')">Étape 15</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_16.html')">Étape 16</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_17.html')">Étape 17</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_18.html')">Étape 18</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_19.html')">Étape 19</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_20.html')">Étape 20</button>
+            <button type="button" class="tab-button" onclick="switchTab(event, 'stage_21.html')">Étape 21</button>
+        </nav>
     </div>
 
     <!-- STEP 3: Side-by-side stage content -->
     <main id="content-area" class="content-panel" aria-live="polite">
-        <em>Loading...</em>
+        <div class="loading-container">
+            <div class="spinner"></div>
+            <span>Chargement du contenu de l'étape...</span>
+        </div>
     </main>
+
+    <!-- Toast container for copy confirmations -->
+    <div id="toast-container" class="toast-container" aria-live="polite"></div>
 
     <script>
         let currentYear = '1947';
         let currentFile = 'stage_1.html';
         let currentDescriptionType = 'detailed';
+        let currentSourcedRawText = '';
         let contentRequest = 0;
         let arkCachePromise;
 
@@ -93,22 +117,124 @@
         function switchTab(event, filename) {
             currentFile = filename;
             document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
-            event.currentTarget.classList.add('active');
+            const clickedBtn = event.currentTarget;
+            clickedBtn.classList.add('active');
+            clickedBtn.scrollIntoView({ behavior: 'smooth', inline: 'nearest', block: 'nearest' });
             fetchContent();
         }
 
         function switchDescription(type) {
             currentDescriptionType = type;
             const isDetailed = type === 'detailed';
-            document.getElementById('description-heading').textContent =
-                isDetailed ? 'Description détaillée' : 'Description sourcée';
-            document.getElementById('detailed-description-content').hidden = !isDetailed;
-            document.getElementById('sourced-description-content').hidden = isDetailed;
+            const heading = document.getElementById('description-heading');
+            if (heading) {
+                heading.textContent = isDetailed ? 'Description détaillée' : 'Description sourcée';
+            }
+
+            const detailedContent = document.getElementById('detailed-description-content');
+            if (detailedContent) detailedContent.hidden = !isDetailed;
+
+            const sourcedContent = document.getElementById('sourced-description-content');
+            if (sourcedContent) sourcedContent.hidden = isDetailed;
+
+            const copyHeaderBtn = document.getElementById('copy-sourced-button');
+            if (copyHeaderBtn) copyHeaderBtn.hidden = isDetailed;
+
             document.querySelectorAll('.description-toggle-button').forEach(button => {
                 const isActive = button.dataset.descriptionType === type;
                 button.classList.toggle('active', isActive);
                 button.setAttribute('aria-pressed', String(isActive));
             });
+        }
+
+        async function copySourcedDescription() {
+            let textToCopy = currentSourcedRawText;
+            if (!textToCopy) {
+                const textEl = document.getElementById('sourced-description-text');
+                textToCopy = textEl ? textEl.textContent : '';
+            }
+
+            if (!textToCopy) {
+                showToast('Aucun texte à copier.', 'error');
+                return;
+            }
+
+            let copied = false;
+            if (navigator.clipboard && window.isSecureContext) {
+                try {
+                    await navigator.clipboard.writeText(textToCopy);
+                    copied = true;
+                } catch (err) {
+                    console.warn('Clipboard API error, fallback to execCommand', err);
+                }
+            }
+
+            if (!copied) {
+                try {
+                    const textarea = document.createElement('textarea');
+                    textarea.value = textToCopy;
+                    textarea.setAttribute('readonly', '');
+                    textarea.style.position = 'fixed';
+                    textarea.style.opacity = '0';
+                    textarea.style.pointerEvents = 'none';
+                    document.body.appendChild(textarea);
+                    textarea.select();
+                    copied = document.execCommand('copy');
+                    document.body.removeChild(textarea);
+                } catch (fallbackErr) {
+                    console.error('Fallback copy failed', fallbackErr);
+                }
+            }
+
+            if (copied) {
+                setCopyButtonFeedback(true);
+                showToast('Description sourcée copiée dans le presse-papier !', 'success');
+            } else {
+                showToast('Impossible de copier le texte.', 'error');
+            }
+        }
+
+        function setCopyButtonFeedback(active) {
+            const copyButtons = document.querySelectorAll('.copy-button');
+            copyButtons.forEach(btn => {
+                const label = btn.querySelector('.copy-label');
+                if (active) {
+                    btn.classList.add('copied');
+                    if (label) label.textContent = 'Copié !';
+                } else {
+                    btn.classList.remove('copied');
+                    if (label) label.textContent = 'Copier';
+                }
+            });
+
+            if (active) {
+                setTimeout(() => {
+                    setCopyButtonFeedback(false);
+                }, 2000);
+            }
+        }
+
+        function showToast(message, type = 'success') {
+            const container = document.getElementById('toast-container');
+            if (!container) return;
+
+            const toast = document.createElement('div');
+            toast.className = `toast toast-${type}`;
+            const iconSvg = type === 'success'
+                ? '<svg class="toast-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>'
+                : '<svg class="toast-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>';
+
+            toast.innerHTML = `${iconSvg}<span>${message}</span>`;
+            container.appendChild(toast);
+
+            requestAnimationFrame(() => {
+                toast.classList.add('show');
+            });
+
+            setTimeout(() => {
+                toast.classList.remove('show');
+                setTimeout(() => toast.remove(), 300);
+            }, 2500);
         }
 
         async function fetchFromPaths(paths) {
@@ -153,8 +279,9 @@
             return arkCachePromise;
         }
 
-        function formatArticleDate(filename) {
-            const dateParts = filename.match(/^(\d{2})-(\d{2})-(\d{4})_/);
+        function formatArticleDate(dateStr) {
+            if (!dateStr) return '';
+            const dateParts = dateStr.match(/^(\d{2})-(\d{2})-(\d{4})/);
             if (!dateParts) return '';
 
             const [, day, month, year] = dateParts;
@@ -173,10 +300,18 @@
             const stageNumber = Number(currentFile.match(/^stage_(\d+)\.html$/)?.[1]);
             const articleFilename = `stage_${stageNumber}.txt`;
             const articleDate = articleDatesByYear[currentYear]?.[stageNumber];
-            container.innerHTML = '<em>Loading stage content...</em>';
+
+            container.innerHTML = `
+                <div class="loading-container">
+                    <div class="spinner"></div>
+                    <span>Chargement de l'étape ${stageNumber || ''}...</span>
+                </div>`;
 
             if (!stageNumber) {
-                container.innerHTML = `<p class="load-error">No cleaned Gemini article is configured for ${currentYear}, stage ${stageNumber || 'unknown'}.</p>`;
+                container.innerHTML = `
+                    <div class="load-error-box">
+                        <p>Aucun article nettoyé n'est configuré pour l'année ${currentYear}, étape ${stageNumber || 'inconnue'}.</p>
+                    </div>`;
                 return;
             }
 
@@ -189,33 +324,92 @@
 
             if (requestId !== contentRequest) return;
 
+            const formattedDate = formatArticleDate(articleDate);
+            const articleDateText = formattedDate ? ` du ${formattedDate}` : '';
+
             container.innerHTML = `
-                <section class="content-column">
-                    <div class="description-heading">
-                        <h2 id="description-heading">Description détaillée</h2>
-                        <div class="description-toggle" role="group" aria-label="Type de description">
-                            <button type="button" class="description-toggle-button active"
-                                data-description-type="detailed" aria-pressed="true"
-                                aria-controls="detailed-description-content"
-                                onclick="switchDescription('detailed')">Détaillée</button>
-                            <button type="button" class="description-toggle-button"
-                                data-description-type="sourced" aria-pressed="false"
-                                aria-controls="sourced-description-content"
-                                onclick="switchDescription('sourced')">Sourcée</button>
+                <section class="content-column description-column">
+                    <div class="column-header">
+                        <h2 id="description-heading-group">
+                            <svg class="header-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                                <polyline points="14 2 14 8 20 8"></polyline>
+                                <line x1="16" y1="13" x2="8" y2="13"></line>
+                                <line x1="16" y1="17" x2="8" y2="17"></line>
+                                <polyline points="10 9 9 9 8 9"></polyline>
+                            </svg>
+                            <span id="description-heading">Description détaillée</span>
+                        </h2>
+                        <div class="header-actions">
+                            <button type="button" class="action-button copy-button" id="copy-sourced-button" onclick="copySourcedDescription()" hidden title="Copier la description sourcée">
+                                <svg class="copy-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                                    <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                                </svg>
+                                <svg class="check-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                    <polyline points="20 6 9 17 4 12"></polyline>
+                                </svg>
+                                <span class="copy-label">Copier</span>
+                            </button>
+                            <div class="description-toggle" role="group" aria-label="Type de description">
+                                <button type="button" class="description-toggle-button active"
+                                    data-description-type="detailed" aria-pressed="true"
+                                    aria-controls="detailed-description-content"
+                                    onclick="switchDescription('detailed')">Détaillée</button>
+                                <button type="button" class="description-toggle-button"
+                                    data-description-type="sourced" aria-pressed="false"
+                                    aria-controls="sourced-description-content"
+                                    onclick="switchDescription('sourced')">Sourcée</button>
+                            </div>
                         </div>
                     </div>
                     <div class="column-content" id="detailed-description-content"></div>
-                    <div class="column-content raw-description-content" id="sourced-description-content" hidden></div>
+                    <div class="raw-description-wrapper" id="sourced-description-content" hidden>
+                        <div class="raw-description-toolbar">
+                            <div class="raw-meta-group">
+                                <span class="raw-pill">MediaWiki / Ref</span>
+                                <span id="sourced-stats" class="raw-stats"></span>
+                            </div>
+                            <button type="button" class="action-button copy-button" id="copy-sourced-inner-button" onclick="copySourcedDescription()" title="Copier la description sourcée">
+                                <svg class="copy-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                                    <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                                </svg>
+                                <svg class="check-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                    <polyline points="20 6 9 17 4 12"></polyline>
+                                </svg>
+                                <span class="copy-label">Copier</span>
+                            </button>
+                        </div>
+                        <pre class="raw-description-text" id="sourced-description-text"></pre>
+                    </div>
                 </section>
-                <section class="content-column">
-                    <h2>
-                        Article de L'Équipe du ${formatArticleDate(articleFilename)}
-                        <a class="gallica-link" id="gallica-article-link" href="#" target="_blank" rel="noopener noreferrer" hidden>Voir sur Gallica</a>
-                    </h2>
+                <section class="content-column article-column">
+                    <div class="column-header">
+                        <h2>
+                            <svg class="header-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"></path>
+                                <path d="M18 14h-8"></path>
+                                <path d="M15 18h-5"></path>
+                                <path d="M10 6h8v4h-8V6Z"></path>
+                            </svg>
+                            <span>Article de L'Équipe${articleDateText}</span>
+                        </h2>
+                        <a class="gallica-link-btn" id="gallica-article-link" href="#" target="_blank" rel="noopener noreferrer" hidden title="Consulter l'édition sur Gallica (BnF)">
+                            <span>Voir sur Gallica</span>
+                            <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                                <polyline points="15 3 21 3 21 9"></polyline>
+                                <line x1="10" y1="14" x2="21" y2="3"></line>
+                            </svg>
+                        </a>
+                    </div>
                     <div class="column-content article-content" id="article-content"></div>
                 </section>`;
+
             switchDescription(currentDescriptionType);
 
+            // Setup Gallica ARK link
             const gallicaLink = document.getElementById('gallica-article-link');
             if (arkCacheResult.status === 'fulfilled') {
                 const arkId = articleDate ? arkCacheResult.value[articleDate] : null;
@@ -223,36 +417,52 @@
                     gallicaLink.href = `https://gallica.bnf.fr/ark:/12148/${arkId}`;
                     gallicaLink.hidden = false;
                 } else {
+                    gallicaLink.hidden = true;
                     console.error(`No Gallica ARK ID found for article dated ${articleDate || 'unknown'}.`);
                 }
             } else {
+                gallicaLink.hidden = true;
                 console.error(arkCacheResult.reason);
             }
 
+            // Render Clean Article
             const articleContent = document.getElementById('article-content');
             if (articleResult.status === 'fulfilled') {
                 renderArticleSections(articleContent, articleResult.value);
             } else {
-                articleContent.textContent = 'The cleaned Gemini article could not be loaded.';
-                articleContent.classList.add('load-error');
+                articleContent.innerHTML = '<div class="load-error-box"><p>L’article nettoyé n’a pas pu être chargé.</p></div>';
                 console.error(articleResult.reason);
             }
 
+            // Render Detailed Description
             if (descriptionResult.status === 'fulfilled') {
                 const descriptionContent = document.getElementById('detailed-description-content');
                 descriptionContent.innerHTML = descriptionResult.value;
                 linkDescriptionCitations(descriptionContent, articleContent);
             } else {
                 document.getElementById('detailed-description-content').innerHTML =
-                    '<p class="load-error">The detailed description could not be loaded.</p>';
+                    '<div class="load-error-box"><p>La description détaillée n’a pas pu être chargée.</p></div>';
                 console.error(descriptionResult.reason);
             }
 
+            // Render Sourced Description
             if (sourcedDescriptionResult.status === 'fulfilled') {
-                document.getElementById('sourced-description-content').textContent = sourcedDescriptionResult.value;
+                currentSourcedRawText = sourcedDescriptionResult.value;
+                const textEl = document.getElementById('sourced-description-text');
+                if (textEl) textEl.textContent = currentSourcedRawText;
+
+                const statsEl = document.getElementById('sourced-stats');
+                if (statsEl) {
+                    const lines = currentSourcedRawText.split(/\r\n|\r|\n/).length;
+                    statsEl.textContent = `${lines} lignes • ${currentSourcedRawText.length.toLocaleString('fr-FR')} caractères`;
+                }
+
+                document.querySelectorAll('.copy-button').forEach(btn => btn.disabled = false);
             } else {
+                currentSourcedRawText = '';
                 document.getElementById('sourced-description-content').innerHTML =
-                    '<p class="load-error">La description sourcée n’est pas disponible pour cette étape.</p>';
+                    '<div class="load-error-box" style="margin: 16px;"><p>La description sourcée n’est pas disponible pour cette étape.</p></div>';
+                document.querySelectorAll('.copy-button').forEach(btn => btn.disabled = true);
                 console.error(sourcedDescriptionResult.reason);
             }
         }
@@ -264,6 +474,7 @@
 
             if (matches.length === 0) {
                 const articleTextBlock = document.createElement('pre');
+                articleTextBlock.className = 'article-raw-text';
                 articleTextBlock.textContent = articleText;
                 articleContent.append(articleTextBlock);
                 return sectionsByNumber;
@@ -277,16 +488,25 @@
                     .slice(contentStart, contentEnd)
                     .replace(/^\r?\n/, '')
                     .trimEnd();
+
                 const section = document.createElement('section');
-                const heading = document.createElement('h3');
+                const header = document.createElement('div');
+                const badge = document.createElement('span');
                 const textBlock = document.createElement('pre');
 
                 section.id = `article-section-${sectionNumber}`;
                 section.className = 'article-section';
                 section.tabIndex = -1;
-                heading.textContent = `Section ${sectionNumber}`;
+
+                header.className = 'article-section-header';
+                badge.className = 'section-badge';
+                badge.textContent = `Section ${sectionNumber}`;
+                header.append(badge);
+
+                textBlock.className = 'article-section-body';
                 textBlock.textContent = sectionText;
-                section.append(heading, textBlock);
+
+                section.append(header, textBlock);
                 articleContent.append(section);
 
                 if (!sectionsByNumber.has(sectionNumber)) {
@@ -331,6 +551,7 @@
                             link.className = 'article-citation';
                             link.href = `#article-section-${part}`;
                             link.textContent = part;
+                            link.title = `Accéder à la section ${part} de l'article`;
                             fragment.append(link);
                         } else {
                             fragment.append(part);
@@ -357,10 +578,20 @@
                 articleContent.scrollTo({
                     top: articleContent.scrollTop
                         + section.getBoundingClientRect().top
-                        - articleContent.getBoundingClientRect().top,
+                        - articleContent.getBoundingClientRect().top
+                        - 12,
                     behavior: 'smooth'
                 });
+
+                document.querySelectorAll('.article-section.highlight-target').forEach(el => {
+                    el.classList.remove('highlight-target');
+                });
+                section.classList.add('highlight-target');
                 section.focus({ preventScroll: true });
+
+                setTimeout(() => {
+                    section.classList.remove('highlight-target');
+                }, 2500);
             });
         }
     </script>
