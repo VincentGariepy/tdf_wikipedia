@@ -68,10 +68,19 @@
     <script>
         let currentYear = '1947';
         let currentFile = 'stage_1.html';
+        let currentNewspaper = 'equipe';
         let currentDescriptionType = 'detailed';
         let currentSourcedRawText = '';
         let contentRequest = 0;
         let arkCachePromise;
+
+        const newspaperNames = {
+            'equipe': "L'Équipe",
+            'figaro': 'Le Figaro',
+            'franc_tireur': 'Franc-Tireur',
+            'humanite': "L'Humanité",
+            'liberation': 'Libération'
+        };
 
         const articleDatesByYear = {
             '1947': {
@@ -251,8 +260,52 @@
             throw lastError;
         }
 
-        function contentPaths(directory, filename) {
+        function detailedDescriptionPaths(filename) {
             return [
+                `../gallica_analysis/analysis_outputs/descriptions/detailed_descriptions/${currentYear}/${filename}`,
+                `./gallica_analysis/analysis_outputs/descriptions/detailed_descriptions/${currentYear}/${filename}`,
+                `/gallica_analysis/analysis_outputs/descriptions/detailed_descriptions/${currentYear}/${filename}`,
+                `../gallica_analysis/detailed_descriptions_gemini/${currentYear}/${filename}`,
+                `./gallica_analysis/detailed_descriptions_gemini/${currentYear}/${filename}`
+            ];
+        }
+
+        function sourcedDescriptionPaths(filename) {
+            return [
+                `../gallica_analysis/analysis_outputs/descriptions/sourced_descriptions/${currentYear}/${filename}`,
+                `./gallica_analysis/analysis_outputs/descriptions/sourced_descriptions/${currentYear}/${filename}`,
+                `/gallica_analysis/analysis_outputs/descriptions/sourced_descriptions/${currentYear}/${filename}`,
+                `../gallica_analysis/sourced_descriptions_gemini/${currentYear}/${filename}`,
+                `./gallica_analysis/sourced_descriptions_gemini/${currentYear}/${filename}`
+            ];
+        }
+
+        function cleanArticlePaths(filename, newspaper = currentNewspaper) {
+            return [
+                `../gallica_analysis/analysis_outputs/clean_articles/${newspaper}/${currentYear}/${filename}`,
+                `./gallica_analysis/analysis_outputs/clean_articles/${newspaper}/${currentYear}/${filename}`,
+                `/gallica_analysis/analysis_outputs/clean_articles/${newspaper}/${currentYear}/${filename}`,
+                `../gallica_analysis/analysis_outputs/clean_articles/${currentYear}/${filename}`,
+                `./gallica_analysis/analysis_outputs/clean_articles/${currentYear}/${filename}`,
+                `../gallica_analysis/clean_articles_gemini/${currentYear}/${filename}`,
+                `./gallica_analysis/clean_articles_gemini/${currentYear}/${filename}`
+            ];
+        }
+
+        function contentPaths(directory, filename) {
+            if (directory.includes('sourced')) {
+                return sourcedDescriptionPaths(filename);
+            }
+            if (directory.includes('detailed')) {
+                return detailedDescriptionPaths(filename);
+            }
+            if (directory.includes('clean') || directory.includes('article')) {
+                return cleanArticlePaths(filename);
+            }
+            return [
+                `../gallica_analysis/analysis_outputs/${directory}/${currentYear}/${filename}`,
+                `./gallica_analysis/analysis_outputs/${directory}/${currentYear}/${filename}`,
+                `/gallica_analysis/analysis_outputs/${directory}/${currentYear}/${filename}`,
                 `../gallica_analysis/${directory}/${currentYear}/${filename}`,
                 `./gallica_analysis/${directory}/${currentYear}/${filename}`
             ];
@@ -261,7 +314,10 @@
         function arkCachePaths() {
             return [
                 '../gallica_analysis/cache/equipe_ark_ids.json',
-                './gallica_analysis/cache/equipe_ark_ids.json'
+                './gallica_analysis/cache/equipe_ark_ids.json',
+                '/gallica_analysis/cache/equipe_ark_ids.json',
+                '../gallica_analysis/analysis_outputs/cache/equipe_ark_ids.json',
+                './gallica_analysis/analysis_outputs/cache/equipe_ark_ids.json'
             ];
         }
 
@@ -314,14 +370,15 @@
             }
 
             const [descriptionResult, sourcedDescriptionResult, articleResult, arkCacheResult] = await Promise.allSettled([
-                fetchFromPaths(contentPaths('detailed_descriptions_gemini', currentFile)),
-                fetchFromPaths(contentPaths('sourced_descriptions_gemini', currentFile)),
-                fetchFromPaths(contentPaths('clean_articles_gemini', articleFilename)),
+                fetchFromPaths(detailedDescriptionPaths(currentFile)),
+                fetchFromPaths(sourcedDescriptionPaths(currentFile)),
+                fetchFromPaths(cleanArticlePaths(articleFilename)),
                 loadArkCache()
             ]);
 
             if (requestId !== contentRequest) return;
 
+            const newspaperLabel = newspaperNames[currentNewspaper] || "L'Équipe";
             const formattedDate = formatArticleDate(articleDate);
             const articleDateText = formattedDate ? ` du ${formattedDate}` : '';
 
@@ -381,7 +438,7 @@
                                 <path d="M15 18h-5"></path>
                                 <path d="M10 6h8v4h-8V6Z"></path>
                             </svg>
-                            <span>Article de L'Équipe${articleDateText}</span>
+                            <span>Article de ${newspaperLabel}${articleDateText}</span>
                         </h2>
                         <a class="gallica-link-btn" id="gallica-article-link" href="#" target="_blank" rel="noopener noreferrer" hidden title="Consulter l'édition sur Gallica (BnF)">
                             <span>Voir sur Gallica</span>
@@ -399,7 +456,7 @@
 
             // Setup Gallica ARK link
             const gallicaLink = document.getElementById('gallica-article-link');
-            if (arkCacheResult.status === 'fulfilled') {
+            if (currentNewspaper === 'equipe' && arkCacheResult && arkCacheResult.status === 'fulfilled') {
                 const arkId = articleDate ? arkCacheResult.value[articleDate] : null;
                 if (typeof arkId === 'string' && /^[a-zA-Z0-9]+$/.test(arkId)) {
                     gallicaLink.href = `https://gallica.bnf.fr/ark:/12148/${arkId}`;
@@ -410,7 +467,9 @@
                 }
             } else {
                 gallicaLink.hidden = true;
-                console.error(arkCacheResult.reason);
+                if (arkCacheResult && arkCacheResult.status === 'rejected') {
+                    console.error(arkCacheResult.reason);
+                }
             }
 
             // Render Clean Article

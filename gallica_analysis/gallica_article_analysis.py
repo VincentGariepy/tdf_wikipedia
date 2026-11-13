@@ -236,7 +236,7 @@ def create_stage_summary(year: int, stage_num: int, article_text: str):
                 ---
                 ### WRITING INSTRUCTIONS & STYLISTIC GUIDELINES
 
-                1. **Format**: Output valid HTML. Use "[n]" footnotes to cite specific source sections corresponding to the statements or paragraphs. Only cite section numbers from the available section numbers listed above; never infer or invent a section number.
+                1. **Format**: Output valid HTML. Use "[n]" footnotes(with a space between the text and the "[n]") to cite specific source sections corresponding to the statements or paragraphs. Only cite section numbers from the available section numbers listed above; never infer or invent a section number.
                 2. **Tone**: Strictly encyclopedic, neutral, and sober (Wikipedia style). Avoid journalistic sensationalism, sports metaphors, or literary prose.
                 3. **Prohibited Vocabulary & Idioms**:
                 - DO NOT use journalistic idioms (e.g., replace "reprend ses droits" with "reprend après X années d'interruption").
@@ -306,7 +306,7 @@ def reformat_sources(article_sources: dict[str, str], already_source: dict[str, 
         # convert <ref name=":1"> to <ref name=":1" />
         already_source[section] = full_source.split('{')[0][:-2] + " />"
 
-    return "{{,}} ".join(formatted_sources)
+    return "{{,}}".join(formatted_sources)
 
 def source_description(description: str, article_sources: dict[str, str]) -> str:
     already_source = {}
