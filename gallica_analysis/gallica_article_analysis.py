@@ -10,28 +10,25 @@ from pydantic import BaseModel, Field
 from typing import Optional, List
 from datetime import datetime
 from functools import partial
+from enum import Enum
 
-from gallica_analysis.gallica_article_parsing import parse_str_index_datetime
+from gallica_analysis.gallica_article_parsing import parse_str_index_datetime, SOURCES
 
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 OPENROUTER_BASE_URL = "https://openrouter.ai/api"
 
-GALLICA_SOURCE_FORMAT_WITH_AUTHOR = """<ref name=":{ref_num}">{{{{Article|langue=fr|auteur1={author}|titre={title}|périodique=L'Équipe : Le stade, l'air, la route|pages={page_num}|date={str_date}|lire en ligne={{{{Gallica|id={ark_id}/f{page_num}}}}}|accès url=libre}}}}.</ref>"""
-GALLICA_SOURCE_FORMAT_WITHOUT_AUTHOR = """<ref name=":{ref_num}">{{{{Article|langue=fr|titre={title}|périodique=L'Équipe : Le stade, l'air, la route|pages={page_num}|date={str_date}|lire en ligne={{{{Gallica|id={ark_id}/f{page_num}}}}}|accès url=libre}}}}.</ref>"""
-
 API_KEY = os.getenv("GOOGLE_AI_WIKI_KEY")
 GEMINI_SUMMARY_MODEL = "gemini-3.8-flash"
 
-equipe_ark_cache = 'gallica_analysis/cache/equipe_ark_ids.json'
 
-gemini_article_paths = 'gallica_analysis/full_articles_gemini/{year}/'
-gemini_clean_article_paths = 'gallica_analysis/clean_articles_gemini/{year}/'
-gemini_detailed_description_paths = 'gallica_analysis/detailed_descriptions_gemini/{year}/'
-gemini_detailed_sourced_description_paths = 'gallica_analysis/sourced_descriptions_gemini/{year}/'
-cohere_article_paths = 'gallica_analysis/full_articles_cohere/{year}/'
-cohere_clean_article_paths = 'gallica_analysis/clean_articles_cohere/{year}/'
-cohere_detailed_description_paths = 'gallica_analysis/detailed_descriptions_cohere/{year}/'
-cohere_detailed_sourced_description_paths = 'gallica_analysis/sourced_descriptions_cohere/{year}/'
+ark_ids_cache_paths = 'gallica_analysis/cache/ark_ids/{journal}_ark_ids'
+article_paths = 'gallica_analysis/analysis_output/full_articles/{journal}/{year}/'
+clean_article_paths = 'gallica_analysis/analysis_output/clean_articles/{journal}/{year}/'
+detailed_description_paths = 'gallica_analysis/analysis_output/detailed_descriptions/{year}/'
+detailed_sourced_description_paths = 'gallica_analysis/analysis_output/sourced_descriptions/{year}/'
+
+with open('gallica_analysis/journal_metadata.json', 'r', encoding='utf-8') as f:
+    journal_metadata = json.load(f)
 
 description_example = """
 ## Résumé de l'étape
@@ -80,17 +77,25 @@ class ArticleSources(BaseModel):
         for source in self.sources.keys():
             print(f"Section : {str(source)}, Author : {self.sources[source].author}, Title : {self.sources[source].title}")
 
-def build_full_source(article_metadata: ArticleMetadata, page_num: str, ref_num: str, ark_id: str, date: str) -> str:
+def build_full_source(article_metadata: ArticleMetadata, 
+                      page_num: str, 
+                      ref_num: str, 
+                      ark_id: str, 
+                      date: str,
+                      source: str
+                    ) -> str:
+    assert source in SOURCES
+
     try:
-            locale.setlocale(locale.LC_TIME, "fr_FR.UTF-8")
+        locale.setlocale(locale.LC_TIME, "fr_FR.UTF-8")
     except locale.Error:
         # Fallback syntax for Windows systems
-        locale.setlocale(locale.LC_TIME, "french")
+        locale.setlocale(locale.LC_TIME, "french")    
 
     formatted_date = datetime.strftime(parse_str_index_datetime(date), '%d %B %Y')
     
     if article_metadata.author is not None and article_metadata.author != "":
-        return GALLICA_SOURCE_FORMAT_WITH_AUTHOR.format(
+        return journal_metadata["journal"][source]['source_format_with_author'].format(
             author=article_metadata.author,
             title=article_metadata.title,
             page_num=page_num,
@@ -99,7 +104,7 @@ def build_full_source(article_metadata: ArticleMetadata, page_num: str, ref_num:
             str_date=formatted_date
         )
     else:
-        return GALLICA_SOURCE_FORMAT_WITHOUT_AUTHOR.format(
+        return journal_metadata["journal"][source]['source_format_without_author'].format(
             title=article_metadata.title,
             page_num=page_num,
             ref_num=ref_num,
@@ -108,14 +113,18 @@ def build_full_source(article_metadata: ArticleMetadata, page_num: str, ref_num:
         ) 
 
 
-def get_sources_article(article_entry_text: str, date: str) -> ArticleSources:
+def get_source_article(article_entry_text: str, date: str, source: str) -> ArticleSources:
+    assert source in SOURCES 
+
     client = genai.Client(api_key=API_KEY)
+
+    full_name = journal_metadata["journal"][source]['full_name']
 
     interaction = client.interactions.create(
         model=GEMINI_SUMMARY_MODEL,
         input=[
             {"type": "text", 
-                "text": f"""The following text is a collection of short entries from the L'Équipe journal from {date}, your task
+                "text": f"""The following text is a collection of short entries from the {full_name} journal from {date}, your task
                             is to extract the title and author of each entry, there may not be an author so you can leave that
                             blank but you should always find a title or give one that makes sense. You should also include the section number
                             for each source. For the titles and authors, make sure they follow the standard french capitalization, meaning only capitalize
@@ -134,13 +143,19 @@ def get_sources_article(article_entry_text: str, date: str) -> ArticleSources:
 
     return article_sources
 
-def clean_article(article_text: str, year: int, date: str) -> str:
+def clean_article(article_text: str, year: int, date: str, source: str) -> str:
+    assert source in SOURCES
+    full_name = journal_metadata["journal"][source]["full_name"]
+    source_index = journal_metadata["journal"][source]["source_index"]
+
     client = TypeSafeClient(
         api_key=OPENROUTER_API_KEY,
         base_url=OPENROUTER_BASE_URL
     )
 
-    with open(equipe_ark_cache, 'r', encoding='utf-8') as f:
+    ark_ids_cache_path = ark_ids_cache_paths.format(journal=source)
+
+    with open(ark_ids_cache_path, 'r', encoding='utf-8') as f:
         ark_id_cache = json.load(f)
         article_ark_id = ark_id_cache[date]
 
@@ -154,19 +169,19 @@ def clean_article(article_text: str, year: int, date: str) -> str:
         response = client.system_one(
             state={'document': split},
             questions={
-                "cleaned_article": Noul(instructions=f"This is a part of the L'Équipe Journal from {str(year)}, is this article or snippet related to reporting on the Tour de France Cycling race ?")
+                "cleaned_article": Noul(instructions=f"This is a part of the {full_name} Journal from {str(year)}, is this article or snippet related to reporting on the Tour de France Cycling race ?")
             }
         )
 
         if response.answers['cleaned_article'].noul >= 0.5:
             source_counter += 1
             cleaned_article +=\
-            f"\n\nSection {i + 1} : " +\
+            f"\n\nSection {source_index}.{i + 1} : " +\
             f"\n\nSource : {f'wiki_source_{page_counter}_{i+1}_{source_counter}'}" +\
             split +\
             "-----"
     
-    sources = get_sources_article(cleaned_article, date)
+    sources = get_source_article(cleaned_article, date, source)
 
     regex_pattern = r"wiki_source_(\d+)_(\d+)_(\d+)"
     str_matches = re.findall(regex_pattern, cleaned_article)
@@ -174,17 +189,15 @@ def clean_article(article_text: str, year: int, date: str) -> str:
     for page_num, section_num, ref_num in str_matches:
         cleaned_article = cleaned_article.replace(
             f"wiki_source_{page_num}_{section_num}_{ref_num}", 
-            build_full_source(sources.sources[int(section_num)], int(page_num), int(ref_num), article_ark_id, date))
+            build_full_source(sources.sources[int(section_num)], int(page_num), int(ref_num), article_ark_id, date, source))
 
     return cleaned_article
 
-def clean_tdf_articles(year: int, parsing_tool: Literal['Cohere', 'Gemini'], overwrite: bool):
-    if parsing_tool == 'Cohere':
-        article_dir = cohere_article_paths.format(year=year)
-        clean_article_dir = cohere_clean_article_paths.format(year=year)
-    else:
-        article_dir = gemini_article_paths.format(year=year)
-        clean_article_dir = gemini_clean_article_paths.format(year=year)
+def clean_tdf_articles(year: int, overwrite: bool, source: str):
+    assert source in SOURCES
+    
+    article_dir = article_paths.format(journal=source, year=year)
+    clean_article_dir = clean_article_paths.format(journal=source, year=year)
 
     for filename in tqdm.tqdm(os.listdir(article_dir), desc=f"Processing articles for {year}"):
         if filename.endswith(".txt"):
@@ -204,6 +217,12 @@ def clean_tdf_articles(year: int, parsing_tool: Literal['Cohere', 'Gemini'], ove
 
             with open(clean_article_path, 'w', encoding='utf-8') as f:
                 f.write(cleaned_text)
+
+def clean_tdf_articles(year: int, overwrite: bool, sources: list[str]):
+    assert set(sources).issubset(SOURCES)
+
+    for source in sources:
+        clean_tdf_articles(year, overwrite, source)
 
 def create_stage_summary(year: int, stage_num: int, article_text: str):
     client = genai.Client(api_key=API_KEY)
@@ -257,13 +276,8 @@ def create_stage_summary(year: int, stage_num: int, article_text: str):
     )
     return interaction.output_text
 
-def create_stage_summaries_for_year(year: int, parsing_tool: Literal['Cohere', 'Gemini'], overwrite: bool):
-    if parsing_tool == 'Cohere':
-        article_dir = cohere_clean_article_paths.format(year=year)
-        detailed_description_dir = cohere_detailed_description_paths.format(year=year)
-    else:
-        article_dir = gemini_clean_article_paths.format(year=year)
-        detailed_description_dir = gemini_detailed_description_paths.format(year=year)
+def create_stage_summaries_for_year(year: int, overwrite: bool):
+    #TODO: get all articles and make sure sources have a sortof prefix [1.1]
 
     for filename in tqdm.tqdm(os.listdir(article_dir), desc=f"Creating stage summaries for {year}"):
         if filename.endswith(".txt"):
@@ -316,36 +330,36 @@ def source_description(description: str, article_sources: dict[str, str]) -> str
     callback = partial(reformat_sources, article_sources, already_source)
     return re.sub(pattern, callback, description)
 
-def add_sources_description(year: int, parsing_tool: Literal['Cohere', 'Gemini'], overwrite: bool):
-    if parsing_tool == 'Cohere':
-        article_dir = cohere_clean_article_paths.format(year=year)
-        description_dir = cohere_detailed_description_paths.format(year=year)
-        sourced_description_dir = cohere_detailed_sourced_description_paths.format(year=year)
-    else:
-        article_dir = gemini_clean_article_paths.format(year=year)
-        description_dir = gemini_detailed_description_paths.format(year=year)
-        sourced_description_dir = gemini_detailed_sourced_description_paths.format(year=year)
+def add_sources_description(year: int, overwrite: bool, sources: List[str]):
+    assert set(sources).issubset(SOURCES)
+
+    description_dir = detailed_description_paths.format(year=year)
+    sourced_description_dir = detailed_sourced_description_paths.format(year=year)
 
     for filename in tqdm.tqdm(os.listdir(description_dir), desc=f"Creating stage summaries for {year}"):
         if filename.endswith(".html"):
             stage_num = int(filename.split("_")[-1].split(".")[0])
             description_path = os.path.join(description_dir, filename)
-            article_path = os.path.join(article_dir, filename.replace('.html', '.txt'))
 
             sourced_description_path = os.path.join(sourced_description_dir, f"stage_{stage_num}.html")
 
             if not overwrite and os.path.exists(sourced_description_path):
                 continue
 
-            with open(article_path, 'r', encoding='utf-8') as f:
-                article_text = f.read()
+            source_dict = {}
+            for source in sources:
+                article_dir = clean_article_paths.format(journal=source, year=year)
+                article_path = os.path.join(article_dir, filename.replace('.html', '.txt'))
 
-            source_dic = build_source_dictionnary(article_text)
+                with open(article_path, 'r', encoding='utf-8') as f:
+                    article_text = f.read()
+
+                source_dict = source_dict | build_source_dictionnary(article_text)
 
             with open(description_path, 'r', encoding='utf-8') as f:
                 description_text = f.read()
 
-            sourced_description = source_description(description_text, source_dic)
+            sourced_description = source_description(description_text, source_dict)
 
             with open(sourced_description_path, 'w', encoding='utf-8') as f:
                 f.write(sourced_description)
