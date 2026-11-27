@@ -35,8 +35,8 @@ SUMMARY_CONFIG = types.GenerateContentConfig(
 ark_ids_cache_paths = 'gallica_analysis/cache/ark_ids/{journal}_ark_ids.json'
 article_paths = 'gallica_analysis/analysis_outputs/full_articles/{journal}/{year}/'
 clean_article_paths = 'gallica_analysis/analysis_outputs/clean_articles/{journal}/{year}/'
-detailed_description_paths = 'gallica_analysis/analysis_outputs/detailed_descriptions/{year}/'
-detailed_sourced_description_paths = 'gallica_analysis/analysis_outputs/sourced_descriptions/{year}/'
+detailed_description_paths = 'gallica_analysis/analysis_outputs/descriptions/detailed_descriptions/{year}/'
+detailed_sourced_description_paths = 'gallica_analysis/analysis_outputs/descriptions/sourced_descriptions/{year}/'
 
 with open('gallica_analysis/journal_metadata.json', 'r', encoding='utf-8') as f:
     journal_metadata = json.load(f)
@@ -279,10 +279,11 @@ def clean_tdf_journals(year: int, overwrite: bool, sources: dict[str, str]):
 def create_stage_summary_request(year: int, stage_num: int, article_texts: dict[str, str]) ->  list[types.InlinedRequest]:
     available_sections = {}
     articles_text = ""
-    for source in article_texts.keys:
+    for source in article_texts.keys():
         article_text = article_texts[source]
         available_sections[source] = sorted(
-            {int(section) for section in re.findall(r"(?m)^Section\s+(\d+\.\d+)\s*:", article_text)}
+            set(re.findall(r"(?m)^Section\s+(\d+\.\d+)\s*:", article_text)),
+            key=lambda s: tuple(map(int, s.split("."))),
         )
         source_full_name = journal_metadata['journal'][source]['full_name']
         articles_text += f"{source_full_name} : \n\n\n {re.sub(r"^Source\s*:.*(?:\r?\n)?", "", article_text, flags=re.MULTILINE)}"
@@ -310,7 +311,7 @@ def create_stage_summary_request(year: int, stage_num: int, article_texts: dict[
                 +++++++++++++++++++++++
                 ### WRITING INSTRUCTIONS & STYLISTIC GUIDELINES
 
-                1. **Format**: Output valid HTML. Use "[x.y]]" footnotes(with a space between the text and the "[n]") to cite specific source sections corresponding to the statements or paragraphs. Only cite section numbers from the available section numbers listed above; never infer or invent a section number.
+                1. **Format**: Output valid HTML. Use "[x.y]" for a single citation and "[x.y, z.w]" (comma-separated inside a single pair of brackets, never "[x.y], [z.w]") for multiple citations, with a space before the opening "[". Only cite section numbers from the available section numbers listed above; never infer or invent a section number.
                 2. **Tone**: Strictly encyclopedic, neutral, and sober (Wikipedia style). Avoid journalistic sensationalism, sports metaphors, or literary prose.
                 3. **Prohibited Vocabulary & Idioms**:
                 - DO NOT use journalistic idioms (e.g., replace "reprend ses droits" with "reprend après X années d'interruption").
@@ -330,7 +331,7 @@ def create_stage_summary_request(year: int, stage_num: int, article_texts: dict[
     return types.InlinedRequest(
             contents=[prompt],
             config=SUMMARY_CONFIG,
-            metadata={"year": year, "stage": stage_num}
+            metadata={"year": str(year), "stage": str(stage_num)}
         )
 
 def request_batch_summary(requests: list[types.InlinedRequest], year: int) -> list[types.InlinedResponse]:
@@ -360,10 +361,10 @@ def request_batch_summary(requests: list[types.InlinedRequest], year: int) -> li
     else:
         raise(f"Job failed with error: {batch_job.error}")
 
-def process_batch_requests(responses: list[types.InlinedResponse], year: int):
+def process_batch_requests(responses: list[types.InlinedResponse], year: int, overwrite: bool):
     for item in responses:
-        stage = item.metadata.get("stage_num")
-        assert (1 <= stage <= 21) ("Stage not between 1 and 21")
+        stage = int(item.metadata.get("stage"))
+        assert (1 <= stage <= 21)
 
         try:
             stage_summary = item.response.text
@@ -373,20 +374,24 @@ def process_batch_requests(responses: list[types.InlinedResponse], year: int):
 
         detailed_description_path = os.path.join(detailed_description_paths.format(year=year), f"stage_{stage}.html")
 
+        if not overwrite and os.path.exists(detailed_description_path):
+            continue
+
         with open(detailed_description_path, 'w', encoding='utf-8') as f:
             f.write(stage_summary)
 
 def get_all_articles(year: int, stage: int, sources: list[str]) -> dict[str, str]:
     articles = {}
     for source in sources:
-        article_path = f"{article_paths.format(journal=source, year=year)}/stage_{stage}.txt"
+        article_path = f"{clean_article_paths.format(journal=source, year=year)}/stage_{stage}.txt"
         if not os.path.exists(article_path):
-            article_path = f"{article_paths.format(journal=source, year=year)}/stage_{stage+1}.txt"
+            article_path = f"{clean_article_paths.format(journal=source, year=year)}/stage_{stage+1}.txt"
             if not os.path.exists(article_path):
-                return
+                continue
 
-        with open(f"{article_paths.format(journal=source, year=year)}/stage_{stage}.txt", "r", encoding="utf-8") as f:
+        with open(article_path, "r", encoding="utf-8") as f:
             articles[source] = f.read()
+    return articles
 
 def create_stage_summaries_for_year(year: int, overwrite: bool, sources: list[str], stages: int = 21, test: bool=False):
     assert set(sources).issubset(SOURCES)
@@ -404,9 +409,12 @@ def create_stage_summaries_for_year(year: int, overwrite: bool, sources: list[st
 
         summary_requests.append(create_stage_summary_request(year, stage, article_texts))
 
+    if not summary_requests:
+        return
+    
     summary_responses = request_batch_summary(summary_requests, year)
     
-    process_batch_requests(summary_responses, year)
+    process_batch_requests(summary_responses, year, overwrite)
 
 def build_source_dictionnary(article_text: str) -> dict[str, str]:
     pattern = r"Section\s+(\d+\.\d+)[\s\S]*?(<ref[^>]*>([\s\S]*?)</ref>)"
@@ -452,7 +460,7 @@ def add_sources_description(year: int, overwrite: bool, sources: List[str]):
     description_dir = detailed_description_paths.format(year=year)
     sourced_description_dir = detailed_sourced_description_paths.format(year=year)
 
-    for filename in tqdm.tqdm(os.listdir(description_dir), desc=f"Creating stage summaries for {year}"):
+    for filename in tqdm.tqdm(os.listdir(description_dir), desc=f"Adding sources to stage summaries for {year}"):
         if filename.endswith(".html"):
             stage_num = int(filename.split("_")[-1].split(".")[0])
             description_path = os.path.join(description_dir, filename)
@@ -463,13 +471,8 @@ def add_sources_description(year: int, overwrite: bool, sources: List[str]):
                 continue
 
             source_dict = {}
-            for source in sources:
-                article_dir = clean_article_paths.format(journal=source, year=year)
-                article_path = os.path.join(article_dir, filename.replace('.html', '.txt'))
-
-                with open(article_path, 'r', encoding='utf-8') as f:
-                    article_text = f.read()
-
+            article_texts = get_all_articles(year, stage_num, sources)
+            for article_text in article_texts.values():
                 source_dict = source_dict | build_source_dictionnary(article_text)
 
             with open(description_path, 'r', encoding='utf-8') as f:

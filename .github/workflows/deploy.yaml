@@ -31,7 +31,7 @@ jobs:
           mkdir -p _site/gallica_analysis/cache
           cp -R description_website/. _site/
           cp -R gallica_analysis/analysis_outputs _site/gallica_analysis/
-          cp gallica_analysis/cache/equipe_ark_ids.json _site/gallica_analysis/cache/
+          cp -R gallica_analysis/cache/ark_ids _site/gallica_analysis/cache/
 
       - name: Upload Website Artifact
         uses: actions/upload-pages-artifact@v3

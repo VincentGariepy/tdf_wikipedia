@@ -14,7 +14,7 @@
             <img src="tour-de-france-logo.png" alt="Logo Tour de France" class="brand-logo" width="44" height="44">
             <div class="brand-info">
                 <h1 class="brand-title">Descriptions détaillées du Tour de France</h1>
-                <p class="brand-subtitle">Archives de L'Équipe</p>
+                <p class="brand-subtitle">Archives de presse (Gallica / BnF)</p>
             </div>
         </div>
     </header>
@@ -71,16 +71,19 @@
         let currentNewspaper = 'equipe';
         let currentDescriptionType = 'detailed';
         let currentSourcedRawText = '';
+        let currentStageArticles = {};
         let contentRequest = 0;
-        let arkCachePromise;
+        const arkCachePromises = {};
 
-        const newspaperNames = {
-            'equipe': "L'Équipe",
-            'figaro': 'Le Figaro',
-            'franc_tireur': 'Franc-Tireur',
-            'humanite': "L'Humanité",
-            'liberation': 'Libération'
-        };
+        const NEWSPAPERS = [
+            { id: 'equipe', label: "L'Équipe", sectionPrefix: '1' },
+            { id: 'figaro', label: 'Le Figaro', sectionPrefix: '2' },
+            { id: 'franc_tireur', label: 'Franc-Tireur', sectionPrefix: '3' },
+            { id: 'humanite', label: "L'Humanité", sectionPrefix: '4' },
+            { id: 'liberation', label: 'Libération', sectionPrefix: '5' }
+        ];
+
+        const newspaperNames = Object.fromEntries(NEWSPAPERS.map(n => [n.id, n.label]));
 
         const articleDatesByYear = {
             '1947': {
@@ -284,53 +287,97 @@
             return [
                 `../gallica_analysis/analysis_outputs/clean_articles/${newspaper}/${currentYear}/${filename}`,
                 `./gallica_analysis/analysis_outputs/clean_articles/${newspaper}/${currentYear}/${filename}`,
-                `/gallica_analysis/analysis_outputs/clean_articles/${newspaper}/${currentYear}/${filename}`,
-                `../gallica_analysis/analysis_outputs/clean_articles/${currentYear}/${filename}`,
-                `./gallica_analysis/analysis_outputs/clean_articles/${currentYear}/${filename}`,
-                `../gallica_analysis/clean_articles_gemini/${currentYear}/${filename}`,
-                `./gallica_analysis/clean_articles_gemini/${currentYear}/${filename}`
+                `/gallica_analysis/analysis_outputs/clean_articles/${newspaper}/${currentYear}/${filename}`
             ];
         }
 
-        function contentPaths(directory, filename) {
-            if (directory.includes('sourced')) {
-                return sourcedDescriptionPaths(filename);
+        async function fetchCleanArticleWithFallback(newspaper, stageNumber) {
+            try {
+                const text = await fetchFromPaths(cleanArticlePaths(`stage_${stageNumber}.txt`, newspaper));
+                return { text, resolvedStage: stageNumber, isNextStageFallback: false };
+            } catch (primaryError) {
+                const nextStage = stageNumber + 1;
+                try {
+                    const text = await fetchFromPaths(cleanArticlePaths(`stage_${nextStage}.txt`, newspaper));
+                    return { text, resolvedStage: nextStage, isNextStageFallback: true };
+                } catch {
+                    throw primaryError;
+                }
             }
-            if (directory.includes('detailed')) {
-                return detailedDescriptionPaths(filename);
-            }
-            if (directory.includes('clean') || directory.includes('article')) {
-                return cleanArticlePaths(filename);
-            }
+        }
+
+        function arkCachePaths(newspaper) {
             return [
-                `../gallica_analysis/analysis_outputs/${directory}/${currentYear}/${filename}`,
-                `./gallica_analysis/analysis_outputs/${directory}/${currentYear}/${filename}`,
-                `/gallica_analysis/analysis_outputs/${directory}/${currentYear}/${filename}`,
-                `../gallica_analysis/${directory}/${currentYear}/${filename}`,
-                `./gallica_analysis/${directory}/${currentYear}/${filename}`
+                `../gallica_analysis/cache/ark_ids/${newspaper}_ark_ids.json`,
+                `./gallica_analysis/cache/ark_ids/${newspaper}_ark_ids.json`,
+                `/gallica_analysis/cache/ark_ids/${newspaper}_ark_ids.json`,
+                `../gallica_analysis/cache/${newspaper}_ark_ids.json`,
+                `./gallica_analysis/cache/${newspaper}_ark_ids.json`
             ];
         }
 
-        function arkCachePaths() {
-            return [
-                '../gallica_analysis/cache/equipe_ark_ids.json',
-                './gallica_analysis/cache/equipe_ark_ids.json',
-                '/gallica_analysis/cache/equipe_ark_ids.json',
-                '../gallica_analysis/analysis_outputs/cache/equipe_ark_ids.json',
-                './gallica_analysis/analysis_outputs/cache/equipe_ark_ids.json'
-            ];
-        }
-
-        function loadArkCache() {
-            if (!arkCachePromise) {
-                arkCachePromise = fetchFromPaths(arkCachePaths())
+        function loadArkCache(newspaper) {
+            if (!arkCachePromises[newspaper]) {
+                arkCachePromises[newspaper] = fetchFromPaths(arkCachePaths(newspaper))
                     .then(JSON.parse)
                     .catch(error => {
-                        arkCachePromise = undefined;
+                        delete arkCachePromises[newspaper];
                         throw error;
                     });
             }
-            return arkCachePromise;
+            return arkCachePromises[newspaper];
+        }
+
+        function switchNewspaper(newspaperId) {
+            currentNewspaper = newspaperId;
+            const info = currentStageArticles[newspaperId];
+            const newspaperLabel = newspaperNames[newspaperId] || newspaperId;
+
+            const heading = document.getElementById('article-heading');
+            const fallbackBadge = document.getElementById('article-fallback-badge');
+            const gallicaLink = document.getElementById('gallica-article-link');
+
+            if (heading) {
+                const resolvedDate = info?.articleDate || '';
+                const formattedDate = formatArticleDate(resolvedDate);
+                const dateText = formattedDate ? ` du ${formattedDate}` : '';
+                heading.textContent = `Article de ${newspaperLabel}${dateText}`;
+            }
+
+            if (fallbackBadge) {
+                if (info?.isNextStageFallback) {
+                    fallbackBadge.textContent = `Édition étape ${info.resolvedStage}`;
+                    fallbackBadge.title = `Aucun numéro disponible pour cette étape ; affichage de l'édition de l'étape ${info.resolvedStage}`;
+                    fallbackBadge.hidden = false;
+                } else {
+                    fallbackBadge.hidden = true;
+                }
+            }
+
+            if (gallicaLink) {
+                const arkId = info?.arkId;
+                if (typeof arkId === 'string' && /^[a-zA-Z0-9]+$/.test(arkId)) {
+                    gallicaLink.href = `https://gallica.bnf.fr/ark:/12148/${arkId}`;
+                    gallicaLink.hidden = false;
+                } else {
+                    gallicaLink.hidden = true;
+                }
+            }
+
+            NEWSPAPERS.forEach(n => {
+                const panel = document.getElementById(`article-content-${n.id}`);
+                const isActive = n.id === newspaperId;
+                if (panel) {
+                    panel.hidden = !isActive;
+                    panel.style.display = isActive ? '' : 'none';
+                }
+            });
+
+            document.querySelectorAll('.newspaper-tab-button').forEach(button => {
+                const isActive = button.dataset.newspaper === newspaperId;
+                button.classList.toggle('active', isActive);
+                button.setAttribute('aria-selected', String(isActive));
+            });
         }
 
         function formatArticleDate(dateStr) {
@@ -352,8 +399,6 @@
             const requestId = ++contentRequest;
             const container = document.getElementById('content-area');
             const stageNumber = Number(currentFile.match(/^stage_(\d+)\.html$/)?.[1]);
-            const articleFilename = `stage_${stageNumber}.txt`;
-            const articleDate = articleDatesByYear[currentYear]?.[stageNumber];
 
             container.innerHTML = `
                 <div class="loading-container">
@@ -369,18 +414,75 @@
                 return;
             }
 
-            const [descriptionResult, sourcedDescriptionResult, articleResult, arkCacheResult] = await Promise.allSettled([
-                fetchFromPaths(detailedDescriptionPaths(currentFile)),
-                fetchFromPaths(sourcedDescriptionPaths(currentFile)),
-                fetchFromPaths(cleanArticlePaths(articleFilename)),
-                loadArkCache()
+            const [descriptionResult, sourcedDescriptionResult, articleResults, arkCacheResults] = await Promise.all([
+                fetchFromPaths(detailedDescriptionPaths(currentFile)).then(
+                    value => ({ status: 'fulfilled', value }),
+                    reason => ({ status: 'rejected', reason })
+                ),
+                fetchFromPaths(sourcedDescriptionPaths(currentFile)).then(
+                    value => ({ status: 'fulfilled', value }),
+                    reason => ({ status: 'rejected', reason })
+                ),
+                Promise.allSettled(NEWSPAPERS.map(n => fetchCleanArticleWithFallback(n.id, stageNumber))),
+                Promise.allSettled(NEWSPAPERS.map(n => loadArkCache(n.id)))
             ]);
 
             if (requestId !== contentRequest) return;
 
-            const newspaperLabel = newspaperNames[currentNewspaper] || "L'Équipe";
-            const formattedDate = formatArticleDate(articleDate);
-            const articleDateText = formattedDate ? ` du ${formattedDate}` : '';
+            currentStageArticles = {};
+            NEWSPAPERS.forEach((n, idx) => {
+                const artRes = articleResults[idx];
+                const arkRes = arkCacheResults[idx];
+                if (artRes.status === 'fulfilled') {
+                    const { text, resolvedStage, isNextStageFallback } = artRes.value;
+                    const articleDate = articleDatesByYear[currentYear]?.[resolvedStage] || '';
+                    const arkId = (arkRes.status === 'fulfilled' && articleDate)
+                        ? arkRes.value[articleDate]
+                        : null;
+                    currentStageArticles[n.id] = {
+                        available: true,
+                        text,
+                        resolvedStage,
+                        isNextStageFallback,
+                        articleDate,
+                        arkId
+                    };
+                } else {
+                    const articleDate = articleDatesByYear[currentYear]?.[stageNumber] || '';
+                    currentStageArticles[n.id] = {
+                        available: false,
+                        text: '',
+                        resolvedStage: stageNumber,
+                        isNextStageFallback: false,
+                        articleDate,
+                        arkId: null,
+                        reason: artRes.reason
+                    };
+                }
+            });
+
+            const newspaperTabsHtml = NEWSPAPERS.map(n => {
+                const info = currentStageArticles[n.id];
+                const isActive = n.id === currentNewspaper;
+                const classes = [
+                    'newspaper-tab-button',
+                    isActive ? 'active' : '',
+                    !info.available ? 'is-unavailable' : ''
+                ].filter(Boolean).join(' ');
+                const dot = info.isNextStageFallback
+                    ? `<span class="newspaper-tab-dot" title="Édition de l'étape ${info.resolvedStage}"></span>`
+                    : '';
+                return `<button type="button" role="tab" class="${classes}"
+                    data-newspaper="${n.id}"
+                    aria-selected="${isActive}"
+                    aria-controls="article-content-${n.id}"
+                    onclick="switchNewspaper('${n.id}')">${n.label}${dot}</button>`;
+            }).join('');
+
+            const articlePanelsHtml = NEWSPAPERS.map(n => {
+                const isActive = n.id === currentNewspaper;
+                return `<div class="column-content article-content" id="article-content-${n.id}" role="tabpanel"${isActive ? '' : ' hidden style="display: none;"'}></div>`;
+            }).join('');
 
             container.innerHTML = `
                 <section class="content-column description-column">
@@ -438,7 +540,8 @@
                                 <path d="M15 18h-5"></path>
                                 <path d="M10 6h8v4h-8V6Z"></path>
                             </svg>
-                            <span>Article de ${newspaperLabel}${articleDateText}</span>
+                            <span id="article-heading">Article</span>
+                            <span id="article-fallback-badge" class="fallback-pill" hidden></span>
                         </h2>
                         <a class="gallica-link-btn" id="gallica-article-link" href="#" target="_blank" rel="noopener noreferrer" hidden title="Consulter l'édition sur Gallica (BnF)">
                             <span>Voir sur Gallica</span>
@@ -449,43 +552,44 @@
                             </svg>
                         </a>
                     </div>
-                    <div class="column-content article-content" id="article-content"></div>
+                    <div class="newspaper-tabs-bar">
+                        <div class="newspaper-tabs" role="tablist" aria-label="Sélection du journal">
+                            ${newspaperTabsHtml}
+                        </div>
+                    </div>
+                    ${articlePanelsHtml}
                 </section>`;
 
             switchDescription(currentDescriptionType);
 
-            // Setup Gallica ARK link
-            const gallicaLink = document.getElementById('gallica-article-link');
-            if (currentNewspaper === 'equipe' && arkCacheResult && arkCacheResult.status === 'fulfilled') {
-                const arkId = articleDate ? arkCacheResult.value[articleDate] : null;
-                if (typeof arkId === 'string' && /^[a-zA-Z0-9]+$/.test(arkId)) {
-                    gallicaLink.href = `https://gallica.bnf.fr/ark:/12148/${arkId}`;
-                    gallicaLink.hidden = false;
+            // Render all 5 clean articles into their respective panels
+            const allSectionsByNumber = new Map();
+            NEWSPAPERS.forEach(n => {
+                const panel = document.getElementById(`article-content-${n.id}`);
+                const info = currentStageArticles[n.id];
+                if (info.available) {
+                    const sections = renderArticleSections(panel, info.text, n.id);
+                    for (const [sectionNumber, sectionEl] of sections.entries()) {
+                        if (!allSectionsByNumber.has(sectionNumber)) {
+                            allSectionsByNumber.set(sectionNumber, {
+                                element: sectionEl,
+                                newspaperId: n.id,
+                                panel
+                            });
+                        }
+                    }
                 } else {
-                    gallicaLink.hidden = true;
-                    console.error(`No Gallica ARK ID found for article dated ${articleDate || 'unknown'}.`);
+                    panel.innerHTML = `<div class="load-error-box"><p>Aucun article nettoyé de ${n.label} n’est disponible pour cette étape.</p></div>`;
                 }
-            } else {
-                gallicaLink.hidden = true;
-                if (arkCacheResult && arkCacheResult.status === 'rejected') {
-                    console.error(arkCacheResult.reason);
-                }
-            }
+            });
 
-            // Render Clean Article
-            const articleContent = document.getElementById('article-content');
-            if (articleResult.status === 'fulfilled') {
-                renderArticleSections(articleContent, articleResult.value);
-            } else {
-                articleContent.innerHTML = '<div class="load-error-box"><p>L’article nettoyé n’a pas pu être chargé.</p></div>';
-                console.error(articleResult.reason);
-            }
+            switchNewspaper(currentNewspaper);
 
             // Render Detailed Description
             if (descriptionResult.status === 'fulfilled') {
                 const descriptionContent = document.getElementById('detailed-description-content');
                 descriptionContent.innerHTML = descriptionResult.value;
-                linkDescriptionCitations(descriptionContent, articleContent);
+                linkDescriptionCitations(descriptionContent, allSectionsByNumber);
             } else {
                 document.getElementById('detailed-description-content').innerHTML =
                     '<div class="load-error-box"><p>La description détaillée n’a pas pu être chargée.</p></div>';
@@ -516,8 +620,8 @@
             }
         }
 
-        function renderArticleSections(articleContent, articleText) {
-            const sectionPattern = /^[ \t\r]*Section[ \t]+(\d+)[ \t\r]*:[ \t\r]*$/gim;
+        function renderArticleSections(articleContent, articleText, newspaperId) {
+            const sectionPattern = /^[ \t\r]*Section[ \t]+(\d+(?:\.\d+)?)[ \t\r]*:[ \t\r]*$/gim;
             const matches = [...articleText.matchAll(sectionPattern)];
             const sectionsByNumber = new Map();
 
@@ -543,8 +647,10 @@
                 const badge = document.createElement('span');
                 const textBlock = document.createElement('pre');
 
-                section.id = `article-section-${sectionNumber}`;
+                section.id = `article-section-${sectionNumber.replace('.', '-')}`;
                 section.className = 'article-section';
+                section.dataset.sectionNumber = sectionNumber;
+                section.dataset.newspaper = newspaperId;
                 section.tabIndex = -1;
 
                 header.className = 'article-section-header';
@@ -566,14 +672,8 @@
             return sectionsByNumber;
         }
 
-        function linkDescriptionCitations(descriptionContent, articleContent) {
-            const sectionsByNumber = new Map(
-                [...articleContent.querySelectorAll('.article-section')].map(section => [
-                    section.id.slice('article-section-'.length),
-                    section
-                ])
-            );
-            const citationPattern = /\[(\s*\d+(?:\s*,\s*\d+)*\s*)\]/g;
+        function linkDescriptionCitations(descriptionContent, allSectionsByNumber) {
+            const citationPattern = /\[(\s*\d+(?:\.\d+)?(?:\s*,\s*\d+(?:\.\d+)?)*\s*)\]/g;
             const textNodes = [];
             const walker = document.createTreeWalker(descriptionContent, NodeFilter.SHOW_TEXT);
 
@@ -593,14 +693,16 @@
 
                 while ((citationMatch = citationPattern.exec(textNode.textContent))) {
                     fragment.append(textNode.textContent.slice(cursor, citationMatch.index), '[');
-                    const citationParts = citationMatch[1].match(/\d+|[,\s]+/g) ?? [];
+                    const citationParts = citationMatch[1].match(/\d+(?:\.\d+)?|[,\s]+/g) ?? [];
                     for (const part of citationParts) {
-                        if (/^\d+$/.test(part) && sectionsByNumber.has(part)) {
+                        const target = /^\d+(?:\.\d+)?$/.test(part) ? allSectionsByNumber.get(part) : null;
+                        if (target) {
                             const link = document.createElement('a');
+                            const label = newspaperNames[target.newspaperId] || target.newspaperId;
                             link.className = 'article-citation';
-                            link.href = `#article-section-${part}`;
+                            link.href = `#${target.element.id}`;
                             link.textContent = part;
-                            link.title = `Accéder à la section ${part} de l'article`;
+                            link.title = `Accéder à la section ${part} (${label})`;
                             fragment.append(link);
                         } else {
                             fragment.append(part);
@@ -620,10 +722,15 @@
                     : null;
                 if (!link) return;
 
-                const section = sectionsByNumber.get(link.textContent);
-                if (!section) return;
+                const target = allSectionsByNumber.get(link.textContent);
+                if (!target) return;
 
                 event.preventDefault();
+                if (currentNewspaper !== target.newspaperId) {
+                    switchNewspaper(target.newspaperId);
+                }
+
+                const { element: section, panel: articleContent } = target;
                 articleContent.scrollTo({
                     top: articleContent.scrollTop
                         + section.getBoundingClientRect().top
