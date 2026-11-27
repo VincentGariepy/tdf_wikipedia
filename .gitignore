@@ -222,7 +222,7 @@ __marimo__/
 *.txt
 !requirements.txt
 !gallica_analysis/analysis_outputs/clean_articles/**/*.txt
-!gallica_analysis/cache/equipe_ark_ids.json
+!gallica_analysis/cache/ark_ids/*.json
 
 # Sensitive configs
 secrets.yaml
