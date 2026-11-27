@@ -5,7 +5,7 @@ import time as time_sleep
 from datetime import datetime, time, timedelta
 from pathlib import Path
 from google import genai
-from google.genai import types
+from google.genai import types, interactions
 from curl_cffi import requests as cffi_requests
 
 import tqdm
@@ -22,7 +22,16 @@ HEADERS = {
     "Referer": "https://gallica.bnf.fr/"
 }
 API_KEY = os.getenv("GOOGLE_AI_WIKI_KEY")
-GEMINI_EXTRACTION_MODEL = "gemini-4-hydrogen"
+GEMINI_EXTRACTION_MODEL = "gemini-3.8-flash"
+EXTRACTION_CONFIG = types.GenerateContentConfig(
+    thinking_config=types.ThinkingConfig(
+        thinking_level=types.ThinkingLevel.MEDIUM, # or low if not available, maybe go back to 3.8 for lower cost since less thinking
+    ),
+)
+EXTRACTION_CONFIG_INTERACTIONS = interactions.GenerationConfig(
+    thinking_config="low",
+)
+
 
 article_date_cache = 'gallica_analysis/cache/tdf_article_dates.json'
 ark_cache = 'gallica_analysis/cache/ark_ids/{journal}_ark_ids.json'
@@ -144,11 +153,13 @@ def parse_article_page_gemini(ark_id: str, page_num: int, source: str) -> str:
             # Send inline image interaction
             interaction = client.interactions.create(
                 model=GEMINI_EXTRACTION_MODEL,
+                generation_config=EXTRACTION_CONFIG_INTERACTIONS,
                 input=[
                     {
                         "type": "image",
                         "data": b64_data,
-                        "mime_type": "image/jpeg"
+                        "mime_type": "image/jpeg",
+                        "media_resolution": "utlra-high",
                     },
                     {"type": "text", 
                      "text": extract_prompt.format(journal_name=journal_metadata["journal"][source]["full_name"])}
@@ -218,20 +229,22 @@ def add_full_article_batch(ark_id: str, date: str, stage_num: int, source: str, 
                     types.Part.from_bytes(
                         data=image_bytes,
                         mime_type="image/jpeg",
+                        media_resolution=types.PartMediaResolutionLevel.MEDIA_RESOLUTION_ULTRA_HIGH,
                     ),
                     extract_prompt.format(journal_name=journal_metadata["journal"][source]["full_name"]),
                 ],
+                config=EXTRACTION_CONFIG,
                 metadata={"ark_id": ark_id, "page_num": str(page_num)}
             )
         )
 
-def request_batch_extraction(requests: list[types.InlinedRequest]) -> list[types.InlinedResponse]:
+def request_batch_extraction(requests: list[types.InlinedRequest], source: str) -> list[types.InlinedResponse]:
     client = genai.Client(api_key=API_KEY)
 
     batch_job = client.batches.create(
         model=GEMINI_EXTRACTION_MODEL,
         src=requests,
-        config={"display_name": "journal-transcripton-batch"}
+        config={"display_name": f"{source}-transcripton-batch"}
     )
 
     print(f"Batch job created: {batch_job.name} (State: {batch_job.state})")
@@ -252,8 +265,11 @@ def request_batch_extraction(requests: list[types.InlinedRequest]) -> list[types
     else:
         raise(f"Job failed with error: {batch_job.error}")
 
-def process_batch_requests(responses: list[types.InlinedResponse], ark_id: str, year: int, date: str, stage_num: int, source: str):
+def process_batch_requests(responses: list[types.InlinedResponse], ark_id: str, year: int, date: str, stage_num: int, source: str, overwrite: bool):
     assert source in SOURCES
+
+    if Path(article_paths.format(journal=source, year=year, date=date, stage_num=stage_num)).exists() and not overwrite:
+        return
 
     article_pages = []
     for item in responses:
@@ -274,13 +290,17 @@ def process_batch_requests(responses: list[types.InlinedResponse], ark_id: str, 
     with open(article_paths.format(journal=source, year=year, date=date, stage_num=stage_num), 'w', encoding='utf-8') as f:
         f.write(article_text)
 
-def parse_articles_for_tdf_year_batch(tdf_year: int, sources: list[str], overwrite: bool = False):
+def parse_articles_for_tdf_year_batch(tdf_year: int, sources: list[str], overwrite: bool = False, test: bool = False):
     assert set(sources).issubset(SOURCES)
 
     tdf_dates = get_tdf_stage_article_dates(tdf_year)
 
-    batch_requests = []
+    if test:
+        sources = [sources[0]]
+        tdf_dates = tdf_dates[:2]
+
     for source in sources:
+        batch_requests = []
         print(f"Processing source : {source}")
         for stage_num, date in tqdm.tqdm(enumerate(tdf_dates, start=1), "Creating batch"):
             ark_id = get_article_ark_id(date, source)
@@ -289,9 +309,9 @@ def parse_articles_for_tdf_year_batch(tdf_year: int, sources: list[str], overwri
 
         if not batch_requests:
             continue
-        batch_response = request_batch_extraction(batch_requests)
+        batch_response = request_batch_extraction(batch_requests, source)
 
         for stage_num, date in tqdm.tqdm(enumerate(tdf_dates, start=1), "Processing batch"):
             ark_id = get_article_ark_id(date, source)
             if ark_id is not None:
-                process_batch_requests(batch_response, ark_id, tdf_year, date, stage_num, source)
+                process_batch_requests(batch_response, ark_id, tdf_year, date, stage_num, source, overwrite=overwrite)

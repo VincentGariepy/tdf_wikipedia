@@ -1,12 +1,14 @@
 import os
 import re
 from typing import Literal
+import time as time_sleep
 import tqdm
 import json
 import locale
 from typesafe_sdk import TypeSafeClient, Noul
 from google import genai
-from pydantic import BaseModel, Field
+from google.genai import types, interactions
+from pydantic import BaseModel, Field, create_model
 from typing import Optional, List
 from datetime import datetime
 from functools import partial
@@ -18,14 +20,23 @@ OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 OPENROUTER_BASE_URL = "https://openrouter.ai/api"
 
 API_KEY = os.getenv("GOOGLE_AI_WIKI_KEY")
-GEMINI_SUMMARY_MODEL = "gemini-3.8-flash"
+GEMINI_REFERENCE_MODEL = "gemini-3.8-flash"
+REFERENCE_CONFIG = interactions.GenerationConfig(
+        thinking_level="low",
+)
+GEMINI_SUMMARY_MODEL = "gemini-4-hydrogen"
+SUMMARY_CONFIG = types.GenerateContentConfig(
+        thinking_config=types.ThinkingConfig(
+            thinking_level=types.ThinkingLevel.MEDIUM, # or low if not available, maybe go back to 3.8 for lower cost since less thinking
+    ),
+)
 
 
-ark_ids_cache_paths = 'gallica_analysis/cache/ark_ids/{journal}_ark_ids'
-article_paths = 'gallica_analysis/analysis_output/full_articles/{journal}/{year}/'
-clean_article_paths = 'gallica_analysis/analysis_output/clean_articles/{journal}/{year}/'
-detailed_description_paths = 'gallica_analysis/analysis_output/detailed_descriptions/{year}/'
-detailed_sourced_description_paths = 'gallica_analysis/analysis_output/sourced_descriptions/{year}/'
+ark_ids_cache_paths = 'gallica_analysis/cache/ark_ids/{journal}_ark_ids.json'
+article_paths = 'gallica_analysis/analysis_outputs/full_articles/{journal}/{year}/'
+clean_article_paths = 'gallica_analysis/analysis_outputs/clean_articles/{journal}/{year}/'
+detailed_description_paths = 'gallica_analysis/analysis_outputs/detailed_descriptions/{year}/'
+detailed_sourced_description_paths = 'gallica_analysis/analysis_outputs/sourced_descriptions/{year}/'
 
 with open('gallica_analysis/journal_metadata.json', 'r', encoding='utf-8') as f:
     journal_metadata = json.load(f)
@@ -71,7 +82,7 @@ class ArticleMetadata(BaseModel):
     title: str = Field(description="Title of the article")
 
 class ArticleSources(BaseModel):
-    sources: dict[int, ArticleMetadata] = Field(description="Dict containig the section number as key and author and title as value")
+    sources: dict[str, ArticleMetadata] = Field(description="Dict containig the section number as key and author and title as value")
 
     def print(self):
         for source in self.sources.keys():
@@ -113,21 +124,48 @@ def build_full_source(article_metadata: ArticleMetadata,
         ) 
 
 
-def get_source_article(article_entry_text: str, date: str, source: str) -> ArticleSources:
+def get_source_article(
+    article_entry_text: str,
+    date: str,
+    source: str,
+    section_ids: Optional[List[str]] = None,
+) -> ArticleSources:
     assert source in SOURCES 
 
     client = genai.Client(api_key=API_KEY)
 
     full_name = journal_metadata["journal"][source]['full_name']
 
+    if section_ids:
+        fields = {
+            f"section_{sid.replace('.', '_')}": (
+                ArticleMetadata,
+                Field(alias=sid, description=f"Title and author for Section {sid}"),
+            )
+            for sid in section_ids
+        }
+        DynamicSourcesMap = create_model("DynamicSourcesMap", **fields)
+        ResponseModel = create_model(
+            "DynamicArticleSources",
+            sources=(
+                DynamicSourcesMap,
+                Field(description="Dict containing each exact section number as key and author and title as value"),
+            ),
+        )
+        section_hint = f" You MUST return an entry for every one of these exact section keys: {', '.join(section_ids)}."
+    else:
+        ResponseModel = ArticleSources
+        section_hint = ""
+
     interaction = client.interactions.create(
-        model=GEMINI_SUMMARY_MODEL,
+        model=GEMINI_REFERENCE_MODEL,
+        generation_config=REFERENCE_CONFIG,
         input=[
             {"type": "text", 
                 "text": f"""The following text is a collection of short entries from the {full_name} journal from {date}, your task
                             is to extract the title and author of each entry, there may not be an author so you can leave that
                             blank but you should always find a title or give one that makes sense. You should also include the section number
-                            for each source. For the titles and authors, make sure they follow the standard french capitalization, meaning only capitalize
+                            for each source.{section_hint} For the titles and authors, make sure they follow the standard french capitalization, meaning only capitalize
                             the first letter of a sentence. Ignore the Source:, that is below the Section.
                             
                             Here is the entry : {article_entry_text}"""}
@@ -135,18 +173,26 @@ def get_source_article(article_entry_text: str, date: str, source: str) -> Artic
         response_format={
             "type": "text",
             "mime_type": "application/json",
-            "schema": ArticleSources.model_json_schema()
+            "schema": ResponseModel.model_json_schema()
         },
     )
 
-    article_sources = ArticleSources.model_validate_json(interaction.output_text)
+    parsed = ResponseModel.model_validate_json(interaction.output_text)
 
-    return article_sources
+    if section_ids:
+        return ArticleSources(
+            sources={
+                sid: getattr(parsed.sources, f"section_{sid.replace('.', '_')}")
+                for sid in section_ids
+            }
+        )
+
+    return parsed
 
 def clean_article(article_text: str, year: int, date: str, source: str) -> str:
     assert source in SOURCES
     full_name = journal_metadata["journal"][source]["full_name"]
-    source_index = journal_metadata["journal"][source]["source_index"]
+    source_index = journal_metadata["journal"][source]["section_index"]
 
     client = TypeSafeClient(
         api_key=OPENROUTER_API_KEY,
@@ -162,6 +208,7 @@ def clean_article(article_text: str, year: int, date: str, source: str) -> str:
     cleaned_article = ""
     page_counter = 0
     source_counter = 0
+    expected_sections = []
     for i, split in enumerate(article_text.split("-----")):
         if "--- Page " in split:
             page_counter += 1
@@ -175,13 +222,18 @@ def clean_article(article_text: str, year: int, date: str, source: str) -> str:
 
         if response.answers['cleaned_article'].noul >= 0.5:
             source_counter += 1
+            section_id = f"{source_index}.{i + 1}"
+            expected_sections.append(section_id)
             cleaned_article +=\
-            f"\n\nSection {source_index}.{i + 1} : " +\
+            f"\n\nSection {section_id} : " +\
             f"\n\nSource : {f'wiki_source_{page_counter}_{i+1}_{source_counter}'}" +\
             split +\
             "-----"
-    
-    sources = get_source_article(cleaned_article, date, source)
+
+    if not expected_sections:
+        return cleaned_article
+
+    sources = get_source_article(cleaned_article, date, source, section_ids=expected_sections)
 
     regex_pattern = r"wiki_source_(\d+)_(\d+)_(\d+)"
     str_matches = re.findall(regex_pattern, cleaned_article)
@@ -189,7 +241,7 @@ def clean_article(article_text: str, year: int, date: str, source: str) -> str:
     for page_num, section_num, ref_num in str_matches:
         cleaned_article = cleaned_article.replace(
             f"wiki_source_{page_num}_{section_num}_{ref_num}", 
-            build_full_source(sources.sources[int(section_num)], int(page_num), int(ref_num), article_ark_id, date, source))
+            build_full_source(sources.sources[f'{source_index}.{int(section_num)}'], int(page_num), int(ref_num), article_ark_id, date, source))
 
     return cleaned_article
 
@@ -213,49 +265,52 @@ def clean_tdf_articles(year: int, overwrite: bool, source: str):
             with open(article_path, 'r', encoding='utf-8') as f:
                 article_text = f.read()
 
-            cleaned_text = clean_article(article_text, year, date, )
+            cleaned_text = clean_article(article_text, year, date, source)
 
             with open(clean_article_path, 'w', encoding='utf-8') as f:
                 f.write(cleaned_text)
 
-def clean_tdf_articles(year: int, overwrite: bool, sources: list[str]):
+def clean_tdf_journals(year: int, overwrite: bool, sources: dict[str, str]):
     assert set(sources).issubset(SOURCES)
 
     for source in sources:
         clean_tdf_articles(year, overwrite, source)
 
-def create_stage_summary(year: int, stage_num: int, article_text: str):
-    client = genai.Client(api_key=API_KEY)
-    
-    available_sections = sorted(
-        {int(section) for section in re.findall(r"(?m)^Section\s+(\d+)\s*:", article_text)}
-    )
-    available_sections_text = ", ".join(map(str, available_sections))
+def create_stage_summary_request(year: int, stage_num: int, article_texts: dict[str, str]) ->  list[types.InlinedRequest]:
+    available_sections = {}
+    articles_text = ""
+    for source in article_texts.keys:
+        article_text = article_texts[source]
+        available_sections[source] = sorted(
+            {int(section) for section in re.findall(r"(?m)^Section\s+(\d+\.\d+)\s*:", article_text)}
+        )
+        source_full_name = journal_metadata['journal'][source]['full_name']
+        articles_text += f"{source_full_name} : \n\n\n {re.sub(r"^Source\s*:.*(?:\r?\n)?", "", article_text, flags=re.MULTILINE)}"
+        articles_text += "\n\n=================\n"
 
 
-    cleaned_article_text = re.sub(r"^Source\s*:.*(?:\r?\n)?", "", article_text, flags=re.MULTILINE)
-
-    interaction = client.interactions.create(
-        model=GEMINI_SUMMARY_MODEL,
-        input=[{
-                "type": "text",
-                "text": f"""The following text contains multiple articles from the L'Équipe newspaper regarding the Tour de France (edition {year}, stage {stage_num}). Your task as a Wikipedia/encyclopedic editor is to write a detailed, strictly neutral, and factual narrative account of the race stage in html format.
+    prompt = f"""The following text contains multiple articles from the various french newspapers regarding the Tour de France (edition {year}, stage {stage_num}). Your task as a Wikipedia/encyclopedic editor is to write a detailed, strictly neutral, and factual narrative account of the race stage in html format.
 
                 Here is an example of a previously written summary of stage 1 of the 1952 Tour de France for structural guidance:
 
                 {description_example}
 
+                Make sure to only cite from available sections. There is no need to add more than 3 sources to a statement/sentence even if multiple articles/newspapers talk about it,
+                use only the top 2-3 relevant sources. Instead try and leverage what is different in each newspaper to get a truly complete picture of the stage.
+                
+                Here are the available section numbers for citations: 
+                
+                {str(available_sections)}
+
                 Here are the source articles for the {year} edition, stage {stage_num}:
+                +++++++++++++++++++++++
 
-                Make sure to only cite from available sections.
-                Here are the available section numbers for citations: {available_sections_text}
+                {articles_text}
 
-                {cleaned_article_text}
-
-                ---
+                +++++++++++++++++++++++
                 ### WRITING INSTRUCTIONS & STYLISTIC GUIDELINES
 
-                1. **Format**: Output valid HTML. Use "[n]" footnotes(with a space between the text and the "[n]") to cite specific source sections corresponding to the statements or paragraphs. Only cite section numbers from the available section numbers listed above; never infer or invent a section number.
+                1. **Format**: Output valid HTML. Use "[x.y]]" footnotes(with a space between the text and the "[n]") to cite specific source sections corresponding to the statements or paragraphs. Only cite section numbers from the available section numbers listed above; never infer or invent a section number.
                 2. **Tone**: Strictly encyclopedic, neutral, and sober (Wikipedia style). Avoid journalistic sensationalism, sports metaphors, or literary prose.
                 3. **Prohibited Vocabulary & Idioms**:
                 - DO NOT use journalistic idioms (e.g., replace "reprend ses droits" with "reprend après X années d'interruption").
@@ -270,35 +325,91 @@ def create_stage_summary(year: int, stage_num: int, article_text: str):
                 - Minimize subjective adverbs (e.g., "vivement", "progressivement", "définitivement"). Only include them if strictly necessary and supported directly by the source material.
 
                 Please write the detailed summary in French following these strict neutral encyclopedic constraints and make sure to format it for html.
-                """,
-            }
-        ]
+                """
+
+    return types.InlinedRequest(
+            contents=[prompt],
+            config=SUMMARY_CONFIG,
+            metadata={"year": year, "stage": stage_num}
+        )
+
+def request_batch_summary(requests: list[types.InlinedRequest], year: int) -> list[types.InlinedResponse]:
+    client = genai.Client(api_key=API_KEY)
+
+    batch_job = client.batches.create(
+        model=GEMINI_SUMMARY_MODEL,
+        src=requests,
+        config={"display_name": f"{str(year)}-TDF-summary-batch"}
     )
-    return interaction.output_text
 
-def create_stage_summaries_for_year(year: int, overwrite: bool):
-    #TODO: get all articles and make sure sources have a sortof prefix [1.1]
+    print(f"Batch job created: {batch_job.name} (State: {batch_job.state})")
 
-    for filename in tqdm.tqdm(os.listdir(article_dir), desc=f"Creating stage summaries for {year}"):
-        if filename.endswith(".txt"):
-            stage_num = int(filename.split("_")[-1].split(".")[0])
-            article_path = os.path.join(article_dir, filename)
+    # 4. Poll until completed
+    while batch_job.state not in (
+        types.JobState.JOB_STATE_SUCCEEDED,
+        types.JobState.JOB_STATE_FAILED,
+        types.JobState.JOB_STATE_CANCELLED,
+    ):
+        print(f"Current state: {batch_job.state}... waiting 60s")
+        time_sleep.sleep(60)
+        batch_job = client.batches.get(name=batch_job.name)
 
-            detailed_description_path = os.path.join(detailed_description_dir, f"stage_{stage_num}.html")
+    if batch_job.state == types.JobState.JOB_STATE_SUCCEEDED:
+        return batch_job.dest.inlined_responses
 
-            if not overwrite and os.path.exists(detailed_description_path):
-                continue
+    else:
+        raise(f"Job failed with error: {batch_job.error}")
 
-            with open(article_path, 'r', encoding='utf-8') as f:
-                article_text = f.read()
+def process_batch_requests(responses: list[types.InlinedResponse], year: int):
+    for item in responses:
+        stage = item.metadata.get("stage_num")
+        assert (1 <= stage <= 21) ("Stage not between 1 and 21")
 
-            detailed_description = create_stage_summary(year, stage_num, article_text)
+        try:
+            stage_summary = item.response.text
+        except Exception:
+            print(f"Could not parse TDF {str(year)}, stage {str(stage)}")
+            print(item)
 
-            with open(detailed_description_path, 'w', encoding='utf-8') as f:
-                f.write(detailed_description)
+        detailed_description_path = os.path.join(detailed_description_paths.format(year=year), f"stage_{stage}.html")
+
+        with open(detailed_description_path, 'w', encoding='utf-8') as f:
+            f.write(stage_summary)
+
+def get_all_articles(year: int, stage: int, sources: list[str]) -> dict[str, str]:
+    articles = {}
+    for source in sources:
+        article_path = f"{article_paths.format(journal=source, year=year)}/stage_{stage}.txt"
+        if not os.path.exists(article_path):
+            article_path = f"{article_paths.format(journal=source, year=year)}/stage_{stage+1}.txt"
+            if not os.path.exists(article_path):
+                return
+
+        with open(f"{article_paths.format(journal=source, year=year)}/stage_{stage}.txt", "r", encoding="utf-8") as f:
+            articles[source] = f.read()
+
+def create_stage_summaries_for_year(year: int, overwrite: bool, sources: list[str], stages: int = 21, test: bool=False):
+    assert set(sources).issubset(SOURCES)
+    if test:
+        stages = 2
+
+    summary_requests = []
+    for stage in tqdm.tqdm(range(1,stages+1), desc=f"Creating stage summaries for {year}"):
+        article_texts = get_all_articles(year, stage, sources)
+
+        detailed_description_path = os.path.join(detailed_description_paths.format(year=year), f"stage_{stage}.html")
+
+        if not overwrite and os.path.exists(detailed_description_path):
+            continue
+
+        summary_requests.append(create_stage_summary_request(year, stage, article_texts))
+
+    summary_responses = request_batch_summary(summary_requests, year)
+    
+    process_batch_requests(summary_responses, year)
 
 def build_source_dictionnary(article_text: str) -> dict[str, str]:
-    pattern = r"Section\s+(\d+)[\s\S]*?(<ref[^>]*>([\s\S]*?)</ref>)"
+    pattern = r"Section\s+(\d+\.\d+)[\s\S]*?(<ref[^>]*>([\s\S]*?)</ref>)"
 
     return {
         match.group(1).strip(): match.group(2)
@@ -315,18 +426,23 @@ def reformat_sources(article_sources: dict[str, str], already_source: dict[str, 
             formatted_sources.append(already_source[section])
             continue
 
-        full_source = article_sources[section]
+        ref_num = len(already_source) + 1
+        full_source = re.sub(
+            r'<ref\s+name="[^"]*">',
+            f'<ref name=":{ref_num}">',
+            article_sources[section],
+            count=1,
+        )
         formatted_sources.append(full_source)
-        # convert <ref name=":1"> to <ref name=":1" />
-        already_source[section] = full_source.split('{')[0][:-2] + " />"
+        already_source[section] = f'<ref name=":{ref_num}" />'
 
     return "{{,}}".join(formatted_sources)
 
 def source_description(description: str, article_sources: dict[str, str]) -> str:
     already_source = {}
 
-    pattern = r" \[(\d+(?:\s*,\s*\d+)*)\]"
-    
+    pattern = r" \[(\d+(?:\.\d+)?(?:\s*,\s*\d+(?:\.\d+)?)*)\]"
+
     callback = partial(reformat_sources, article_sources, already_source)
     return re.sub(pattern, callback, description)
 
